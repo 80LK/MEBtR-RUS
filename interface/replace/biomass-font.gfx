@@ -1,0 +1,15 @@
+bitmapfonts = {
+	bitmapfont = {
+		name = "korataki_30"
+		path = "gfx/fonts/biomass2_bold_32"
+		color = -1
+		cursor_offset = {
+			-4
+			-3
+		}
+		selection_offset = {
+			0
+			1
+		}
+	}
+}

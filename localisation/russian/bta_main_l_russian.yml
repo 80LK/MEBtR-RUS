@@ -1,0 +1,21 @@
+﻿l_russian:
+  V_ASARI_ILLIUM: "Корпорации Иллиума"
+  V_QUARIAN_CONCLAVE: "Quarian Conclave"
+  V_ILLUMINATED_PRIMACY: "Illuminated Primacy"
+  V_SYSTEM_ALLIANCE: "Альянс Систем"
+  V_SALARIAN_UNION: "Salarian Union"
+  V_ARALAKH_KAHMAT: "Aralakh Kahmat"
+  V_TURIAN_HIERARCHY: "Turian Hierarchy"
+  V_ASARI_REPUBLICS: "Asari Republics"
+  V_VORCHA_CLANDOM: "Vorcha Clandom"
+  V_VOL_PROTECTORATE: "Vol Protectorate"
+
+  mission_btr_specimen_collection: "Aggressive Observation"
+  mission_btr_specimen_collection_desc: "The natives are aggressively studied and live specimens are frequently collected to learn as much as possible about their biology and culture.\n\n§EThis mission can have unintended consequences.§!\n\n"
+
+  BTR_FRONT_START: "Новая игра"
+  BTR_FRONT_LOAD: "Загрузить"
+  BTR_FRONT_CREDITS: "Mod Credits"
+  BTR_FRONT_SETTINGS: "Настройки"
+  BTR_FRONT_QUIT: "Выйти"
+  BTR_FRONT_MULTIPLAYER: "Мультиплеер"
