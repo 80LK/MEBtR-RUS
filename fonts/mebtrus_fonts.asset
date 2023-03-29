@@ -1,0 +1,15 @@
+font = {
+	name = "Biomass2_Bold"
+	fontstyle = {
+		style = regular
+		file = "gfx/fonts/Biomass2-Bold.ttf"
+	}
+}
+
+font = {
+	name = "Biomass2"
+	fontstyle = {
+		style = regular
+		file = "gfx/fonts/Biomass2-Light.ttf"
+	}
+}

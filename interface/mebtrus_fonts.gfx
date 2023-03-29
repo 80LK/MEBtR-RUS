@@ -1,11 +1,18 @@
 bitmapfonts = {
 	bitmapfont_override = {
 		name = "korataki_30"
-        
-		ttf_font = "Mass_Effect"
-        ttf_size = "30"
-
-		vertical_offset  = "0"
-		languages = { "l_russian" }
-	 }
+		ttf_font = "Biomass2_Bold"
+		ttf_size = "30"
+		languages = {
+			"l_russian"
+		}
+	}
+	bitmapfont_override = {
+		name = "korataki_24"
+		ttf_font = "Biomass2"
+		ttf_size = "20"
+		languages = {
+			"l_russian"
+		}
+	}
 }

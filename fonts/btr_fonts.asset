@@ -1,7 +1,0 @@
-font = {
-	name = "Mass_Effect"
-	fontstyle = {
-		style = regular
-		file = "gfx/fonts/Biomass2-Bold.ttf"
-	}
-}
