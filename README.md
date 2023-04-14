@@ -13,7 +13,7 @@ This mod translates [Mass Effect: Beyond the Relays](https://steamcommunity.com/
 ### ME:BtR
 - [x] bta_main_l_russian.yml
 - [x] btr_map_scenarios_l_russian.yml
-- [ ] btr_prescripted_l_russian.yml
+- [x] btr_prescripted_l_russian.yml
 - [ ] bta_empire_events_l_russian.yml
 - [ ] bta_initializers_l_russian.yml
 - [ ] btr_branch_buildings_l_russian.yml
