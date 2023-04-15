@@ -1,0 +1,374 @@
+﻿l_russian:
+ NAME_Rigil_Kentaurus:0 "Ригил Кентавр" #NT!
+ NAME_Alpha_Centauri_B:0 "Альфа Центавра Б" #NT!
+ NAME_Proxima_Centauri:0 "Проксима Центавра" #NT!
+ NAME_Proxima_Centauri_b:0 "Проксима Центавра б" #NT!
+ NAME_Proxima_Centauri_I:0 "Проксима Центавра I" #NT!
+ NAME_Proxima_Centauri_II:0 "Проксима Центавра II" #NT!
+ NAME_Procyon_B:0 "Процион Б" #NT!
+ NAME_Sirius_B:0 "Сириус Б" #NT!
+ NAME_Betelgeuse:0 "Бетельгейзе" #NT!
+ NAME_UV_Ceti:0 "УФ Кита" #NT!
+ NAME_BL_Ceti:0 "БЛ Кита" #NT!
+ NAME_Epsilon_Eridani:0 "Эпсилон Эридана" #NT!
+ NAME_Ran:0 "Ран" #NT!
+ NAME_AEgir:0 "Аегир" #NT!
+ NAME_AEgir_a:0 "Аегир а" #NT!
+ NAME_AEgir_b:0 "Аегир б" #NT!
+ NAME_AEgir_c:0 "AEgir c" #NT!
+ NAME_EZ_Aquarii:0 "ЭЗ Водолеи" #NT!
+ NAME_EZ_Aquarii_A:0 "EZ Водолей А" #NT!
+ NAME_EZ_Aquarii_B:0 "EZ Водолей B" #NT!
+ NAME_EZ_Aquarii_C:0 "EZ Водолей C" #NT!
+ NAME_61_Cygni:0 "61 Лебедя" #NT!
+ NAME_61_Cygni_A:0 "61 Лебедя А" #NT!
+ NAME_61_Cygni_B:0 "61 Лебедя Б" #NT!
+ NAME_61_Cygni_B_I:0 "61 Лебедь B I" #NT!
+ NAME_61_Cygni_B_II:0 "61 Лебедь B II" #NT!
+ NAME_61_Cygni_B_III:0 "61 Лебедь B III" #NT!
+ NAME_61_Cygni_B_IIIa:0 "61 Лебедя B IIIa" #NT!
+ NAME_Epsilon_Indi:0 "Эпсилон Инди" #NT!
+ NAME_Epsilon_Indi_A:0 "Эпсилон Инди А" #NT!
+ NAME_Epsilon_Indi_B:0 "Эпсилон Инди Б" #NT!
+ NAME_Epsilon_Indi_B_I:0 "Эпсилон Инди Ба" #NT!
+ NAME_Epsilon_Indi_C:0 "Эпсилон Инди С" #NT!
+ NAME_Tau_Ceti:0 "Тау Кита" #NT!
+ NAME_van_Maanens_Star:0 "Звезда Ван Манена" #NT!
+ NAME_40_Eridani:0 "40 Эридана" #NT!
+ NAME_Keid:0 "Кейд" #NT!
+ NAME_40_Eridani_B:0 "40 Эридана Б" #NT!
+ NAME_40_Eridani_B_I:0 "40 Эридана Б И" #NT!
+ NAME_40_Eridani_B_II:0 "40 Эридана Б II" #NT!
+ NAME_40_Eridani_C:0 "40 Эридана С" #NT!
+ NAME_40_Eridani_C_I:0 "40 Эридана C I" #NT!
+ NAME_40_Eridani_C_II:0 "40 Эридана C II" #NT!
+ NAME_40_Eridani_C_III:0 "40 Эридана C III" #NT!
+ NAME_40_Eridani_C_IV:0 "40 Эридана C IV" #NT!
+ NAME_Altair:0 "Альтаир" #NT!
+ NAME_Sigma_Draconis:0 "Сигма Драконис" #NT!
+ NAME_Eta_Cassiopeiae:0 "Эта Кассиопеи" #NT!
+ NAME_Eta_Cassiopeiae_A:0 "Эта Кассиопея А" #NT!
+ NAME_Eta_Cassiopeiae_B:0 "Эта Кассиопея B" #NT!
+ NAME_Delta_Pavonis:0 "Дельта Павонис" #NT!
+ NAME_Xi_Bootis:0 "Си Бутис" #NT!
+ NAME_Xi_Bootis_A:0 "Си Бутис А" #NT!
+ NAME_Xi_Bootis_B:0 "Си Бутис Б" #NT!
+ NAME_Xi_Bootis_B_I:0 "Си Бутис Б.И." #NT!
+ NAME_Xi_Bootis_B_II:0 "Си Бутис Б II" #NT!
+ NAME_Xi_Bootis_B_III:0 "Си Бутис Б III" #NT!
+ NAME_Beta_Hydri:0 "Бета Гидри" #NT!
+ NAME_Fomalhaut:0 "Фомальгаут" #NT!
+ NAME_Dagon:0 "Дагон" #NT!
+ NAME_Vega:0 "Вега" #NT!
+ NAME_Chi_Draconis:0 "Чи Драконис" #NT!
+ NAME_Chi_Draconis_A:0 "Чи Драконис А" #NT!
+ NAME_Chi_Draconis_B:0 "Чи Драконис Б" #NT!
+ NAME_Mu_Herculis:0 "Му Геркулес" #NT!
+ NAME_Mu_Herculis_A:0 "Му Геркулис А" #NT!
+ NAME_Mu_Herculis_B:0 "Му Геркулис Б" #NT!
+ NAME_Mu_Herculis_B_I:0 "Му Геркулес Б И" #NT!
+ NAME_Mu_Herculis_B_II:0 "Мю Геркулис Б II" #NT!
+ NAME_Mu_Herculis_B_IIa:0 "Мю Геркулис B IIa" #NT!
+ NAME_Mu_Herculis_B_III:0 "Мю Геркулес Б III" #NT!
+ NAME_Mu_Herculis_B_IV:0 "Мю Геркулис Б IV" #NT!
+ NAME_Mu_Herculis_C:0 "Му Геркулис С" #NT!
+ NAME_Mu_Herculis_C_I:0 "Му Геркулес C I" #NT!
+ NAME_Mu_Herculis_C_II:0 "Мю Геркулес C II" #NT!
+ NAME_61_Virginis:0 "61 девственница" #NT!
+ NAME_Zeta_Tucanae:0 "Зета Тукана" #NT!
+ NAME_Zeta_Reticuli:0 "Зета Ретикулы" #NT!
+ NAME_Arcturus:0 "Арктур" #NT!
+ NAME_Lambda_Serpentis:0 "Лямбда Серпентис" #NT!
+ NAME_Beta_Comae_Berenices:0 "Бета Кома Береники" #NT!
+ NAME_Rana:0 "Рана" #NT!
+ NAME_Pollux:0 "Поллукс" #NT!
+ NAME_Muphrid:0 "Муфрид" #NT!
+ NAME_Muphrid_A:0 "Муфрид А" #NT!
+ NAME_Muphrid_B:0 "Муфрид Б" #NT!
+ NAME_Porrima:0 "Поррима" #NT!
+ NAME_Porrima_A:0 "Поррима А" #NT!
+ NAME_Porrima_B:0 "Поррима Б" #NT!
+ NAME_Capella:0 "Капелла" #NT!
+ NAME_Capella_Aa:0 "Капелла Аа" #NT!
+ NAME_Capella_Ab:0 "Капелла Аб" #NT!
+ NAME_Capella_H:0 "Капелла Х" #NT!
+ NAME_Capella_H_I:0 "Капелла HI" #NT!
+ NAME_Capella_H_II:0 "Капелла H II" #NT!
+ NAME_Capella_L:0 "Капелла Л" #NT!
+ NAME_Alshain:0 "Альшайн" #NT!
+ NAME_Alshain_A:0 "Алшайн А" #NT!
+ NAME_Alshain_B:0 "Альшайн Б" #NT!
+ NAME_Alshain_C:0 "Альшайн С" #NT!
+ NAME_Errai:0 "Эррай" #NT!
+ NAME_Errai_A:0 "Эррай А" #NT!
+ NAME_Errai_B:0 "Эррай Б" #NT!
+ NAME_Alderamin:0 "Альдерамин" #NT!
+ NAME_Ras_Alhague:0 "Расалхаг" #NT!
+ NAME_Ras_Alhague_A:0 "Расалхаг А" #NT!
+ NAME_Ras_Alhague_B:0 "Расалхаг Б" #NT!
+ NAME_Castor:0 "Кастор" #NT!
+ NAME_Castor_Aa:0 "Кастор Аа" #NT!
+ NAME_Castor_Ab:0 "Кастор Аб" #NT!
+ NAME_Castor_Ba:0 "Кастор Ба" #NT!
+ NAME_Castor_Bb:0 "Кастор Бб" #NT!
+ NAME_Caph:0 "Кап" #NT!
+ NAME_Zosma:0 "Зосма" #NT!
+ NAME_Sheratan:0 "Шератан" #NT!
+ NAME_Wasat:0 "Был в" #NT!
+ NAME_Wasat_A:0 "Васат А" #NT!
+ NAME_Wasat_B:0 "Васат Б" #NT!
+ NAME_Wasat_B_I:0 "Васат Б И" #NT!
+ NAME_Wasat_B_II:0 "Васат Б II" #NT!
+ NAME_Diadem:0 "Диадема" #NT!
+ NAME_Diadem_A:0 "Диадема А" #NT!
+ NAME_Diadem_B:0 "Диадема Б" #NT!
+ NAME_Aldebaran:0 "Альдебаран" #NT!
+ NAME_Aldebaran_A:0 "Альдебаран А" #NT!
+ NAME_Aldebaran_B:0 "Альдебаран Б" #NT!
+ NAME_Aldebaran_B_I:0 "Альдебаран Б И" #NT!
+ NAME_Aldebaran_B_II:0 "Альдебаран Б II" #NT!
+ NAME_Aldebaran_B_III:0 "Альдебаран Б III" #NT!
+ NAME_Biham:0 "Бихам" #NT!
+ NAME_Tau_Cygni:0 "Тау Лебедя" #NT!
+ NAME_Tau_Cygni_A:0 "Тау Лебедя А" #NT!
+ NAME_Tau_Cygni_B:0 "Тау Лебедя B" #NT!
+ NAME_Alpha_Hydri:0 "Альфа Гидри" #NT!
+ NAME_Gemma:0 "Джемма" #NT!
+ NAME_Gemma_A:0 "Джемма А" #NT!
+ NAME_Gemma_B:0 "Джемма Б" #NT!
+ NAME_Regulus:0 "Регулус" #NT!
+ NAME_Mizar:0 "Мицар" #NT!
+ NAME_Mizar_A:0 "Мицар А" #NT!
+ NAME_Mizar_B:0 "Мицар Б" #NT!
+ NAME_Mizar_C:0 "Мицар С" #NT!
+ NAME_Alioth:0 "Алиот" #NT!
+ NAME_Algorab:0 "Алгораб" #NT!
+ NAME_Algorab_A:0 "Алгораб А" #NT!
+ NAME_Algorab_B:0 "Алгораб Б" #NT!
+ NAME_Algorab_B_I:0 "Алгораб Б И" #NT!
+ NAME_Algorab_B_II:0 "Алгораб Б II" #NT!
+ NAME_Ascella:0 "Аселла" #NT!
+ NAME_Sabik:0 "Сабик" #NT!
+ NAME_Sabik_A:0 "Сабик А" #NT!
+ NAME_Sabik_B:0 "Сабик Б" #NT!
+ NAME_Sabik_B_I:0 "Сабик Б И" #NT!
+ NAME_Cursa:0 "Курса" #NT!
+ NAME_Beta_Caeli:0 "Бета Цели" #NT!
+ NAME_Algol:0 "Алгол" #NT!
+ NAME_Algol_A:0 "Алгол А" #NT!
+ NAME_Algol_B:0 "Алгол Б" #NT!
+ NAME_Algol_C:0 "Алгол С" #NT!
+ NAME_Aldib:0 "Алдиб" #NT!
+ NAME_Kuma:0 "Кума" #NT!
+ NAME_Kuma_A:0 "Кума А" #NT!
+ NAME_Kuma_B:0 "Кума Б" #NT!
+ NAME_Rotanev:0 "Ротанев" #NT!
+ NAME_Rotanev_A:0 "Ротанев А" #NT!
+ NAME_Rotanev_B:0 "Ротанев Б" #NT!
+ NAME_Alkaid:0 "Алкаид" #NT!
+ NAME_Sceptrum:0 "Скипетр" #NT!
+ NAME_Nusakan:0 "Нусакан" #NT!
+ NAME_Nusakan_A:0 "Нусакан А" #NT!
+ NAME_Nusakan_B:0 "Нусакан Б" #NT!
+ NAME_Acamar:0 "Акамар" #NT!
+ NAME_Acamar_A:0 "Акамар А" #NT!
+ NAME_Acamar_B:0 "Акамар Б" #NT!
+ NAME_Azha:0 "Ажа" #NT!
+ NAME_Beid:0 "Бейд" #NT!
+ NAME_Beid_A:0 "Бейд А" #NT!
+ NAME_Beid_B:0 "Бейд Б" #NT!
+ NAME_Beid_C:0 "Бейд С" #NT!
+ NAME_Beid_C_I:0 "Бейд С I" #NT!
+ NAME_Beid_C_II:0 "Бейд С II" #NT!
+ NAME_Beid_C_IIa:0 "Бейд C IIa" #NT!
+ NAME_Kochab:0 "Кочаб" #NT!
+ NAME_Markab:0 "Маркаб" #NT!
+ NAME_Subra:0 "Субра" #NT!
+ NAME_Subra_A:0 "Субра А" #NT!
+ NAME_Subra_B:0 "Субра Б" #NT!
+ NAME_Marfark:0 "Марфарк" #NT!
+ NAME_Achernar:0 "Ахернар" #NT!
+ NAME_Nashira:0 "Нашира" #NT!
+ NAME_Kraz:0 "Краз" #NT!
+ NAME_Zaurak:0 "Заурак" #NT!
+ NAME_Sinistra:0 "Синистра" #NT!
+ NAME_Hyadum:0 "Гиадум" #NT!
+ NAME_Nihal:0 "Нихал" #NT!
+ NAME_Skat:0 "Скат" #NT!
+ NAME_Botein:0 "Ботеин" #NT!
+ NAME_Yildun:0 "Йилдун" #NT!
+ NAME_Acubens:0 "Акубенс" #NT!
+ NAME_Alphard:0 "Альфард" #NT!
+ NAME_Muscida:0 "Мусцида" #NT!
+ NAME_Rukbat:0 "Рукбат" #NT!
+ NAME_Gatria:0 "Гатрия" #NT!
+ NAME_Mirach:0 "Мирах" #NT!
+ NAME_Izar:0 "Изар" #NT!
+ NAME_Izar_A:0 "Изар А" #NT!
+ NAME_Izar_B:0 "Изар Б" #NT!
+ NAME_Nekkar:0 "Неккар" #NT!
+ NAME_Nunki:0 "Нунки" #NT!
+ NAME_Kajam:0 "Каджам" #NT!
+ NAME_Menkar:0 "Менкар" #NT!
+ NAME_Bellatrix:0 "Беллатрикс" #NT!
+ NAME_Spica:0 "Спика" #NT!
+ NAME_Spica_A:0 "Спика А" #NT!
+ NAME_Spica_B:0 "Спика Б" #NT!
+ NAME_Spica_B_I:0 "Спика Б И" #NT!
+ NAME_Spica_B_II:0 "Спика Б II" #NT!
+ NAME_Phact:0 "факт" #NT!
+ NAME_Brachium:0 "Плечо" #NT!
+ NAME_Mira:0 "Мира" #NT!
+ NAME_Mira_A:0 "Мира А" #NT!
+ NAME_Mira_B:0 "Mira B" #NT!
+ NAME_Mira_B_I:0 "Мира Б И" #NT!
+ NAME_Mira_B_II:0 "Mira B II" #NT!
+ NAME_Sargas:0 "Саргас" #NT!
+ NAME_Thuban:0 "Тубан" #NT!
+ NAME_Canopus:0 "Канопус" #NT!
+ NAME_Acrux:0 "Акрукс" #NT!
+ NAME_Acrux_A:0 "Акрукс А" #NT!
+ NAME_Acrux_B:0 "Акрукс Б" #NT!
+ NAME_Gianfar:0 "Джанфар" #NT!
+ NAME_Almach:0 "Альмах" #NT!
+ NAME_Almach_A:0 "Алмах А" #NT!
+ NAME_Almach_Ba:0 "Алмах Ба" #NT!
+ NAME_Almach_Bb:0 "Альмах Bb" #NT!
+ NAME_Almach_C:0 "Алмах С" #NT!
+ NAME_Minchir:0 "Минчир" #NT!
+ NAME_Merope:0 "Меропа" #NT!
+ NAME_Furud:0 "Фуруд" #NT!
+ NAME_Furud_A:0 "Фуруд А" #NT!
+ NAME_Furud_B:0 "Фуруд Б" #NT!
+ NAME_Rastaban:0 "Растабан" #NT!
+ NAME_Pleione:0 "Плейона" #NT!
+ NAME_Tarazed:0 "Таразед" #NT!
+ NAME_Maia:0 "Майя" #NT!
+ NAME_Maia_A:0 "Майя А" #NT!
+ NAME_Maia_B:0 "Майя Б" #NT!
+ NAME_Maia_B_I:0 "Майя Б.И." #NT!
+ NAME_Polaris:0 "Полярис" #NT!
+ NAME_Polaris_Aa:0 "Полярис Аа" #NT!
+ NAME_Polaris_Ab:0 "Поларис Аб" #NT!
+ NAME_Polaris_B:0 "Полярис Б" #NT!
+ NAME_Polaris_B_I:0 "Полярис Б Я" #NT!
+ NAME_Polaris_B_II:0 "Полярис Б II" #NT!
+ NAME_Polaris_B_IIa:0 "Полярис Б IIа" #NT!
+ NAME_Polaris_B_III:0 "Полярис Б III" #NT!
+ NAME_Polaris_B_IIIa:0 "Полярис Б IIIа" #NT!
+ NAME_Polaris_B_IV:0 "Полярис Б IV" #NT!
+ NAME_Atlas:0 "Атлас" #NT!
+ NAME_Atlas_Aa:0 "Атлас Аа" #NT!
+ NAME_Atlas_Ab:0 "Атлас Аб" #NT!
+ NAME_Atlas_B:0 "Атлас Б" #NT!
+ NAME_Atlas_B_I:0 "Атлас Б я" #NT!
+ NAME_Jabbah:0 "Джабба" #NT!
+ NAME_Jabbah_Aa:0 "Джабба Аа" #NT!
+ NAME_Jabbah_Ab:0 "Джабба Аб" #NT!
+ NAME_Jabbah_Ac:0 "Джабба Ак" #NT!
+ NAME_Jabbah_B:0 "Джабба Б." #NT!
+ NAME_Jabbah_C:0 "Джабба С" #NT!
+ NAME_Jabbah_Da:0 "Джабба Да" #NT!
+ NAME_Jabbah_Db:0 "Джабба Дб" #NT!
+ NAME_Asterope:0 "Астеропа" #NT!
+ NAME_Sterope:0 "Стеропа" #NT!
+ NAME_Girtab:0 "Гиртаб" #NT!
+ NAME_Girtab_A:0 "Гиртаб А" #NT!
+ NAME_Girtab_B:0 "Гиртаб Б" #NT!
+ NAME_Pherkad:0 "Феркад" #NT!
+ NAME_Mirzam:0 "Мирзам" #NT!
+ NAME_Antares:0 "Антарес" #NT!
+ NAME_Electra:0 "Электра" #NT!
+ NAME_Electra_A:0 "Электра А" #NT!
+ NAME_Electra_B:0 "Электра Б" #NT!
+ NAME_Saiph:0 "Сайф" #NT!
+ NAME_Mintaka:0 "Минтака" #NT!
+ NAME_Mintaka_Aa1:0 "Минтака Аа1" #NT!
+ NAME_Mintaka_Aa2:0 "Минтака Аа2" #NT!
+ NAME_Mintaka_Ab:0 "Минтака АБ" #NT!
+ NAME_Mintaka_Ab_I:0 "Минтака АБ I" #NT!
+ NAME_Mintaka_Ab_II:0 "Минтака АБ II" #NT!
+ NAME_Shaula:0 "Шаула" #NT!
+ NAME_Shaula_A:0 "Шаула А" #NT!
+ NAME_Shaula_B:0 "Шаула Б" #NT!
+ NAME_Shaula_C:0 "Шаула С" #NT!
+ NAME_Rigel:0 "Ригель" #NT!
+ NAME_Rigel_A:0 "Ригель А" #NT!
+ NAME_Rigel_B:0 "Ригель Б" #NT!
+ NAME_Rigel_B_I:0 "Ригель Б И" #NT!
+ NAME_Rigel_B_II:0 "Ригель Б II" #NT!
+ NAME_Rigel_B_III:0 "Ригель Б III" #NT!
+ NAME_Rigel_C:0 "Ригель С" #NT!
+ NAME_Rigel_C_I:0 "Ригель С I" #NT!
+ NAME_Rigel_C_II:0 "Ригель С II" #NT!
+ NAME_Haedus:0 "Гедус" #NT!
+ NAME_Haedus_A:0 "Хэдус А" #NT!
+ NAME_Haedus_B:0 "Хэдус Б" #NT!
+ NAME_Naos:0 "Наос" #NT!
+ NAME_Meissa:0 "Мейсса" #NT!
+ NAME_Meissa_A:0 "Мейсса А" #NT!
+ NAME_Meissa_B:0 "Мейсса Б" #NT!
+ NAME_Meissa_B_I:0 "Мейсса Б И" #NT!
+ NAME_Meissa_B_Ia:0 "Мейсса Б Иа" #NT!
+ NAME_Wezen:0 "Везен" #NT!
+ NAME_Aludra:0 "Алудра" #NT!
+ NAME_Haldus:0 "Халдус" #NT!
+ NAME_Haldus_A:0 "Халдус А" #NT!
+ NAME_Haldus_B:0 "Халдус Б" #NT!
+ NAME_Thabit:0 "Табит" #NT!
+ NAME_Regor:0 "Регор" #NT!
+ NAME_Regor_Aa:0 "Регор Аа" #NT!
+ NAME_Regor_Ab:0 "Регор Аб" #NT!
+ NAME_Krito:0 "Крито" #NT!
+ NAME_Dakkan:0 "Даккан" #NT!
+ NAME_ST-1214:0 "СТ-1214" #NT!
+ NAME_RT-2017:0 "РТ-2017" #NT!
+ NAME_GR-1047:0 "ГР-1047" #NT!
+ NAME_Morfos:0 "Морфос" #NT!
+ NAME_Cellan:0 "Целлан" #NT!
+ NAME_Woulck:0 "Вулк" #NT!
+ NAME_Velorum_Prime:0 "Велорум Прайм" #NT!
+ NAME_New_Joor:0 "Джор" #NT!
+ NAME_Vizakh:0 "Визах" #NT!
+ NAME_Ort:0 "Орт" #NT!
+ NAME_Saakan:0 "Саакан" #NT!
+ NAME_Merkot:0 "Меркот" #NT!
+ NAME_Ulm:0 "Ульм" #NT!
+ NAME_Chor:0 "Чор" #NT!
+ NAME_Belly:0 "Живот" #NT!
+ NAME_GK_Persei:0 "ГК Персей" #NT!
+ NAME_GK_Persei_A:0 "ГК Персей А" #NT!
+ NAME_GK_Persei_B:0 "ГК Персей Б" #NT!
+ NAME_Teos:0 "Теос" #NT!
+ NAME_Rum:0 "Ром" #NT!
+ NAME_Atol:0 "Атол" #NT!
+ NAME_Pier:0 "Пирс" #NT!
+ NAME_Devils_Reef:0 "Риф Дьявола" #NT!
+ NAME_Fools_Anchor:0 "Якорь дурака" #NT!
+ NAME_Kraken:0 "Кракен" #NT!
+ NAME_Gray_Flynn:0 "Грей Флинн" #NT!
+ NAME_Black_Noise:0 "Черный шум" #NT!
+ NAME_Leviathan:0 "Левиафан" #NT!
+ NAME_Seth_Well:0 "Сет Велл" #NT!
+ NAME_Sea_Kite:0 "Морской змей" #NT!
+ NAME_Tool:0 "Инструмент" #NT!
+ NAME_Verdict:0 "Вердикт" #NT!
+ NAME_Refuge_Chuck:0 "Убежище Чак" #NT!
+ NAME_Tinat:0 "Тинат" #NT!
+ NAME_Eta_Carinae:0 "Эта Киля" #NT!
+ NAME_First_Doom:0 "Первая Гибель" #NT!
+ NAME_Second_Doom:0 "Вторая Гибель" #NT!
+ NAME_Incinerate_Wasteland:0 "Испепелить Пустошь" #NT!
+ NAME_Fall_of_Tellon:0 "Падение Теллона" #NT!
+ NAME_Custodian:0 "Хранитель" #NT!
+ NAME_New_Tellon:0 "Новый Теллон" #NT!
+ NAME_Lekor:0 "Лекор" #NT!
+ NAME_Niton:0 "Нитон" #NT!
+ NAME_Aylac:0 "Айлак" #NT!
+ NAME_Oshan:0 "Ошан" #NT!
+ NAME_Bloody_Ulak:0 "Кровавый Улак" #NT!
+ NAME_Krill:0 "Криль" #NT!
+ NAME_Shankai:0 "Shankai" #NT!
+ NAME_Veloth:0 "Велот" #NT!
+ NAME_5_Eros:0 "5 Эрос" #for The Belt mod #NT!
+

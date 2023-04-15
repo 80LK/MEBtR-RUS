@@ -1,0 +1,579 @@
+﻿l_russian:
+ name_list_btr_quarian:0 "кварианец" #NT!
+ QUARIAN_SHIP_Shellen:0 "Шеллен" #NT!
+ QUARIAN_SHIP_Selani:0 "Селани" #NT!
+ QUARIAN_SHIP_Rayya:0 "Райя" #NT!
+ QUARIAN_SHIP_Qwib:0 "Квиб" #NT!
+ QUARIAN_SHIP_Ostral:0 "Острал" #NT!
+ QUARIAN_SHIP_Niqunus:0 "Никнус" #NT!
+ QUARIAN_SHIP_Neema:0 "Нима" #NT!
+ QUARIAN_SHIP_Nalotir:0 "Налотир" #NT!
+ QUARIAN_SHIP_Moreh:0 "Море" #NT!
+ QUARIAN_SHIP_Honorata:0 "Онората" #NT!
+ QUARIAN_SHIP_Helash:0 "Хелаш" #NT!
+ QUARIAN_SHIP_Alarei:0 "Аларей" #NT!
+ QUARIAN_SHIP_Mivo:0 "Миво" #NT!
+ QUARIAN_SHIP_Sijol:0 "Сиджол" #NT!
+ QUARIAN_SHIP_Segro:0 "Сегро" #NT!
+ QUARIAN_SHIP_Girah:0 "Гира" #NT!
+ QUARIAN_SHIP_Xaanna:0 "Ксанна" #NT!
+ QUARIAN_SHIP_Haanbay:0 "Хаанбай" #NT!
+ QUARIAN_SHIP_Xedarum:0 "Кседарум" #NT!
+ QUARIAN_SHIP_Heejol:0 "Хиджол" #NT!
+ QUARIAN_SHIP_Jodoruk:0 "Йодорук" #NT!
+ QUARIAN_SHIP_Gajol:0 "Гаджол" #NT!
+ QUARIAN_SHIP_Yezay:0 "Езай" #NT!
+ QUARIAN_SHIP_Tuwib:0 "Тувиб" #NT!
+ QUARIAN_SHIP_Ulnay:0 "Ульнай" #NT!
+ QUARIAN_SHIP_Tonbay:0 "Тонбей" #NT!
+ QUARIAN_SHIP_Tesleya:0 "Теслея" #NT!
+ QUARIAN_SHIP_Coraka:0 "Корака" #NT!
+ QUARIAN_SHIP_Ridir:0 "Ридир" #NT!
+ QUARIAN_SHIP_Yowal:0 "Йоваль" #NT!
+ QUARIAN_SHIP_Xomorn:0 "Ксоморн" #NT!
+ QUARIAN_SHIP_Gaavo:0 "Гааво" #NT!
+ QUARIAN_SHIP_Waawal:0 "Ваавал" #NT!
+ QUARIAN_SHIP_Vuzorn:0 "Вузорн" #NT!
+ QUARIAN_SHIP_Xaelazi:0 "Шаэлази" #NT!
+ QUARIAN_SHIP_Zoram:0 "Зорам" #NT!
+ QUARIAN_SHIP_Nodolor:0 "Нодолор" #NT!
+ QUARIAN_SHIP_Seraka:0 "Серака" #NT!
+ QUARIAN_SHIP_Gaetalir:0 "Гаеталир" #NT!
+ QUARIAN_SHIP_Higro:0 "Хигро" #NT!
+ QUARIAN_SHIP_Vaafis:0 "Ваафис" #NT!
+ QUARIAN_SHIP_Jaafirn:0 "Джафирн" #NT!
+ QUARIAN_SHIP_Yazay:0 "Язай" #NT!
+ QUARIAN_SHIP_Taalari:0 "Таалари" #NT!
+ QUARIAN_SHIP_Taakor:0 "Таакор" #NT!
+ QUARIAN_SHIP_Feworp:0 "Феворп" #NT!
+ QUARIAN_SHIP_Ceeram:0 "Сирам" #NT!
+ QUARIAN_SHIP_Suji:0 "Суджи" #NT!
+ QUARIAN_SHIP_Tidin:0 "Тайдин" #NT!
+ QUARIAN_SHIP_Zaama:0 "Заама" #NT!
+ QUARIAN_SHIP_Vedor:0 "Ведор" #NT!
+ QUARIAN_SHIP_Fonna:0 "Фонна" #NT!
+ QUARIAN_SHIP_Hawib:0 "Хавиб" #NT!
+ QUARIAN_SHIP_Shaalarm:0 "Шааларм" #NT!
+ QUARIAN_SHIP_Suwib:0 "Сувиб" #NT!
+ QUARIAN_SHIP_Shizay:0 "Shizay" #NT!
+ QUARIAN_SHIP_Sefirn:0 "Сефирн" #NT!
+ QUARIAN_SHIP_Shaeron:0 "Шерон" #NT!
+ QUARIAN_SHIP_Foyya:0 "Фойя" #NT!
+ QUARIAN_SHIP_Giron:0 "Хирон" #NT!
+ QUARIAN_SHIP_Veedoruk:0 "Ведорук" #NT!
+ QUARIAN_SHIP_Meeyya:0 "Мейя" #NT!
+ QUARIAN_SHIP_Teehala:0 "Тихала" #NT!
+ QUARIAN_SHIP_Cowa:0 "Кова" #NT!
+ QUARIAN_SHIP_Haavo:0 "Хааво" #NT!
+ QUARIAN_SHIP_Sichol:0 "Сихол" #NT!
+ QUARIAN_SHIP_Jaaraka:0 "Джаарака" #NT!
+ QUARIAN_SHIP_Shonna:0 "Шонна" #NT!
+ QUARIAN_SHIP_Yaaraka:0 "Яарака" #NT!
+ QUARIAN_SHIP_Cunil:0 "Кунил" #NT!
+ QUARIAN_SHIP_Haewal:0 "Хэваль" #NT!
+ QUARIAN_SHIP_Sogro:0 "Согро" #NT!
+ QUARIAN_SHIP_Reenna:0 "Рена" #NT!
+ QUARIAN_SHIP_Fewib:0 "Февиб" #NT!
+ QUARIAN_SHIP_Leelazi:0 "Лиэлази" #NT!
+ QUARIAN_SHIP_Saedin:0 "Саедин" #NT!
+ QUARIAN_SHIP_Saejol:0 "Сэджол" #NT!
+ QUARIAN_SHIP_Zeevo:0 "Зеево" #NT!
+ QUARIAN_SHIP_Weevum:0 "Вивум" #NT!
+ QUARIAN_SHIP_Fiwan:0 "Фиван" #NT!
+ QUARIAN_SHIP_Wozal:0 "Возал" #NT!
+ QUARIAN_SHIP_Mochol:0 "Мочол" #NT!
+ QUARIAN_SHIP_Logro:0 "Логро" #NT!
+ QUARIAN_SHIP_Laavo:0 "Лааво" #NT!
+ QUARIAN_SHIP_Mesost:0 "Месост" #NT!
+ QUARIAN_SHIP_Weeca:0 "Вика" #NT!
+ QUARIAN_SHIP_Natalir:0 "Наталир" #NT!
+ QUARIAN_SHIP_Xudolor:0 "Ксудолор" #NT!
+ QUARIAN_SHIP_Faara:0 "Фаара" #NT!
+ QUARIAN_SHIP_Gewa:0 "Gewa" #NT!
+ QUARIAN_SHIP_Regro:0 "Регро" #NT!
+ QUARIAN_SHIP_Farka:0 "Фарка" #NT!
+ QUARIAN_SHIP_Duhasek:0 "Духасек" #NT!
+ QUARIAN_SHIP_Dilinaga:0 "Дилинага" #NT!
+ QUARIAN_SHIP_Dasegar:0 "Дасегар" #NT!
+ QUARIAN_SHIP_Cadash:0 "Кадаш" #NT!
+ QUARIAN_SHIP_Usela:0 "Усела" #NT!
+ QUARIAN_SHIP_Xaaca:0 "Шаака" #NT!
+ QUARIAN_SHIP_Zaarah:0 "Заара" #NT!
+ QUARIAN_SHIP_Taevum:0 "Таевум" #NT!
+ QUARIAN_SHIP_Shani:0 "Шани" #NT!
+ QUARIAN_SHIP_Shaidor:0 "Шайдор" #NT!
+ QUARIAN_SHIP_Malurn:0 "Малурн" #NT!
+ QUARIAN_SHIP_Maagro:0 "Маагро" #NT!
+ QUARIAN_SHIP_Jirko:0 "Йирко" #NT!
+ QUARIAN_SHIP_Iblin:0 "Иблин" #NT!
+ QUARIAN_SHIP_Halla:0 "Халла" #NT!
+ QUARIAN_SHIP_Gaathla:0 "Гаатла" #NT!
+ QUARIAN_SHIP_Vestira:0 "Вестира" #NT!
+ QUARIAN_SHIP_Vandertrask:0 "Вандертраск" #NT!
+ QUARIAN_SHIP_Vanagandr:0 "Ванаганд" #NT!
+ QUARIAN_SHIP_Torva:0 "Торва" #NT!
+ QUARIAN_SHIP_Tinketta:0 "Тинкетта" #NT!
+ QUARIAN_SHIP_Sunrunner:0 "Санраннер" #NT!
+ QUARIAN_SHIP_Sombrei:0 "Сомбрей" #NT!
+ QUARIAN_SHIP_Zeeram:0 "Зирам" #NT!
+ QUARIAN_SHIP_Seepan:0 "Сипан" #NT!
+ QUARIAN_SHIP_Siron:0 "Сирон" #NT!
+ QUARIAN_SHIP_Wofis:0 "Вофис" #NT!
+ QUARIAN_SHIP_Gora:0 "Гора" #NT!
+ QUARIAN_SHIP_Haareh:0 "Хааре" #NT!
+ QUARIAN_SHIP_Geegro:0 "Гигро" #NT!
+ QUARIAN_SHIP_Sazay:0 "Сазай" #NT!
+ QUARIAN_SHIP_Shaazay:0 "Шаазай" #NT!
+ QUARIAN_SHIP_Reekor:0 "Рикор" #NT!
+ QUARIAN_SHIP_Woreh:0 "Ворэ" #NT!
+ QUARIAN_SHIP_Maleya:0 "Малея" #NT!
+ QUARIAN_SHIP_Leegro:0 "Легро" #NT!
+ QUARIAN_SHIP_Caavum:0 "Каавум" #NT!
+ QUARIAN_SHIP_Gadin:0 "Гадин" #NT!
+ QUARIAN_SHIP_Merah:0 "Мера" #NT!
+ QUARIAN_SHIP_Yaaworp:0 "Яаворп" #NT!
+ QUARIAN_SHIP_Fidin:0 "Фидин" #NT!
+ QUARIAN_SHIP_Caewan:0 "Кеван" #NT!
+ QUARIAN_SHIP_Nefirn:0 "Нефирн" #NT!
+ QUARIAN_SHIP_Javo:0 "Яво" #NT!
+ QUARIAN_SHIP_Yureh:0 "Юрех" #NT!
+ QUARIAN_SHIP_Minil:0 "Минил" #NT!
+ QUARIAN_SHIP_Darla:0 "Дарла" #NT!
+ QUARIAN_SHIP_Zaalazi:0 "Заалази" #NT!
+ QUARIAN_SHIP_Fukor:0 "Фукор" #NT!
+ QUARIAN_SHIP_Canbay:0 "Канбей" #NT!
+ QUARIAN_SHIP_Gurah:0 "Гура" #NT!
+ QUARIAN_SHIP_Haayya:0 "Хайя" #NT!
+ QUARIAN_SHIP_Hechol:0 "Хехол" #NT!
+ QUARIAN_SHIP_Rowal:0 "Роуэл" #NT!
+ QUARIAN_SHIP_Sholeya:0 "Шолея" #NT!
+ QUARIAN_SHIP_Yaarah:0 "Яара" #NT!
+ QUARIAN_SHIP_Zuzay:0 "Зузай" #NT!
+ QUARIAN_SHIP_Slorvo:0 "Слорво" #NT!
+ QUARIAN_SHIP_Laermat:0 "Лаэрмат" #NT!
+ QUARIAN_SHIP_Ergoradr:0 "Эргорадр" #NT!
+ QUARIAN_SHIP_Smarfand:0 "Смарфанд" #NT!
+ QUARIAN_SHIP_Tirvider:0 "Тирвидер" #NT!
+ QUARIAN_SHIP_Jaeral:0 "Джерал" #NT!
+ QUARIAN_SHIP_Shoron:0 "Shoron" #NT!
+ QUARIAN_SHIP_Gan:0 "Ган" #NT!
+ QUARIAN_SHIP_Dwar:0 "Двар" #NT!
+ QUARIAN_SHIP_Bereloth:0 "Берелот" #NT!
+ QUARIAN_SHIP_Olvekei:0 "Ольвекей" #NT!
+ QUARIAN_SHIP_Marvag:0 "Марваг" #NT!
+ QUARIAN_SHIP_Caanna:0 "Каанна" #NT!
+ QUARIAN_SHIP_Shirah:0 "Шира" #NT!
+ QUARIAN_SHIP_Hirark:0 "Хиарк" #NT!
+ QUARIAN_SHIP_Wefirn:0 "Вефирн" #NT!
+ QUARIAN_SHIP_Jizay:0 "Джизай" #NT!
+ QUARIAN_SHIP_Laaca:0 "Лаака" #NT!
+ QUARIAN_SHIP_Tochol:0 "Точол" #NT!
+ QUARIAN_SHIP_Luwa:0 "Лува" #NT!
+ QUARIAN_SHIP_Zaemorn:0 "Заэморн" #NT!
+ QUARIAN_SHIP_Shadir:0 "Шадир" #NT!
+ QUARIAN_SHIP_Yurah:0 "Юра" #NT!
+ QUARIAN_SHIP_Zeca:0 "Зека" #NT!
+ QUARIAN_SHIP_Ylmaran:0 "Ильмаран" #NT!
+ QUARIAN_SHIP_Jorvoledr:0 "Йорволедр" #NT!
+ QUARIAN_SHIP_Lytorim:0 "Литорим" #NT!
+ QUARIAN_SHIP_Droorbi:0 "Друрби" #NT!
+ QUARIAN_SHIP_Tlarbe:0 "Тларбе" #NT!
+ QUARIAN_SHIP_Sorvokan:0 "Сорвокан" #NT!
+ QUARIAN_SHIP_Dlarimbo:0 "Дларимбо" #NT!
+ QUARIAN_SHIP_Drapart:0 "Драпарт" #NT!
+ QUARIAN_SHIP_Qeemitera:0 "Кимитера" #NT!
+ QUARIAN_SHIP_Myrvort:0 "Мирворт" #NT!
+ QUARIAN_SHIP_Uroaldr:0 "Уроальд" #NT!
+ QUARIAN_SHIP_Larkirm:0 "Ларкирм" #NT!
+ QUARIAN_SHIP_Durfaredr:0 "Дурфарадр" #NT!
+ QUARIAN_SHIP_Wermikar:0 "Вермикар" #NT!
+ QUARIAN_SHIP_Lyyrmit:0 "Люрмит" #NT!
+ QUARIAN_SHIP_Quirmet:0 "Квирмет" #NT!
+ QUARIAN_SHIP_Waatru:0 "Ваатру" #NT!
+ QUARIAN_SHIP_Felermian:0 "Фелермиан" #NT!
+ QUARIAN_SHIP_Forbadr:0 "Форбадр" #NT!
+ QUARIAN_SHIP_Plaerid:0 "плерид" #NT!
+ QUARIAN_SHIP_Gyrovell:0 "Гировелл" #NT!
+ QUARIAN_SHIP_Norvatredt:0 "Норваттредт" #NT!
+ QUARIAN_SHIP_Erishatla:0 "Эришатла" #NT!
+ QUARIAN_SHIP_Aerkatra:0 "Аркатра" #NT!
+ QUARIAN_SHIP_Pleert:0 "Плерт" #NT!
+ QUARIAN_SHIP_Norsha:0 "Норша" #NT!
+ QUARIAN_SHIP_Cheiclart:0 "Шейклар" #NT!
+ QUARIAN_SHIP_Kaardral:0 "Каардрал" #NT!
+ QUARIAN_SHIP_Raebra:0 "Ребра" #NT!
+ QUARIAN_SHIP_Tatalir:0 "Таталир" #NT!
+ QUARIAN_SHIP_Heehala:0 "Хихала" #NT!
+ QUARIAN_SHIP_Zaador:0 "Заадор" #NT!
+ QUARIAN_SHIP_Nuwib:0 "Нувиб" #NT!
+ QUARIAN_SHIP_Weleya:0 "Велея" #NT!
+ QUARIAN_SHIP_Voma:0 "Вома" #NT!
+ QUARIAN_SHIP_Xaadin:0 "Шаадин" #NT!
+ QUARIAN_SHIP_Gimorn:0 "Гиморн" #NT!
+ QUARIAN_SHIP_Maaram:0 "Маарам" #NT!
+ QUARIAN_SHIP_Rewan:0 "Реван" #NT!
+ QUARIAN_SHIP_Toyya:0 "Тойя" #NT!
+ QUARIAN_SHIP_Xemorn:0 "Ксеморн" #NT!
+ QUARIAN_SHIP_Sisost:0 "Сисост" #NT!
+ QUARIAN_SHIP_Jaewa:0 "Джаева" #NT!
+ QUARIAN_SHIP_Misost:0 "Мизост" #NT!
+ QUARIAN_SHIP_Jigro:0 "Джигро" #NT!
+ QUARIAN_SHIP_Heereh:0 "Херех" #NT!
+ QUARIAN_SHIP_Velarm:0 "Веларм" #NT!
+ QUARIAN_SHIP_Malarm:0 "Маларм" #NT!
+ QUARIAN_SHIP_Shurah:0 "Шура" #NT!
+ QUARIAN_SHIP_Xaezay:0 "Хаезай" #NT!
+ QUARIAN_SHIP_Murmiteen:0 "Мурмитин" #NT!
+ QUARIAN_SHIP_Keelimarth:0 "Килимарт" #NT!
+ QUARIAN_SHIP_Zeerkinot:0 "Зиркинот" #NT!
+ QUARIAN_SHIP_Yqusmin:0 "Исмин" #NT!
+ QUARIAN_SHIP_Elcama:0 "Элькама" #NT!
+ QUARIAN_SHIP_Lipyralia:0 "Липиралия" #NT!
+ QUARIAN_SHIP_Drorkamat:0 "Дроркамат" #NT!
+ QUARIAN_SHIP_Lycarmasia:0 "Ликармазия" #NT!
+ QUARIAN_SHIP_Muuruturut:0 "Муурутурут" #NT!
+ QUARIAN_SHIP_Lakla:0 "Лакла" #NT!
+ QUARIAN_SHIP_Eerma:0 "Эрма" #NT!
+ QUARIAN_SHIP_Zolcrapat_Outpost:0 "Застава Золкрапат" #NT!
+ QUARIAN_SHIP_Lerpampt_Outpost:0 "Аванпост Лерпампт" #NT!
+ QUARIAN_SHIP_Xeformidr_Outpost:0 "Форпост Ксеформидр" #NT!
+ QUARIAN_SHIP_Qurmachiat_Outpost:0 "Застава Курмачиат" #NT!
+ QUARIAN_SHIP_Rotlamapr_Outpost:0 "Форпост Ротламапр" #NT!
+ QUARIAN_SHIP_Urmific_Outpost:0 "Урмифик Аванпост" #NT!
+ QUARIAN_SHIP_Mulporvon_Outpost:0 "Мулпорвонский аванпост" #NT!
+ QUARIAN_SHIP_Wemaridt_Outpost:0 "Застава Вемаридта" #NT!
+ QUARIAN_FLEET_Xirmictian_Flotilla:0 "Кирмиктийская флотилия" #NT!
+ QUARIAN_FLEET_Qormoric_Flotilla:0 "Корморийская флотилия" #NT!
+ QUARIAN_FLEET_Claarith_Flotilla:0 "Клаарит Флотилия" #NT!
+ QUARIAN_FLEET_Lurvimshit_Flotilla:0 "Лурвимшитская флотилия" #NT!
+ QUARIAN_FLEET_Tyrvirmakin_Flotilla:0 "Тырвирмакинская флотилия" #NT!
+ QUARIAN_FLEET_Paricnartian_Flotilla:0 "Парикнарская флотилия" #NT!
+ QUARIAN_FLEET_Sekarentian_Flotilla:0 "Секарентская флотилия" #NT!
+ QUARIAN_FLEET_Werriladrian_Flotilla:0 "Верриладрианская флотилия" #NT!
+ QUARIAN_FLEET_Luyrmigratian_Flotilla:0 "Люйрмиграционная флотилия" #NT!
+ QUARIAN_FLEETxxFlotilla_ORD:0 "$O$Fлотилия" #NT!
+ QUARIAN_ARMYxxDefensive_Cast_ORD:0 "$O$Dзащитный состав" #NT!
+ QUARIAN_ARMYxxOffensive_Cast_ORD:0 "$O$OОскорбительный актерский состав" #NT!
+ QUARIAN_ARMYxxServitude_Swarm_ORD:0 "$O$SЭрвитудный рой" #NT!
+ QUARIAN_ARMYxxClone_Swarm_ORD:0 "$O$Cодиночный рой" #NT!
+ QUARIAN_ARMYxxRobo_Ticks_ORD:0 "$O$Rобо тики" #NT!
+ QUARIAN_ARMYxxSorcerers_ORD:0 "$O$Sорсеры" #NT!
+ QUARIAN_ARMYxxXeno_Cast_ORD:0 "$O$Xэно В ролях" #NT!
+ QUARIAN_ARMYxxBrutes_ORD:0 "$O$Bмаршрутизирует" #NT!
+ QUARIAN_CHR_WamSaazh:0 "Вам'Сааж" #NT!
+ QUARIAN_CHR_ZunCedor:0 "Зун'Седор" #NT!
+ QUARIAN_CHR_NunnJuzh:0 "Нанн'Джуж" #NT!
+ QUARIAN_CHR_LeemSilun:0 "Леем'Силун" #NT!
+ QUARIAN_CHR_YunXaelan:0 "Юн'Ксаэлан" #NT!
+ QUARIAN_CHR_FarCaamma:0 "Фар'Каамма" #NT!
+ QUARIAN_CHR_ZaalGama:0 "Заал'Гама" #NT!
+ QUARIAN_CHR_KotorYumin:0 "Kotor'Yumin" #NT!
+ QUARIAN_CHR_FemmFumas:0 "Femm'Fumas" #NT!
+ QUARIAN_CHR_CanOdor:0 "Can'Odor" #NT!
+ QUARIAN_CHR_CemZolas:0 "Джем'Золас" #NT!
+ QUARIAN_CHR_GusMumor:0 "Гусь'Мумор" #NT!
+ QUARIAN_CHR_FetoTagar:0 "Фето'Тагар" #NT!
+ QUARIAN_CHR_WotoCumor:0 "Вото'Кумор" #NT!
+ QUARIAN_CHR_MaetoXolun:0 "Маэто'Ксолун" #NT!
+ QUARIAN_CHR_SaehSemun:0 "Сае'Семун" #NT!
+ QUARIAN_CHR_ZaammCaera:0 "Заамм'Каэра" #NT!
+ QUARIAN_CHR_GaasFam:0 "Гаас'Фам" #NT!
+ QUARIAN_CHR_CohZeezh:0 "Ко'Зиз" #NT!
+ QUARIAN_CHR_JoloXaenar:0 "Джоло'Ксаэнар" #NT!
+ QUARIAN_CHR_HaesGurul:0 "Хаес'Гурул" #NT!
+ QUARIAN_CHR_MeefNas:0 "Миф'Нас" #NT!
+ QUARIAN_CHR_JilHaer:0 "Джил'Хаер" #NT!
+ QUARIAN_CHR_ZaenSil:0 "Заен'Сил" #NT!
+ QUARIAN_CHR_MaasMezh:0 "МаасМеж" #NT!
+ QUARIAN_CHR_GefZimma:0 "Геф'Зимма" #NT!
+ QUARIAN_CHR_HeelHaaras:0 "Хил'Хаарас" #NT!
+ QUARIAN_CHR_SosJum:0 "Сос'Джум" #NT!
+ QUARIAN_CHR_GaerYorul:0 "Гаэр'Йорул" #NT!
+ QUARIAN_CHR_CosSaemin:0 "Кос'Сэмин" #NT!
+ QUARIAN_CHR_MalMaenn:0 "Мал'Мэнн" #NT!
+ QUARIAN_CHR_GaasShaelin:0 "Гаас'Шаэлин" #NT!
+ QUARIAN_CHR_LonLorol:0 "Лон'Лорол" #NT!
+ QUARIAN_CHR_JofLaenar:0 "Джоф'Лаенар" #NT!
+ QUARIAN_CHR_WaafVisul:0 "Вааф'Висул" #NT!
+ QUARIAN_CHR_FusinZumis:0 "Фусин'Зумис" #NT!
+ QUARIAN_CHR_HalVaalon:0 "Хал'Ваалон" #NT!
+ QUARIAN_CHR_FerJass:0 "Фер'Джасс" #NT!
+ QUARIAN_CHR_FennSeeram:0 "Фенн'Сирам" #NT!
+ QUARIAN_CHR_NumNogar:0 "Нум'Ногар" #NT!
+ QUARIAN_CHR_ZenReenn:0 "Зен'Ринн" #NT!
+ QUARIAN_CHR_CamZil:0 "Кам'Зил" #NT!
+ QUARIAN_CHR_SetorNemor:0 "Сетор'Немор" #NT!
+ QUARIAN_CHR_RaennGaris:0 "Раэнн'Гарис" #NT!
+ QUARIAN_CHR_MefYiris:0 "Меф'Йирис" #NT!
+ QUARIAN_CHR_VaasinSheerol:0 "Ваасин'Шерол" #NT!
+ QUARIAN_CHR_NofZulon:0 "Ноф'Зулон" #NT!
+ QUARIAN_CHR_FutorTunn:0 "Футор'Тунн" #NT!
+ QUARIAN_CHR_ZetorZeen:0 "Зетор'Зин" #NT!
+ QUARIAN_CHR_RunWuzh:0 "Ран'Вуж" #NT!
+ QUARIAN_CHR_VaannHara:0 "Ваанн'Хара" #NT!
+ QUARIAN_CHR_WufGuzu:0 "Вуф'Гузу" #NT!
+ QUARIAN_CHR_CuloCesal:0 "Куло'Чезаль" #NT!
+ QUARIAN_CHR_ValFaemin:0 "Валь'Фаэмин" #NT!
+ QUARIAN_CHR_CunGeeras:0 "Кан'Гирас" #NT!
+ QUARIAN_CHR_RaloNess:0 "Рало'Несс" #NT!
+ QUARIAN_CHR_WanVinis:0 "Ван'Винис" #NT!
+ QUARIAN_CHR_RaatoVeelan:0 "Раато'Велан" #NT!
+ QUARIAN_CHR_CusinTaelin:0 "Кусин'Таэлин" #NT!
+ QUARIAN_CHR_RosZeelas:0 "Рос'Зилас" #NT!
+ QUARIAN_CHR_KaeloSinn:0 "Каэло'Синн" #NT!
+ QUARIAN_CHR_FaesinSaaman:0 "Фаэсин'Сааман" #NT!
+ QUARIAN_CHR_FilMedda:0 "Фил'Медда" #NT!
+ QUARIAN_CHR_CaamRaanna:0 "Каам'Раанна" #NT!
+ QUARIAN_CHR_JimmNaerul:0 "Джимм'Наэрул" #NT!
+ QUARIAN_CHR_VeennLaelan:0 "Венн'Лаэлан" #NT!
+ QUARIAN_CHR_VaatoShaenar:0 "Ваато'Шаенар" #NT!
+ QUARIAN_CHR_CihShulan:0 "Цих'Шулан" #NT!
+ QUARIAN_CHR_FaefYizh:0 "Фаеф'Иж" #NT!
+ QUARIAN_CHR_VelFanis:0 "Вель'Фанис" #NT!
+ QUARIAN_CHR_LusinHomor:0 "Лусин'Хомор" #NT!
+ QUARIAN_CHR_YeetoRalon:0 "Йито'Ралон" #NT!
+ QUARIAN_CHR_YommTuman:0 "Йомм'Туман" #NT!
+ QUARIAN_CHR_HenReefor:0 "Хен'Рифор" #NT!
+ QUARIAN_CHR_RilJimm:0 "Рил'Джимм" #NT!
+ QUARIAN_CHR_JisinFisal:0 "Джисин'Фисал" #NT!
+ QUARIAN_CHR_HenZemas:0 "Хен'Земас" #NT!
+ QUARIAN_CHR_VaalZaenn:0 "Ваал'Зэнн" #NT!
+ QUARIAN_CHR_ZaanHumos:0 "Заан'Хумос" #NT!
+ QUARIAN_CHR_CanuYonna:0 "Кану'Йонна" #NT!
+ QUARIAN_CHR_CafiGeefal:0 "Кафи'Гефаль" #NT!
+ QUARIAN_CHR_ZaefuVofor:0 "Заефу'Вофор" #NT!
+ QUARIAN_CHR_ShofiNasal:0 "Шофи'Насал" #NT!
+ QUARIAN_CHR_NenniTaalon:0 "Ненни'Таалон" #NT!
+ QUARIAN_CHR_HeloCeefor:0 "Хело'Сифор" #NT!
+ QUARIAN_CHR_YaanuWus:0 "Яану'Вус" #NT!
+ QUARIAN_CHR_YehuShosal:0 "Йеху'Шосал" #NT!
+ QUARIAN_CHR_LaemuZarul:0 "Лаэму'Зарул" #NT!
+ QUARIAN_CHR_SufoSesul:0 "Суфо'Сесул" #NT!
+ QUARIAN_CHR_ZemeLeedal:0 "Земе'Лидал" #NT!
+ QUARIAN_CHR_YaeneYulon:0 "Яэне'Юлон" #NT!
+ QUARIAN_CHR_JaammaSaemin:0 "Джаамма'Саемин" #NT!
+ QUARIAN_CHR_NonaMaam:0 "Нона'Маам" #NT!
+ QUARIAN_CHR_FiriWuras:0 "Фири'Вурас" #NT!
+ QUARIAN_CHR_YaareZudda:0 "Яаре'Зудда" #NT!
+ QUARIAN_CHR_WasuWaafal:0 "Васу'Ваафал" #NT!
+ QUARIAN_CHR_SaahaHumas:0 "Сааха'Хумас" #NT!
+ QUARIAN_CHR_SahuMael:0 "Саху'Маэль" #NT!
+ QUARIAN_CHR_NemmeYora:0 "Немме'Йора" #NT!
+ QUARIAN_CHR_FeelaYerrel:0 "Фила'Йеррел" #NT!
+ QUARIAN_CHR_MammeJun:0 "Мамме'Джун" #NT!
+ QUARIAN_CHR_HommaShaelon:0 "Хомма'Шаэлон" #NT!
+ QUARIAN_CHR_WaasoXaeman:0 "Ваасо'Ксаеман" #NT!
+ QUARIAN_CHR_MusaWaamin:0 "Муса'Ваамин" #NT!
+ QUARIAN_CHR_YaehaJal:0 "Яеха'Джал" #NT!
+ QUARIAN_CHR_NaanaHador:0 "Наана'Хадор" #NT!
+ QUARIAN_CHR_LeereWofin:0 "Лире'Вофин" #NT!
+ QUARIAN_CHR_SheroXaame:0 "Шеро'Ксааме" #NT!
+ QUARIAN_CHR_WeenaVeesar:0 "Уина'Висар" #NT!
+ QUARIAN_CHR_LammaWaasa:0 "Ламма'Вааса" #NT!
+ QUARIAN_CHR_ShaafuMonis:0 "Шаафу'Монис" #NT!
+ QUARIAN_CHR_LaeniNumis:0 "Лаэни'Нумис" #NT!
+ QUARIAN_CHR_HaasaVeesar:0 "Хааса'Весар" #NT!
+ QUARIAN_CHR_SeriGumm:0 "Сери'Гумм" #NT!
+ QUARIAN_CHR_HolaZaesa:0 "Хола'Заэса" #NT!
+ QUARIAN_CHR_ShaenuShul:0 "Шэну'Шул" #NT!
+ QUARIAN_CHR_RisaSaemin:0 "Риса'Саемин" #NT!
+ QUARIAN_CHR_RuniMaezh:0 "Руни'Маэж" #NT!
+ QUARIAN_CHR_FimuWeeram:0 "Фиму'Вирам" #NT!
+ QUARIAN_CHR_WeelaRime:0 "Вила'Райм" #NT!
+ QUARIAN_CHR_CannaShilon:0 "Канна'Шилон" #NT!
+ QUARIAN_CHR_SheenaXenna:0 "Шина'Зенна" #NT!
+ QUARIAN_CHR_JaemmaYaefin:0 "Джемма'Яефин" #NT!
+ QUARIAN_CHR_WiroVurul:0 "Виро'Вурул" #NT!
+ QUARIAN_CHR_MaehuNizu:0 "Маеху'Низу" #NT!
+ QUARIAN_CHR_CaeleLara:0 "Каэле'Лара" #NT!
+ QUARIAN_CHR_YaafuMilun:0 "Yaafu'Milun" #NT!
+ QUARIAN_CHR_ShesaLeezh:0 "Шеса'Лиз" #NT!
+ QUARIAN_CHR_FeennaHullo:0 "Финна'Привет" #NT!
+ QUARIAN_CHR_JaraForrel:0 "Джара'Форрел" #NT!
+ QUARIAN_CHR_YaehuWilas:0 "Яеху'Вилас" #NT!
+ QUARIAN_CHR_HommaHom:0 "Хомма'Хом" #NT!
+ QUARIAN_CHR_LumeMaasar:0 "Луме'Маасар" #NT!
+ QUARIAN_CHR_MihaWenar_:0 "Миха'Венар" #NT!
+ QUARIAN_CHR_NennoYaeram:0 "Ненно'Яерам" #NT!
+ QUARIAN_CHR_SaammoGunis:0 "Саммо'Гунис" #NT!
+ QUARIAN_CHR_MeriVaallo:0 "Мери'Ваалло" #NT!
+ QUARIAN_CHR_SaahiVulon:0 "Саахи'Вулон" #NT!
+ QUARIAN_CHR_NaaneTumor:0 "Наане'Тумор" #NT!
+ QUARIAN_CHR_FunnaGamas:0 "Фунна'Гамас" #NT!
+ QUARIAN_CHR_NonnuXill:0 "Нонну'Ксил" #NT!
+ QUARIAN_CHR_JumeMeesar:0 "Джуме'Мисар" #NT!
+ QUARIAN_CHR_SenuGaerol:0 "Сену'Гаэрол" #NT!
+ QUARIAN_CHR_MelaZaelon:0 "Мела'Заэлон" #NT!
+ QUARIAN_CHR_ShesoMaenis:0 "Шесо'Мэнис" #NT!
+ QUARIAN_CHR_MaemmaZiram:0 "Маемма'Зирам" #NT!
+ QUARIAN_CHR_FalaLorul:0 "Фала'Лорул" #NT!
+ QUARIAN_CHR_ShaahoNaalan:0 "Шаахо'Наалан" #NT!
+ QUARIAN_CHR_HammiFaema:0 "Хамми'Фаэма" #NT!
+ QUARIAN_CHR_HufiShar:0 "Хуфи'Шар" #NT!
+ QUARIAN_CHR_YaeliRenis:0 "Yaeli'Renis" #NT!
+ QUARIAN_CHR_NolaYusal:0 "Нола'Юсал" #NT!
+ QUARIAN_CHR_MaahaSime:0 "Мааха'Симе" #NT!
+ QUARIAN_CHR_ShofiLeemm:0 "Шофи'Лимм" #NT!
+ QUARIAN_CHR_WalaRerrel:0 "Вала'Реррел" #NT!
+ QUARIAN_CHR_ZennaFuram:0 "Зенна'Фурам" #NT!
+ QUARIAN_CHR_ShemmuTallo:0 "Шемму'Талло" #NT!
+ QUARIAN_CHR_YalaTeme:0 "Яла'Теме" #NT!
+ QUARIAN_CHR_CilaGamos:0 "Сила'Гамос" #NT!
+ QUARIAN_CHR_vas_Zuzay:0 "вас Зузай" #NT!
+ QUARIAN_CHR_vas_Yaarah:0 "вас Яара" #NT!
+ QUARIAN_CHR_nar_Sholeya:0 "нар Шолея" #NT!
+ QUARIAN_CHR_vas_Rowal:0 "Вас Роваль" #NT!
+ QUARIAN_CHR_vas_Hechol:0 "вас Хехол" #NT!
+ QUARIAN_CHR_vas_Haayya:0 "вас Хаайя" #NT!
+ QUARIAN_CHR_nar_Gurah:0 "нар Гура" #NT!
+ QUARIAN_CHR_nar_Canbay:0 "нар Канбей" #NT!
+ QUARIAN_CHR_nar_Fukor:0 "нар Фукор" #NT!
+ QUARIAN_CHR_nar_Zaalazi:0 "нар Заалази" #NT!
+ QUARIAN_CHR_vas_Javo:0 "вас Яво" #NT!
+ QUARIAN_CHR_nar_Nefirn:0 "nar_Nefirn" #NT!
+ QUARIAN_CHR_vas_Caewan:0 "вас Кеван" #NT!
+ QUARIAN_CHR_nar_Fidin:0 "нар Фидин" #NT!
+ QUARIAN_CHR_nar_Yaaworp:0 "нар Яаворп" #NT!
+ QUARIAN_CHR_nar_Merah:0 "нар Мерах" #NT!
+ QUARIAN_CHR_vas_Gadin:0 "Вас Гадин" #NT!
+ QUARIAN_CHR_vas_Caavum:0 "Вас Каавум" #NT!
+ QUARIAN_CHR_vas_Leegro:0 "вас Легро" #NT!
+ QUARIAN_CHR_vas_Maleya:0 "вас малея" #NT!
+ QUARIAN_CHR_nar_Geegro:0 "нар Geegro" #NT!
+ QUARIAN_CHR_nar_Haareh:0 "нар хааре" #NT!
+ QUARIAN_CHR_nar_Gora:0 "нар гора" #NT!
+ QUARIAN_CHR_nar_Wofis:0 "нар Вофис" #NT!
+ QUARIAN_CHR_vas_Reenna:0 "Вас Реенна" #NT!
+ QUARIAN_CHR_nar_Siron:0 "нар Сирон" #NT!
+ QUARIAN_CHR_vas_Seepan:0 "Вас Сипан" #NT!
+ QUARIAN_CHR_vas_Zeeram:0 "вас Зирам" #NT!
+ QUARIAN_CHR_vas_Minil:0 "Вас Миниль" #NT!
+ QUARIAN_CHR_vas_Yureh:0 "вас Юрех" #NT!
+ QUARIAN_CHR_nar_Laaca:0 "нар Лаака" #NT!
+ QUARIAN_CHR_nar_Jizay:0 "нар Джизай" #NT!
+ QUARIAN_CHR_vas_Wefirn:0 "вас Вефирн" #NT!
+ QUARIAN_CHR_nar_Hirark:0 "нар Хиарк" #NT!
+ QUARIAN_CHR_vas_Shirah:0 "вас Ширах" #NT!
+ QUARIAN_CHR_nar_Caanna:0 "нар Каанна" #NT!
+ QUARIAN_CHR_nar_Woreh:0 "нар Ворех" #NT!
+ QUARIAN_CHR_nar_Reekor:0 "нар Рикор" #NT!
+ QUARIAN_CHR_nar_Shaazay:0 "нар Шаазай" #NT!
+ QUARIAN_CHR_nar_Sazay:0 "нар Сазай" #NT!
+ QUARIAN_CHR_nar_Jaewa:0 "нар Джаева" #NT!
+ QUARIAN_CHR_nar_Sisost:0 "нар Сисост" #NT!
+ QUARIAN_CHR_vas_Xemorn:0 "вас Ксеморн" #NT!
+ QUARIAN_CHR_vas_Toyya:0 "вас Тойя" #NT!
+ QUARIAN_CHR_vas_Zeca:0 "вас Зека" #NT!
+ QUARIAN_CHR_vas_Yurah:0 "вас Юрах" #NT!
+ QUARIAN_CHR_vas_Shadir:0 "вас Шадир" #NT!
+ QUARIAN_CHR_vas_Zaemorn:0 "вас Заэморн" #NT!
+ QUARIAN_CHR_vas_Luwa:0 "вас Лува" #NT!
+ QUARIAN_CHR_vas_Tochol:0 "вас Точол" #NT!
+ QUARIAN_CHR_nar_Heehala:0 "нар Хихала" #NT!
+ QUARIAN_CHR_vas_Tatalir:0 "вас Таталир" #NT!
+ QUARIAN_CHR_nar_Raebra:0 "нар Ребра" #NT!
+ QUARIAN_CHR_nar_Xaezay:0 "нар Хаэзай" #NT!
+ QUARIAN_CHR_vas_Shurah:0 "вас Шура" #NT!
+ QUARIAN_CHR_nar_Malarm:0 "нар Маларм" #NT!
+ QUARIAN_CHR_vas_Velarm:0 "вас Веларм" #NT!
+ QUARIAN_CHR_vas_Heereh:0 "вас Хирех" #NT!
+ QUARIAN_CHR_vas_Jigro:0 "вас Джигро" #NT!
+ QUARIAN_CHR_vas_Misost:0 "вас мисост" #NT!
+ QUARIAN_CHR_vas_Segro:0 "вас Сегро" #NT!
+ QUARIAN_CHR_vas_Sijol:0 "вас Сижол" #NT!
+ QUARIAN_CHR_vas_Mivo:0 "вас Миво" #NT!
+ QUARIAN_CHR_vas_Rewan:0 "Вас Реван" #NT!
+ QUARIAN_CHR_nar_Maaram:0 "нар Маарам" #NT!
+ QUARIAN_CHR_vas_Gimorn:0 "вас Гиморн" #NT!
+ QUARIAN_CHR_vas_Xaadin:0 "вас Хаадин" #NT!
+ QUARIAN_CHR_nar_Voma:0 "нар Вома" #NT!
+ QUARIAN_CHR_nar_Weleya:0 "нар Велея" #NT!
+ QUARIAN_CHR_nar_Nuwib:0 "нар Нувиб" #NT!
+ QUARIAN_CHR_nar_Zaador:0 "нар Заадор" #NT!
+ QUARIAN_CHR_nar_Tuwib:0 "нар Тувиб" #NT!
+ QUARIAN_CHR_nar_Yezay:0 "нар Езай" #NT!
+ QUARIAN_CHR_nar_Jodoruk:0 "нар Йодорук" #NT!
+ QUARIAN_CHR_vas_Gajol:0 "Вас Гаджол" #NT!
+ QUARIAN_CHR_vas_Heejol:0 "вас Хиджол" #NT!
+ QUARIAN_CHR_nar_Xedarum:0 "нар Зедарум" #NT!
+ QUARIAN_CHR_vas_Xaanna:0 "вас Ксанна" #NT!
+ QUARIAN_CHR_nar_Haanbay:0 "нар Хаанбай" #NT!
+ QUARIAN_CHR_nar_Girah:0 "нар гирах" #NT!
+ QUARIAN_CHR_nar_Faagro:0 "нар Фаагро" #NT!
+ QUARIAN_CHR_vas_Halazi:0 "вас Халази" #NT!
+ QUARIAN_CHR_vas_Mujol:0 "вас Мухол" #NT!
+ QUARIAN_CHR_nar_Ceekor:0 "нар Ceekor" #NT!
+ QUARIAN_CHR_nar_Fura:0 "нар Фура" #NT!
+ QUARIAN_CHR_nar_Neram:0 "нар Нерам" #NT!
+ QUARIAN_CHR_vas_Tidir:0 "вас Тидир" #NT!
+ QUARIAN_CHR_nar_Gaedor:0 "нар Гедор" #NT!
+ QUARIAN_CHR_nar_Vaadolor:0 "нар Ваадолор" #NT!
+ QUARIAN_CHR_nar_Haaca:0 "нар Хаака" #NT!
+ QUARIAN_CHR_nar_Saajol:0 "нар Сааджол" #NT!
+ QUARIAN_CHR_vas_Coraka:0 "вас Корака" #NT!
+ QUARIAN_CHR_nar_Ridir:0 "нар Ридир" #NT!
+ QUARIAN_CHR_nar_Yowal:0 "нар Йоваль" #NT!
+ QUARIAN_CHR_nar_Xomorn:0 "нар Хоморн" #NT!
+ QUARIAN_CHR_nar_Gaavo:0 "нар Гааво" #NT!
+ QUARIAN_CHR_vas_Waawal:0 "вас Ваавал" #NT!
+ QUARIAN_CHR_nar_Vuzorn:0 "нар Вузорн" #NT!
+ QUARIAN_CHR_nar_Xaelazi:0 "нар Ксаэлази" #NT!
+ QUARIAN_CHR_vas_Zoram:0 "вас Зорам" #NT!
+ QUARIAN_CHR_nar_Nodolor:0 "нар Нодолор" #NT!
+ QUARIAN_CHR_vas_Seraka:0 "вас серака" #NT!
+ QUARIAN_CHR_vas_Gaetalir:0 "вас Гаеталир" #NT!
+ QUARIAN_CHR_vas_Higro:0 "вас Хигро" #NT!
+ QUARIAN_CHR_nar_Vaafis:0 "нар Ваафис" #NT!
+ QUARIAN_CHR_nar_Jaafirn:0 "нар Джаафирн" #NT!
+ QUARIAN_CHR_nar_Yazay:0 "нар Язай" #NT!
+ QUARIAN_CHR_nar_Taalari:0 "нар таалари" #NT!
+ QUARIAN_CHR_nar_Taakor:0 "нар Таакор" #NT!
+ QUARIAN_CHR_nar_Feworp:0 "нар Feworp" #NT!
+ QUARIAN_CHR_vas_Ceeram:0 "вас Ceeram" #NT!
+ QUARIAN_CHR_vas_Suji:0 "вас Суджи" #NT!
+ QUARIAN_CHR_vas_Tidin:0 "вас Тидин" #NT!
+ QUARIAN_CHR_vas_Zaama:0 "вас Заама" #NT!
+ QUARIAN_CHR_vas_Vedor:0 "вас Ведор" #NT!
+ QUARIAN_CHR_vas_Fonna:0 "Вас Фонна" #NT!
+ QUARIAN_CHR_nar_Hawib:0 "нар Хавиб" #NT!
+ QUARIAN_CHR_vas_Shaalarm:0 "вас Шааларм" #NT!
+ QUARIAN_CHR_vas_Suwib:0 "вас Сувиб" #NT!
+ QUARIAN_CHR_vas_Shizay:0 "вас Шизай" #NT!
+ QUARIAN_CHR_nar_Sefirn:0 "нар Сефирн" #NT!
+ QUARIAN_CHR_nar_Shaeron:0 "нар Шаерон" #NT!
+ QUARIAN_CHR_nar_Foyya:0 "нар Фойя" #NT!
+ QUARIAN_CHR_nar_Giron:0 "нар Хирон" #NT!
+ QUARIAN_CHR_nar_Veedoruk:0 "нар Ведорук" #NT!
+ QUARIAN_CHR_vas_Meeyya:0 "вас Мейя" #NT!
+ QUARIAN_CHR_nar_Teehala:0 "нар Тихала" #NT!
+ QUARIAN_CHR_nar_Cowa:0 "нар Кова" #NT!
+ QUARIAN_CHR_vas_Haavo:0 "вас Хааво" #NT!
+ QUARIAN_CHR_nar_Sichol:0 "нар Сичол" #NT!
+ QUARIAN_CHR_nar_Jaaraka:0 "нар Джаарака" #NT!
+ QUARIAN_CHR_vas_Shonna:0 "вас Шонна" #NT!
+ QUARIAN_CHR_vas_Yaaraka:0 "вас Яарака" #NT!
+ QUARIAN_CHR_nar_Cunil:0 "нар Кунил" #NT!
+ QUARIAN_CHR_nar_Haewal:0 "нар Хаевал" #NT!
+ QUARIAN_CHR_vas_Sogro:0 "вас Согро" #NT!
+ QUARIAN_CHR_nar_Fewib:0 "нар Февиб" #NT!
+ QUARIAN_CHR_vas_Leelazi:0 "вас Лиэлази" #NT!
+ QUARIAN_CHR_nar_Saedin:0 "нар Саедин" #NT!
+ QUARIAN_CHR_vas_Saejol:0 "вас Сэджол" #NT!
+ QUARIAN_CHR_vas_Zeevo:0 "вас Зеево" #NT!
+ QUARIAN_CHR_nar_Weevum:0 "нар Вивум" #NT!
+ QUARIAN_CHR_nar_Fiwan:0 "нар Фиван" #NT!
+ QUARIAN_CHR_vas_Wozal:0 "Вас Возал" #NT!
+ QUARIAN_CHR_vas_Mochol:0 "вас мохол" #NT!
+ QUARIAN_CHR_nar_Logro:0 "нар Логро" #NT!
+ QUARIAN_CHR_nar_Laavo:0 "нар Лааво" #NT!
+ QUARIAN_CHR_vas_Mesost:0 "вас Месост" #NT!
+ QUARIAN_CHR_vas_Weeca:0 "вас Вика" #NT!
+ QUARIAN_CHR_vas_Natalir:0 "вас Наталир" #NT!
+ QUARIAN_CHR_vas_Xudolor:0 "вас Ксудолор" #NT!
+ QUARIAN_CHR_vas_Faara:0 "вас Фаара" #NT!
+ QUARIAN_CHR_vas_Gewa:0 "вас Гева" #NT!
+ QUARIAN_CHR_nar_Sogro:0 "нар Согро" #NT!
+ QUARIAN_CHR_vas_Regro:0 "Вас Регро" #NT!
+ QUARIAN_CHR_vas_Xaaca:0 "вас Шаака" #NT!
+ QUARIAN_CHR_nar_Zaarah:0 "нар Заара" #NT!
+ QUARIAN_CHR_nar_Taevum:0 "нар Таевум" #NT!

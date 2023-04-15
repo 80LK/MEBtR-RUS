@@ -1,0 +1,107 @@
+﻿l_russian:
+ name_list_btr_vorcha:0 "Ворча" #NT!
+ VORCHA_SHIP_:0 ""
+ VORCHA_SHIP_Conasoob:0 "Конасуб" #NT!
+ VORCHA_SHIP_Bukashamesh:0 "Букашамеш" #NT!
+ VORCHA_SHIP_Bukashaman:0 "Букашаман" #NT!
+ VORCHA_SHIP_Borod:0 "Бород" #NT!
+ VORCHA_SHIP_Boodowit:0 "Будовит" #NT!
+ VORCHA_SHIP_Baubooshrat:0 "Баубушрат" #NT!
+ VORCHA_SHIP_Bathuc:0 "Батук" #NT!
+ VORCHA_SHIP_Badisut:0 "Бадисут" #NT!
+ VORCHA_SHIP_Ashei:0 "Ашей" #NT!
+ VORCHA_SHIP_Anun:0 "Анун" #NT!
+ VORCHA_SHIP_Annooce:0 "Объявить" #NT!
+ VORCHA_SHIP_Anin:0 "Анин" #NT!
+ VORCHA_SHIP_Amina:0 "Амина" #NT!
+ VORCHA_SHIP_Aeueece:0 "Ae-u-eece" #NT!
+ VORCHA_SHIP_Asssoyt:0 "Асс-сойт" #NT!
+ VORCHA_SHIP_Mamishet:0 "Мамишет" #NT!
+ VORCHA_SHIP_Magorun:0 "Magorun" #NT!
+ VORCHA_SHIP_Madyna:0 "Мадина" #NT!
+ VORCHA_SHIP_Kosweet:0 "Косвит" #NT!
+ VORCHA_SHIP_Kannabuch:0 "Каннабух" #NT!
+ VORCHA_SHIP_Gawzadun:0 "Гаузадун" #NT!
+ VORCHA_SHIP_Gadgemish:0 "Гаджемиш" #NT!
+ VORCHA_SHIP_Gaboweete:0 "Габовите" #NT!
+ VORCHA_SHIP_Emamooset:0 "Эмамусет" #NT!
+ VORCHA_SHIP_Eewa-en:0 "Ива-эн" #NT!
+ VORCHA_SHIP_Eesheet:0 "электронный лист" #NT!
+ VORCHA_SHIP_Edru:0 "Эдру" #NT!
+ VORCHA_SHIP_Edree:0 "Эдри" #NT!
+ VORCHA_SHIP_Dogajavick:0 "Доджавик" #NT!
+ VORCHA_SHIP_Deynyad:0 "Дейн-яд" #NT!
+ VORCHA_SHIP_Demasduit:0 "Демасдюит" #NT!
+ VORCHA_SHIP_Yeech:0 "Йич" #NT!
+ VORCHA_SHIP_Yeathun:0 "Йитун" #NT!
+ VORCHA_SHIP_Weshomesh:0 "Весхомеш" #NT!
+ VORCHA_SHIP_Waunathoake:0 "Уонатоук" #NT!
+ VORCHA_SHIP_Washewtch:0 "Стиралка" #NT!
+ VORCHA_SHIP_Theehone:0 "хон" #NT!
+ VORCHA_SHIP_Shapoth:0 "Ша'пот" #NT!
+ VORCHA_SHIP_Oubee:0 "Оби" #NT!
+ VORCHA_SHIP_Osuk:0 "Осук" #NT!
+ VORCHA_SHIP_Osthuk:0 "Остук" #NT!
+ VORCHA_SHIP_Odusweet:0 "Одусвит" #NT!
+ VORCHA_SHIP_Mokothut:0 "Мокотут" #NT!
+ VORCHA_SHIP_Moidewsee:0 "Мойдевзее" #NT!
+ VORCHA_SHIP_Mangarewius:0 "Мангаревиус" #NT!
+ VORCHA_SHIP_Mammadronit:0 "Маммадронит" #NT!
+ VORCHA_FLEET_Void_Devils_ORD:0 "Пустотные дьяволы" #NT!
+ VORCHA_xxWar_Pack_ORD:0 "$O$ Военный набор" #NT!
+ VORCHA_xxGuardian_Pack_ORD:0 "$O$ Пакет стража" #NT!
+ VORCHA_xxWarrior_Pack_ORD:0 "$O$ Набор воина" #NT!
+ VORCHA_xxBlood_Slaves_ORD:0 "$O$ Рабы крови" #NT!
+ VORCHA_xxFodder_Troop_ORD:0 "$O$ Кормовые войска" #NT!
+ VORCHA_xxVI_Troop_ORD:0 "$O$ VI Войска" #NT!
+ VORCHA_xxBiotic_Pack_ORD:0 "$O$ Биотический пакет" #NT!
+ VORCHA_xxBlood_Pack_ORD:0 "$O$ Пакет крови" #NT!
+ VORCHA_xxMutant_Pack_ORD:0 "$O$ Пакет мутантов" #NT!
+ VORCHA_CHR_Zathrook:0 "Затрук" #NT!
+ VORCHA_CHR_Woodch:0 "Вудч" #NT!
+ VORCHA_CHR_Woassut:0 "Уоас-сут" #NT!
+ VORCHA_CHR_Woaseeash:0 "Woas-eeash" #NT!
+ VORCHA_CHR_Woadthoowin:0 "Водтувин" #NT!
+ VORCHA_CHR_Wieith:0 "Вит" #NT!
+ VORCHA_CHR_Weenoun:0 "Weenun" #NT!
+ VORCHA_CHR_Wasemook:0 "Васемук" #NT!
+ VORCHA_CHR_Shedothun:0 "Шедотун" #NT!
+ VORCHA_CHR_Shebohoweet:0 "Шебоховит" #NT!
+ VORCHA_CHR_Shawatharott:0 "Шаватаротт" #NT!
+ VORCHA_CHR_Shanawdithit:0 "Шанаудитит" #NT!
+ VORCHA_CHR_Oodrat:0 "Удрат" #NT!
+ VORCHA_CHR_Odjet:0 "Оджет" #NT!
+ VORCHA_CHR_Odensook:0 "Оденсук" #NT!
+ VORCHA_CHR_Mozazeosh:0 "Мозазеош" #NT!
+ VORCHA_CHR_Mamshet:0 "Мамшет" #NT!
+ VORCHA_CHR_Mamishet:0 "Мамишет" #NT!
+ VORCHA_CHR_Magaraguis:0 "Магарагуис" #NT!
+ VORCHA_CHR_Madabooch:0 "Мадабуч" #NT!
+ VORCHA_CHR_Kius:0 "Киус" #NT!
+ VORCHA_CHR_Izzobauth:0 "Иззобаут" #NT!
+ VORCHA_CHR_Homedich:0 "Хомедич" #NT!
+ VORCHA_CHR_Gobidin:0 "Гобидин" #NT!
+ VORCHA_CHR_Emamoose:0 "Эмамуз" #NT!
+ VORCHA_CHR_Eeshoo:0 "Ишу" #NT!
+ VORCHA_CHR_Eenoaja:0 "Эноаха" #NT!
+ VORCHA_CHR_Eeg:0 "ЭЭГ" #NT!
+ VORCHA_CHR_Eed:0 "Эд" #NT!
+ VORCHA_CHR_Ebanthoo:0 "Эбанту" #NT!
+ VORCHA_CHR_Deedrashow:0 "Дед-рашоу" #NT!
+ VORCHA_CHR_Debine:0 "Дебине" #NT!
+ VORCHA_CHR_Dattomeish:0 "Даттомейш" #NT!
+ VORCHA_CHR_Corrasoob:0 "Коррасуб" #NT!
+ VORCHA_CHR_Bogodoret:0 "Богодорец" #NT!
+ VORCHA_CHR_Begodor:0 "Бегодор" #NT!
+ VORCHA_CHR_Bathue:0 "Батю" #NT!
+ VORCHA_CHR_Baroodisick:0 "Бародисик" #NT!
+ VORCHA_CHR_Ashaboo-uth:0 "Ашабу-ут" #NT!
+ VORCHA_CHR_Amet:0 "Амет" #NT!
+ VORCHA_CHR_Adobonee:0 "Адобони" #NT!
+ VORCHA_CHR_Adiab:0 "Адиаб" #NT!
+ VORCHA_CHR_Abideshook:0 "Абидешук" #NT!
+ VORCHA_CHR_Enamin:0 "Enamin" #NT!
+ VORCHA_CHR_Aduth:0 "Адут" #NT!
+ VORCHA_CHR_Aenamin:0 "Энамин" #NT!
+ VORCHA_CHR_A-enamin:0 "А-энамин" #NT!
+ VORCHA_CHR_Aaduth:0 "Аадут" #NT!

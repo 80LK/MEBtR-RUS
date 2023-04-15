@@ -1,6 +1,8 @@
 # Mass Effect: Beyond the Relays RUS
-
 This mod translates [Mass Effect: Beyond the Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2911033004) into Russian.
+Machine and manual translation.
+
+For Machine translation used [ModTranslationHelper](https://github.com/JuryReimis/ModTranslationHelper).
 
 ## Mod Order
 1. [Mass Effect: Beyond the Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2911033004)
@@ -9,7 +11,7 @@ This mod translates [Mass Effect: Beyond the Relays](https://steamcommunity.com/
 
 ## Links
 
-## Progress
+## Progress manual translation
 ### ME:BtR
 - [x] bta_main_l_russian.yml
 - [x] btr_map_scenarios_l_russian.yml

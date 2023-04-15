@@ -1,0 +1,139 @@
+﻿l_russian:
+ name_list_btr_collectors:0 "Коллекционеры" #NT!
+ COLLECTOR_SHIP_Combat_Vessel:0 "Боевой корабль" #NT!
+ COLLECTOR_SHIP_Seeker_Vessel:0 "Судно-искатель" #NT!
+ COLLECTOR_SHIP_Nester:0 "Нестер" #NT!
+ COLLECTOR_SHIP_Builder_Vessel:0 "Судно строителя" #NT!
+ COLLECTOR_SHIP_Carrier_Vessel:0 "Судно-перевозчик" #NT!
+ COLLECTOR_SHIP_Stationary_Defensive:0 "Стационарный Защитный" #NT!
+ COLLECTOR_SHIP_Ion_Defensive:0 "Ионная оборона" #NT!
+ Type_Omega:0 "Омега" #NT!
+ Type_Psi:0 "Пси" #NT!
+ Type_Chi:0 "Чи" #NT!
+ Type_Phi:0 "Фи" #NT!
+ Type_Upsilon:0 "Ипсилон" #NT!
+ Type_Tau:0 "Тау" #NT!
+ Type_Sigma:0 "Сигма" #NT!
+ Type_Rho:0 "Ро" #NT!
+ Type_Pi:0 "Пи" #NT!
+ Type_Omicron:0 "Омикрон" #NT!
+ Type_Xi:0 "Си" #NT!
+ Type_Nu:0 "Ню" #NT!
+ Type_Mu:0 "Му" #NT!
+ Type_Lambda:0 "лямбда" #NT!
+ Type_Kappa:0 "Каппа" #NT!
+ Type_Iota:0 "Йота" #NT!
+ Type_Theta:0 "Тета" #NT!
+ Type_Eta:0 "Эта" #NT!
+ Type_Zeta:0 "Зета" #NT!
+ Type_Epsilon:0 "Эпсилон" #NT!
+ Type_Delta:0 "Дельта" #NT!
+ Type_Gamma:0 "Гамма" #NT!
+ Type_Beta:0 "Бета" #NT!
+ Type_Alpha:0 "Альфа" #NT!
+ COLLECTOR_FLEET_Rancorous_Swarm:0 "Злобный рой" #NT!
+ COLLECTOR_FLEET_Pitiless_Swarm:0 "Безжалостный рой" #NT!
+ COLLECTOR_FLEET_Merciless_Swarm:0 "Безжалостный рой" #NT!
+ COLLECTOR_FLEET_Pestilent_Swarm:0 "Ядовитый рой" #NT!
+ COLLECTOR_FLEET_Baleful_Swarm:0 "Зловещий рой" #NT!
+ COLLECTOR_FLEET_Ceaseless_Swarm:0 "Бесконечный рой" #NT!
+ COLLECTOR_FLEET_Teeming_Swarm:0 "Кишащий рой" #NT!
+ COLLECTOR_FLEET_Thundering_Swarm:0 "Громовой рой" #NT!
+ COLLECTOR_FLEET_Charging_Swarm:0 "Зарядный рой" #NT!
+ COLLECTOR_FLEET_Stalking_Swarm:0 "Преследующий рой" #NT!
+ COLLECTOR_FLEET_Rushing_Swarm:0 "Мчащийся рой" #NT!
+ COLLECTOR_FLEET_Gorging_Swarm:0 "Пожирающий рой" #NT!
+ COLLECTOR_FLEET_Devastating_Swarm:0 "Разрушительный рой" #NT!
+ COLLECTOR_FLEET_Ravaging_Swarm:0 "Опустошающий рой" #NT!
+ COLLECTOR_FLEET_Ravenous_Swarm:0 "Хищный рой" #NT!
+ COLLECTOR_FLEET_Howling_Swarm:0 "Воющий рой" #NT!
+ COLLECTOR_xxCOMBAT_SWARM_ORD:0 "$O$ Боевой рой" #NT!
+ COLLECTORS_xxHive_Defenders_ORD:0 "$O$ Защитники улья" #NT!
+ COLLECTORS_xxAggressors_ORD:0 "$O$ Агрессоры" #NT!
+ COLLECTORS_xxSlave_Warrior_Drones_ORD:0 "$O$ Рабские дроны-воины" #NT!
+ COLLECTORS_xxCloned_Warrior_Drones_ORD:0 "$O$ Клонированные дроны-воины" #NT!
+ COLLECTORS_xxDread_Drones_ORD:0 "$O$ Ужасные дроны" #NT!
+ COLLECTORS_xxRobotic_Warrior_Drones_ORD:0 "$O$ Роботизированные дроны-воины" #NT!
+ COLLECTORS_xxRobotic_Defense_Drones_ORD:0 "$O$ Роботизированные защитные дроны" #NT!
+ COLLECTORS_xxPsi_Warrior_Drones_ORD:0 "$O$ Пси-дроны-воины" #NT!
+ COLLECTORS_xxMorphed_Warrior_Drones_ORD:0 "$O$ Трансформированные дроны-воины" #NT!
+ COLLECTORS_xxEnhanced_Warrior_Drones_ORD:0 "$O$ Улучшенные дроны-воины" #NT!
+ COLLECTORS_xxPrimitive_Army_ORD:0 "$O$ Примитивная армия" #NT!
+ COLLECTORS_xxIndustrial_Army_ORD:0 "$O$ Промышленная армия" #NT!
+ COLLECTORS_xxPost-Atomic_Army_ORD:0 "$O$ Постватомная армия" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_74:0 "Автономный дрон 74" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_73:0 "Автономный дрон 73" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_72:0 "Автономный дрон 72" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_71:0 "Автономный дрон 71" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_70:0 "Автономный дрон 70" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_69:0 "Автономный дрон 69" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_68:0 "Автономный дрон 68" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_67:0 "Автономный дрон 67" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_66:0 "Автономный дрон 66" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_65:0 "Автономный дрон 65" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_64:0 "Автономный дрон 64" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_63:0 "Автономный дрон 63" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_62:0 "Автономный дрон 62" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_61:0 "Автономный дрон 61" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_60:0 "Автономный дрон 60" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_59:0 "Автономный дрон 59" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_58:0 "Автономный дрон 58" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_57:0 "Автономный дрон 57" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_56:0 "Автономный дрон 56" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_55:0 "Автономный дрон 55" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_54:0 "Автономный дрон 54" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_53:0 "Автономный дрон 53" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_52:0 "Автономный дрон 52" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_51:0 "Автономный дрон 51" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_50:0 "Автономный дрон 50" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_49:0 "Автономный дрон 49" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_48:0 "Автономный дрон 48" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_47:0 "Автономный дрон 47" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_46:0 "Автономный дрон 46" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_45:0 "Автономный дрон 45" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_44:0 "Автономный дрон 44" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_43:0 "Автономный дрон 43" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_42:0 "Автономный дрон 42" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_41:0 "Автономный дрон 41" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_40:0 "Автономный дрон 40" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_39:0 "Автономный дрон 39" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_38:0 "Автономный дрон 38" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_37:0 "Автономный дрон 37" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_36:0 "Автономный дрон 36" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_35:0 "Автономный дрон 35" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_34:0 "Автономный дрон 34" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_33:0 "Автономный дрон 33" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_32:0 "Автономный дрон 32" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_31:0 "Автономный дрон 31" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_30:0 "Автономный дрон 30" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_29:0 "Автономный дрон 29" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_28:0 "Автономный дрон 28" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_27:0 "Автономный дрон 27" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_26:0 "Автономный дрон 26" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_25:0 "Автономный дрон 25" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_24:0 "Автономный дрон 24" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_23:0 "Автономный дрон 23" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_22:0 "Автономный дрон 22" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_21:0 "Автономный дрон 21" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_20:0 "Автономный дрон 20" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_19:0 "Автономный дрон 19" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_18:0 "Автономный дрон 18" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_17:0 "Автономный дрон 17" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_16:0 "Автономный дрон 16" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_15:0 "Автономный дрон 15" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_14:0 "Автономный дрон 14" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_13:0 "Автономный дрон 13" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_12:0 "Автономный дрон 12" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_11:0 "Автономный дрон 11" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_10:0 "Автономный дрон 10" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_9:0 "Автономный дрон 9" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_8:0 "Автономный дрон 8" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_7:0 "Автономный дрон 7" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_6:0 "Автономный дрон 6" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_5:0 "Автономный дрон 5" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_4:0 "Автономный дрон 4" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_3:0 "Автономный дрон 3" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_2:0 "Автономный дрон 2" #NT!
+ COLLECTOR_CHR_Autonomous_Drone_1:0 "Автономный дрон 1" #NT!
+ COLLECTOR_CHR_Consciousness:0 "Сознание" #NT!
+ COLLECTOR_CHR_Synaptic_Nexus:0 "Синаптический Нексус" #NT!
