@@ -70,3 +70,4 @@ For Machine translation used [ModTranslationHelper](https://github.com/JuryReimi
 - [x] mebtrfix_l_russian.yml
 - [x] mebtrfix_standard_l_russian.yml
 - [x] mebtrfix_loading_tips_l_russian.yml
+- [ ] mebtrfix_missing_l_russian.yml
