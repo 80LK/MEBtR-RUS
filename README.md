@@ -10,6 +10,7 @@ For Machine translation used [ModTranslationHelper](https://github.com/JuryReimi
 2. Mass Effect: Beyond the Relays RUS
 
 ## Links
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2962477889)
 
 ## Progress manual translation
 ### ME:BtR
