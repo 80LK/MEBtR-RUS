@@ -14,7 +14,7 @@ For Machine translation used [ModTranslationHelper](https://github.com/JuryReimi
 
 ## Progress manual translation
 ### ME:BtR
-- [x] bta_main_l_russian.yml
+- [x] btr_main_l_russian.yml
 - [x] btr_map_scenarios_l_russian.yml
 - [x] btr_prescripted_l_russian.yml
 - [ ] bta_empire_events_l_russian.yml
