@@ -1,4 +1,3 @@
 ﻿l_russian:
-
- edict_drell_evacuation_protocols:0 "Протоколы эвакуации" #NT!
- edict_drell_evacuation_protocols_desc:0 "Рахкана потеряна, Мы должны принять нашу неудачу и основать новый дом среди звезд. Приготовьтесь эвакуировать наш родной мир»." #NT!
+  edict_drell_evacuation_protocols: "Протоколы эвакуации"
+  edict_drell_evacuation_protocols_desc: "Рахкана потеряна, Мы должны принять нашу неудачу и основать новый дом среди звезд. Приготовьтесь эвакуировать наш родной мир»."

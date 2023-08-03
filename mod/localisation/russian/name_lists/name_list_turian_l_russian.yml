@@ -1,686 +1,686 @@
 ﻿l_russian:
-    name_list_btr_turian:0 "турианец" #NT!
-    TURIAN_SHIP_Posmius:0 "Посмий" #NT!
-    TURIAN_SHIP_Galgius:0 "Галгиус" #NT!
-    TURIAN_SHIP_Canlinus:0 "Канлинус" #NT!
-    TURIAN_SHIP_Nartis:0 "Нартис" #NT!
-    TURIAN_SHIP_Tibetis:0 "Тибет" #NT!
-    TURIAN_SHIP_Canril:0 "Канрил" #NT!
-    TURIAN_SHIP_Indril:0 "Индрил" #NT!
-    TURIAN_SHIP_Mutiraka:0 "Мутирака" #NT!
-    TURIAN_SHIP_Potvus:0 "Потвус" #NT!
-    TURIAN_SHIP_Heriius:0 "Хериус" #NT!
-    TURIAN_SHIP_Flaviter:0 "Флавитер" #NT!
-    TURIAN_SHIP_Juveteia:0 "Ювеция" #NT!
-    TURIAN_SHIP_Lupirius:0 "Люпириус" #NT!
-    TURIAN_SHIP_Caesis:0 "Цесис" #NT!
-    TURIAN_SHIP_Veraria:0 "Верария" #NT!
-    TURIAN_SHIP_Quinculus:0 "Квинкулус" #NT!
-    TURIAN_SHIP_Maxiso:0 "Максисо" #NT!
-    TURIAN_SHIP_Numso:0 "Нумсо" #NT!
-    TURIAN_SHIP_Decter:0 "Дектер" #NT!
-    TURIAN_SHIP_Hilmus:0 "Хилмус" #NT!
-    TURIAN_SHIP_Muticius:0 "Мутичий" #NT!
-    TURIAN_SHIP_Calpodonis:0 "Кальподонис" #NT!
-    TURIAN_SHIP_Vitasis:0 "Витасис" #NT!
-    TURIAN_SHIP_Adjunion:0 "Дополнение" #NT!
-    TURIAN_SHIP_Saloana:0 "Салоана" #NT!
-    TURIAN_SHIP_Gorril:0 "Горрил" #NT!
-    TURIAN_SHIP_Quascus:0 "Кваск" #NT!
-    TURIAN_SHIP_Pottus:0 "Поттус" #NT!
-    TURIAN_SHIP_Caena:0 "Кана" #NT!
-    TURIAN_SHIP_Hoso:0 "Хосо" #NT!
-    TURIAN_SHIP_Seimia:0 "Seimia" #NT!
-    TURIAN_SHIP_Furimia:0 "Furimia" #NT!
-    TURIAN_SHIP_Ignacus:0 "Игнакус" #NT!
-    TURIAN_SHIP_Varilin:0 "Варилин" #NT!
-    TURIAN_SHIP_Flotion:0 "Флотион" #NT!
-    TURIAN_SHIP_Caeion:0 "Цейон" #NT!
-    TURIAN_SHIP_Dardaraka:0 "Дардарака" #NT!
-    TURIAN_SHIP_Vibiruns:0 "Вибируны" #NT!
-    TURIAN_SHIP_Gaibius:0 "Gaibius" #NT!
-    TURIAN_SHIP_Cailio:0 "Кайлио" #NT!
-    TURIAN_SHIP_Victolin:0 "Виктолин" #NT!
-    TURIAN_SHIP_Capiril:0 "Капирил" #NT!
-    TURIAN_SHIP_Regipanus:0 "Регипанус" #NT!
-    TURIAN_SHIP_Protacius:0 "Протаций" #NT!
-    TURIAN_SHIP_Murmus:0 "Мурмус" #NT!
-    TURIAN_SHIP_Kaemus:0 "Кемус" #NT!
-    TURIAN_SHIP_Cnaena:0 "Кнаена" #NT!
-    TURIAN_SHIP_Sieus:0 "Сиеус" #NT!
-    TURIAN_SHIP_Postitis:0 "Постит" #NT!
-    TURIAN_SHIP_Caepdas:0 "Каепдас" #NT!
-    TURIAN_SHIP_Lacidia:0 "Лацидия" #NT!
-    TURIAN_SHIP_Varrinus:0 "Варринус" #NT!
-    TURIAN_SHIP_Eudonian:0 "евдонский" #NT!
-    TURIAN_SHIP_Garinianus:0 "Гариниан" #NT!
-    TURIAN_SHIP_Bellanianus:0 "Белланианус" #NT!
-    TURIAN_SHIP_Quaril:0 "Кварил" #NT!
-    TURIAN_SHIP_Varetia:0 "Вареция" #NT!
-    TURIAN_SHIP_Cicesia:0 "Цикезия" #NT!
-    TURIAN_SHIP_Velinion:0 "Велинион" #NT!
-    TURIAN_SHIP_Furiponia:0 "Furiponia" #NT!
-    TURIAN_SHIP_Septivea:0 "Септивея" #NT!
-    TURIAN_SHIP_Senria:0 "Senria" #NT!
-    TURIAN_SHIP_Habscus:0 "Габск" #NT!
-    TURIAN_SHIP_Hortenso:0 "Гортенсо" #NT!
-    TURIAN_SHIP_:0 "ВЧВ" #NT!
-    TURIAN_SHIP_Fera:0 "Фера" #NT!
-    TURIAN_SHIP_Gladius:0 "Гладиус" #NT!
-    TURIAN_SHIP_Ferox:0 "Ферокс" #NT!
-    TURIAN_SHIP_Fidelis:0 "Фиделис" #NT!
-    TURIAN_SHIP_Errans:0 "Эрранс" #NT!
-    TURIAN_SHIP_Deterrens:0 "Сдерживающие факторы" #NT!
-    TURIAN_SHIP_Manuballista:0 "Манубаллиста" #NT!
-    TURIAN_SHIP_Ascia:0 "Ассия" #NT!
-    TURIAN_SHIP_Spatha:0 "Спата" #NT!
-    TURIAN_SHIP_Chimaera:0 "Chimaera" #NT!
-    TURIAN_SHIP_Cherub:0 "Херувим" #NT!
-    TURIAN_SHIP_Pulsatrix:0 "пульсатрикс" #NT!
-    TURIAN_SHIP_Sagitta:0 "Стрелец" #NT!
-    TURIAN_SHIP_Arcaria:0 "Аркария" #NT!
-    TURIAN_SHIP_Agilis:0 "Агилис" #NT!
-    TURIAN_SHIP_Strategema:0 "Стратегема" #NT!
-    TURIAN_SHIP_Persecutrix:0 "преследовательница" #NT!
-    TURIAN_SHIP_Ignitrix:0 "Игнитрикс" #NT!
-    TURIAN_SHIP_Serpens:0 "Змеи" #NT!
-    TURIAN_SHIP_Seraphin:0 "Серафин" #NT!
-    TURIAN_SHIP_Scinditrix:0 "Сциндитрикс" #NT!
-    TURIAN_SHIP_Victrix:0 "Виктрикс" #NT!
-    TURIAN_SHIP_Suprema:0 "Супрема" #NT!
-    TURIAN_SHIP_Taciturna:0 "молчаливый" #NT!
-    TURIAN_SHIP_Venenosa:0 "Вененоса" #NT!
-    TURIAN_SHIP_Venerabilis:0 "Венерабилис" #NT!
-    TURIAN_SHIP_Vindicatrix:0 "Виндикатрис" #NT!
-    TURIAN_SHIP_Venatrix:0 "Венатрикс" #NT!
-    TURIAN_SHIP_Velox:0 "Велокс" #NT!
-    TURIAN_SHIP_Vampyrus:0 "Вампирус" #NT!
-    TURIAN_SHIP_Malleus:0 "Молоточек" #NT!
-    TURIAN_SHIP_Corvus:0 "Корвус" #NT!
-    TURIAN_SHIP_Eques:0 "Экес" #NT!
-    TURIAN_SHIP_Hasta:0 "Хаста" #NT!
-    TURIAN_SHIP_Indignans:0 "Возмущенные" #NT!
-    TURIAN_SHIP_Myrmidon:0 "Мирмидон" #NT!
-    TURIAN_SHIP_Incomparabilis:0 "несравненный" #NT!
-    TURIAN_SHIP_Persistens:0 "сохраняется" #NT!
-    TURIAN_SHIP_Prudens:0 "Пруденс" #NT!
-    TURIAN_SHIP_Rapperia:0 "Раперия" #NT!
-    TURIAN_SHIP_Prodiga:0 "Продига" #NT!
-    TURIAN_SHIP_Raptrix:0 "Раптрикс" #NT!
-    TURIAN_SHIP_Formidabilis:0 "Формидабилис" #NT!
-    TURIAN_SHIP_Nuntius:0 "Нунций" #NT!
-    TURIAN_SHIP_Falx:0 "Серп" #NT!
-    TURIAN_SHIP_Flagellum:0 "жгутик" #NT!
-    TURIAN_SHIP_Cymitharra:0 "Кимитарра" #NT!
-    TURIAN_SHIP_Fortunata:0 "Фортуната" #NT!
-    TURIAN_SHIP_Malleatrix:0 "Маллеатрикс" #NT!
-    TURIAN_SHIP_Eclipsis:0 "Затмение" #NT!
-    TURIAN_SHIP_Seria:0 "Серия" #NT!
-    TURIAN_SHIP_Diadema:0 "Диадема" #NT!
-    TURIAN_SHIP_Dextra:0 "Декстра" #NT!
-    TURIAN_SHIP_Decretoria:0 "Декретория" #NT!
-    TURIAN_SHIP_Cyclon:0 "Циклон" #NT!
-    TURIAN_SHIP_Ordalia:0 "Ордалия" #NT!
-    TURIAN_SHIP_Cometa:0 "Комета" #NT!
-    TURIAN_SHIP_Quadriga:0 "Квадрига" #NT!
-    TURIAN_SHIP_Caelestialis:0 "Целестиалис" #NT!
-    TURIAN_SHIP_Remissa:0 "Ремисс" #NT!
-    TURIAN_SHIP_Pirata:0 "Пирата" #NT!
-    TURIAN_SHIP_Pugil:0 "Пугил" #NT!
-    TURIAN_SHIP_Adventura:0 "Приключения" #NT!
-    TURIAN_SHIP_Bonaventura:0 "Бонавентура" #NT!
-    TURIAN_SHIP_Lupa:0 "Лупа" #NT!
-    TURIAN_SHIP_Diligens:0 "Дилигенс" #NT!
-    TURIAN_SHIP_Mixta:0 "Микста" #NT!
-    TURIAN_SHIP_Miranda:0 "Миранда" #NT!
-    TURIAN_SHIP_Ministerialis:0 "Министериалис" #NT!
-    TURIAN_SHIP_Meteorum:0 "Метеорум" #NT!
-    TURIAN_SHIP_Sirena:0 "Сирена" #NT!
-    TURIAN_SHIP_Nympha:0 "Нимфа" #NT!
-    TURIAN_SHIP_Mediatrix:0 "Медиатрикс" #NT!
-    TURIAN_SHIP_Magia:0 "Магия" #NT!
-    TURIAN_SHIP_Fulgur:0 "Фульгур" #NT!
-    TURIAN_SHIP_Lanciarius:0 "Ланциарий" #NT!
-    TURIAN_SHIP_Jubilans:0 "Джубиланс" #NT!
-    TURIAN_SHIP_Typhon:0 "Тифон" #NT!
-    TURIAN_SHIP_Calcar:0 "Калкар" #NT!
-    TURIAN_SHIP_Horizon:0 "Горизонт" #NT!
-    TURIAN_SHIP_Gryphus:0 "Грифус" #NT!
-    TURIAN_SHIP_Manica:0 "Маника" #NT!
-    TURIAN_SHIP_Malitia:0 "Малиция" #NT!
-    TURIAN_SHIP_Contundor:0 "Контундор" #NT!
-    TURIAN_SHIP_Unica:0 "Уника" #NT!
-    TURIAN_SHIP_Infernalis:0 "Инферналис" #NT!
-    TURIAN_SHIP_Impeccabilis:0 "Импеккабилис" #NT!
-    TURIAN_SHIP_Justitia:0 "Юстиция" #NT!
-    TURIAN_SHIP_Venator:0 "Венатор" #NT!
-    TURIAN_SHIP_Heros:0 "Герои" #NT!
-    TURIAN_SHIP_Naufragium:0 "Науфрагиум" #NT!
-    TURIAN_SHIP_Strages:0 "Стражей" #NT!
-    TURIAN_SHIP_Officium:0 "Официальный" #NT!
-    TURIAN_SHIP_Pertinax:0 "Пертинакс" #NT!
-    TURIAN_SHIP_Audax:0 "Аудакс" #NT!
-    TURIAN_SHIP_Sica:0 "Сика" #NT!
-    TURIAN_SHIP_Sicarius:0 "Сикарий" #NT!
-    TURIAN_SHIP_Adversarius:0 "Адверсариус" #NT!
-    TURIAN_SHIP_Centaurus:0 "Центавр" #NT!
-    TURIAN_SHIP_Cyclops:0 "Циклоп" #NT!
-    TURIAN_SHIP_Verrikan:0 "Веррикан" #NT!
-    TURIAN_SHIP_Havincaw:0 "Хавинкоу" #NT!
-    TURIAN_SHIP_Minotauros:0 "Минотавры" #NT!
-    TURIAN_SHIP_Triturator:0 "Тритуратор" #NT!
-    TURIAN_SHIP_Terror:0 "Террор" #NT!
-    TURIAN_SHIP_Terminator:0 "Терминатор" #NT!
-    TURIAN_SHIP_Invidiosus:0 "Инвидиос" #NT!
-    TURIAN_SHIP_Malignus:0 "Малигнус" #NT!
-    TURIAN_SHIP_Atrox:0 "Атрокс" #NT!
-    TURIAN_SHIP_Vindex:0 "Виндекс" #NT!
-    TURIAN_SHIP_Ultor:0 "Ультор" #NT!
-    TURIAN_SHIP_Punitor:0 "Каратель" #NT!
-    TURIAN_SHIP_Potens:0 "Потенс" #NT!
-    TURIAN_SHIP_Praedator:0 "Хищник" #NT!
-    TURIAN_SHIP_Civis:0 "Цивис" #NT!
-    TURIAN_SHIP_Imperator:0 "Император" #NT!
-    TURIAN_SHIP_Maleficium:0 "Малефициум" #NT!
-    TURIAN_SHIP_Pestis:0 "Пестис" #NT!
-    TURIAN_SHIP_Immisericors:0 "Иммисерикорс" #NT!
-    TURIAN_SHIP_Immitis:0 "Иммитис" #NT!
-    TURIAN_SHIP_Minax:0 "Минакс" #NT!
-    TURIAN_SHIP_Redemptio:0 "Искупление" #NT!
-    TURIAN_SHIP_Rapidus:0 "Рапидус" #NT!
-    TURIAN_SHIP_Caelestis:0 "Целестис" #NT!
-    TURIAN_SHIP_Arcus:0 "Аркус" #NT!
-    TURIAN_SHIP_Incursor:0 "Инкурсор" #NT!
-    TURIAN_SHIP_Secutor:0 "секутор" #NT!
-    TURIAN_SHIP_Stylus:0 "Стилус" #NT!
-    TURIAN_SHIP_Phoenix:0 "Феникс" #NT!
-    TURIAN_SHIP_Phantasma:0 "Фантазма" #NT!
-    TURIAN_SHIP_Petulans:0 "петуланы" #NT!
-    TURIAN_SHIP_Zelus:0 "Зелус" #NT!
-    TURIAN_SHIP_Studiosus:0 "Студиос" #NT!
-    TURIAN_SHIP_Lycanthropus:0 "Ликантроп" #NT!
-    TURIAN_SHIP_Versipellis:0 "Версипеллис" #NT!
-    TURIAN_SHIP_Invictus:0 "Инвиктус" #NT!
-    TURIAN_SHIP_Vexator:0 "Вексатор" #NT!
-    TURIAN_SHIP_Hydra:0 "Гидра" #NT!
-    TURIAN_SHIP_Intrusus:0 "Интрузия" #NT!
-    TURIAN_SHIP_Interdictor:0 "Интердиктор" #NT!
-    TURIAN_SHIP_Mantichora:0 "Мантихора" #NT!
-    TURIAN_SHIP_Resistens:0 "сопротивляется" #NT!
-    TURIAN_SHIP_Admissarius:0 "Адмисарий" #NT!
-    TURIAN_SHIP_Splendidus:0 "Сплендидус" #NT!
-    TURIAN_SHIP_Spiritus:0 "Спиритус" #NT!
-    TURIAN_SHIP_Spectrum:0 "Спектр" #NT!
-    TURIAN_SHIP_Summitas:0 "Саммитас" #NT!
-    TURIAN_SHIP_Maga:0 "Мага" #NT!
-    TURIAN_SHIP_Circe:0 "Цирцея" #NT!
-    TURIAN_SHIP_Sceptrum:0 "Скипетр" #NT!
-    TURIAN_SHIP_Scarabaeus:0 "Скарабей" #NT!
-    TURIAN_SHIP_Sanguineus:0 "Сангвиней" #NT!
-    TURIAN_SHIP_Salvatio:0 "Сальватио" #NT!
-    TURIAN_SHIP_Machaera:0 "Махаера" #NT!
-    TURIAN_SHIP_Robustus:0 "Робуст" #NT!
-    TURIAN_SHIP_Strictus:0 "Строгий" #NT!
-    TURIAN_SHIP_Superbus:0 "Суперавтобус" #NT!
-    TURIAN_SHIP_Implacabilis:0 "Имплакабилис" #NT!
-    TURIAN_SHIP_Pius:0 "Пий" #NT!
-    TURIAN_SHIP_Efficax:0 "Эффикакс" #NT!
-    TURIAN_SHIP_Indefatigabilis:0 "Неутомимый" #NT!
-    TURIAN_SHIP_Tonitralis:0 "Тонитралис" #NT!
-    TURIAN_SHIP_Jovis:0 "Джовис" #NT!
-    TURIAN_SHIP_Filius:0 "Филиус" #NT!
-    TURIAN_SHIP_Tenax:0 "Тенакс" #NT!
-    TURIAN_SHIP_Taurus:0 "Телец" #NT!
-    TURIAN_SHIP_Unguis:0 "Унгуис" #NT!
-    TURIAN_SHIP_Fascinum:0 "Фасцинум" #NT!
-    TURIAN_SHIP_Ingenium:0 "Ингениум" #NT!
-    TURIAN_SHIP_Talentum:0 "Талантум" #NT!
-    TURIAN_SHIP_Miraculum:0 "Чудо" #NT!
-    TURIAN_SHIP_Supernova:0 "Сверхновая" #NT!
-    TURIAN_SHIP_Strenuus:0 "Стренуус" #NT!
-    TURIAN_SHIP_Firmus:0 "Фирмус" #NT!
-    TURIAN_SHIP_Charybdis:0 "Харибда" #NT!
-    TURIAN_SHIP_Castor:0 "Кастор" #NT!
-    TURIAN_SHIP_Calypso:0 "Калипсо" #NT!
-    TURIAN_SHIP_Calliope:0 "Каллиопа" #NT!
-    TURIAN_SHIP_Bucephalus:0 "Буцефал" #NT!
-    TURIAN_SHIP_Bacchus:0 "Бахус" #NT!
-    TURIAN_SHIP_Avernus:0 "Авернус" #NT!
-    TURIAN_SHIP_Aurora:0 "Аврора" #NT!
-    TURIAN_SHIP_Argus:0 "Аргус" #NT!
-    TURIAN_SHIP_Argonauta:0 "Аргонавта" #NT!
-    TURIAN_SHIP_Aeolus:0 "Эол" #NT!
-    TURIAN_SHIP_Auster:0 "Остер" #NT!
-    TURIAN_SHIP_Favonius:0 "Фавоний" #NT!
-    TURIAN_SHIP_Aquilon:0 "Аквилон" #NT!
-    TURIAN_SHIP_Amphion:0 "Амфион" #NT!
-    TURIAN_SHIP_Agamemnon:0 "Агамемнон" #NT!
-    TURIAN_SHIP_Achilles:0 "Ахиллес" #NT!
-    TURIAN_SHIP_Acheron:0 "Ахерон" #NT!
-    TURIAN_SHIP_Sevrum:0 "Севрум" #NT!
-    TURIAN_SHIP_Anixara:0 "Аниксара" #NT!
-    TURIAN_SHIP_Kara:0 "Кара" #NT!
-    TURIAN_SHIP_Hecate:0 "Геката" #NT!
-    TURIAN_SHIP_Alcyone:0 "Альциона" #NT!
-    TURIAN_SHIP_Gorgon:0 "Горгона" #NT!
-    TURIAN_SHIP_Hercules:0 "Геракл" #NT!
-    TURIAN_SHIP_Bellona:0 "Беллона" #NT!
-    TURIAN_SHIP_Luperca:0 "Луперка" #NT!
-    TURIAN_SHIP_Erebus:0 "Эребус" #NT!
-    TURIAN_SHIP_Endymion:0 "Эндимион" #NT!
-    TURIAN_SHIP_Electra:0 "Электра" #NT!
-    TURIAN_SHIP_Dryades:0 "Дриады" #NT!
-    TURIAN_SHIP_Diomede:0 "Диомид" #NT!
-    TURIAN_SHIP_Darius:0 "Дариус" #NT!
-    TURIAN_SHIP_Daedalus:0 "Дедал" #NT!
-    TURIAN_SHIP_Damocles:0 "Дамокл" #NT!
-    TURIAN_SHIP_Cyrus:0 "Сайрус" #NT!
-    TURIAN_SHIP_Cordelia:0 "Корделия" #NT!
-    TURIAN_SHIP_Constantinus:0 "Константин" #NT!
-    TURIAN_SHIP_Cleopatra:0 "Клеопатра" #NT!
-    TURIAN_SHIP_Minerva:0 "Минерва" #NT!
-    TURIAN_SHIP_Mercurius:0 "Меркурий" #NT!
-    TURIAN_SHIP_Menestheus:0 "Менесфей" #NT!
-    TURIAN_SHIP_Medusa:0 "Медуза" #NT!
-    TURIAN_SHIP_Medea:0 "Медея" #NT!
-    TURIAN_SHIP_Mars:0 "Марс" #NT!
-    TURIAN_SHIP_Maenas:0 "Менас" #NT!
-    TURIAN_SHIP_Lysander:0 "Лизандр" #NT!
-    TURIAN_SHIP_Leonidas:0 "Леонидас" #NT!
-    TURIAN_SHIP_Leander:0 "Леандер" #NT!
-    TURIAN_SHIP_Lazarus:0 "Лазарь" #NT!
-    TURIAN_SHIP_Horatius:0 "Гораций" #NT!
-    TURIAN_SHIP_Juppiter:0 "Юпитер" #NT!
-    TURIAN_SHIP_Juno:0 "Юнона" #NT!
-    TURIAN_SHIP_Jason:0 "Джейсон" #NT!
-    TURIAN_SHIP_Janus:0 "Янус" #NT!
-    TURIAN_SHIP_Hesperus:0 "Геспер" #NT!
-    TURIAN_SHIP_Hector:0 "Гектор" #NT!
-    TURIAN_SHIP_Cassandra:0 "Кассандра" #NT!
-    TURIAN_SHIP_Terminus:0 "Конечная остановка" #NT!
-    TURIAN_SHIP_Maximus:0 "Максимус" #NT!
-    TURIAN_SHIP_Optimus:0 "Оптимус" #NT!
-    TURIAN_SHIP_Stator:0 "статор" #NT!
-    TURIAN_SHIP_Oberon:0 "Оберон" #NT!
-    TURIAN_SHIP_Niobe:0 "Ниоба" #NT!
-    TURIAN_SHIP_Nestor:0 "Нестор" #NT!
-    TURIAN_SHIP_Nessus:0 "Несс" #NT!
-    TURIAN_SHIP_Neptunus:0 "Нептун" #NT!
-    TURIAN_SHIP_Minos:0 "Минос" #NT!
-    TURIAN_SHIP_Fine:0 "Отлично" #NT!
-    TURIAN_SHIP_Sine:0 "Синус" #NT!
-    TURIAN_SHIP_Poseidon:0 "Посейдон" #NT!
-    TURIAN_SHIP_Pluto:0 "Плутон" #NT!
-    TURIAN_SHIP_Phoebe:0 "Фиби" #NT!
-    TURIAN_SHIP_Perseus:0 "Персей" #NT!
-    TURIAN_SHIP_Persephone:0 "Персефона" #NT!
-    TURIAN_SHIP_Penelope:0 "Пенелопа" #NT!
-    TURIAN_SHIP_Pandora:0 "Пандора" #NT!
-    TURIAN_SHIP_Osiris:0 "Осирис" #NT!
-    TURIAN_SHIP_Orpheus:0 "Орфей" #NT!
-    TURIAN_SHIP_Orestes:0 "Орест" #NT!
-    TURIAN_SHIP_Ceres:0 "Церера" #NT!
-    TURIAN_SHIP_Quirinus:0 "Квиринус" #NT!
-    TURIAN_SHIP_Vesta:0 "Веста" #NT!
-    TURIAN_SHIP_Archon:0 "Архонт" #NT!
-    TURIAN_SHIP_Augustus:0 "Август" #NT!
-    TURIAN_SHIP_Venus:0 "Венера" #NT!
-    TURIAN_SHIP_Triton:0 "Тритон" #NT!
-    TURIAN_SHIP_Trajanus:0 "Траян" #NT!
-    TURIAN_SHIP_Theseus:0 "Тесей" #NT!
-    TURIAN_SHIP_Telemachus:0 "Телемах" #NT!
-    TURIAN_SHIP_Tantalus:0 "Тантал" #NT!
-    TURIAN_SHIP_Styx:0 "Стикс" #NT!
-    TURIAN_SHIP_Serapis:0 "Серапис" #NT!
-    TURIAN_SHIP_Pylades:0 "Пилады" #NT!
-    TURIAN_SHIP_Proteus:0 "Протей" #NT!
-    TURIAN_SHIP_Romulus:0 "Ромул" #NT!
-    TURIAN_SHIP_Volturnus:0 "Вольтурн" #NT!
-    TURIAN_SHIP_Excelsior:0 "Эксельсиор" #NT!
-    TURIAN_SHIP_Orcus:0 "Оркус" #NT!
-    TURIAN_SHIP_Luna:0 "Луна" #NT!
-    TURIAN_SHIP_Genius:0 "Гений" #NT!
-    TURIAN_SHIP_Saturnus:0 "Сатурн" #NT!
-    TURIAN_SHIP_Apollo:0 "Аполлон" #NT!
-    TURIAN_SHIP_Vulcanus:0 "Вулканус" #NT!
-    TURIAN_SHIP_Eradicator:0 "Искоренитель" #NT!
-    TURIAN_SHIP_Diana:0 "Диана" #NT!
-    TURIAN_SHIP_Libera:0 "Либера" #NT!
-    TURIAN_SHIP_Liber:0 "Либер" #NT!
-    TURIAN_SHIP_Sol:0 "Сол" #NT!
-    TURIAN_SHIP_Libertas:0 "Либертас" #NT!
-    TURIAN_SHIP_Rhenus:0 "Ренус" #NT!
-    TURIAN_SHIP_Satyra:0 "Сатира" #NT!
-    TURIAN_SHIP_Athenonix:0 "Афеноникс" #NT!
-    TURIAN_SHIP_Salus:0 "Салюс" #NT!
-    TURIAN_SHIP_Lucifer:0 "Люцифер" #NT!
-    TURIAN_SHIP_Asclepius:0 "Асклепий" #NT!
-    TURIAN_SHIP_Spes:0 "Спес" #NT!
-    TURIAN_SHIP_Concordia:0 "Конкордия" #NT!
-    TURIAN_SHIP_Undaunted:0 "Неустрашимый" #NT!
-    TURIAN_SHIP_Resolute:0 "Решительный" #NT!
-    TURIAN_SHIP_Indomitable:0 "Неукротимый" #NT!
-    TURIAN_SHIP_Gladiator:0 "Гладиатор" #NT!
-    TURIAN_SHIP_Furiosus:0 "Фуриоз" #NT!
-    TURIAN_SHIP_Executor:0 "Исполнитель" #NT!
-    TURIAN_SHIP_Draco:0 "Драко" #NT!
-    TURIAN_SHIP_Demolitor:0 "Разрушитель" #NT!
-    TURIAN_SHIP_Exculcator:0 "экскулятор" #NT!
-    TURIAN_SHIP_Praeventor:0 "Превентор" #NT!
-    TURIAN_SHIP_Judicator:0 "судья" #NT!
-    TURIAN_SHIP_Immortalis:0 "Бессмертный" #NT!
-    TURIAN_SHIP_Gloria:0 "Глория" #NT!
-    TURIAN_SHIP_Victor:0 "Виктор" #NT!
-    TURIAN_SHIP_Nemesis:0 "Немезида" #NT!
-    TURIAN_SHIP_Triumphalis:0 "Триумфалис" #NT!
-    TURIAN_SHIP_Vindicta:0 "Виндикта" #NT!
-    TURIAN_SHIP_Propulsator:0 "Пропульсатор" #NT!
-    TURIAN_SHIP_Supremus:0 "Супремус" #NT!
-    TURIAN_SHIP_Nike:0 "Найк" #NT!
-    TURIAN_SHIP_Prometheus:0 "Прометей" #NT!
-    TURIAN_SHIP_Colossus:0 "Колосс" #NT!
-    TURIAN_SHIP_Titanus:0 "Титанус" #NT!
-    TURIAN_SHIP_Pugnator:0 "Пугнатор" #NT!
-    TURIAN_SHIP_Tempestas:0 "Темпестас" #NT!
-    TURIAN_SHIP_Basiliscum:0 "Василиск" #NT!
-    TURIAN_SHIP_Vehemens:0 "Вегеменс" #NT!
-    TURIAN_SHIP_Domitor:0 "Домитор" #NT!
-    TURIAN_SHIP_Injuria:0 "травма" #NT!
-    TURIAN_SHIP_Impetus:0 "импульс" #NT!
-    TURIAN_SHIP_Magnificentior:0 "Великолепие" #NT!
-    TURIAN_SHIP_Vindicator:0 "Воздаятель" #NT!
-    TURIAN_SHIP_Insidia:0 "Индия" #NT!
-    TURIAN_SHIP_Galatea:0 "Галатея" #NT!
-    TURIAN_SHIP_Hyperion:0 "Гиперион" #NT!
-    TURIAN_SHIP_Cerberus:0 "Цербер" #NT!
-    TURIAN_SHIP_Pristis:0 "Пристис" #NT!
-    TURIAN_SHIP_Praenuntius:0 "Пренунций" #NT!
-    TURIAN_SHIP_Oblivio:0 "Обливио" #NT!
-    TURIAN_SHIP_Arx:0 "Аркс" #NT!
-    TURIAN_SHIP_Centurio:0 "Центурио" #NT!
-    TURIAN_SHIP_Behemoth:0 "Бегемот" #NT!
-    TURIAN_SHIP_Avatar:0 "Аватар" #NT!
-    TURIAN_SHIP_Maiestas:0 "Майестас" #NT!
-    TURIAN_SHIP_Fabrica:0 "Фабрика" #NT!
-    TURIAN_SHIP_Creator:0 "Создатель" #NT!
-    TURIAN_SHIP_Tectum:0 "тектум" #NT!
-    TURIAN_SHIP_Ministerium:0 "Министериум" #NT!
-    TURIAN_SHIP_Promissio:0 "Промиссио" #NT!
-    TURIAN_SHIP_Machinator:0 "Интриган" #NT!
-    TURIAN_SHIP_Progressus:0 "Прогресс" #NT!
-    TURIAN_SHIP_Confector:0 "Кондитер" #NT!
-    TURIAN_SHIP_Opifex:0 "Опифекс" #NT!
-    TURIAN_SHIP_Artifex:0 "Артифекс" #NT!
-    TURIAN_SHIP_Aedifex:0 "Эдифекс" #NT!
-    TURIAN_SHIP_Conditor:0 "Кондитор" #NT!
-    TURIAN_SHIP_Operarius:0 "Операриус" #NT!
-    TURIAN_SHIP_Procuratio:0 "прокуратура" #NT!
-    TURIAN_SHIP_Conatus:0 "Конатус" #NT!
-    TURIAN_SHIP_Assiduitas:0 "Ассидуитас" #NT!
-    TURIAN_SHIP_Gnavitas:0 "Гнавитас" #NT!
-    TURIAN_SHIP_Sedulitas:0 "Седулитас" #NT!
-    TURIAN_SHIP_Industria:0 "Индустрия" #NT!
-    TURIAN_SHIP_Peregrinatio:0 "Перегринатио" #NT!
-    TURIAN_SHIP_Memoria:0 "Мемориа" #NT!
-    TURIAN_SHIP_Lumen:0 "Люмен" #NT!
-    TURIAN_SHIP_Apex:0 "Апекс" #NT!
-    TURIAN_SHIP_Perseverantia:0 "Настойчивость" #NT!
-    TURIAN_SHIP_Prosperitas:0 "Просперитас" #NT!
-    TURIAN_SHIP_Alacritas:0 "Алакритас" #NT!
-    TURIAN_SHIP_Astutia:0 "Астутия" #NT!
-    TURIAN_SHIP_Eminentia:0 "Эминентия" #NT!
-    TURIAN_SHIP_Aspera:0 "Аспера" #NT!
-    TURIAN_SHIP_Sanctor:0 "Святитель" #NT!
-    TURIAN_SHIP_Scylla:0 "Сцилла" #NT!
-    TURIAN_SHIP_Inquisitor:0 "Инквизитор" #NT!
-    TURIAN_SHIP_Aenigma:0 "Энигма" #NT!
-    TURIAN_SHIP_Zephyrus:0 "Зефир" #NT!
-    TURIAN_SHIP_Obstinatio:0 "упрямство" #NT!
-    TURIAN_SHIP_Accommodator:0 "Аккомодатор" #NT!
-    TURIAN_SHIP_Architectus:0 "Архитектор" #NT!
-    TURIAN_SHIP_Incus:0 "Наковальня" #NT!
-    TURIAN_SHIP_Exodus:0 "Исход" #NT!
-    TURIAN_SHIP_Isis:0 "Исида" #NT!
-    TURIAN_SHIP_Demeter:0 "Деметра" #NT!
-    TURIAN_SHIP_Messis:0 "Месси" #NT!
-    TURIAN_SHIP_Seminarium:0 "Семинар" #NT!
-    TURIAN_SHIP_Aedis:0 "Эдис" #NT!
-    TURIAN_SHIP_Culmen:0 "Калмен" #NT!
-    TURIAN_SHIP_Praecursor:0 "Прекурсор" #NT!
-    TURIAN_SHIP_Expansio:0 "Расширение" #NT!
-    TURIAN_SHIP_Potentia:0 "потенция" #NT!
-    TURIAN_SHIP_Virtus:0 "Виртус" #NT!
-    TURIAN_SHIP_Prophetia:0 "Профетия" #NT!
-    TURIAN_SHIP_Salve:0 "Спасти" #NT!
-    TURIAN_SHIP_Veritas:0 "Веритас" #NT!
-    TURIAN_SHIP_Vagus:0 "блуждающий нерв" #NT!
-    TURIAN_SHIP_Explorator:0 "Исследователь" #NT!
-    TURIAN_SHIP_Dubitatio:0 "Дубитацио" #NT!
-    TURIAN_SHIP_Emissarius:0 "Эмисарий" #NT!
-    TURIAN_SHIP_Legatus:0 "Легат" #NT!
-    TURIAN_SHIP_Viator:0 "Виатор" #NT!
-    TURIAN_SHIP_Vagabundus:0 "Вагабунд" #NT!
-    TURIAN_SHIP_Fraternitas:0 "братство" #NT!
-    TURIAN_SHIP_Communitas:0 "коммунитас" #NT!
-    TURIAN_SHIP_Puritas:0 "Пуриты" #NT!
-    TURIAN_SHIP_Agricola:0 "Агрикола" #NT!
-    TURIAN_SHIP_Adquiritor:0 "Адквиритор" #NT!
-    TURIAN_SHIP_Providentia:0 "Провидение" #NT!
-    TURIAN_SHIP_Propositus:0 "Предложение" #NT!
-    TURIAN_SHIP_Obligatio:0 "обязательство" #NT!
-    TURIAN_SHIP_Progenies:0 "Потомство" #NT!
-    TURIAN_SHIP_Stirps:0 "Стрипы" #NT!
-    TURIAN_SHIP_Fundatio:0 "Fundatio" #NT!
-    TURIAN_xx_Turian_Fleet_ORD:0 "$O$ Турианская флотилия" #NT!
-    TURIAN_xx_Regiment_ORD:0 "$O$ Полк" #NT!
-    TURIAN_xx_Legion_ORD:0 "$O$ Легион ОРД" #NT!
-    TURIAN_xx_Indentured_Rifles_ORD:0 "$O$ Автоматизированные винтовки" #NT!
-    TURIAN_xx_Clone_Army_ORD:0 "$O$ Армия конусов" #NT!
-    TURIAN_xx_HunterKiller_Group_ORD:0 "$O$ Группа охотников-убийц ОРД" #NT!
-    TURIAN_xx_Cabals_ORD:0 "$O$ Кабалы ОРД" #NT!
-    TURIAN_xx_BioWarfare_Division_ORD:0 "$O$ Отдел биологической войны" #NT!
-    TURIAN_xx_Blackwatch_ORD:0 "$O$ Blackwatch ORD" #NT!
-    TURIAN_CHR_Chisilix:0 "Кисиликс" #NT!
-    TURIAN_CHR_Joram:0 "Джорам" #NT!
-    TURIAN_CHR_Venari:0 "Венари" #NT!
-    TURIAN_CHR_Irix:0 "Ирикс" #NT!
-    TURIAN_CHR_Lantar:0 "Лантар" #NT!
-    TURIAN_CHR_Nihlus:0 "Найлус" #NT!
-    TURIAN_CHR_Preitior:0 "преитор" #NT!
-    TURIAN_CHR_Illo:0 "Илло" #NT!
-    TURIAN_CHR_Lorik:0 "Лорик" #NT!
-    TURIAN_CHR_Elanos:0 "Эланос" #NT!
-    TURIAN_CHR_Tonn:0 "Тонн" #NT!
-    TURIAN_CHR_Etarn:0 "Этарн" #NT!
-    TURIAN_CHR_Septimus:0 "Септимус" #NT!
-    TURIAN_CHR_Timus:0 "Тимус" #NT!
-    TURIAN_CHR_Desolas:0 "Десолас" #NT!
-    TURIAN_CHR_Saren:0 "Сарен" #NT!
-    TURIAN_CHR_Garrus:0 "Гаррус" #NT!
-    TURIAN_CHR_Tarquin:0 "Тарквиний" #NT!
-    TURIAN_CHR_Adrien:0 "Адриан" #NT!
-    TURIAN_CHR_Daherax:0 "Дагеракс" #NT!
-    TURIAN_CHR_Kihilix:0 "Кихиликс" #NT!
-    TURIAN_CHR_Extan:0 "Экстан" #NT!
-    TURIAN_CHR_Iustinix:0 "Юстиникс" #NT!
-    TURIAN_CHR_Razun:0 "Разун" #NT!
-    TURIAN_CHR_Idus:0 "Идус" #NT!
-    TURIAN_CHR_Neno:0 "Нено" #NT!
-    TURIAN_CHR_Ellis:0 "Эллис" #NT!
-    TURIAN_CHR_Enterus:0 "Энтерус" #NT!
-    TURIAN_CHR_Tactus:0 "Тактус" #NT!
-    TURIAN_CHR_Ogrinn:0 "Огринн" #NT!
-    TURIAN_CHR_Grizz:0 "Гризз" #NT!
-    TURIAN_CHR_Garkko:0 "Гаркко" #NT!
-    TURIAN_CHR_Mehrkuri:0 "Меркури" #NT!
-    TURIAN_CHR_Lilihierax:0 "Лилииеракс" #NT!
-    TURIAN_CHR_Sato:0 "Сато" #NT!
-    TURIAN_CHR_Rolan:0 "Ролан" #NT!
-    TURIAN_CHR_Faros:0 "Фарос" #NT!
-    TURIAN_CHR_Vamire:0 "Вамир" #NT!
-    TURIAN_CHR_Ternitus:0 "Тернитус" #NT!
-    TURIAN_CHR_Gradius:0 "Градиус" #NT!
-    TURIAN_CHR_Sanex:0 "Санекс" #NT!
-    TURIAN_CHR_Hexnar:0 "Хекснар" #NT!
-    TURIAN_CHR_Huck:0 "Хекснар" #NT!
-    TURIAN_CHR_Vertin:0 "Вертин" #NT!
-    TURIAN_CHR_Meln:0 "Мелн" #NT!
-    TURIAN_CHR_Derius:0 "Дериус" #NT!
-    TURIAN_CHR_Teheris:0 "Техерис" #NT!
-    TURIAN_CHR_Hanae:0 "Ханаэ" #NT!
-    TURIAN_CHR_Ulrixen:0 "Ульриксен" #NT!
-    TURIAN_CHR_Sanus:0 "Санус" #NT!
-    TURIAN_CHR_Lahere:0 "Лаэр" #NT!
-    TURIAN_CHR_Janus:0 "Янус" #NT!
-    TURIAN_CHR_Titrinus:0 "Титрин" #NT!
-    TURIAN_CHR_Uvalum:0 "Увалум" #NT!
-    TURIAN_CHR_Alsadrus:0 "Альсадрус" #NT!
-    TURIAN_CHR_Serus:0 "Серус" #NT!
-    TURIAN_CHR_Eratian:0 "Эратиан" #NT!
-    TURIAN_CHR_Ledius:0 "Ледиус" #NT!
-    TURIAN_CHR_Delwian:0 "Делвианский" #NT!
-    TURIAN_CHR_Joppa:0 "Иоппия" #NT!
-    TURIAN_CHR_Marnek:0 "Марнек" #NT!
-    TURIAN_CHR_Tobestick:0 "Tobestick" #NT!
-    TURIAN_CHR_Astrae:0 "Астрая" #NT!
-    TURIAN_CHR_Hunner:0 "Ханнер" #NT!
-    TURIAN_CHR_Quart:0 "Кварта" #NT!
-    TURIAN_CHR_Minador:0 "Минадор" #NT!
-    TURIAN_CHR_Ferrus:0 "Феррус" #NT!
-    TURIAN_CHR_Salur:0 "Салур" #NT!
-    TURIAN_CHR_Jaxum:0 "Джаксум" #NT!
-    TURIAN_CHR_Elgus:0 "Эльгус" #NT!
-    TURIAN_CHR_Teras:0 "Терас" #NT!
-    TURIAN_CHR_Lorir:0 "Лорир" #NT!
-    TURIAN_CHR_Tusi:0 "Туси" #NT!
-    TURIAN_CHR_Cheros:0 "Черос" #NT!
-    TURIAN_CHR_Sareko:0 "Сареко" #NT!
-    TURIAN_CHR_Actin:0 "Актин" #NT!
-    TURIAN_CHR_Pratur:0 "Пратур" #NT!
-    TURIAN_CHR_Solana:0 "Солана" #NT!
-    TURIAN_CHR_Dixali:0 "Диксалы" #NT!
-    TURIAN_CHR_Vitola:0 "Витола" #NT!
-    TURIAN_CHR_Lana:0 "Лана" #NT!
-    TURIAN_CHR_Himar:0 "Химар" #NT!
-    TURIAN_CHR_Reta:0 "Рета" #NT!
-    TURIAN_CHR_Naxus:0 "Наксус" #NT!
-    TURIAN_CHR_Lilira:0 "Лилира" #NT!
-    TURIAN_CHR_Orinia:0 "Ориния" #NT!
-    TURIAN_CHR_Dinara:0 "Динара" #NT!
-    TURIAN_CHR_Arayna:0 "Арайна" #NT!
-    TURIAN_CHR_Anela:0 "Анела" #NT!
-    TURIAN_CHR_Octa:0 "Окта" #NT!
-    TURIAN_CHR_Vetra:0 "Ветра" #NT!
-    TURIAN_CHR_Abrudas:0 "Абрудас" #NT!
-    TURIAN_CHR_Shastina:0 "Шастина" #NT!
-    TURIAN_CHR_Pavan:0 "Паван" #NT!
-    TURIAN_CHR_Nyreen:0 "Найрин" #NT!
-    TURIAN_CHR_Abruta:0 "Абрута" #NT!
-    TURIAN_CHR_Abrura:0 "Абрура" #NT!
-    TURIAN_CHR_Abrutina:0 "Абрутина" #NT!
-    TURIAN_CHR_Abruvan:0 "Абруван" #NT!
-    TURIAN_CHR_Abrureen:0 "Абрурин" #NT!
-    TURIAN_CHR_Shasta:0 "Шаста" #NT!
-    TURIAN_CHR_Shasra:0 "Шасра" #NT!
-    TURIAN_CHR_Shasdas:0 "Шазды" #NT!
-    TURIAN_CHR_Shasvan:0 "Шасван" #NT!
-    TURIAN_CHR_Shasreen:0 "Шасрин" #NT!
-    TURIAN_CHR_Pata:0 "Пата" #NT!
-    TURIAN_CHR_Para:0 "Пара" #NT!
-    TURIAN_CHR_Padas:0 "Пады" #NT!
-    TURIAN_CHR_Patina:0 "Патина" #NT!
-    TURIAN_CHR_Pareen:0 "Парин" #NT!
-    TURIAN_CHR_Nyta:0 "Нита" #NT!
-    TURIAN_CHR_Nyra:0 "Нира" #NT!
-    TURIAN_CHR_Nydas:0 "Нидас" #NT!
-    TURIAN_CHR_Nytina:0 "Нытина" #NT!
-    TURIAN_CHR_Nyvan:0 "Ниван" #NT!
-    TURIAN_CHR_Maxivia:0 "Максивиа" #NT!
-    TURIAN_CHR_Ocra:0 "Окра" #NT!
-    TURIAN_CHR_Ocdas:0 "Окдас" #NT!
-    TURIAN_CHR_Octina:0 "Октина" #NT!
-    TURIAN_CHR_Ocvan:0 "Окван" #NT!
-    TURIAN_CHR_Ocreen:0 "Окрин" #NT!
-    TURIAN_CHR_Quarn:0 "Кварн" #NT!
-    TURIAN_CHR_Palanurus:0 "Паланурус" #NT!
-    TURIAN_CHR_Talid:0 "Талид" #NT!
-    TURIAN_CHR_Pallin:0 "Паллин" #NT!
-    TURIAN_CHR_Coronati:0 "Коронати" #NT!
-    TURIAN_CHR_Kuril:0 "Курилы" #NT!
-    TURIAN_CHR_Sidonis:0 "Сидонис" #NT!
-    TURIAN_CHR_Kryik:0 "Крайк" #NT!
-    TURIAN_CHR_Gavorn:0 "Крайк" #NT!
-    TURIAN_CHR_Nazario:0 "Назарио" #NT!
-    TURIAN_CHR_Quiin:0 "Куин" #NT!
-    TURIAN_CHR_Haliat:0 "Галиат" #NT!
-    TURIAN_CHR_Actus:0 "Актус" #NT!
-    TURIAN_CHR_Tiron:0 "Тирон" #NT!
-    TURIAN_CHR_Oraka:0 "Орака" #NT!
-    TURIAN_CHR_Aurelos:0 "Аурелос" #NT!
-    TURIAN_CHR_Arterius:0 "Артериус" #NT!
-    TURIAN_CHR_Vakarian:0 "Вакариан" #NT!
-    TURIAN_CHR_Victus:0 "Виктория" #NT!
-    TURIAN_CHR_Hanus:0 "Ганус" #NT!
-    TURIAN_CHR_Saneraxis:0 "Санераксис" #NT!
-    TURIAN_CHR_Scartos:0 "Скартос" #NT!
-    TURIAN_CHR_Valen:0 "Вален" #NT!
-    TURIAN_CHR_Raxirian:0 "раксирианец" #NT!
-    TURIAN_CHR_Valterus:0 "Валтерус" #NT!
-    TURIAN_CHR_Vidinos:0 "Валтерус" #NT!
-    TURIAN_CHR_Jacobus:0 "Якобус" #NT!
-    TURIAN_CHR_Invectus:0 "Инвектус" #NT!
-    TURIAN_CHR_Haron:0 "Харон" #NT!
-    TURIAN_CHR_Corinthus:0 "Коринф" #NT!
-    TURIAN_CHR_Fedorian:0 "Федорян" #NT!
-    TURIAN_CHR_Chellick:0 "Челлик" #NT!
-    TURIAN_CHR_Vyrnnus:0 "Вирнус" #NT!
-    TURIAN_CHR_Emperus:0 "Эмперус" #NT!
-    TURIAN_CHR_Sahira:0 "Сахира" #NT!
-    TURIAN_CHR_Kandros:0 "Кандрос" #NT!
-    TURIAN_CHR_Davaria:0 "Давария" #NT!
-    TURIAN_CHR_Nyrek:0 "Нирек" #NT!
-    TURIAN_CHR_Gaudium:0 "Гаудиум" #NT!
-    TURIAN_CHR_Daphnon:0 "Дафнон" #NT!
-    TURIAN_CHR_Ravidus:0 "Равидус" #NT!
-    TURIAN_CHR_Satorim:0 "Саторим" #NT!
-    TURIAN_CHR_Partainis:0 "Партенис" #NT!
-    TURIAN_CHR_Iheras:0 "Ихерас" #NT!
-    TURIAN_CHR_Dianix:0 "Дианикс" #NT!
-    TURIAN_CHR_Pagasi:0 "Пагаси" #NT!
-    TURIAN_CHR_Machaera:0 "Махаера" #NT!
-    TURIAN_CHR_Septimax:0 "Септимакс" #NT!
-    TURIAN_CHR_Tertius:0 "Терций" #NT!
-    TURIAN_CHR_Lilix:0 "Лиликс" #NT!
-    TURIAN_CHR_Antivus:0 "Антивус" #NT!
-    TURIAN_CHR_Tanus:0 "Танус" #NT!
-    TURIAN_CHR_Yahirix:0 "Яхирикс" #NT!
-    TURIAN_CHR_Relius:0 "Релиус" #NT!
-    TURIAN_CHR_Partinax:0 "Партинакс" #NT!
-    TURIAN_CHR_Sylvatus:0 "Сильват" #NT!
-    TURIAN_CHR_Patathor:0 "Пататор" #NT!
-    TURIAN_CHR_Lux:0 "Люкс" #NT!
-    TURIAN_CHR_Korlick:0 "Корлик" #NT!
-    TURIAN_CHR_Latronus:0 "Латронус" #NT!
-    TURIAN_CHR_Darikun:0 "Дарикун" #NT!
-    TURIAN_CHR_Borlin:0 "Борлин" #NT!
-    TURIAN_CHR_Paramon:0 "Парамон" #NT!
-    TURIAN_CHR_Ursinus:0 "Урсинус" #NT!
-    TURIAN_CHR_Quentiys:0 "Квентии" #NT!
-    TURIAN_CHR_Spartarus:0 "Спартарус" #NT!
-    TURIAN_CHR_Riten:0 "Ритен" #NT!
-    TURIAN_CHR_Squaron:0 "Скварон" #NT!
-    TURIAN_CHR_Septimas:0 "Септимас" #NT!
-    TURIAN_CHR_Sycoram:0 "сикорам" #NT!
-    TURIAN_CHR_Iherax:0 "Игеракс" #NT!
-    TURIAN_CHR_Siyan:0 "Сиян" #NT!
-    TURIAN_CHR_Irvinus:0 "Ирвинус" #NT!
-    TURIAN_CHR_Korilius:0 "Корилиус" #NT!
-    TURIAN_CHR_Dellk:0 "Делк" #NT!
-    TURIAN_CHR_Egnadus:0 "Эгнад" #NT!
-    TURIAN_CHR_Bartus:0 "Бартус" #NT!
-    TURIAN_CHR_Arborandum:0 "Арборандум" #NT!
-    TURIAN_CHR_Rubicum:0 "Рубикум" #NT!
-    TURIAN_CHR_Raedun:0 "Редун" #NT!
-    TURIAN_CHR_Ixiri:0 "Ирикси" #NT!
-    TURIAN_CHR_Genchak:0 "Генчак" #NT!
-    TURIAN_CHR_Vadus:0 "Вадус" #NT!
+ name_list_btr_turian: "турианец"
+ TURIAN_SHIP_Posmius: "Посмий"
+ TURIAN_SHIP_Galgius: "Галгиус"
+ TURIAN_SHIP_Canlinus: "Канлинус"
+ TURIAN_SHIP_Nartis: "Нартис"
+ TURIAN_SHIP_Tibetis: "Тибет"
+ TURIAN_SHIP_Canril: "Канрил"
+ TURIAN_SHIP_Indril: "Индрил"
+ TURIAN_SHIP_Mutiraka: "Мутирака"
+ TURIAN_SHIP_Potvus: "Потвус"
+ TURIAN_SHIP_Heriius: "Хериус"
+ TURIAN_SHIP_Flaviter: "Флавитер"
+ TURIAN_SHIP_Juveteia: "Ювеция"
+ TURIAN_SHIP_Lupirius: "Люпириус"
+ TURIAN_SHIP_Caesis: "Цесис"
+ TURIAN_SHIP_Veraria: "Верария"
+ TURIAN_SHIP_Quinculus: "Квинкулус"
+ TURIAN_SHIP_Maxiso: "Максисо"
+ TURIAN_SHIP_Numso: "Нумсо"
+ TURIAN_SHIP_Decter: "Дектер"
+ TURIAN_SHIP_Hilmus: "Хилмус"
+ TURIAN_SHIP_Muticius: "Мутичий"
+ TURIAN_SHIP_Calpodonis: "Кальподонис"
+ TURIAN_SHIP_Vitasis: "Витасис"
+ TURIAN_SHIP_Adjunion: "Дополнение"
+ TURIAN_SHIP_Saloana: "Салоана"
+ TURIAN_SHIP_Gorril: "Горрил"
+ TURIAN_SHIP_Quascus: "Кваск"
+ TURIAN_SHIP_Pottus: "Поттус"
+ TURIAN_SHIP_Caena: "Кана"
+ TURIAN_SHIP_Hoso: "Хосо"
+ TURIAN_SHIP_Seimia: "Seimia"
+ TURIAN_SHIP_Furimia: "Furimia"
+ TURIAN_SHIP_Ignacus: "Игнакус"
+ TURIAN_SHIP_Varilin: "Варилин"
+ TURIAN_SHIP_Flotion: "Флотион"
+ TURIAN_SHIP_Caeion: "Цейон"
+ TURIAN_SHIP_Dardaraka: "Дардарака"
+ TURIAN_SHIP_Vibiruns: "Вибируны"
+ TURIAN_SHIP_Gaibius: "Gaibius"
+ TURIAN_SHIP_Cailio: "Кайлио"
+ TURIAN_SHIP_Victolin: "Виктолин"
+ TURIAN_SHIP_Capiril: "Капирил"
+ TURIAN_SHIP_Regipanus: "Регипанус"
+ TURIAN_SHIP_Protacius: "Протаций"
+ TURIAN_SHIP_Murmus: "Мурмус"
+ TURIAN_SHIP_Kaemus: "Кемус"
+ TURIAN_SHIP_Cnaena: "Кнаена"
+ TURIAN_SHIP_Sieus: "Сиеус"
+ TURIAN_SHIP_Postitis: "Постит"
+ TURIAN_SHIP_Caepdas: "Каепдас"
+ TURIAN_SHIP_Lacidia: "Лацидия"
+ TURIAN_SHIP_Varrinus: "Варринус"
+ TURIAN_SHIP_Eudonian: "евдонский"
+ TURIAN_SHIP_Garinianus: "Гариниан"
+ TURIAN_SHIP_Bellanianus: "Белланианус"
+ TURIAN_SHIP_Quaril: "Кварил"
+ TURIAN_SHIP_Varetia: "Вареция"
+ TURIAN_SHIP_Cicesia: "Цикезия"
+ TURIAN_SHIP_Velinion: "Велинион"
+ TURIAN_SHIP_Furiponia: "Furiponia"
+ TURIAN_SHIP_Septivea: "Септивея"
+ TURIAN_SHIP_Senria: "Senria"
+ TURIAN_SHIP_Habscus: "Габск"
+ TURIAN_SHIP_Hortenso: "Гортенсо"
+ TURIAN_SHIP_: "ВЧВ"
+ TURIAN_SHIP_Fera: "Фера"
+ TURIAN_SHIP_Gladius: "Гладиус"
+ TURIAN_SHIP_Ferox: "Ферокс"
+ TURIAN_SHIP_Fidelis: "Фиделис"
+ TURIAN_SHIP_Errans: "Эрранс"
+ TURIAN_SHIP_Deterrens: "Сдерживающие факторы"
+ TURIAN_SHIP_Manuballista: "Манубаллиста"
+ TURIAN_SHIP_Ascia: "Ассия"
+ TURIAN_SHIP_Spatha: "Спата"
+ TURIAN_SHIP_Chimaera: "Chimaera"
+ TURIAN_SHIP_Cherub: "Херувим"
+ TURIAN_SHIP_Pulsatrix: "пульсатрикс"
+ TURIAN_SHIP_Sagitta: "Стрелец"
+ TURIAN_SHIP_Arcaria: "Аркария"
+ TURIAN_SHIP_Agilis: "Агилис"
+ TURIAN_SHIP_Strategema: "Стратегема"
+ TURIAN_SHIP_Persecutrix: "преследовательница"
+ TURIAN_SHIP_Ignitrix: "Игнитрикс"
+ TURIAN_SHIP_Serpens: "Змеи"
+ TURIAN_SHIP_Seraphin: "Серафин"
+ TURIAN_SHIP_Scinditrix: "Сциндитрикс"
+ TURIAN_SHIP_Victrix: "Виктрикс"
+ TURIAN_SHIP_Suprema: "Супрема"
+ TURIAN_SHIP_Taciturna: "молчаливый"
+ TURIAN_SHIP_Venenosa: "Вененоса"
+ TURIAN_SHIP_Venerabilis: "Венерабилис"
+ TURIAN_SHIP_Vindicatrix: "Виндикатрис"
+ TURIAN_SHIP_Venatrix: "Венатрикс"
+ TURIAN_SHIP_Velox: "Велокс"
+ TURIAN_SHIP_Vampyrus: "Вампирус"
+ TURIAN_SHIP_Malleus: "Молоточек"
+ TURIAN_SHIP_Corvus: "Корвус"
+ TURIAN_SHIP_Eques: "Экес"
+ TURIAN_SHIP_Hasta: "Хаста"
+ TURIAN_SHIP_Indignans: "Возмущенные"
+ TURIAN_SHIP_Myrmidon: "Мирмидон"
+ TURIAN_SHIP_Incomparabilis: "несравненный"
+ TURIAN_SHIP_Persistens: "сохраняется"
+ TURIAN_SHIP_Prudens: "Пруденс"
+ TURIAN_SHIP_Rapperia: "Раперия"
+ TURIAN_SHIP_Prodiga: "Продига"
+ TURIAN_SHIP_Raptrix: "Раптрикс"
+ TURIAN_SHIP_Formidabilis: "Формидабилис"
+ TURIAN_SHIP_Nuntius: "Нунций"
+ TURIAN_SHIP_Falx: "Серп"
+ TURIAN_SHIP_Flagellum: "жгутик"
+ TURIAN_SHIP_Cymitharra: "Кимитарра"
+ TURIAN_SHIP_Fortunata: "Фортуната"
+ TURIAN_SHIP_Malleatrix: "Маллеатрикс"
+ TURIAN_SHIP_Eclipsis: "Затмение"
+ TURIAN_SHIP_Seria: "Серия"
+ TURIAN_SHIP_Diadema: "Диадема"
+ TURIAN_SHIP_Dextra: "Декстра"
+ TURIAN_SHIP_Decretoria: "Декретория"
+ TURIAN_SHIP_Cyclon: "Циклон"
+ TURIAN_SHIP_Ordalia: "Ордалия"
+ TURIAN_SHIP_Cometa: "Комета"
+ TURIAN_SHIP_Quadriga: "Квадрига"
+ TURIAN_SHIP_Caelestialis: "Целестиалис"
+ TURIAN_SHIP_Remissa: "Ремисс"
+ TURIAN_SHIP_Pirata: "Пирата"
+ TURIAN_SHIP_Pugil: "Пугил"
+ TURIAN_SHIP_Adventura: "Приключения"
+ TURIAN_SHIP_Bonaventura: "Бонавентура"
+ TURIAN_SHIP_Lupa: "Лупа"
+ TURIAN_SHIP_Diligens: "Дилигенс"
+ TURIAN_SHIP_Mixta: "Микста"
+ TURIAN_SHIP_Miranda: "Миранда"
+ TURIAN_SHIP_Ministerialis: "Министериалис"
+ TURIAN_SHIP_Meteorum: "Метеорум"
+ TURIAN_SHIP_Sirena: "Сирена"
+ TURIAN_SHIP_Nympha: "Нимфа"
+ TURIAN_SHIP_Mediatrix: "Медиатрикс"
+ TURIAN_SHIP_Magia: "Магия"
+ TURIAN_SHIP_Fulgur: "Фульгур"
+ TURIAN_SHIP_Lanciarius: "Ланциарий"
+ TURIAN_SHIP_Jubilans: "Джубиланс"
+ TURIAN_SHIP_Typhon: "Тифон"
+ TURIAN_SHIP_Calcar: "Калкар"
+ TURIAN_SHIP_Horizon: "Горизонт"
+ TURIAN_SHIP_Gryphus: "Грифус"
+ TURIAN_SHIP_Manica: "Маника"
+ TURIAN_SHIP_Malitia: "Малиция"
+ TURIAN_SHIP_Contundor: "Контундор"
+ TURIAN_SHIP_Unica: "Уника"
+ TURIAN_SHIP_Infernalis: "Инферналис"
+ TURIAN_SHIP_Impeccabilis: "Импеккабилис"
+ TURIAN_SHIP_Justitia: "Юстиция"
+ TURIAN_SHIP_Venator: "Венатор"
+ TURIAN_SHIP_Heros: "Герои"
+ TURIAN_SHIP_Naufragium: "Науфрагиум"
+ TURIAN_SHIP_Strages: "Стражей"
+ TURIAN_SHIP_Officium: "Официальный"
+ TURIAN_SHIP_Pertinax: "Пертинакс"
+ TURIAN_SHIP_Audax: "Аудакс"
+ TURIAN_SHIP_Sica: "Сика"
+ TURIAN_SHIP_Sicarius: "Сикарий"
+ TURIAN_SHIP_Adversarius: "Адверсариус"
+ TURIAN_SHIP_Centaurus: "Центавр"
+ TURIAN_SHIP_Cyclops: "Циклоп"
+ TURIAN_SHIP_Verrikan: "Веррикан"
+ TURIAN_SHIP_Havincaw: "Хавинкоу"
+ TURIAN_SHIP_Minotauros: "Минотавры"
+ TURIAN_SHIP_Triturator: "Тритуратор"
+ TURIAN_SHIP_Terror: "Террор"
+ TURIAN_SHIP_Terminator: "Терминатор"
+ TURIAN_SHIP_Invidiosus: "Инвидиос"
+ TURIAN_SHIP_Malignus: "Малигнус"
+ TURIAN_SHIP_Atrox: "Атрокс"
+ TURIAN_SHIP_Vindex: "Виндекс"
+ TURIAN_SHIP_Ultor: "Ультор"
+ TURIAN_SHIP_Punitor: "Каратель"
+ TURIAN_SHIP_Potens: "Потенс"
+ TURIAN_SHIP_Praedator: "Хищник"
+ TURIAN_SHIP_Civis: "Цивис"
+ TURIAN_SHIP_Imperator: "Император"
+ TURIAN_SHIP_Maleficium: "Малефициум"
+ TURIAN_SHIP_Pestis: "Пестис"
+ TURIAN_SHIP_Immisericors: "Иммисерикорс"
+ TURIAN_SHIP_Immitis: "Иммитис"
+ TURIAN_SHIP_Minax: "Минакс"
+ TURIAN_SHIP_Redemptio: "Искупление"
+ TURIAN_SHIP_Rapidus: "Рапидус"
+ TURIAN_SHIP_Caelestis: "Целестис"
+ TURIAN_SHIP_Arcus: "Аркус"
+ TURIAN_SHIP_Incursor: "Инкурсор"
+ TURIAN_SHIP_Secutor: "секутор"
+ TURIAN_SHIP_Stylus: "Стилус"
+ TURIAN_SHIP_Phoenix: "Феникс"
+ TURIAN_SHIP_Phantasma: "Фантазма"
+ TURIAN_SHIP_Petulans: "петуланы"
+ TURIAN_SHIP_Zelus: "Зелус"
+ TURIAN_SHIP_Studiosus: "Студиос"
+ TURIAN_SHIP_Lycanthropus: "Ликантроп"
+ TURIAN_SHIP_Versipellis: "Версипеллис"
+ TURIAN_SHIP_Invictus: "Инвиктус"
+ TURIAN_SHIP_Vexator: "Вексатор"
+ TURIAN_SHIP_Hydra: "Гидра"
+ TURIAN_SHIP_Intrusus: "Интрузия"
+ TURIAN_SHIP_Interdictor: "Интердиктор"
+ TURIAN_SHIP_Mantichora: "Мантихора"
+ TURIAN_SHIP_Resistens: "сопротивляется"
+ TURIAN_SHIP_Admissarius: "Адмисарий"
+ TURIAN_SHIP_Splendidus: "Сплендидус"
+ TURIAN_SHIP_Spiritus: "Спиритус"
+ TURIAN_SHIP_Spectrum: "Спектр"
+ TURIAN_SHIP_Summitas: "Саммитас"
+ TURIAN_SHIP_Maga: "Мага"
+ TURIAN_SHIP_Circe: "Цирцея"
+ TURIAN_SHIP_Sceptrum: "Скипетр"
+ TURIAN_SHIP_Scarabaeus: "Скарабей"
+ TURIAN_SHIP_Sanguineus: "Сангвиней"
+ TURIAN_SHIP_Salvatio: "Сальватио"
+ TURIAN_SHIP_Machaera: "Махаера"
+ TURIAN_SHIP_Robustus: "Робуст"
+ TURIAN_SHIP_Strictus: "Строгий"
+ TURIAN_SHIP_Superbus: "Суперавтобус"
+ TURIAN_SHIP_Implacabilis: "Имплакабилис"
+ TURIAN_SHIP_Pius: "Пий"
+ TURIAN_SHIP_Efficax: "Эффикакс"
+ TURIAN_SHIP_Indefatigabilis: "Неутомимый"
+ TURIAN_SHIP_Tonitralis: "Тонитралис"
+ TURIAN_SHIP_Jovis: "Джовис"
+ TURIAN_SHIP_Filius: "Филиус"
+ TURIAN_SHIP_Tenax: "Тенакс"
+ TURIAN_SHIP_Taurus: "Телец"
+ TURIAN_SHIP_Unguis: "Унгуис"
+ TURIAN_SHIP_Fascinum: "Фасцинум"
+ TURIAN_SHIP_Ingenium: "Ингениум"
+ TURIAN_SHIP_Talentum: "Талантум"
+ TURIAN_SHIP_Miraculum: "Чудо"
+ TURIAN_SHIP_Supernova: "Сверхновая"
+ TURIAN_SHIP_Strenuus: "Стренуус"
+ TURIAN_SHIP_Firmus: "Фирмус"
+ TURIAN_SHIP_Charybdis: "Харибда"
+ TURIAN_SHIP_Castor: "Кастор"
+ TURIAN_SHIP_Calypso: "Калипсо"
+ TURIAN_SHIP_Calliope: "Каллиопа"
+ TURIAN_SHIP_Bucephalus: "Буцефал"
+ TURIAN_SHIP_Bacchus: "Бахус"
+ TURIAN_SHIP_Avernus: "Авернус"
+ TURIAN_SHIP_Aurora: "Аврора"
+ TURIAN_SHIP_Argus: "Аргус"
+ TURIAN_SHIP_Argonauta: "Аргонавта"
+ TURIAN_SHIP_Aeolus: "Эол"
+ TURIAN_SHIP_Auster: "Остер"
+ TURIAN_SHIP_Favonius: "Фавоний"
+ TURIAN_SHIP_Aquilon: "Аквилон"
+ TURIAN_SHIP_Amphion: "Амфион"
+ TURIAN_SHIP_Agamemnon: "Агамемнон"
+ TURIAN_SHIP_Achilles: "Ахиллес"
+ TURIAN_SHIP_Acheron: "Ахерон"
+ TURIAN_SHIP_Sevrum: "Севрум"
+ TURIAN_SHIP_Anixara: "Аниксара"
+ TURIAN_SHIP_Kara: "Кара"
+ TURIAN_SHIP_Hecate: "Геката"
+ TURIAN_SHIP_Alcyone: "Альциона"
+ TURIAN_SHIP_Gorgon: "Горгона"
+ TURIAN_SHIP_Hercules: "Геракл"
+ TURIAN_SHIP_Bellona: "Беллона"
+ TURIAN_SHIP_Luperca: "Луперка"
+ TURIAN_SHIP_Erebus: "Эребус"
+ TURIAN_SHIP_Endymion: "Эндимион"
+ TURIAN_SHIP_Electra: "Электра"
+ TURIAN_SHIP_Dryades: "Дриады"
+ TURIAN_SHIP_Diomede: "Диомид"
+ TURIAN_SHIP_Darius: "Дариус"
+ TURIAN_SHIP_Daedalus: "Дедал"
+ TURIAN_SHIP_Damocles: "Дамокл"
+ TURIAN_SHIP_Cyrus: "Сайрус"
+ TURIAN_SHIP_Cordelia: "Корделия"
+ TURIAN_SHIP_Constantinus: "Константин"
+ TURIAN_SHIP_Cleopatra: "Клеопатра"
+ TURIAN_SHIP_Minerva: "Минерва"
+ TURIAN_SHIP_Mercurius: "Меркурий"
+ TURIAN_SHIP_Menestheus: "Менесфей"
+ TURIAN_SHIP_Medusa: "Медуза"
+ TURIAN_SHIP_Medea: "Медея"
+ TURIAN_SHIP_Mars: "Марс"
+ TURIAN_SHIP_Maenas: "Менас"
+ TURIAN_SHIP_Lysander: "Лизандр"
+ TURIAN_SHIP_Leonidas: "Леонидас"
+ TURIAN_SHIP_Leander: "Леандер"
+ TURIAN_SHIP_Lazarus: "Лазарь"
+ TURIAN_SHIP_Horatius: "Гораций"
+ TURIAN_SHIP_Juppiter: "Юпитер"
+ TURIAN_SHIP_Juno: "Юнона"
+ TURIAN_SHIP_Jason: "Джейсон"
+ TURIAN_SHIP_Janus: "Янус"
+ TURIAN_SHIP_Hesperus: "Геспер"
+ TURIAN_SHIP_Hector: "Гектор"
+ TURIAN_SHIP_Cassandra: "Кассандра"
+ TURIAN_SHIP_Terminus: "Конечная остановка"
+ TURIAN_SHIP_Maximus: "Максимус"
+ TURIAN_SHIP_Optimus: "Оптимус"
+ TURIAN_SHIP_Stator: "статор"
+ TURIAN_SHIP_Oberon: "Оберон"
+ TURIAN_SHIP_Niobe: "Ниоба"
+ TURIAN_SHIP_Nestor: "Нестор"
+ TURIAN_SHIP_Nessus: "Несс"
+ TURIAN_SHIP_Neptunus: "Нептун"
+ TURIAN_SHIP_Minos: "Минос"
+ TURIAN_SHIP_Fine: "Отлично"
+ TURIAN_SHIP_Sine: "Синус"
+ TURIAN_SHIP_Poseidon: "Посейдон"
+ TURIAN_SHIP_Pluto: "Плутон"
+ TURIAN_SHIP_Phoebe: "Фиби"
+ TURIAN_SHIP_Perseus: "Персей"
+ TURIAN_SHIP_Persephone: "Персефона"
+ TURIAN_SHIP_Penelope: "Пенелопа"
+ TURIAN_SHIP_Pandora: "Пандора"
+ TURIAN_SHIP_Osiris: "Осирис"
+ TURIAN_SHIP_Orpheus: "Орфей"
+ TURIAN_SHIP_Orestes: "Орест"
+ TURIAN_SHIP_Ceres: "Церера"
+ TURIAN_SHIP_Quirinus: "Квиринус"
+ TURIAN_SHIP_Vesta: "Веста"
+ TURIAN_SHIP_Archon: "Архонт"
+ TURIAN_SHIP_Augustus: "Август"
+ TURIAN_SHIP_Venus: "Венера"
+ TURIAN_SHIP_Triton: "Тритон"
+ TURIAN_SHIP_Trajanus: "Траян"
+ TURIAN_SHIP_Theseus: "Тесей"
+ TURIAN_SHIP_Telemachus: "Телемах"
+ TURIAN_SHIP_Tantalus: "Тантал"
+ TURIAN_SHIP_Styx: "Стикс"
+ TURIAN_SHIP_Serapis: "Серапис"
+ TURIAN_SHIP_Pylades: "Пилады"
+ TURIAN_SHIP_Proteus: "Протей"
+ TURIAN_SHIP_Romulus: "Ромул"
+ TURIAN_SHIP_Volturnus: "Вольтурн"
+ TURIAN_SHIP_Excelsior: "Эксельсиор"
+ TURIAN_SHIP_Orcus: "Оркус"
+ TURIAN_SHIP_Luna: "Луна"
+ TURIAN_SHIP_Genius: "Гений"
+ TURIAN_SHIP_Saturnus: "Сатурн"
+ TURIAN_SHIP_Apollo: "Аполлон"
+ TURIAN_SHIP_Vulcanus: "Вулканус"
+ TURIAN_SHIP_Eradicator: "Искоренитель"
+ TURIAN_SHIP_Diana: "Диана"
+ TURIAN_SHIP_Libera: "Либера"
+ TURIAN_SHIP_Liber: "Либер"
+ TURIAN_SHIP_Sol: "Сол"
+ TURIAN_SHIP_Libertas: "Либертас"
+ TURIAN_SHIP_Rhenus: "Ренус"
+ TURIAN_SHIP_Satyra: "Сатира"
+ TURIAN_SHIP_Athenonix: "Афеноникс"
+ TURIAN_SHIP_Salus: "Салюс"
+ TURIAN_SHIP_Lucifer: "Люцифер"
+ TURIAN_SHIP_Asclepius: "Асклепий"
+ TURIAN_SHIP_Spes: "Спес"
+ TURIAN_SHIP_Concordia: "Конкордия"
+ TURIAN_SHIP_Undaunted: "Неустрашимый"
+ TURIAN_SHIP_Resolute: "Решительный"
+ TURIAN_SHIP_Indomitable: "Неукротимый"
+ TURIAN_SHIP_Gladiator: "Гладиатор"
+ TURIAN_SHIP_Furiosus: "Фуриоз"
+ TURIAN_SHIP_Executor: "Исполнитель"
+ TURIAN_SHIP_Draco: "Драко"
+ TURIAN_SHIP_Demolitor: "Разрушитель"
+ TURIAN_SHIP_Exculcator: "экскулятор"
+ TURIAN_SHIP_Praeventor: "Превентор"
+ TURIAN_SHIP_Judicator: "судья"
+ TURIAN_SHIP_Immortalis: "Бессмертный"
+ TURIAN_SHIP_Gloria: "Глория"
+ TURIAN_SHIP_Victor: "Виктор"
+ TURIAN_SHIP_Nemesis: "Немезида"
+ TURIAN_SHIP_Triumphalis: "Триумфалис"
+ TURIAN_SHIP_Vindicta: "Виндикта"
+ TURIAN_SHIP_Propulsator: "Пропульсатор"
+ TURIAN_SHIP_Supremus: "Супремус"
+ TURIAN_SHIP_Nike: "Найк"
+ TURIAN_SHIP_Prometheus: "Прометей"
+ TURIAN_SHIP_Colossus: "Колосс"
+ TURIAN_SHIP_Titanus: "Титанус"
+ TURIAN_SHIP_Pugnator: "Пугнатор"
+ TURIAN_SHIP_Tempestas: "Темпестас"
+ TURIAN_SHIP_Basiliscum: "Василиск"
+ TURIAN_SHIP_Vehemens: "Вегеменс"
+ TURIAN_SHIP_Domitor: "Домитор"
+ TURIAN_SHIP_Injuria: "травма"
+ TURIAN_SHIP_Impetus: "импульс"
+ TURIAN_SHIP_Magnificentior: "Великолепие"
+ TURIAN_SHIP_Vindicator: "Воздаятель"
+ TURIAN_SHIP_Insidia: "Индия"
+ TURIAN_SHIP_Galatea: "Галатея"
+ TURIAN_SHIP_Hyperion: "Гиперион"
+ TURIAN_SHIP_Cerberus: "Цербер"
+ TURIAN_SHIP_Pristis: "Пристис"
+ TURIAN_SHIP_Praenuntius: "Пренунций"
+ TURIAN_SHIP_Oblivio: "Обливио"
+ TURIAN_SHIP_Arx: "Аркс"
+ TURIAN_SHIP_Centurio: "Центурио"
+ TURIAN_SHIP_Behemoth: "Бегемот"
+ TURIAN_SHIP_Avatar: "Аватар"
+ TURIAN_SHIP_Maiestas: "Майестас"
+ TURIAN_SHIP_Fabrica: "Фабрика"
+ TURIAN_SHIP_Creator: "Создатель"
+ TURIAN_SHIP_Tectum: "тектум"
+ TURIAN_SHIP_Ministerium: "Министериум"
+ TURIAN_SHIP_Promissio: "Промиссио"
+ TURIAN_SHIP_Machinator: "Интриган"
+ TURIAN_SHIP_Progressus: "Прогресс"
+ TURIAN_SHIP_Confector: "Кондитер"
+ TURIAN_SHIP_Opifex: "Опифекс"
+ TURIAN_SHIP_Artifex: "Артифекс"
+ TURIAN_SHIP_Aedifex: "Эдифекс"
+ TURIAN_SHIP_Conditor: "Кондитор"
+ TURIAN_SHIP_Operarius: "Операриус"
+ TURIAN_SHIP_Procuratio: "прокуратура"
+ TURIAN_SHIP_Conatus: "Конатус"
+ TURIAN_SHIP_Assiduitas: "Ассидуитас"
+ TURIAN_SHIP_Gnavitas: "Гнавитас"
+ TURIAN_SHIP_Sedulitas: "Седулитас"
+ TURIAN_SHIP_Industria: "Индустрия"
+ TURIAN_SHIP_Peregrinatio: "Перегринатио"
+ TURIAN_SHIP_Memoria: "Мемориа"
+ TURIAN_SHIP_Lumen: "Люмен"
+ TURIAN_SHIP_Apex: "Апекс"
+ TURIAN_SHIP_Perseverantia: "Настойчивость"
+ TURIAN_SHIP_Prosperitas: "Просперитас"
+ TURIAN_SHIP_Alacritas: "Алакритас"
+ TURIAN_SHIP_Astutia: "Астутия"
+ TURIAN_SHIP_Eminentia: "Эминентия"
+ TURIAN_SHIP_Aspera: "Аспера"
+ TURIAN_SHIP_Sanctor: "Святитель"
+ TURIAN_SHIP_Scylla: "Сцилла"
+ TURIAN_SHIP_Inquisitor: "Инквизитор"
+ TURIAN_SHIP_Aenigma: "Энигма"
+ TURIAN_SHIP_Zephyrus: "Зефир"
+ TURIAN_SHIP_Obstinatio: "упрямство"
+ TURIAN_SHIP_Accommodator: "Аккомодатор"
+ TURIAN_SHIP_Architectus: "Архитектор"
+ TURIAN_SHIP_Incus: "Наковальня"
+ TURIAN_SHIP_Exodus: "Исход"
+ TURIAN_SHIP_Isis: "Исида"
+ TURIAN_SHIP_Demeter: "Деметра"
+ TURIAN_SHIP_Messis: "Месси"
+ TURIAN_SHIP_Seminarium: "Семинар"
+ TURIAN_SHIP_Aedis: "Эдис"
+ TURIAN_SHIP_Culmen: "Калмен"
+ TURIAN_SHIP_Praecursor: "Прекурсор"
+ TURIAN_SHIP_Expansio: "Расширение"
+ TURIAN_SHIP_Potentia: "потенция"
+ TURIAN_SHIP_Virtus: "Виртус"
+ TURIAN_SHIP_Prophetia: "Профетия"
+ TURIAN_SHIP_Salve: "Спасти"
+ TURIAN_SHIP_Veritas: "Веритас"
+ TURIAN_SHIP_Vagus: "блуждающий нерв"
+ TURIAN_SHIP_Explorator: "Исследователь"
+ TURIAN_SHIP_Dubitatio: "Дубитацио"
+ TURIAN_SHIP_Emissarius: "Эмисарий"
+ TURIAN_SHIP_Legatus: "Легат"
+ TURIAN_SHIP_Viator: "Виатор"
+ TURIAN_SHIP_Vagabundus: "Вагабунд"
+ TURIAN_SHIP_Fraternitas: "братство"
+ TURIAN_SHIP_Communitas: "коммунитас"
+ TURIAN_SHIP_Puritas: "Пуриты"
+ TURIAN_SHIP_Agricola: "Агрикола"
+ TURIAN_SHIP_Adquiritor: "Адквиритор"
+ TURIAN_SHIP_Providentia: "Провидение"
+ TURIAN_SHIP_Propositus: "Предложение"
+ TURIAN_SHIP_Obligatio: "обязательство"
+ TURIAN_SHIP_Progenies: "Потомство"
+ TURIAN_SHIP_Stirps: "Стрипы"
+ TURIAN_SHIP_Fundatio: "Fundatio"
+ TURIAN_xx_Turian_Fleet_ORD: "$O$ Турианская флотилия"
+ TURIAN_xx_Regiment_ORD: "$O$ Полк"
+ TURIAN_xx_Legion_ORD: "$O$ Легион ОРД"
+ TURIAN_xx_Indentured_Rifles_ORD: "$O$ Автоматизированные винтовки"
+ TURIAN_xx_Clone_Army_ORD: "$O$ Армия конусов"
+ TURIAN_xx_HunterKiller_Group_ORD: "$O$ Группа охотников-убийц ОРД"
+ TURIAN_xx_Cabals_ORD: "$O$ Кабалы ОРД"
+ TURIAN_xx_BioWarfare_Division_ORD: "$O$ Отдел биологической войны"
+ TURIAN_xx_Blackwatch_ORD: "$O$ Blackwatch ORD"
+ TURIAN_CHR_Chisilix: "Кисиликс"
+ TURIAN_CHR_Joram: "Джорам"
+ TURIAN_CHR_Venari: "Венари"
+ TURIAN_CHR_Irix: "Ирикс"
+ TURIAN_CHR_Lantar: "Лантар"
+ TURIAN_CHR_Nihlus: "Найлус"
+ TURIAN_CHR_Preitior: "преитор"
+ TURIAN_CHR_Illo: "Илло"
+ TURIAN_CHR_Lorik: "Лорик"
+ TURIAN_CHR_Elanos: "Эланос"
+ TURIAN_CHR_Tonn: "Тонн"
+ TURIAN_CHR_Etarn: "Этарн"
+ TURIAN_CHR_Septimus: "Септимус"
+ TURIAN_CHR_Timus: "Тимус"
+ TURIAN_CHR_Desolas: "Десолас"
+ TURIAN_CHR_Saren: "Сарен"
+ TURIAN_CHR_Garrus: "Гаррус"
+ TURIAN_CHR_Tarquin: "Тарквиний"
+ TURIAN_CHR_Adrien: "Адриан"
+ TURIAN_CHR_Daherax: "Дагеракс"
+ TURIAN_CHR_Kihilix: "Кихиликс"
+ TURIAN_CHR_Extan: "Экстан"
+ TURIAN_CHR_Iustinix: "Юстиникс"
+ TURIAN_CHR_Razun: "Разун"
+ TURIAN_CHR_Idus: "Идус"
+ TURIAN_CHR_Neno: "Нено"
+ TURIAN_CHR_Ellis: "Эллис"
+ TURIAN_CHR_Enterus: "Энтерус"
+ TURIAN_CHR_Tactus: "Тактус"
+ TURIAN_CHR_Ogrinn: "Огринн"
+ TURIAN_CHR_Grizz: "Гризз"
+ TURIAN_CHR_Garkko: "Гаркко"
+ TURIAN_CHR_Mehrkuri: "Меркури"
+ TURIAN_CHR_Lilihierax: "Лилииеракс"
+ TURIAN_CHR_Sato: "Сато"
+ TURIAN_CHR_Rolan: "Ролан"
+ TURIAN_CHR_Faros: "Фарос"
+ TURIAN_CHR_Vamire: "Вамир"
+ TURIAN_CHR_Ternitus: "Тернитус"
+ TURIAN_CHR_Gradius: "Градиус"
+ TURIAN_CHR_Sanex: "Санекс"
+ TURIAN_CHR_Hexnar: "Хекснар"
+ TURIAN_CHR_Huck: "Хекснар"
+ TURIAN_CHR_Vertin: "Вертин"
+ TURIAN_CHR_Meln: "Мелн"
+ TURIAN_CHR_Derius: "Дериус"
+ TURIAN_CHR_Teheris: "Техерис"
+ TURIAN_CHR_Hanae: "Ханаэ"
+ TURIAN_CHR_Ulrixen: "Ульриксен"
+ TURIAN_CHR_Sanus: "Санус"
+ TURIAN_CHR_Lahere: "Лаэр"
+ TURIAN_CHR_Janus: "Янус"
+ TURIAN_CHR_Titrinus: "Титрин"
+ TURIAN_CHR_Uvalum: "Увалум"
+ TURIAN_CHR_Alsadrus: "Альсадрус"
+ TURIAN_CHR_Serus: "Серус"
+ TURIAN_CHR_Eratian: "Эратиан"
+ TURIAN_CHR_Ledius: "Ледиус"
+ TURIAN_CHR_Delwian: "Делвианский"
+ TURIAN_CHR_Joppa: "Иоппия"
+ TURIAN_CHR_Marnek: "Марнек"
+ TURIAN_CHR_Tobestick: "Tobestick"
+ TURIAN_CHR_Astrae: "Астрая"
+ TURIAN_CHR_Hunner: "Ханнер"
+ TURIAN_CHR_Quart: "Кварта"
+ TURIAN_CHR_Minador: "Минадор"
+ TURIAN_CHR_Ferrus: "Феррус"
+ TURIAN_CHR_Salur: "Салур"
+ TURIAN_CHR_Jaxum: "Джаксум"
+ TURIAN_CHR_Elgus: "Эльгус"
+ TURIAN_CHR_Teras: "Терас"
+ TURIAN_CHR_Lorir: "Лорир"
+ TURIAN_CHR_Tusi: "Туси"
+ TURIAN_CHR_Cheros: "Черос"
+ TURIAN_CHR_Sareko: "Сареко"
+ TURIAN_CHR_Actin: "Актин"
+ TURIAN_CHR_Pratur: "Пратур"
+ TURIAN_CHR_Solana: "Солана"
+ TURIAN_CHR_Dixali: "Диксалы"
+ TURIAN_CHR_Vitola: "Витола"
+ TURIAN_CHR_Lana: "Лана"
+ TURIAN_CHR_Himar: "Химар"
+ TURIAN_CHR_Reta: "Рета"
+ TURIAN_CHR_Naxus: "Наксус"
+ TURIAN_CHR_Lilira: "Лилира"
+ TURIAN_CHR_Orinia: "Ориния"
+ TURIAN_CHR_Dinara: "Динара"
+ TURIAN_CHR_Arayna: "Арайна"
+ TURIAN_CHR_Anela: "Анела"
+ TURIAN_CHR_Octa: "Окта"
+ TURIAN_CHR_Vetra: "Ветра"
+ TURIAN_CHR_Abrudas: "Абрудас"
+ TURIAN_CHR_Shastina: "Шастина"
+ TURIAN_CHR_Pavan: "Паван"
+ TURIAN_CHR_Nyreen: "Найрин"
+ TURIAN_CHR_Abruta: "Абрута"
+ TURIAN_CHR_Abrura: "Абрура"
+ TURIAN_CHR_Abrutina: "Абрутина"
+ TURIAN_CHR_Abruvan: "Абруван"
+ TURIAN_CHR_Abrureen: "Абрурин"
+ TURIAN_CHR_Shasta: "Шаста"
+ TURIAN_CHR_Shasra: "Шасра"
+ TURIAN_CHR_Shasdas: "Шазды"
+ TURIAN_CHR_Shasvan: "Шасван"
+ TURIAN_CHR_Shasreen: "Шасрин"
+ TURIAN_CHR_Pata: "Пата"
+ TURIAN_CHR_Para: "Пара"
+ TURIAN_CHR_Padas: "Пады"
+ TURIAN_CHR_Patina: "Патина"
+ TURIAN_CHR_Pareen: "Парин"
+ TURIAN_CHR_Nyta: "Нита"
+ TURIAN_CHR_Nyra: "Нира"
+ TURIAN_CHR_Nydas: "Нидас"
+ TURIAN_CHR_Nytina: "Нытина"
+ TURIAN_CHR_Nyvan: "Ниван"
+ TURIAN_CHR_Maxivia: "Максивиа"
+ TURIAN_CHR_Ocra: "Окра"
+ TURIAN_CHR_Ocdas: "Окдас"
+ TURIAN_CHR_Octina: "Октина"
+ TURIAN_CHR_Ocvan: "Окван"
+ TURIAN_CHR_Ocreen: "Окрин"
+ TURIAN_CHR_Quarn: "Кварн"
+ TURIAN_CHR_Palanurus: "Паланурус"
+ TURIAN_CHR_Talid: "Талид"
+ TURIAN_CHR_Pallin: "Паллин"
+ TURIAN_CHR_Coronati: "Коронати"
+ TURIAN_CHR_Kuril: "Курилы"
+ TURIAN_CHR_Sidonis: "Сидонис"
+ TURIAN_CHR_Kryik: "Крайк"
+ TURIAN_CHR_Gavorn: "Крайк"
+ TURIAN_CHR_Nazario: "Назарио"
+ TURIAN_CHR_Quiin: "Куин"
+ TURIAN_CHR_Haliat: "Галиат"
+ TURIAN_CHR_Actus: "Актус"
+ TURIAN_CHR_Tiron: "Тирон"
+ TURIAN_CHR_Oraka: "Орака"
+ TURIAN_CHR_Aurelos: "Аурелос"
+ TURIAN_CHR_Arterius: "Артериус"
+ TURIAN_CHR_Vakarian: "Вакариан"
+ TURIAN_CHR_Victus: "Виктория"
+ TURIAN_CHR_Hanus: "Ганус"
+ TURIAN_CHR_Saneraxis: "Санераксис"
+ TURIAN_CHR_Scartos: "Скартос"
+ TURIAN_CHR_Valen: "Вален"
+ TURIAN_CHR_Raxirian: "раксирианец"
+ TURIAN_CHR_Valterus: "Валтерус"
+ TURIAN_CHR_Vidinos: "Валтерус"
+ TURIAN_CHR_Jacobus: "Якобус"
+ TURIAN_CHR_Invectus: "Инвектус"
+ TURIAN_CHR_Haron: "Харон"
+ TURIAN_CHR_Corinthus: "Коринф"
+ TURIAN_CHR_Fedorian: "Федорян"
+ TURIAN_CHR_Chellick: "Челлик"
+ TURIAN_CHR_Vyrnnus: "Вирнус"
+ TURIAN_CHR_Emperus: "Эмперус"
+ TURIAN_CHR_Sahira: "Сахира"
+ TURIAN_CHR_Kandros: "Кандрос"
+ TURIAN_CHR_Davaria: "Давария"
+ TURIAN_CHR_Nyrek: "Нирек"
+ TURIAN_CHR_Gaudium: "Гаудиум"
+ TURIAN_CHR_Daphnon: "Дафнон"
+ TURIAN_CHR_Ravidus: "Равидус"
+ TURIAN_CHR_Satorim: "Саторим"
+ TURIAN_CHR_Partainis: "Партенис"
+ TURIAN_CHR_Iheras: "Ихерас"
+ TURIAN_CHR_Dianix: "Дианикс"
+ TURIAN_CHR_Pagasi: "Пагаси"
+ TURIAN_CHR_Machaera: "Махаера"
+ TURIAN_CHR_Septimax: "Септимакс"
+ TURIAN_CHR_Tertius: "Терций"
+ TURIAN_CHR_Lilix: "Лиликс"
+ TURIAN_CHR_Antivus: "Антивус"
+ TURIAN_CHR_Tanus: "Танус"
+ TURIAN_CHR_Yahirix: "Яхирикс"
+ TURIAN_CHR_Relius: "Релиус"
+ TURIAN_CHR_Partinax: "Партинакс"
+ TURIAN_CHR_Sylvatus: "Сильват"
+ TURIAN_CHR_Patathor: "Пататор"
+ TURIAN_CHR_Lux: "Люкс"
+ TURIAN_CHR_Korlick: "Корлик"
+ TURIAN_CHR_Latronus: "Латронус"
+ TURIAN_CHR_Darikun: "Дарикун"
+ TURIAN_CHR_Borlin: "Борлин"
+ TURIAN_CHR_Paramon: "Парамон"
+ TURIAN_CHR_Ursinus: "Урсинус"
+ TURIAN_CHR_Quentiys: "Квентии"
+ TURIAN_CHR_Spartarus: "Спартарус"
+ TURIAN_CHR_Riten: "Ритен"
+ TURIAN_CHR_Squaron: "Скварон"
+ TURIAN_CHR_Septimas: "Септимас"
+ TURIAN_CHR_Sycoram: "сикорам"
+ TURIAN_CHR_Iherax: "Игеракс"
+ TURIAN_CHR_Siyan: "Сиян"
+ TURIAN_CHR_Irvinus: "Ирвинус"
+ TURIAN_CHR_Korilius: "Корилиус"
+ TURIAN_CHR_Dellk: "Делк"
+ TURIAN_CHR_Egnadus: "Эгнад"
+ TURIAN_CHR_Bartus: "Бартус"
+ TURIAN_CHR_Arborandum: "Арборандум"
+ TURIAN_CHR_Rubicum: "Рубикум"
+ TURIAN_CHR_Raedun: "Редун"
+ TURIAN_CHR_Ixiri: "Ирикси"
+ TURIAN_CHR_Genchak: "Генчак"
+ TURIAN_CHR_Vadus: "Вадус"

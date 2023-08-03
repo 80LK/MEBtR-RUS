@@ -1,687 +1,687 @@
 ﻿l_russian:
- name_list_btr_gothones:0 "готоны" #NT!
- GOTHONES_SHIP_Posmius:0 "Посмий" #NT!
- GOTHONES_SHIP_Galgius:0 "Галгиус" #NT!
- GOTHONES_SHIP_Canlinus:0 "Канлинус" #NT!
- GOTHONES_SHIP_Nartis:0 "Нартис" #NT!
- GOTHONES_SHIP_Tibetis:0 "Тибет" #NT!
- GOTHONES_SHIP_Canril:0 "Канрил" #NT!
- GOTHONES_SHIP_Indril:0 "Индрил" #NT!
- GOTHONES_SHIP_Mutiraka:0 "Мутирака" #NT!
- GOTHONES_SHIP_Potvus:0 "Потвус" #NT!
- GOTHONES_SHIP_Heriius:0 "Хериус" #NT!
- GOTHONES_SHIP_Flaviter:0 "Флативер" #NT!
- GOTHONES_SHIP_Juveteia:0 "Ювеция" #NT!
- GOTHONES_SHIP_Lupirius:0 "Люпириус" #NT!
- GOTHONES_SHIP_Caesis:0 "Цесис" #NT!
- GOTHONES_SHIP_Veraria:0 "Верария" #NT!
- GOTHONES_SHIP_Quinculus:0 "Квинкулус" #NT!
- GOTHONES_SHIP_Maxiso:0 "Максисо" #NT!
- GOTHONES_SHIP_Numso:0 "Нумсо" #NT!
- GOTHONES_SHIP_Decter:0 "Дектер" #NT!
- GOTHONES_SHIP_Hilmus:0 "Хилмус" #NT!
- GOTHONES_SHIP_Muticius:0 "Мутичий" #NT!
- GOTHONES_SHIP_Calpodonis:0 "Кальподонис" #NT!
- GOTHONES_SHIP_Vitasis:0 "Витасис" #NT!
- GOTHONES_SHIP_Adjunion:0 "Дополнение" #NT!
- GOTHONES_SHIP_Saloana:0 "Салоана" #NT!
- GOTHONES_SHIP_Gorril:0 "Горрил" #NT!
- GOTHONES_SHIP_Quascus:0 "Кваск" #NT!
- GOTHONES_SHIP_Pottus:0 "Поттус" #NT!
- GOTHONES_SHIP_Caena:0 "Кана" #NT!
- GOTHONES_SHIP_Hoso:0 "Хосо" #NT!
- GOTHONES_SHIP_Seimia:0 "Seimia" #NT!
- GOTHONES_SHIP_Furimia:0 "Furimia" #NT!
- GOTHONES_SHIP_Ignacus:0 "Игнакус" #NT!
- GOTHONES_SHIP_Varilin:0 "Варилин" #NT!
- GOTHONES_SHIP_Flotion:0 "Флотион" #NT!
- GOTHONES_SHIP_Caeion:0 "Цейон" #NT!
- GOTHONES_SHIP_Dardaraka:0 "Дардарака" #NT!
- GOTHONES_SHIP_Vibiruns:0 "Вибируны" #NT!
- GOTHONES_SHIP_Gaibius:0 "Gaibius" #NT!
- GOTHONES_SHIP_Cailio:0 "Кайлио" #NT!
- GOTHONES_SHIP_Victolin:0 "Виктолин" #NT!
- GOTHONES_SHIP_Capiril:0 "Капирил" #NT!
- GOTHONES_SHIP_Regipanus:0 "Регипанус" #NT!
- GOTHONES_SHIP_Protacius:0 "Протаций" #NT!
- GOTHONES_SHIP_Murmus:0 "Мурмус" #NT!
- GOTHONES_SHIP_Kaemus:0 "Кемус" #NT!
- GOTHONES_SHIP_Cnaena:0 "Кнаена" #NT!
- GOTHONES_SHIP_Sieus:0 "Сиеус" #NT!
- GOTHONES_SHIP_Postitis:0 "Постит" #NT!
- GOTHONES_SHIP_Caepdas:0 "Каепдас" #NT!
- GOTHONES_SHIP_Lacidia:0 "Лацидия" #NT!
- GOTHONES_SHIP_Varrinus:0 "Варринус" #NT!
- GOTHONES_SHIP_Eudonian:0 "евдонский" #NT!
- GOTHONES_SHIP_Garinianus:0 "Гариниан" #NT!
- GOTHONES_SHIP_Bellanianus:0 "Белланианус" #NT!
- GOTHONES_SHIP_Quaril:0 "Кварил" #NT!
- GOTHONES_SHIP_Varetia:0 "Вареция" #NT!
- GOTHONES_SHIP_Cicesia:0 "Цикезия" #NT!
- GOTHONES_SHIP_Velinion:0 "Велинон" #NT!
- GOTHONES_SHIP_Furiponia:0 "Furoponia" #NT!
- GOTHONES_SHIP_Septivea:0 "Септивея" #NT!
- GOTHONES_SHIP_Senria:0 "Senria" #NT!
- GOTHONES_SHIP_Habscus:0 "Габск" #NT!
- GOTHONES_SHIP_Hortenso:0 "Гортенсо" #NT!
- GOTHONES_SHIP_:0 ""
- GOTHONES_SHIP_Fera:0 "Фера" #NT!
- GOTHONES_SHIP_Gladius:0 "Гладиус" #NT!
- GOTHONES_SHIP_Ferox:0 "Ферокс" #NT!
- GOTHONES_SHIP_Fidelis:0 "Фиделис" #NT!
- GOTHONES_SHIP_Errans:0 "Эрранс" #NT!
- GOTHONES_SHIP_Deterrens:0 "Сдерживающие факторы" #NT!
- GOTHONES_SHIP_Manuballista:0 "Манубаллиста" #NT!
- GOTHONES_SHIP_Ascia:0 "Ассия" #NT!
- GOTHONES_SHIP_Spatha:0 "Спата" #NT!
- GOTHONES_SHIP_Chimaera:0 "Химера" #NT!
- GOTHONES_SHIP_Cherub:0 "Херувим" #NT!
- GOTHONES_SHIP_Pulsatrix:0 "пульсатрикс" #NT!
- GOTHONES_SHIP_Sagitta:0 "Стрелец" #NT!
- GOTHONES_SHIP_Arcaria:0 "Аркария" #NT!
- GOTHONES_SHIP_Agilis:0 "Агилис" #NT!
- GOTHONES_SHIP_Strategema:0 "Стратегема" #NT!
- GOTHONES_SHIP_Persecutrix:0 "преследовательница" #NT!
- GOTHONES_SHIP_Ignitrix:0 "Игмитрикс" #NT!
- GOTHONES_SHIP_Serpens:0 "Змеи" #NT!
- GOTHONES_SHIP_Seraphin:0 "Серафин" #NT!
- GOTHONES_SHIP_Scinditrix:0 "Сциндитрикс" #NT!
- GOTHONES_SHIP_Victrix:0 "Виктрикс" #NT!
- GOTHONES_SHIP_Suprema:0 "Супрема" #NT!
- GOTHONES_SHIP_Taciturna:0 "молчаливый" #NT!
- GOTHONES_SHIP_Venenosa:0 "Вененоса" #NT!
- GOTHONES_SHIP_Venerabilis:0 "Венерабилис" #NT!
- GOTHONES_SHIP_Vindicatrix:0 "Виндикатрис" #NT!
- GOTHONES_SHIP_Venatrix:0 "Венатрикс" #NT!
- GOTHONES_SHIP_Velox:0 "Велокс" #NT!
- GOTHONES_SHIP_Vampyrus:0 "Вампирус" #NT!
- GOTHONES_SHIP_Malleus:0 "Молоточек" #NT!
- GOTHONES_SHIP_Corvus:0 "Корвус" #NT!
- GOTHONES_SHIP_Eques:0 "Экес" #NT!
- GOTHONES_SHIP_Hasta:0 "Хаста" #NT!
- GOTHONES_SHIP_Indignans:0 "Возмущенные" #NT!
- GOTHONES_SHIP_Myrmidon:0 "Мирмидон" #NT!
- GOTHONES_SHIP_Incomparabilis:0 "несравненный" #NT!
- GOTHONES_SHIP_Persistens:0 "сохраняется" #NT!
- GOTHONES_SHIP_Prudens:0 "Пруденс" #NT!
- GOTHONES_SHIP_Rapperia:0 "Раперия" #NT!
- GOTHONES_SHIP_Prodiga:0 "Продига" #NT!
- GOTHONES_SHIP_Raptrix:0 "Раптрикс" #NT!
- GOTHONES_SHIP_Formidabilis:0 "Формидабилис" #NT!
- GOTHONES_SHIP_Nuntius:0 "Нунций" #NT!
- GOTHONES_SHIP_Falx:0 "Серп" #NT!
- GOTHONES_SHIP_Flagellum:0 "жгутик" #NT!
- GOTHONES_SHIP_Cymitharra:0 "Кимитарра" #NT!
- GOTHONES_SHIP_Fortunata:0 "Фортунада" #NT!
- GOTHONES_SHIP_Malleatrix:0 "Маллеатрикс" #NT!
- GOTHONES_SHIP_Eclipsis:0 "Затмение" #NT!
- GOTHONES_SHIP_Seria:0 "Серия" #NT!
- GOTHONES_SHIP_Diadema:0 "Диадема" #NT!
- GOTHONES_SHIP_Dextra:0 "Декстра" #NT!
- GOTHONES_SHIP_Decretoria:0 "Декретория" #NT!
- GOTHONES_SHIP_Cyclon:0 "Циклон" #NT!
- GOTHONES_SHIP_Ordalia:0 "Ордалия" #NT!
- GOTHONES_SHIP_Cometa:0 "Комета" #NT!
- GOTHONES_SHIP_Quadriga:0 "Квадрига" #NT!
- GOTHONES_SHIP_Caelestialis:0 "Целестиалис" #NT!
- GOTHONES_SHIP_Remissa:0 "Ремисс" #NT!
- GOTHONES_SHIP_Pirata:0 "Пирата" #NT!
- GOTHONES_SHIP_Pugil:0 "Пугил" #NT!
- GOTHONES_SHIP_Adventura:0 "Приключения" #NT!
- GOTHONES_SHIP_Bonaventura:0 "Бонавентура" #NT!
- GOTHONES_SHIP_Lupa:0 "Лупа" #NT!
- GOTHONES_SHIP_Diligens:0 "Дилигенс" #NT!
- GOTHONES_SHIP_Mixta:0 "Микста" #NT!
- GOTHONES_SHIP_Miranda:0 "Миранда" #NT!
- GOTHONES_SHIP_Ministerialis:0 "Министериалис" #NT!
- GOTHONES_SHIP_Meteorum:0 "Метеорум" #NT!
- GOTHONES_SHIP_Sirena:0 "Сирена" #NT!
- GOTHONES_SHIP_Nympha:0 "Нимфа" #NT!
- GOTHONES_SHIP_Mediatrix:0 "Медиатрикс" #NT!
- GOTHONES_SHIP_Magia:0 "Магия" #NT!
- GOTHONES_SHIP_Fulgur:0 "Фульгур" #NT!
- GOTHONES_SHIP_Lanciarius:0 "Ланциарий" #NT!
- GOTHONES_SHIP_Jubilans:0 "джубуланы" #NT!
- GOTHONES_SHIP_Typhon:0 "Тифон" #NT!
- GOTHONES_SHIP_Calcar:0 "Калкар" #NT!
- GOTHONES_SHIP_Horizon:0 "Горизонт" #NT!
- GOTHONES_SHIP_Gryphus:0 "Грифус" #NT!
- GOTHONES_SHIP_Manica:0 "Маника" #NT!
- GOTHONES_SHIP_Malitia:0 "Малиция" #NT!
- GOTHONES_SHIP_Contundor:0 "Контундор" #NT!
- GOTHONES_SHIP_Unica:0 "Уника" #NT!
- GOTHONES_SHIP_Infernalis:0 "Инферналис" #NT!
- GOTHONES_SHIP_Impeccabilis:0 "Импеккабилис" #NT!
- GOTHONES_SHIP_Justitia:0 "Юстиция" #NT!
- GOTHONES_SHIP_Venator:0 "Венатор" #NT!
- GOTHONES_SHIP_Heros:0 "Герои" #NT!
- GOTHONES_SHIP_Naufragium:0 "Науфрагиум" #NT!
- GOTHONES_SHIP_Strages:0 "Стражей" #NT!
- GOTHONES_SHIP_Officium:0 "Официальный" #NT!
- GOTHONES_SHIP_Pertinax:0 "Пертинакс" #NT!
- GOTHONES_SHIP_Audax:0 "Аудакс" #NT!
- GOTHONES_SHIP_Sica:0 "Сика" #NT!
- GOTHONES_SHIP_Sicarius:0 "Сикарий" #NT!
- GOTHONES_SHIP_Adversarius:0 "Адверсариус" #NT!
- GOTHONES_SHIP_Centaurus:0 "Центавр" #NT!
- GOTHONES_SHIP_Cyclops:0 "Циклоп" #NT!
- GOTHONES_SHIP_Verrikan:0 "Веррикан" #NT!
- GOTHONES_SHIP_Havincaw:0 "Хавинкоу" #NT!
- GOTHONES_SHIP_Minotauros:0 "Минотавры" #NT!
- GOTHONES_SHIP_Triturator:0 "Тритуратор" #NT!
- GOTHONES_SHIP_Terror:0 "Террор" #NT!
- GOTHONES_SHIP_Terminator:0 "Терминатор" #NT!
- GOTHONES_SHIP_Invidiosus:0 "Индивиос" #NT!
- GOTHONES_SHIP_Malignus:0 "Малигнус" #NT!
- GOTHONES_SHIP_Atrox:0 "Атрокс" #NT!
- GOTHONES_SHIP_Vindex:0 "Виндекс" #NT!
- GOTHONES_SHIP_Ultor:0 "Ультор" #NT!
- GOTHONES_SHIP_Punitor:0 "Каратель" #NT!
- GOTHONES_SHIP_Potens:0 "Потенс" #NT!
- GOTHONES_SHIP_Praedator:0 "Хищник" #NT!
- GOTHONES_SHIP_Civis:0 "Цивис" #NT!
- GOTHONES_SHIP_Imperator:0 "Император" #NT!
- GOTHONES_SHIP_Maleficium:0 "Малефициум" #NT!
- GOTHONES_SHIP_Pestis:0 "Пестис" #NT!
- GOTHONES_SHIP_Immisericors:0 "Иммисерикорс" #NT!
- GOTHONES_SHIP_Immitis:0 "Иммитис" #NT!
- GOTHONES_SHIP_Minax:0 "Минакс" #NT!
- GOTHONES_SHIP_Redemptio:0 "Искупление" #NT!
- GOTHONES_SHIP_Rapidus:0 "Рапидус" #NT!
- GOTHONES_SHIP_Caelestis:0 "Целестис" #NT!
- GOTHONES_SHIP_Arcus:0 "Аркус" #NT!
- GOTHONES_SHIP_Incursor:0 "Инкурсор" #NT!
- GOTHONES_SHIP_Secutor:0 "секутор" #NT!
- GOTHONES_SHIP_Stylus:0 "Стилус" #NT!
- GOTHONES_SHIP_Phoenix:0 "Феникс" #NT!
- GOTHONES_SHIP_Phantasma:0 "Фантазма" #NT!
- GOTHONES_SHIP_Petulans:0 "пертуланы" #NT!
- GOTHONES_SHIP_Zelus:0 "Зелус" #NT!
- GOTHONES_SHIP_Studiosus:0 "Студиос" #NT!
- GOTHONES_SHIP_Lycanthropus:0 "Ликантроп" #NT!
- GOTHONES_SHIP_Versipellis:0 "Версипеллис" #NT!
- GOTHONES_SHIP_Invictus:0 "Инвиктус" #NT!
- GOTHONES_SHIP_Vexator:0 "Вексатор" #NT!
- GOTHONES_SHIP_Hydra:0 "Гидра" #NT!
- GOTHONES_SHIP_Intrusus:0 "Интрузия" #NT!
- GOTHONES_SHIP_Interdictor:0 "Интердиктор" #NT!
- GOTHONES_SHIP_Mantichora:0 "Мантихора" #NT!
- GOTHONES_SHIP_Resistens:0 "сопротивляется" #NT!
- GOTHONES_SHIP_Admissarius:0 "Адмисарий" #NT!
- GOTHONES_SHIP_Splendidus:0 "Сплендидус" #NT!
- GOTHONES_SHIP_Spiritus:0 "Спиритус" #NT!
- GOTHONES_SHIP_Spectrum:0 "Спектр" #NT!
- GOTHONES_SHIP_Summitas:0 "Саммитас" #NT!
- GOTHONES_SHIP_Maga:0 "Мага" #NT!
- GOTHONES_SHIP_Circe:0 "Цирцея" #NT!
- GOTHONES_SHIP_Sceptrum:0 "Спектр" #NT!
- GOTHONES_SHIP_Scarabaeus:0 "Скарабей" #NT!
- GOTHONES_SHIP_Sanguineus:0 "Сангвиней" #NT!
- GOTHONES_SHIP_Salvatio:0 "Сальватио" #NT!
- GOTHONES_SHIP_Machaera:0 "Махаера" #NT!
- GOTHONES_SHIP_Robustus:0 "Робуст" #NT!
- GOTHONES_SHIP_Strictus:0 "Строгий" #NT!
- GOTHONES_SHIP_Superbus:0 "Суперавтобус" #NT!
- GOTHONES_SHIP_Implacabilis:0 "Имплакабилис" #NT!
- GOTHONES_SHIP_Pius:0 "Пий" #NT!
- GOTHONES_SHIP_Efficax:0 "Эффикакс" #NT!
- GOTHONES_SHIP_Indefatigabilis:0 "Неутомимый" #NT!
- GOTHONES_SHIP_Tonitralis:0 "Тонитралис" #NT!
- GOTHONES_SHIP_Jovis:0 "Джовис" #NT!
- GOTHONES_SHIP_Filius:0 "Филиус" #NT!
- GOTHONES_SHIP_Tenax:0 "Тенакс" #NT!
- GOTHONES_SHIP_Taurus:0 "Телец" #NT!
- GOTHONES_SHIP_Unguis:0 "Унгуис" #NT!
- GOTHONES_SHIP_Fascinum:0 "Фасцинум" #NT!
- GOTHONES_SHIP_Ingenium:0 "Ингениум" #NT!
- GOTHONES_SHIP_Talentum:0 "Талантум" #NT!
- GOTHONES_SHIP_Miraculum:0 "Чудо" #NT!
- GOTHONES_SHIP_Supernova:0 "Сверхновая" #NT!
- GOTHONES_SHIP_Strenuus:0 "Стренуус" #NT!
- GOTHONES_SHIP_Firmus:0 "Фирмус" #NT!
- GOTHONES_SHIP_Charybdis:0 "Харибда" #NT!
- GOTHONES_SHIP_Castor:0 "Кастор" #NT!
- GOTHONES_SHIP_Calypso:0 "Калипсо" #NT!
- GOTHONES_SHIP_Calliope:0 "Каллиопа" #NT!
- GOTHONES_SHIP_Bucephalus:0 "Буцефал" #NT!
- GOTHONES_SHIP_Bacchus:0 "Бахус" #NT!
- GOTHONES_SHIP_Avernus:0 "Авернус" #NT!
- GOTHONES_SHIP_Aurora:0 "Аврора" #NT!
- GOTHONES_SHIP_Argus:0 "Аргус" #NT!
- GOTHONES_SHIP_Argonauta:0 "Аргонавта" #NT!
- GOTHONES_SHIP_Aeolus:0 "Эол" #NT!
- GOTHONES_SHIP_Auster:0 "Остер" #NT!
- GOTHONES_SHIP_Favonius:0 "Фавоний" #NT!
- GOTHONES_SHIP_Aquilon:0 "Аквилон" #NT!
- GOTHONES_SHIP_Amphion:0 "Амфион" #NT!
- GOTHONES_SHIP_Agamemnon:0 "Агамемнон" #NT!
- GOTHONES_SHIP_Achilles:0 "Ахиллес" #NT!
- GOTHONES_SHIP_Acheron:0 "Ахерон" #NT!
- GOTHONES_SHIP_Sevrum:0 "Севрум" #NT!
- GOTHONES_SHIP_Anixara:0 "Аниксара" #NT!
- GOTHONES_SHIP_Kara:0 "Кара" #NT!
- GOTHONES_SHIP_Hecate:0 "Геката" #NT!
- GOTHONES_SHIP_Alcyone:0 "Альциона" #NT!
- GOTHONES_SHIP_Gorgon:0 "Горгона" #NT!
- GOTHONES_SHIP_Hercules:0 "Геракл" #NT!
- GOTHONES_SHIP_Bellona:0 "Беллона" #NT!
- GOTHONES_SHIP_Luperca:0 "Луперка" #NT!
- GOTHONES_SHIP_Erebus:0 "Эребус" #NT!
- GOTHONES_SHIP_Endymion:0 "Эндимион" #NT!
- GOTHONES_SHIP_Electra:0 "Электра" #NT!
- GOTHONES_SHIP_Dryades:0 "Дирады" #NT!
- GOTHONES_SHIP_Diomede:0 "Диомид" #NT!
- GOTHONES_SHIP_Darius:0 "Дариус" #NT!
- GOTHONES_SHIP_Daedalus:0 "Дедал" #NT!
- GOTHONES_SHIP_Damocles:0 "Дамокл" #NT!
- GOTHONES_SHIP_Cyrus:0 "Сайрус" #NT!
- GOTHONES_SHIP_Cordelia:0 "Корделия" #NT!
- GOTHONES_SHIP_Constantinus:0 "Константин" #NT!
- GOTHONES_SHIP_Cleopatra:0 "Клеопатра" #NT!
- GOTHONES_SHIP_Minerva:0 "Минерва" #NT!
- GOTHONES_SHIP_Mercurius:0 "Меркурий" #NT!
- GOTHONES_SHIP_Menestheus:0 "Менесфей" #NT!
- GOTHONES_SHIP_Medusa:0 "Медуза" #NT!
- GOTHONES_SHIP_Medea:0 "Медея" #NT!
- GOTHONES_SHIP_Mars:0 "Марс" #NT!
- GOTHONES_SHIP_Maenas:0 "Менас" #NT!
- GOTHONES_SHIP_Lysander:0 "Лизандр" #NT!
- GOTHONES_SHIP_Leonidas:0 "Леонидас" #NT!
- GOTHONES_SHIP_Leander:0 "Леандер" #NT!
- GOTHONES_SHIP_Lazarus:0 "Лазарь" #NT!
- GOTHONES_SHIP_Horatius:0 "Гораций" #NT!
- GOTHONES_SHIP_Juppiter:0 "Юпитер" #NT!
- GOTHONES_SHIP_Juno:0 "Юнона" #NT!
- GOTHONES_SHIP_Jason:0 "Джейсон" #NT!
- GOTHONES_SHIP_Janus:0 "Янус" #NT!
- GOTHONES_SHIP_Hesperus:0 "Геспер" #NT!
- GOTHONES_SHIP_Hector:0 "Гектор" #NT!
- GOTHONES_SHIP_Cassandra:0 "Кассандра" #NT!
- GOTHONES_SHIP_Terminus:0 "Конечная остановка" #NT!
- GOTHONES_SHIP_Maximus:0 "Максимус" #NT!
- GOTHONES_SHIP_Optimus:0 "Оптимус" #NT!
- GOTHONES_SHIP_Stator:0 "статор" #NT!
- GOTHONES_SHIP_Oberon:0 "Оберон" #NT!
- GOTHONES_SHIP_Niobe:0 "Ниоба" #NT!
- GOTHONES_SHIP_Nestor:0 "Нестор" #NT!
- GOTHONES_SHIP_Nessus:0 "Несс" #NT!
- GOTHONES_SHIP_Neptunus:0 "Нептун" #NT!
- GOTHONES_SHIP_Minos:0 "Минос" #NT!
- GOTHONES_SHIP_Fine:0 "Отлично" #NT!
- GOTHONES_SHIP_Sine:0 "Синус" #NT!
- GOTHONES_SHIP_Poseidon:0 "Посейдон" #NT!
- GOTHONES_SHIP_Pluto:0 "Плутон" #NT!
- GOTHONES_SHIP_Phoebe:0 "Фиби" #NT!
- GOTHONES_SHIP_Perseus:0 "Персей" #NT!
- GOTHONES_SHIP_Persephone:0 "Персефона" #NT!
- GOTHONES_SHIP_Penelope:0 "Пенелопа" #NT!
- GOTHONES_SHIP_Pandora:0 "Пандора" #NT!
- GOTHONES_SHIP_Osiris:0 "Осирис" #NT!
- GOTHONES_SHIP_Orpheus:0 "Орфей" #NT!
- GOTHONES_SHIP_Orestes:0 "Орест" #NT!
- GOTHONES_SHIP_Ceres:0 "Церера" #NT!
- GOTHONES_SHIP_Quirinus:0 "Хинирус" #NT!
- GOTHONES_SHIP_Vesta:0 "Веста" #NT!
- GOTHONES_SHIP_Archon:0 "Архонт" #NT!
- GOTHONES_SHIP_Augustus:0 "Август" #NT!
- GOTHONES_SHIP_Venus:0 "Венера" #NT!
- GOTHONES_SHIP_Triton:0 "Тритон" #NT!
- GOTHONES_SHIP_Trajanus:0 "Траян" #NT!
- GOTHONES_SHIP_Theseus:0 "Тесей" #NT!
- GOTHONES_SHIP_Telemachus:0 "Телемах" #NT!
- GOTHONES_SHIP_Tantalus:0 "Тантал" #NT!
- GOTHONES_SHIP_Styx:0 "Стикс" #NT!
- GOTHONES_SHIP_Serapis:0 "Серапис" #NT!
- GOTHONES_SHIP_Pylades:0 "Пилады" #NT!
- GOTHONES_SHIP_Proteus:0 "Протей" #NT!
- GOTHONES_SHIP_Romulus:0 "Ромул" #NT!
- GOTHONES_SHIP_Volturnus:0 "Вольтурн" #NT!
- GOTHONES_SHIP_Excelsior:0 "Эксельсиор" #NT!
- GOTHONES_SHIP_Orcus:0 "Оркус" #NT!
- GOTHONES_SHIP_Luna:0 "Луна" #NT!
- GOTHONES_SHIP_Genius:0 "Гений" #NT!
- GOTHONES_SHIP_Saturnus:0 "Сатурн" #NT!
- GOTHONES_SHIP_Apollo:0 "Аполлон" #NT!
- GOTHONES_SHIP_Vulcanus:0 "Вулканус" #NT!
- GOTHONES_SHIP_Eradicator:0 "Искоренитель" #NT!
- GOTHONES_SHIP_Diana:0 "Диана" #NT!
- GOTHONES_SHIP_Libera:0 "Либера" #NT!
- GOTHONES_SHIP_Liber:0 "Либер" #NT!
- GOTHONES_SHIP_Sol:0 "Сол" #NT!
- GOTHONES_SHIP_Libertas:0 "Либертас" #NT!
- GOTHONES_SHIP_Rhenus:0 "Ренус" #NT!
- GOTHONES_SHIP_Satyra:0 "Сатира" #NT!
- GOTHONES_SHIP_Athenonix:0 "Афеноникс" #NT!
- GOTHONES_SHIP_Salus:0 "Салюс" #NT!
- GOTHONES_SHIP_Lucifer:0 "Люцифер" #NT!
- GOTHONES_SHIP_Asclepius:0 "Асклепий" #NT!
- GOTHONES_SHIP_Spes:0 "Спес" #NT!
- GOTHONES_SHIP_Concordia:0 "Конкордия" #NT!
- GOTHONES_SHIP_Undaunted:0 "Неустрашимый" #NT!
- GOTHONES_SHIP_Resolute:0 "Решительный" #NT!
- GOTHONES_SHIP_Indomitable:0 "Неукротимый" #NT!
- GOTHONES_SHIP_Gladiator:0 "Гладиатор" #NT!
- GOTHONES_SHIP_Furiosus:0 "Фуриоз" #NT!
- GOTHONES_SHIP_Executor:0 "Исполнитель" #NT!
- GOTHONES_SHIP_Draco:0 "Драко" #NT!
- GOTHONES_SHIP_Demolitor:0 "Разрушитель" #NT!
- GOTHONES_SHIP_Exculcator:0 "Экзекулятор" #NT!
- GOTHONES_SHIP_Praeventor:0 "Превентор" #NT!
- GOTHONES_SHIP_Judicator:0 "судья" #NT!
- GOTHONES_SHIP_Immortalis:0 "Бессмертный" #NT!
- GOTHONES_SHIP_Gloria:0 "Глория" #NT!
- GOTHONES_SHIP_Victor:0 "Виктор" #NT!
- GOTHONES_SHIP_Nemesis:0 "Немезида" #NT!
- GOTHONES_SHIP_Triumphalis:0 "Триумфалис" #NT!
- GOTHONES_SHIP_Vindicta:0 "Виндикта" #NT!
- GOTHONES_SHIP_Propulsator:0 "Пропульсатор" #NT!
- GOTHONES_SHIP_Supremus:0 "Супермус" #NT!
- GOTHONES_SHIP_Nike:0 "Найк" #NT!
- GOTHONES_SHIP_Prometheus:0 "Прометей" #NT!
- GOTHONES_SHIP_Colossus:0 "Колосс" #NT!
- GOTHONES_SHIP_Titanus:0 "Титанус" #NT!
- GOTHONES_SHIP_Pugnator:0 "Пугнатор" #NT!
- GOTHONES_SHIP_Tempestas:0 "Темпестас" #NT!
- GOTHONES_SHIP_Basiliscum:0 "Василиск" #NT!
- GOTHONES_SHIP_Vehemens:0 "Вегеменс" #NT!
- GOTHONES_SHIP_Domitor:0 "Домитор" #NT!
- GOTHONES_SHIP_Injuria:0 "травма" #NT!
- GOTHONES_SHIP_Impetus:0 "импульс" #NT!
- GOTHONES_SHIP_Magnificentior:0 "Великолепие" #NT!
- GOTHONES_SHIP_Vindicator:0 "Воздаятель" #NT!
- GOTHONES_SHIP_Insidia:0 "Индия" #NT!
- GOTHONES_SHIP_Galatea:0 "Галатея" #NT!
- GOTHONES_SHIP_Hyperion:0 "Гиперион" #NT!
- GOTHONES_SHIP_Cerberus:0 "Цербер" #NT!
- GOTHONES_SHIP_Pristis:0 "Пристис" #NT!
- GOTHONES_SHIP_Praenuntius:0 "Пренунций" #NT!
- GOTHONES_SHIP_Oblivio:0 "Обливио" #NT!
- GOTHONES_SHIP_Arx:0 "Аркс" #NT!
- GOTHONES_SHIP_Centurio:0 "Центурио" #NT!
- GOTHONES_SHIP_Behemoth:0 "Бегемот" #NT!
- GOTHONES_SHIP_Avatar:0 "Аватар" #NT!
- GOTHONES_SHIP_Maiestas:0 "Майестас" #NT!
- GOTHONES_SHIP_Fabrica:0 "Фабрика" #NT!
- GOTHONES_SHIP_Creator:0 "Создатель" #NT!
- GOTHONES_SHIP_Tectum:0 "тектум" #NT!
- GOTHONES_SHIP_Ministerium:0 "Министериум" #NT!
- GOTHONES_SHIP_Promissio:0 "Промиссио" #NT!
- GOTHONES_SHIP_Machinator:0 "Интриган" #NT!
- GOTHONES_SHIP_Progressus:0 "Прогресс" #NT!
- GOTHONES_SHIP_Confector:0 "Кондитер" #NT!
- GOTHONES_SHIP_Opifex:0 "Опифекс" #NT!
- GOTHONES_SHIP_Artifex:0 "Артифекс" #NT!
- GOTHONES_SHIP_Aedifex:0 "Эдифекс" #NT!
- GOTHONES_SHIP_Conditor:0 "Кондитор" #NT!
- GOTHONES_SHIP_Operarius:0 "Операриус" #NT!
- GOTHONES_SHIP_Procuratio:0 "прокуратура" #NT!
- GOTHONES_SHIP_Conatus:0 "Конатус" #NT!
- GOTHONES_SHIP_Assiduitas:0 "Ассидуитас" #NT!
- GOTHONES_SHIP_Gnavitas:0 "Гнавитас" #NT!
- GOTHONES_SHIP_Sedulitas:0 "Седулитас" #NT!
- GOTHONES_SHIP_Industria:0 "Индустрия" #NT!
- GOTHONES_SHIP_Peregrinatio:0 "Перегринатио" #NT!
- GOTHONES_SHIP_Memoria:0 "Мемориа" #NT!
- GOTHONES_SHIP_Lumen:0 "Люмен" #NT!
- GOTHONES_SHIP_Apex:0 "Апекс" #NT!
- GOTHONES_SHIP_Perseverantia:0 "Настойчивость" #NT!
- GOTHONES_SHIP_Prosperitas:0 "Просперитас" #NT!
- GOTHONES_SHIP_Alacritas:0 "Алакритас" #NT!
- GOTHONES_SHIP_Astutia:0 "Астутия" #NT!
- GOTHONES_SHIP_Eminentia:0 "Эминентия" #NT!
- GOTHONES_SHIP_Aspera:0 "Аспера" #NT!
- GOTHONES_SHIP_Sanctor:0 "Святитель" #NT!
- GOTHONES_SHIP_Scylla:0 "Сцилла" #NT!
- GOTHONES_SHIP_Inquisitor:0 "Инквизитор" #NT!
- GOTHONES_SHIP_Aenigma:0 "Энигма" #NT!
- GOTHONES_SHIP_Zephyrus:0 "Зефир" #NT!
- GOTHONES_SHIP_Obstinatio:0 "упрямство" #NT!
- GOTHONES_SHIP_Accommodator:0 "Аккомодатор" #NT!
- GOTHONES_SHIP_Architectus:0 "Архитектор" #NT!
- GOTHONES_SHIP_Incus:0 "Наковальня" #NT!
- GOTHONES_SHIP_Exodus:0 "Исход" #NT!
- GOTHONES_SHIP_Isis:0 "Исида" #NT!
- GOTHONES_SHIP_Demeter:0 "Деметра" #NT!
- GOTHONES_SHIP_Messis:0 "Месси" #NT!
- GOTHONES_SHIP_Seminarium:0 "Семинар" #NT!
- GOTHONES_SHIP_Aedis:0 "Эдис" #NT!
- GOTHONES_SHIP_Culmen:0 "Калмен" #NT!
- GOTHONES_SHIP_Praecursor:0 "предшественник" #NT!
- GOTHONES_SHIP_Expansio:0 "Расширение" #NT!
- GOTHONES_SHIP_Potentia:0 "потенция" #NT!
- GOTHONES_SHIP_Virtus:0 "Виртус" #NT!
- GOTHONES_SHIP_Prophetia:0 "Профетия" #NT!
- GOTHONES_SHIP_Salve:0 "Спасти" #NT!
- GOTHONES_SHIP_Veritas:0 "Веритас" #NT!
- GOTHONES_SHIP_Vagus:0 "блуждающий нерв" #NT!
- GOTHONES_SHIP_Explorator:0 "Исследователь" #NT!
- GOTHONES_SHIP_Dubitatio:0 "Дубитацио" #NT!
- GOTHONES_SHIP_Emissarius:0 "Эмисарий" #NT!
- GOTHONES_SHIP_Legatus:0 "Легат" #NT!
- GOTHONES_SHIP_Viator:0 "Виатор" #NT!
- GOTHONES_SHIP_Vagabundus:0 "Вагабунд" #NT!
- GOTHONES_SHIP_Fraternitas:0 "братство" #NT!
- GOTHONES_SHIP_Communitas:0 "коммунитас" #NT!
- GOTHONES_SHIP_Puritas:0 "Пуриты" #NT!
- GOTHONES_SHIP_Agricola:0 "Агрикола" #NT!
- GOTHONES_SHIP_Adquiritor:0 "Адквиритор" #NT!
- GOTHONES_SHIP_Providentia:0 "Провидение" #NT!
- GOTHONES_SHIP_Propositus:0 "Предложение" #NT!
- GOTHONES_SHIP_Obligatio:0 "обязательство" #NT!
- GOTHONES_SHIP_Progenies:0 "Потомство" #NT!
- GOTHONES_SHIP_Stirps:0 "Стрипы" #NT!
- GOTHONES_SHIP_Fundatio:0 "Fundatio" #NT!
- GOTHONES_xx_GOTHONES_Fleet_ORD:0 "$O$ Флот Готонов" #NT!
- GOTHONES_xx_Regiment_ORD:0 "$O$ Полк" #NT!
- GOTHONES_xx_Legion_ORD:0 "$O$ Легион" #NT!
- GOTHONES_xx_Indentured_Rifles_ORD:0 "$O$ Автоматизированные винтовки" #NT!
- GOTHONES_xx_Clone_Army_ORD:0 "$O$ Армия клонов" #NT!
- GOTHONES_xx_HunterKiller_Group_ORD:0 "$O$ Группа охотников-убийц" #NT!
- GOTHONES_xx_Cabals_ORD:0 "$O$ Кабалы" #NT!
- GOTHONES_xx_BioWarfare_Division_ORD:0 "$O$ Отдел биологической войны" #NT!
- GOTHONES_xx_Blackwatch_ORD:0 "$O$ Черная стража" #NT!
- GOTHONES_CHR_:0 ""
- GOTHONES_CHR_Chisilix:0 "Кисиликс" #NT!
- GOTHONES_CHR_Joram:0 "Джорам" #NT!
- GOTHONES_CHR_Venari:0 "Венари" #NT!
- GOTHONES_CHR_Irix:0 "Ирикс" #NT!
- GOTHONES_CHR_Lantar:0 "Лантар" #NT!
- GOTHONES_CHR_Nihlus:0 "Найлус" #NT!
- GOTHONES_CHR_Preitior:0 "преитор" #NT!
- GOTHONES_CHR_Illo:0 "Илло" #NT!
- GOTHONES_CHR_Lorik:0 "Лорик" #NT!
- GOTHONES_CHR_Elanos:0 "Эланос" #NT!
- GOTHONES_CHR_Tonn:0 "Тонн" #NT!
- GOTHONES_CHR_Etarn:0 "Этарн" #NT!
- GOTHONES_CHR_Septimus:0 "Септимус" #NT!
- GOTHONES_CHR_Timus:0 "Тимус" #NT!
- GOTHONES_CHR_Desolas:0 "Десолас" #NT!
- GOTHONES_CHR_Saren:0 "Сарен" #NT!
- GOTHONES_CHR_Garrus:0 "Гаррус" #NT!
- GOTHONES_CHR_Tarquin:0 "Тарквиний" #NT!
- GOTHONES_CHR_Adrien:0 "Адриан" #NT!
- GOTHONES_CHR_Daherax:0 "Дагеракс" #NT!
- GOTHONES_CHR_Kihilix:0 "Кихиликс" #NT!
- GOTHONES_CHR_Extan:0 "Экстан" #NT!
- GOTHONES_CHR_Iustinix:0 "Юстиникс" #NT!
- GOTHONES_CHR_Razun:0 "Разун" #NT!
- GOTHONES_CHR_Idus:0 "Идус" #NT!
- GOTHONES_CHR_Neno:0 "Нено" #NT!
- GOTHONES_CHR_Ellis:0 "Эллис" #NT!
- GOTHONES_CHR_Enterus:0 "Энтерус" #NT!
- GOTHONES_CHR_Tactus:0 "Тактус" #NT!
- GOTHONES_CHR_Ogrinn:0 "Огринн" #NT!
- GOTHONES_CHR_Grizz:0 "Гризз" #NT!
- GOTHONES_CHR_Garkko:0 "Гаркко" #NT!
- GOTHONES_CHR_Mehrkuri:0 "Меркури" #NT!
- GOTHONES_CHR_Lilihierax:0 "Лилииеракс" #NT!
- GOTHONES_CHR_Sato:0 "Сато" #NT!
- GOTHONES_CHR_Rolan:0 "Ролан" #NT!
- GOTHONES_CHR_Faros:0 "Фарос" #NT!
- GOTHONES_CHR_Vamire:0 "Вамир" #NT!
- GOTHONES_CHR_Ternitus:0 "Тернитус" #NT!
- GOTHONES_CHR_Gradius:0 "Градиус" #NT!
- GOTHONES_CHR_Sanex:0 "Санекс" #NT!
- GOTHONES_CHR_Hexnar:0 "Хекснар" #NT!
- GOTHONES_CHR_Huck:0 "Гек" #NT!
- GOTHONES_CHR_Vertin:0 "Вертин" #NT!
- GOTHONES_CHR_Meln:0 "Мелн" #NT!
- GOTHONES_CHR_Derius:0 "Дериус" #NT!
- GOTHONES_CHR_Teheris:0 "Техерис" #NT!
- GOTHONES_CHR_Hanae:0 "Ханаэ" #NT!
- GOTHONES_CHR_Ulrixen:0 "Ульриксен" #NT!
- GOTHONES_CHR_Sanus:0 "Санус" #NT!
- GOTHONES_CHR_Lahere:0 "Лаэр" #NT!
- GOTHONES_CHR_Janus:0 "Янус" #NT!
- GOTHONES_CHR_Titrinus:0 "Титрин" #NT!
- GOTHONES_CHR_Uvalum:0 "Увалум" #NT!
- GOTHONES_CHR_Alsadrus:0 "Альсадрус" #NT!
- GOTHONES_CHR_Serus:0 "Серус" #NT!
- GOTHONES_CHR_Eratian:0 "Эратиан" #NT!
- GOTHONES_CHR_Ledius:0 "Ледиус" #NT!
- GOTHONES_CHR_Delwian:0 "Делвианский" #NT!
- GOTHONES_CHR_Joppa:0 "Иоппия" #NT!
- GOTHONES_CHR_Marnek:0 "Марнек" #NT!
- GOTHONES_CHR_Tobestick:0 "Tobestick" #NT!
- GOTHONES_CHR_Astrae:0 "Астрая" #NT!
- GOTHONES_CHR_Hunner:0 "Ханнер" #NT!
- GOTHONES_CHR_Quart:0 "Кварта" #NT!
- GOTHONES_CHR_Minador:0 "Минадор" #NT!
- GOTHONES_CHR_Ferrus:0 "Феррус" #NT!
- GOTHONES_CHR_Salur:0 "Салур" #NT!
- GOTHONES_CHR_Jaxum:0 "Джаксум" #NT!
- GOTHONES_CHR_Elgus:0 "Эльгус" #NT!
- GOTHONES_CHR_Teras:0 "Терас" #NT!
- GOTHONES_CHR_Lorir:0 "лорир" #NT!
- GOTHONES_CHR_Tusi:0 "Туси" #NT!
- GOTHONES_CHR_Cheros:0 "Черос" #NT!
- GOTHONES_CHR_Sareko:0 "Сареко" #NT!
- GOTHONES_CHR_Actin:0 "Актин" #NT!
- GOTHONES_CHR_Pratur:0 "Пратур" #NT!
- GOTHONES_CHR_Solana:0 "Солана" #NT!
- GOTHONES_CHR_Dixali:0 "Диксалы" #NT!
- GOTHONES_CHR_Vitola:0 "Витола" #NT!
- GOTHONES_CHR_Lana:0 "Лана" #NT!
- GOTHONES_CHR_Himar:0 "Химар" #NT!
- GOTHONES_CHR_Reta:0 "Рета" #NT!
- GOTHONES_CHR_Naxus:0 "Наксус" #NT!
- GOTHONES_CHR_Lilira:0 "Лилира" #NT!
- GOTHONES_CHR_Orinia:0 "Ориния" #NT!
- GOTHONES_CHR_Dinara:0 "Динара" #NT!
- GOTHONES_CHR_Arayna:0 "Арайна" #NT!
- GOTHONES_CHR_Anela:0 "Анела" #NT!
- GOTHONES_CHR_Octa:0 "Окта" #NT!
- GOTHONES_CHR_Vetra:0 "Ветра" #NT!
- GOTHONES_CHR_Abrudas:0 "Абрудас" #NT!
- GOTHONES_CHR_Shastina:0 "Шастина" #NT!
- GOTHONES_CHR_Pavan:0 "Паван" #NT!
- GOTHONES_CHR_Nyreen:0 "Найрин" #NT!
- GOTHONES_CHR_Abruta:0 "Абрута" #NT!
- GOTHONES_CHR_Abrura:0 "Абрура" #NT!
- GOTHONES_CHR_Abrutina:0 "Абрутина" #NT!
- GOTHONES_CHR_Abruvan:0 "Абруван" #NT!
- GOTHONES_CHR_Abrureen:0 "Абрурин" #NT!
- GOTHONES_CHR_Shasta:0 "Шаста" #NT!
- GOTHONES_CHR_Shasra:0 "Шасра" #NT!
- GOTHONES_CHR_Shasdas:0 "Шазды" #NT!
- GOTHONES_CHR_Shasvan:0 "Шасван" #NT!
- GOTHONES_CHR_Shasreen:0 "Шасрин" #NT!
- GOTHONES_CHR_Pata:0 "Пата" #NT!
- GOTHONES_CHR_Para:0 "Пара" #NT!
- GOTHONES_CHR_Padas:0 "Пады" #NT!
- GOTHONES_CHR_Patina:0 "Патина" #NT!
- GOTHONES_CHR_Pareen:0 "Парин" #NT!
- GOTHONES_CHR_Nyta:0 "Нита" #NT!
- GOTHONES_CHR_Nyra:0 "Нира" #NT!
- GOTHONES_CHR_Nydas:0 "Нидас" #NT!
- GOTHONES_CHR_Nytina:0 "Нытина" #NT!
- GOTHONES_CHR_Nyvan:0 "Ниван" #NT!
- GOTHONES_CHR_Maxivia:0 "Максивиа" #NT!
- GOTHONES_CHR_Ocra:0 "Окра" #NT!
- GOTHONES_CHR_Ocdas:0 "Окдас" #NT!
- GOTHONES_CHR_Octina:0 "Октина" #NT!
- GOTHONES_CHR_Ocvan:0 "Окван" #NT!
- GOTHONES_CHR_Ocreen:0 "Окрин" #NT!
- GOTHONES_CHR_Quarn:0 "Кварн" #NT!
- GOTHONES_CHR_Palanurus:0 "Паланурус" #NT!
- GOTHONES_CHR_Talid:0 "Талид" #NT!
- GOTHONES_CHR_Pallin:0 "Паллин" #NT!
- GOTHONES_CHR_Coronati:0 "Коронати" #NT!
- GOTHONES_CHR_Kuril:0 "Курилы" #NT!
- GOTHONES_CHR_Sidonis:0 "Сидонис" #NT!
- GOTHONES_CHR_Kryik:0 "Крайк" #NT!
- GOTHONES_CHR_Gavorn:0 "Гаворн" #NT!
- GOTHONES_CHR_Nazario:0 "Назарио" #NT!
- GOTHONES_CHR_Quiin:0 "Куин" #NT!
- GOTHONES_CHR_Haliat:0 "Галиат" #NT!
- GOTHONES_CHR_Actus:0 "Актус" #NT!
- GOTHONES_CHR_Tiron:0 "Тирон" #NT!
- GOTHONES_CHR_Oraka:0 "Орака" #NT!
- GOTHONES_CHR_Aurelos:0 "Аурелос" #NT!
- GOTHONES_CHR_Arterius:0 "Артериус" #NT!
- GOTHONES_CHR_Vakarian:0 "Вакариан" #NT!
- GOTHONES_CHR_Victus:0 "Виктория" #NT!
- GOTHONES_CHR_Hanus:0 "Ганус" #NT!
- GOTHONES_CHR_Saneraxis:0 "Санераксис" #NT!
- GOTHONES_CHR_Scartos:0 "Скартос" #NT!
- GOTHONES_CHR_Valen:0 "Вален" #NT!
- GOTHONES_CHR_Raxirian:0 "раксирианец" #NT!
- GOTHONES_CHR_Valterus:0 "Вальтерн" #NT!
- GOTHONES_CHR_Vidinos:0 "Видинос" #NT!
- GOTHONES_CHR_Jacobus:0 "Якобус" #NT!
- GOTHONES_CHR_Invectus:0 "Инвектус" #NT!
- GOTHONES_CHR_Haron:0 "Харон" #NT!
- GOTHONES_CHR_Corinthus:0 "Коринф" #NT!
- GOTHONES_CHR_Fedorian:0 "Федорян" #NT!
- GOTHONES_CHR_Chellick:0 "Челлик" #NT!
- GOTHONES_CHR_Vyrnnus:0 "Вирнус" #NT!
- GOTHONES_CHR_Emperus:0 "Эмперус" #NT!
- GOTHONES_CHR_Sahira:0 "Сахира" #NT!
- GOTHONES_CHR_Kandros:0 "Кандрос" #NT!
- GOTHONES_CHR_Davaria:0 "Давария" #NT!
- GOTHONES_CHR_Nyrek:0 "Нирек" #NT!
- GOTHONES_CHR_Gaudium:0 "Гаудиум" #NT!
- GOTHONES_CHR_Daphnon:0 "Дафнон" #NT!
- GOTHONES_CHR_Ravidus:0 "Равидус" #NT!
- GOTHONES_CHR_Satorim:0 "Саторим" #NT!
- GOTHONES_CHR_Partainis:0 "Партенис" #NT!
- GOTHONES_CHR_Iheras:0 "Ихерас" #NT!
- GOTHONES_CHR_Dianix:0 "Дайникс" #NT!
- GOTHONES_CHR_Pagasi:0 "Пагаси" #NT!
- GOTHONES_CHR_Machaera:0 "Махаера" #NT!
- GOTHONES_CHR_Septimax:0 "Септимакс" #NT!
- GOTHONES_CHR_Tertius:0 "Терций" #NT!
- GOTHONES_CHR_Lilix:0 "Лиликс" #NT!
- GOTHONES_CHR_Antivus:0 "Антивус" #NT!
- GOTHONES_CHR_Tanus:0 "Танус" #NT!
- GOTHONES_CHR_Yahirix:0 "Яхирикс" #NT!
- GOTHONES_CHR_Relius:0 "Релиус" #NT!
- GOTHONES_CHR_Partinax:0 "Партинакс" #NT!
- GOTHONES_CHR_Sylvatus:0 "Сильват" #NT!
- GOTHONES_CHR_Patathor:0 "Пататор" #NT!
- GOTHONES_CHR_Lux:0 "Люкс" #NT!
- GOTHONES_CHR_Korlick:0 "Корлик" #NT!
- GOTHONES_CHR_Latronus:0 "Латронус" #NT!
- GOTHONES_CHR_Darikun:0 "Дарикун" #NT!
- GOTHONES_CHR_Borlin:0 "Борлин" #NT!
- GOTHONES_CHR_Paramon:0 "Парамон" #NT!
- GOTHONES_CHR_Ursinus:0 "Урсинус" #NT!
- GOTHONES_CHR_Quentiys:0 "Квентии" #NT!
- GOTHONES_CHR_Spartarus:0 "Спартарус" #NT!
- GOTHONES_CHR_Riten:0 "Ритен" #NT!
- GOTHONES_CHR_Squaron:0 "Скварон" #NT!
- GOTHONES_CHR_Septimas:0 "Септимас" #NT!
- GOTHONES_CHR_Sycoram:0 "сикорам" #NT!
- GOTHONES_CHR_Iherax:0 "Игеракс" #NT!
- GOTHONES_CHR_Siyan:0 "Сиян" #NT!
- GOTHONES_CHR_Irvinus:0 "Ирвинус" #NT!
- GOTHONES_CHR_Korilius:0 "Корилиус" #NT!
- GOTHONES_CHR_Dellk:0 "Делк" #NT!
- GOTHONES_CHR_Egnadus:0 "Эгнад" #NT!
- GOTHONES_CHR_Bartus:0 "Бартус" #NT!
- GOTHONES_CHR_Arborandum:0 "Арборандум" #NT!
- GOTHONES_CHR_Rubicum:0 "Рубикум" #NT!
- GOTHONES_CHR_Raedun:0 "Редун" #NT!
- GOTHONES_CHR_Ixiri:0 "Ииксири" #NT!
- GOTHONES_CHR_Genchak:0 "Генчак" #NT!
- GOTHONES_CHR_Vadus:0 "Вадус" #NT!
+ name_list_btr_gothones: "готоны"
+ GOTHONES_SHIP_Posmius: "Посмий"
+ GOTHONES_SHIP_Galgius: "Галгиус"
+ GOTHONES_SHIP_Canlinus: "Канлинус"
+ GOTHONES_SHIP_Nartis: "Нартис"
+ GOTHONES_SHIP_Tibetis: "Тибет"
+ GOTHONES_SHIP_Canril: "Канрил"
+ GOTHONES_SHIP_Indril: "Индрил"
+ GOTHONES_SHIP_Mutiraka: "Мутирака"
+ GOTHONES_SHIP_Potvus: "Потвус"
+ GOTHONES_SHIP_Heriius: "Хериус"
+ GOTHONES_SHIP_Flaviter: "Флативер"
+ GOTHONES_SHIP_Juveteia: "Ювеция"
+ GOTHONES_SHIP_Lupirius: "Люпириус"
+ GOTHONES_SHIP_Caesis: "Цесис"
+ GOTHONES_SHIP_Veraria: "Верария"
+ GOTHONES_SHIP_Quinculus: "Квинкулус"
+ GOTHONES_SHIP_Maxiso: "Максисо"
+ GOTHONES_SHIP_Numso: "Нумсо"
+ GOTHONES_SHIP_Decter: "Дектер"
+ GOTHONES_SHIP_Hilmus: "Хилмус"
+ GOTHONES_SHIP_Muticius: "Мутичий"
+ GOTHONES_SHIP_Calpodonis: "Кальподонис"
+ GOTHONES_SHIP_Vitasis: "Витасис"
+ GOTHONES_SHIP_Adjunion: "Дополнение"
+ GOTHONES_SHIP_Saloana: "Салоана"
+ GOTHONES_SHIP_Gorril: "Горрил"
+ GOTHONES_SHIP_Quascus: "Кваск"
+ GOTHONES_SHIP_Pottus: "Поттус"
+ GOTHONES_SHIP_Caena: "Кана"
+ GOTHONES_SHIP_Hoso: "Хосо"
+ GOTHONES_SHIP_Seimia: "Seimia"
+ GOTHONES_SHIP_Furimia: "Furimia"
+ GOTHONES_SHIP_Ignacus: "Игнакус"
+ GOTHONES_SHIP_Varilin: "Варилин"
+ GOTHONES_SHIP_Flotion: "Флотион"
+ GOTHONES_SHIP_Caeion: "Цейон"
+ GOTHONES_SHIP_Dardaraka: "Дардарака"
+ GOTHONES_SHIP_Vibiruns: "Вибируны"
+ GOTHONES_SHIP_Gaibius: "Gaibius"
+ GOTHONES_SHIP_Cailio: "Кайлио"
+ GOTHONES_SHIP_Victolin: "Виктолин"
+ GOTHONES_SHIP_Capiril: "Капирил"
+ GOTHONES_SHIP_Regipanus: "Регипанус"
+ GOTHONES_SHIP_Protacius: "Протаций"
+ GOTHONES_SHIP_Murmus: "Мурмус"
+ GOTHONES_SHIP_Kaemus: "Кемус"
+ GOTHONES_SHIP_Cnaena: "Кнаена"
+ GOTHONES_SHIP_Sieus: "Сиеус"
+ GOTHONES_SHIP_Postitis: "Постит"
+ GOTHONES_SHIP_Caepdas: "Каепдас"
+ GOTHONES_SHIP_Lacidia: "Лацидия"
+ GOTHONES_SHIP_Varrinus: "Варринус"
+ GOTHONES_SHIP_Eudonian: "евдонский"
+ GOTHONES_SHIP_Garinianus: "Гариниан"
+ GOTHONES_SHIP_Bellanianus: "Белланианус"
+ GOTHONES_SHIP_Quaril: "Кварил"
+ GOTHONES_SHIP_Varetia: "Вареция"
+ GOTHONES_SHIP_Cicesia: "Цикезия"
+ GOTHONES_SHIP_Velinion: "Велинон"
+ GOTHONES_SHIP_Furiponia: "Furoponia"
+ GOTHONES_SHIP_Septivea: "Септивея"
+ GOTHONES_SHIP_Senria: "Senria"
+ GOTHONES_SHIP_Habscus: "Габск"
+ GOTHONES_SHIP_Hortenso: "Гортенсо"
+ GOTHONES_SHIP_: 
+ GOTHONES_SHIP_Fera: "Фера"
+ GOTHONES_SHIP_Gladius: "Гладиус"
+ GOTHONES_SHIP_Ferox: "Ферокс"
+ GOTHONES_SHIP_Fidelis: "Фиделис"
+ GOTHONES_SHIP_Errans: "Эрранс"
+ GOTHONES_SHIP_Deterrens: "Сдерживающие факторы"
+ GOTHONES_SHIP_Manuballista: "Манубаллиста"
+ GOTHONES_SHIP_Ascia: "Ассия"
+ GOTHONES_SHIP_Spatha: "Спата"
+ GOTHONES_SHIP_Chimaera: "Химера"
+ GOTHONES_SHIP_Cherub: "Херувим"
+ GOTHONES_SHIP_Pulsatrix: "пульсатрикс"
+ GOTHONES_SHIP_Sagitta: "Стрелец"
+ GOTHONES_SHIP_Arcaria: "Аркария"
+ GOTHONES_SHIP_Agilis: "Агилис"
+ GOTHONES_SHIP_Strategema: "Стратегема"
+ GOTHONES_SHIP_Persecutrix: "преследовательница"
+ GOTHONES_SHIP_Ignitrix: "Игмитрикс"
+ GOTHONES_SHIP_Serpens: "Змеи"
+ GOTHONES_SHIP_Seraphin: "Серафин"
+ GOTHONES_SHIP_Scinditrix: "Сциндитрикс"
+ GOTHONES_SHIP_Victrix: "Виктрикс"
+ GOTHONES_SHIP_Suprema: "Супрема"
+ GOTHONES_SHIP_Taciturna: "молчаливый"
+ GOTHONES_SHIP_Venenosa: "Вененоса"
+ GOTHONES_SHIP_Venerabilis: "Венерабилис"
+ GOTHONES_SHIP_Vindicatrix: "Виндикатрис"
+ GOTHONES_SHIP_Venatrix: "Венатрикс"
+ GOTHONES_SHIP_Velox: "Велокс"
+ GOTHONES_SHIP_Vampyrus: "Вампирус"
+ GOTHONES_SHIP_Malleus: "Молоточек"
+ GOTHONES_SHIP_Corvus: "Корвус"
+ GOTHONES_SHIP_Eques: "Экес"
+ GOTHONES_SHIP_Hasta: "Хаста"
+ GOTHONES_SHIP_Indignans: "Возмущенные"
+ GOTHONES_SHIP_Myrmidon: "Мирмидон"
+ GOTHONES_SHIP_Incomparabilis: "несравненный"
+ GOTHONES_SHIP_Persistens: "сохраняется"
+ GOTHONES_SHIP_Prudens: "Пруденс"
+ GOTHONES_SHIP_Rapperia: "Раперия"
+ GOTHONES_SHIP_Prodiga: "Продига"
+ GOTHONES_SHIP_Raptrix: "Раптрикс"
+ GOTHONES_SHIP_Formidabilis: "Формидабилис"
+ GOTHONES_SHIP_Nuntius: "Нунций"
+ GOTHONES_SHIP_Falx: "Серп"
+ GOTHONES_SHIP_Flagellum: "жгутик"
+ GOTHONES_SHIP_Cymitharra: "Кимитарра"
+ GOTHONES_SHIP_Fortunata: "Фортунада"
+ GOTHONES_SHIP_Malleatrix: "Маллеатрикс"
+ GOTHONES_SHIP_Eclipsis: "Затмение"
+ GOTHONES_SHIP_Seria: "Серия"
+ GOTHONES_SHIP_Diadema: "Диадема"
+ GOTHONES_SHIP_Dextra: "Декстра"
+ GOTHONES_SHIP_Decretoria: "Декретория"
+ GOTHONES_SHIP_Cyclon: "Циклон"
+ GOTHONES_SHIP_Ordalia: "Ордалия"
+ GOTHONES_SHIP_Cometa: "Комета"
+ GOTHONES_SHIP_Quadriga: "Квадрига"
+ GOTHONES_SHIP_Caelestialis: "Целестиалис"
+ GOTHONES_SHIP_Remissa: "Ремисс"
+ GOTHONES_SHIP_Pirata: "Пирата"
+ GOTHONES_SHIP_Pugil: "Пугил"
+ GOTHONES_SHIP_Adventura: "Приключения"
+ GOTHONES_SHIP_Bonaventura: "Бонавентура"
+ GOTHONES_SHIP_Lupa: "Лупа"
+ GOTHONES_SHIP_Diligens: "Дилигенс"
+ GOTHONES_SHIP_Mixta: "Микста"
+ GOTHONES_SHIP_Miranda: "Миранда"
+ GOTHONES_SHIP_Ministerialis: "Министериалис"
+ GOTHONES_SHIP_Meteorum: "Метеорум"
+ GOTHONES_SHIP_Sirena: "Сирена"
+ GOTHONES_SHIP_Nympha: "Нимфа"
+ GOTHONES_SHIP_Mediatrix: "Медиатрикс"
+ GOTHONES_SHIP_Magia: "Магия"
+ GOTHONES_SHIP_Fulgur: "Фульгур"
+ GOTHONES_SHIP_Lanciarius: "Ланциарий"
+ GOTHONES_SHIP_Jubilans: "джубуланы"
+ GOTHONES_SHIP_Typhon: "Тифон"
+ GOTHONES_SHIP_Calcar: "Калкар"
+ GOTHONES_SHIP_Horizon: "Горизонт"
+ GOTHONES_SHIP_Gryphus: "Грифус"
+ GOTHONES_SHIP_Manica: "Маника"
+ GOTHONES_SHIP_Malitia: "Малиция"
+ GOTHONES_SHIP_Contundor: "Контундор"
+ GOTHONES_SHIP_Unica: "Уника"
+ GOTHONES_SHIP_Infernalis: "Инферналис"
+ GOTHONES_SHIP_Impeccabilis: "Импеккабилис"
+ GOTHONES_SHIP_Justitia: "Юстиция"
+ GOTHONES_SHIP_Venator: "Венатор"
+ GOTHONES_SHIP_Heros: "Герои"
+ GOTHONES_SHIP_Naufragium: "Науфрагиум"
+ GOTHONES_SHIP_Strages: "Стражей"
+ GOTHONES_SHIP_Officium: "Официальный"
+ GOTHONES_SHIP_Pertinax: "Пертинакс"
+ GOTHONES_SHIP_Audax: "Аудакс"
+ GOTHONES_SHIP_Sica: "Сика"
+ GOTHONES_SHIP_Sicarius: "Сикарий"
+ GOTHONES_SHIP_Adversarius: "Адверсариус"
+ GOTHONES_SHIP_Centaurus: "Центавр"
+ GOTHONES_SHIP_Cyclops: "Циклоп"
+ GOTHONES_SHIP_Verrikan: "Веррикан"
+ GOTHONES_SHIP_Havincaw: "Хавинкоу"
+ GOTHONES_SHIP_Minotauros: "Минотавры"
+ GOTHONES_SHIP_Triturator: "Тритуратор"
+ GOTHONES_SHIP_Terror: "Террор"
+ GOTHONES_SHIP_Terminator: "Терминатор"
+ GOTHONES_SHIP_Invidiosus: "Индивиос"
+ GOTHONES_SHIP_Malignus: "Малигнус"
+ GOTHONES_SHIP_Atrox: "Атрокс"
+ GOTHONES_SHIP_Vindex: "Виндекс"
+ GOTHONES_SHIP_Ultor: "Ультор"
+ GOTHONES_SHIP_Punitor: "Каратель"
+ GOTHONES_SHIP_Potens: "Потенс"
+ GOTHONES_SHIP_Praedator: "Хищник"
+ GOTHONES_SHIP_Civis: "Цивис"
+ GOTHONES_SHIP_Imperator: "Император"
+ GOTHONES_SHIP_Maleficium: "Малефициум"
+ GOTHONES_SHIP_Pestis: "Пестис"
+ GOTHONES_SHIP_Immisericors: "Иммисерикорс"
+ GOTHONES_SHIP_Immitis: "Иммитис"
+ GOTHONES_SHIP_Minax: "Минакс"
+ GOTHONES_SHIP_Redemptio: "Искупление"
+ GOTHONES_SHIP_Rapidus: "Рапидус"
+ GOTHONES_SHIP_Caelestis: "Целестис"
+ GOTHONES_SHIP_Arcus: "Аркус"
+ GOTHONES_SHIP_Incursor: "Инкурсор"
+ GOTHONES_SHIP_Secutor: "секутор"
+ GOTHONES_SHIP_Stylus: "Стилус"
+ GOTHONES_SHIP_Phoenix: "Феникс"
+ GOTHONES_SHIP_Phantasma: "Фантазма"
+ GOTHONES_SHIP_Petulans: "пертуланы"
+ GOTHONES_SHIP_Zelus: "Зелус"
+ GOTHONES_SHIP_Studiosus: "Студиос"
+ GOTHONES_SHIP_Lycanthropus: "Ликантроп"
+ GOTHONES_SHIP_Versipellis: "Версипеллис"
+ GOTHONES_SHIP_Invictus: "Инвиктус"
+ GOTHONES_SHIP_Vexator: "Вексатор"
+ GOTHONES_SHIP_Hydra: "Гидра"
+ GOTHONES_SHIP_Intrusus: "Интрузия"
+ GOTHONES_SHIP_Interdictor: "Интердиктор"
+ GOTHONES_SHIP_Mantichora: "Мантихора"
+ GOTHONES_SHIP_Resistens: "сопротивляется"
+ GOTHONES_SHIP_Admissarius: "Адмисарий"
+ GOTHONES_SHIP_Splendidus: "Сплендидус"
+ GOTHONES_SHIP_Spiritus: "Спиритус"
+ GOTHONES_SHIP_Spectrum: "Спектр"
+ GOTHONES_SHIP_Summitas: "Саммитас"
+ GOTHONES_SHIP_Maga: "Мага"
+ GOTHONES_SHIP_Circe: "Цирцея"
+ GOTHONES_SHIP_Sceptrum: "Спектр"
+ GOTHONES_SHIP_Scarabaeus: "Скарабей"
+ GOTHONES_SHIP_Sanguineus: "Сангвиней"
+ GOTHONES_SHIP_Salvatio: "Сальватио"
+ GOTHONES_SHIP_Machaera: "Махаера"
+ GOTHONES_SHIP_Robustus: "Робуст"
+ GOTHONES_SHIP_Strictus: "Строгий"
+ GOTHONES_SHIP_Superbus: "Суперавтобус"
+ GOTHONES_SHIP_Implacabilis: "Имплакабилис"
+ GOTHONES_SHIP_Pius: "Пий"
+ GOTHONES_SHIP_Efficax: "Эффикакс"
+ GOTHONES_SHIP_Indefatigabilis: "Неутомимый"
+ GOTHONES_SHIP_Tonitralis: "Тонитралис"
+ GOTHONES_SHIP_Jovis: "Джовис"
+ GOTHONES_SHIP_Filius: "Филиус"
+ GOTHONES_SHIP_Tenax: "Тенакс"
+ GOTHONES_SHIP_Taurus: "Телец"
+ GOTHONES_SHIP_Unguis: "Унгуис"
+ GOTHONES_SHIP_Fascinum: "Фасцинум"
+ GOTHONES_SHIP_Ingenium: "Ингениум"
+ GOTHONES_SHIP_Talentum: "Талантум"
+ GOTHONES_SHIP_Miraculum: "Чудо"
+ GOTHONES_SHIP_Supernova: "Сверхновая"
+ GOTHONES_SHIP_Strenuus: "Стренуус"
+ GOTHONES_SHIP_Firmus: "Фирмус"
+ GOTHONES_SHIP_Charybdis: "Харибда"
+ GOTHONES_SHIP_Castor: "Кастор"
+ GOTHONES_SHIP_Calypso: "Калипсо"
+ GOTHONES_SHIP_Calliope: "Каллиопа"
+ GOTHONES_SHIP_Bucephalus: "Буцефал"
+ GOTHONES_SHIP_Bacchus: "Бахус"
+ GOTHONES_SHIP_Avernus: "Авернус"
+ GOTHONES_SHIP_Aurora: "Аврора"
+ GOTHONES_SHIP_Argus: "Аргус"
+ GOTHONES_SHIP_Argonauta: "Аргонавта"
+ GOTHONES_SHIP_Aeolus: "Эол"
+ GOTHONES_SHIP_Auster: "Остер"
+ GOTHONES_SHIP_Favonius: "Фавоний"
+ GOTHONES_SHIP_Aquilon: "Аквилон"
+ GOTHONES_SHIP_Amphion: "Амфион"
+ GOTHONES_SHIP_Agamemnon: "Агамемнон"
+ GOTHONES_SHIP_Achilles: "Ахиллес"
+ GOTHONES_SHIP_Acheron: "Ахерон"
+ GOTHONES_SHIP_Sevrum: "Севрум"
+ GOTHONES_SHIP_Anixara: "Аниксара"
+ GOTHONES_SHIP_Kara: "Кара"
+ GOTHONES_SHIP_Hecate: "Геката"
+ GOTHONES_SHIP_Alcyone: "Альциона"
+ GOTHONES_SHIP_Gorgon: "Горгона"
+ GOTHONES_SHIP_Hercules: "Геракл"
+ GOTHONES_SHIP_Bellona: "Беллона"
+ GOTHONES_SHIP_Luperca: "Луперка"
+ GOTHONES_SHIP_Erebus: "Эребус"
+ GOTHONES_SHIP_Endymion: "Эндимион"
+ GOTHONES_SHIP_Electra: "Электра"
+ GOTHONES_SHIP_Dryades: "Дирады"
+ GOTHONES_SHIP_Diomede: "Диомид"
+ GOTHONES_SHIP_Darius: "Дариус"
+ GOTHONES_SHIP_Daedalus: "Дедал"
+ GOTHONES_SHIP_Damocles: "Дамокл"
+ GOTHONES_SHIP_Cyrus: "Сайрус"
+ GOTHONES_SHIP_Cordelia: "Корделия"
+ GOTHONES_SHIP_Constantinus: "Константин"
+ GOTHONES_SHIP_Cleopatra: "Клеопатра"
+ GOTHONES_SHIP_Minerva: "Минерва"
+ GOTHONES_SHIP_Mercurius: "Меркурий"
+ GOTHONES_SHIP_Menestheus: "Менесфей"
+ GOTHONES_SHIP_Medusa: "Медуза"
+ GOTHONES_SHIP_Medea: "Медея"
+ GOTHONES_SHIP_Mars: "Марс"
+ GOTHONES_SHIP_Maenas: "Менас"
+ GOTHONES_SHIP_Lysander: "Лизандр"
+ GOTHONES_SHIP_Leonidas: "Леонидас"
+ GOTHONES_SHIP_Leander: "Леандер"
+ GOTHONES_SHIP_Lazarus: "Лазарь"
+ GOTHONES_SHIP_Horatius: "Гораций"
+ GOTHONES_SHIP_Juppiter: "Юпитер"
+ GOTHONES_SHIP_Juno: "Юнона"
+ GOTHONES_SHIP_Jason: "Джейсон"
+ GOTHONES_SHIP_Janus: "Янус"
+ GOTHONES_SHIP_Hesperus: "Геспер"
+ GOTHONES_SHIP_Hector: "Гектор"
+ GOTHONES_SHIP_Cassandra: "Кассандра"
+ GOTHONES_SHIP_Terminus: "Конечная остановка"
+ GOTHONES_SHIP_Maximus: "Максимус"
+ GOTHONES_SHIP_Optimus: "Оптимус"
+ GOTHONES_SHIP_Stator: "статор"
+ GOTHONES_SHIP_Oberon: "Оберон"
+ GOTHONES_SHIP_Niobe: "Ниоба"
+ GOTHONES_SHIP_Nestor: "Нестор"
+ GOTHONES_SHIP_Nessus: "Несс"
+ GOTHONES_SHIP_Neptunus: "Нептун"
+ GOTHONES_SHIP_Minos: "Минос"
+ GOTHONES_SHIP_Fine: "Отлично"
+ GOTHONES_SHIP_Sine: "Синус"
+ GOTHONES_SHIP_Poseidon: "Посейдон"
+ GOTHONES_SHIP_Pluto: "Плутон"
+ GOTHONES_SHIP_Phoebe: "Фиби"
+ GOTHONES_SHIP_Perseus: "Персей"
+ GOTHONES_SHIP_Persephone: "Персефона"
+ GOTHONES_SHIP_Penelope: "Пенелопа"
+ GOTHONES_SHIP_Pandora: "Пандора"
+ GOTHONES_SHIP_Osiris: "Осирис"
+ GOTHONES_SHIP_Orpheus: "Орфей"
+ GOTHONES_SHIP_Orestes: "Орест"
+ GOTHONES_SHIP_Ceres: "Церера"
+ GOTHONES_SHIP_Quirinus: "Хинирус"
+ GOTHONES_SHIP_Vesta: "Веста"
+ GOTHONES_SHIP_Archon: "Архонт"
+ GOTHONES_SHIP_Augustus: "Август"
+ GOTHONES_SHIP_Venus: "Венера"
+ GOTHONES_SHIP_Triton: "Тритон"
+ GOTHONES_SHIP_Trajanus: "Траян"
+ GOTHONES_SHIP_Theseus: "Тесей"
+ GOTHONES_SHIP_Telemachus: "Телемах"
+ GOTHONES_SHIP_Tantalus: "Тантал"
+ GOTHONES_SHIP_Styx: "Стикс"
+ GOTHONES_SHIP_Serapis: "Серапис"
+ GOTHONES_SHIP_Pylades: "Пилады"
+ GOTHONES_SHIP_Proteus: "Протей"
+ GOTHONES_SHIP_Romulus: "Ромул"
+ GOTHONES_SHIP_Volturnus: "Вольтурн"
+ GOTHONES_SHIP_Excelsior: "Эксельсиор"
+ GOTHONES_SHIP_Orcus: "Оркус"
+ GOTHONES_SHIP_Luna: "Луна"
+ GOTHONES_SHIP_Genius: "Гений"
+ GOTHONES_SHIP_Saturnus: "Сатурн"
+ GOTHONES_SHIP_Apollo: "Аполлон"
+ GOTHONES_SHIP_Vulcanus: "Вулканус"
+ GOTHONES_SHIP_Eradicator: "Искоренитель"
+ GOTHONES_SHIP_Diana: "Диана"
+ GOTHONES_SHIP_Libera: "Либера"
+ GOTHONES_SHIP_Liber: "Либер"
+ GOTHONES_SHIP_Sol: "Сол"
+ GOTHONES_SHIP_Libertas: "Либертас"
+ GOTHONES_SHIP_Rhenus: "Ренус"
+ GOTHONES_SHIP_Satyra: "Сатира"
+ GOTHONES_SHIP_Athenonix: "Афеноникс"
+ GOTHONES_SHIP_Salus: "Салюс"
+ GOTHONES_SHIP_Lucifer: "Люцифер"
+ GOTHONES_SHIP_Asclepius: "Асклепий"
+ GOTHONES_SHIP_Spes: "Спес"
+ GOTHONES_SHIP_Concordia: "Конкордия"
+ GOTHONES_SHIP_Undaunted: "Неустрашимый"
+ GOTHONES_SHIP_Resolute: "Решительный"
+ GOTHONES_SHIP_Indomitable: "Неукротимый"
+ GOTHONES_SHIP_Gladiator: "Гладиатор"
+ GOTHONES_SHIP_Furiosus: "Фуриоз"
+ GOTHONES_SHIP_Executor: "Исполнитель"
+ GOTHONES_SHIP_Draco: "Драко"
+ GOTHONES_SHIP_Demolitor: "Разрушитель"
+ GOTHONES_SHIP_Exculcator: "Экзекулятор"
+ GOTHONES_SHIP_Praeventor: "Превентор"
+ GOTHONES_SHIP_Judicator: "судья"
+ GOTHONES_SHIP_Immortalis: "Бессмертный"
+ GOTHONES_SHIP_Gloria: "Глория"
+ GOTHONES_SHIP_Victor: "Виктор"
+ GOTHONES_SHIP_Nemesis: "Немезида"
+ GOTHONES_SHIP_Triumphalis: "Триумфалис"
+ GOTHONES_SHIP_Vindicta: "Виндикта"
+ GOTHONES_SHIP_Propulsator: "Пропульсатор"
+ GOTHONES_SHIP_Supremus: "Супермус"
+ GOTHONES_SHIP_Nike: "Найк"
+ GOTHONES_SHIP_Prometheus: "Прометей"
+ GOTHONES_SHIP_Colossus: "Колосс"
+ GOTHONES_SHIP_Titanus: "Титанус"
+ GOTHONES_SHIP_Pugnator: "Пугнатор"
+ GOTHONES_SHIP_Tempestas: "Темпестас"
+ GOTHONES_SHIP_Basiliscum: "Василиск"
+ GOTHONES_SHIP_Vehemens: "Вегеменс"
+ GOTHONES_SHIP_Domitor: "Домитор"
+ GOTHONES_SHIP_Injuria: "травма"
+ GOTHONES_SHIP_Impetus: "импульс"
+ GOTHONES_SHIP_Magnificentior: "Великолепие"
+ GOTHONES_SHIP_Vindicator: "Воздаятель"
+ GOTHONES_SHIP_Insidia: "Индия"
+ GOTHONES_SHIP_Galatea: "Галатея"
+ GOTHONES_SHIP_Hyperion: "Гиперион"
+ GOTHONES_SHIP_Cerberus: "Цербер"
+ GOTHONES_SHIP_Pristis: "Пристис"
+ GOTHONES_SHIP_Praenuntius: "Пренунций"
+ GOTHONES_SHIP_Oblivio: "Обливио"
+ GOTHONES_SHIP_Arx: "Аркс"
+ GOTHONES_SHIP_Centurio: "Центурио"
+ GOTHONES_SHIP_Behemoth: "Бегемот"
+ GOTHONES_SHIP_Avatar: "Аватар"
+ GOTHONES_SHIP_Maiestas: "Майестас"
+ GOTHONES_SHIP_Fabrica: "Фабрика"
+ GOTHONES_SHIP_Creator: "Создатель"
+ GOTHONES_SHIP_Tectum: "тектум"
+ GOTHONES_SHIP_Ministerium: "Министериум"
+ GOTHONES_SHIP_Promissio: "Промиссио"
+ GOTHONES_SHIP_Machinator: "Интриган"
+ GOTHONES_SHIP_Progressus: "Прогресс"
+ GOTHONES_SHIP_Confector: "Кондитер"
+ GOTHONES_SHIP_Opifex: "Опифекс"
+ GOTHONES_SHIP_Artifex: "Артифекс"
+ GOTHONES_SHIP_Aedifex: "Эдифекс"
+ GOTHONES_SHIP_Conditor: "Кондитор"
+ GOTHONES_SHIP_Operarius: "Операриус"
+ GOTHONES_SHIP_Procuratio: "прокуратура"
+ GOTHONES_SHIP_Conatus: "Конатус"
+ GOTHONES_SHIP_Assiduitas: "Ассидуитас"
+ GOTHONES_SHIP_Gnavitas: "Гнавитас"
+ GOTHONES_SHIP_Sedulitas: "Седулитас"
+ GOTHONES_SHIP_Industria: "Индустрия"
+ GOTHONES_SHIP_Peregrinatio: "Перегринатио"
+ GOTHONES_SHIP_Memoria: "Мемориа"
+ GOTHONES_SHIP_Lumen: "Люмен"
+ GOTHONES_SHIP_Apex: "Апекс"
+ GOTHONES_SHIP_Perseverantia: "Настойчивость"
+ GOTHONES_SHIP_Prosperitas: "Просперитас"
+ GOTHONES_SHIP_Alacritas: "Алакритас"
+ GOTHONES_SHIP_Astutia: "Астутия"
+ GOTHONES_SHIP_Eminentia: "Эминентия"
+ GOTHONES_SHIP_Aspera: "Аспера"
+ GOTHONES_SHIP_Sanctor: "Святитель"
+ GOTHONES_SHIP_Scylla: "Сцилла"
+ GOTHONES_SHIP_Inquisitor: "Инквизитор"
+ GOTHONES_SHIP_Aenigma: "Энигма"
+ GOTHONES_SHIP_Zephyrus: "Зефир"
+ GOTHONES_SHIP_Obstinatio: "упрямство"
+ GOTHONES_SHIP_Accommodator: "Аккомодатор"
+ GOTHONES_SHIP_Architectus: "Архитектор"
+ GOTHONES_SHIP_Incus: "Наковальня"
+ GOTHONES_SHIP_Exodus: "Исход"
+ GOTHONES_SHIP_Isis: "Исида"
+ GOTHONES_SHIP_Demeter: "Деметра"
+ GOTHONES_SHIP_Messis: "Месси"
+ GOTHONES_SHIP_Seminarium: "Семинар"
+ GOTHONES_SHIP_Aedis: "Эдис"
+ GOTHONES_SHIP_Culmen: "Калмен"
+ GOTHONES_SHIP_Praecursor: "предшественник"
+ GOTHONES_SHIP_Expansio: "Расширение"
+ GOTHONES_SHIP_Potentia: "потенция"
+ GOTHONES_SHIP_Virtus: "Виртус"
+ GOTHONES_SHIP_Prophetia: "Профетия"
+ GOTHONES_SHIP_Salve: "Спасти"
+ GOTHONES_SHIP_Veritas: "Веритас"
+ GOTHONES_SHIP_Vagus: "блуждающий нерв"
+ GOTHONES_SHIP_Explorator: "Исследователь"
+ GOTHONES_SHIP_Dubitatio: "Дубитацио"
+ GOTHONES_SHIP_Emissarius: "Эмисарий"
+ GOTHONES_SHIP_Legatus: "Легат"
+ GOTHONES_SHIP_Viator: "Виатор"
+ GOTHONES_SHIP_Vagabundus: "Вагабунд"
+ GOTHONES_SHIP_Fraternitas: "братство"
+ GOTHONES_SHIP_Communitas: "коммунитас"
+ GOTHONES_SHIP_Puritas: "Пуриты"
+ GOTHONES_SHIP_Agricola: "Агрикола"
+ GOTHONES_SHIP_Adquiritor: "Адквиритор"
+ GOTHONES_SHIP_Providentia: "Провидение"
+ GOTHONES_SHIP_Propositus: "Предложение"
+ GOTHONES_SHIP_Obligatio: "обязательство"
+ GOTHONES_SHIP_Progenies: "Потомство"
+ GOTHONES_SHIP_Stirps: "Стрипы"
+ GOTHONES_SHIP_Fundatio: "Fundatio"
+ GOTHONES_xx_GOTHONES_Fleet_ORD: "$O$ Флот Готонов"
+ GOTHONES_xx_Regiment_ORD: "$O$ Полк"
+ GOTHONES_xx_Legion_ORD: "$O$ Легион"
+ GOTHONES_xx_Indentured_Rifles_ORD: "$O$ Автоматизированные винтовки"
+ GOTHONES_xx_Clone_Army_ORD: "$O$ Армия клонов"
+ GOTHONES_xx_HunterKiller_Group_ORD: "$O$ Группа охотников-убийц"
+ GOTHONES_xx_Cabals_ORD: "$O$ Кабалы"
+ GOTHONES_xx_BioWarfare_Division_ORD: "$O$ Отдел биологической войны"
+ GOTHONES_xx_Blackwatch_ORD: "$O$ Черная стража"
+ GOTHONES_CHR_: 
+ GOTHONES_CHR_Chisilix: "Кисиликс"
+ GOTHONES_CHR_Joram: "Джорам"
+ GOTHONES_CHR_Venari: "Венари"
+ GOTHONES_CHR_Irix: "Ирикс"
+ GOTHONES_CHR_Lantar: "Лантар"
+ GOTHONES_CHR_Nihlus: "Найлус"
+ GOTHONES_CHR_Preitior: "преитор"
+ GOTHONES_CHR_Illo: "Илло"
+ GOTHONES_CHR_Lorik: "Лорик"
+ GOTHONES_CHR_Elanos: "Эланос"
+ GOTHONES_CHR_Tonn: "Тонн"
+ GOTHONES_CHR_Etarn: "Этарн"
+ GOTHONES_CHR_Septimus: "Септимус"
+ GOTHONES_CHR_Timus: "Тимус"
+ GOTHONES_CHR_Desolas: "Десолас"
+ GOTHONES_CHR_Saren: "Сарен"
+ GOTHONES_CHR_Garrus: "Гаррус"
+ GOTHONES_CHR_Tarquin: "Тарквиний"
+ GOTHONES_CHR_Adrien: "Адриан"
+ GOTHONES_CHR_Daherax: "Дагеракс"
+ GOTHONES_CHR_Kihilix: "Кихиликс"
+ GOTHONES_CHR_Extan: "Экстан"
+ GOTHONES_CHR_Iustinix: "Юстиникс"
+ GOTHONES_CHR_Razun: "Разун"
+ GOTHONES_CHR_Idus: "Идус"
+ GOTHONES_CHR_Neno: "Нено"
+ GOTHONES_CHR_Ellis: "Эллис"
+ GOTHONES_CHR_Enterus: "Энтерус"
+ GOTHONES_CHR_Tactus: "Тактус"
+ GOTHONES_CHR_Ogrinn: "Огринн"
+ GOTHONES_CHR_Grizz: "Гризз"
+ GOTHONES_CHR_Garkko: "Гаркко"
+ GOTHONES_CHR_Mehrkuri: "Меркури"
+ GOTHONES_CHR_Lilihierax: "Лилииеракс"
+ GOTHONES_CHR_Sato: "Сато"
+ GOTHONES_CHR_Rolan: "Ролан"
+ GOTHONES_CHR_Faros: "Фарос"
+ GOTHONES_CHR_Vamire: "Вамир"
+ GOTHONES_CHR_Ternitus: "Тернитус"
+ GOTHONES_CHR_Gradius: "Градиус"
+ GOTHONES_CHR_Sanex: "Санекс"
+ GOTHONES_CHR_Hexnar: "Хекснар"
+ GOTHONES_CHR_Huck: "Гек"
+ GOTHONES_CHR_Vertin: "Вертин"
+ GOTHONES_CHR_Meln: "Мелн"
+ GOTHONES_CHR_Derius: "Дериус"
+ GOTHONES_CHR_Teheris: "Техерис"
+ GOTHONES_CHR_Hanae: "Ханаэ"
+ GOTHONES_CHR_Ulrixen: "Ульриксен"
+ GOTHONES_CHR_Sanus: "Санус"
+ GOTHONES_CHR_Lahere: "Лаэр"
+ GOTHONES_CHR_Janus: "Янус"
+ GOTHONES_CHR_Titrinus: "Титрин"
+ GOTHONES_CHR_Uvalum: "Увалум"
+ GOTHONES_CHR_Alsadrus: "Альсадрус"
+ GOTHONES_CHR_Serus: "Серус"
+ GOTHONES_CHR_Eratian: "Эратиан"
+ GOTHONES_CHR_Ledius: "Ледиус"
+ GOTHONES_CHR_Delwian: "Делвианский"
+ GOTHONES_CHR_Joppa: "Иоппия"
+ GOTHONES_CHR_Marnek: "Марнек"
+ GOTHONES_CHR_Tobestick: "Tobestick"
+ GOTHONES_CHR_Astrae: "Астрая"
+ GOTHONES_CHR_Hunner: "Ханнер"
+ GOTHONES_CHR_Quart: "Кварта"
+ GOTHONES_CHR_Minador: "Минадор"
+ GOTHONES_CHR_Ferrus: "Феррус"
+ GOTHONES_CHR_Salur: "Салур"
+ GOTHONES_CHR_Jaxum: "Джаксум"
+ GOTHONES_CHR_Elgus: "Эльгус"
+ GOTHONES_CHR_Teras: "Терас"
+ GOTHONES_CHR_Lorir: "лорир"
+ GOTHONES_CHR_Tusi: "Туси"
+ GOTHONES_CHR_Cheros: "Черос"
+ GOTHONES_CHR_Sareko: "Сареко"
+ GOTHONES_CHR_Actin: "Актин"
+ GOTHONES_CHR_Pratur: "Пратур"
+ GOTHONES_CHR_Solana: "Солана"
+ GOTHONES_CHR_Dixali: "Диксалы"
+ GOTHONES_CHR_Vitola: "Витола"
+ GOTHONES_CHR_Lana: "Лана"
+ GOTHONES_CHR_Himar: "Химар"
+ GOTHONES_CHR_Reta: "Рета"
+ GOTHONES_CHR_Naxus: "Наксус"
+ GOTHONES_CHR_Lilira: "Лилира"
+ GOTHONES_CHR_Orinia: "Ориния"
+ GOTHONES_CHR_Dinara: "Динара"
+ GOTHONES_CHR_Arayna: "Арайна"
+ GOTHONES_CHR_Anela: "Анела"
+ GOTHONES_CHR_Octa: "Окта"
+ GOTHONES_CHR_Vetra: "Ветра"
+ GOTHONES_CHR_Abrudas: "Абрудас"
+ GOTHONES_CHR_Shastina: "Шастина"
+ GOTHONES_CHR_Pavan: "Паван"
+ GOTHONES_CHR_Nyreen: "Найрин"
+ GOTHONES_CHR_Abruta: "Абрута"
+ GOTHONES_CHR_Abrura: "Абрура"
+ GOTHONES_CHR_Abrutina: "Абрутина"
+ GOTHONES_CHR_Abruvan: "Абруван"
+ GOTHONES_CHR_Abrureen: "Абрурин"
+ GOTHONES_CHR_Shasta: "Шаста"
+ GOTHONES_CHR_Shasra: "Шасра"
+ GOTHONES_CHR_Shasdas: "Шазды"
+ GOTHONES_CHR_Shasvan: "Шасван"
+ GOTHONES_CHR_Shasreen: "Шасрин"
+ GOTHONES_CHR_Pata: "Пата"
+ GOTHONES_CHR_Para: "Пара"
+ GOTHONES_CHR_Padas: "Пады"
+ GOTHONES_CHR_Patina: "Патина"
+ GOTHONES_CHR_Pareen: "Парин"
+ GOTHONES_CHR_Nyta: "Нита"
+ GOTHONES_CHR_Nyra: "Нира"
+ GOTHONES_CHR_Nydas: "Нидас"
+ GOTHONES_CHR_Nytina: "Нытина"
+ GOTHONES_CHR_Nyvan: "Ниван"
+ GOTHONES_CHR_Maxivia: "Максивиа"
+ GOTHONES_CHR_Ocra: "Окра"
+ GOTHONES_CHR_Ocdas: "Окдас"
+ GOTHONES_CHR_Octina: "Октина"
+ GOTHONES_CHR_Ocvan: "Окван"
+ GOTHONES_CHR_Ocreen: "Окрин"
+ GOTHONES_CHR_Quarn: "Кварн"
+ GOTHONES_CHR_Palanurus: "Паланурус"
+ GOTHONES_CHR_Talid: "Талид"
+ GOTHONES_CHR_Pallin: "Паллин"
+ GOTHONES_CHR_Coronati: "Коронати"
+ GOTHONES_CHR_Kuril: "Курилы"
+ GOTHONES_CHR_Sidonis: "Сидонис"
+ GOTHONES_CHR_Kryik: "Крайк"
+ GOTHONES_CHR_Gavorn: "Гаворн"
+ GOTHONES_CHR_Nazario: "Назарио"
+ GOTHONES_CHR_Quiin: "Куин"
+ GOTHONES_CHR_Haliat: "Галиат"
+ GOTHONES_CHR_Actus: "Актус"
+ GOTHONES_CHR_Tiron: "Тирон"
+ GOTHONES_CHR_Oraka: "Орака"
+ GOTHONES_CHR_Aurelos: "Аурелос"
+ GOTHONES_CHR_Arterius: "Артериус"
+ GOTHONES_CHR_Vakarian: "Вакариан"
+ GOTHONES_CHR_Victus: "Виктория"
+ GOTHONES_CHR_Hanus: "Ганус"
+ GOTHONES_CHR_Saneraxis: "Санераксис"
+ GOTHONES_CHR_Scartos: "Скартос"
+ GOTHONES_CHR_Valen: "Вален"
+ GOTHONES_CHR_Raxirian: "раксирианец"
+ GOTHONES_CHR_Valterus: "Вальтерн"
+ GOTHONES_CHR_Vidinos: "Видинос"
+ GOTHONES_CHR_Jacobus: "Якобус"
+ GOTHONES_CHR_Invectus: "Инвектус"
+ GOTHONES_CHR_Haron: "Харон"
+ GOTHONES_CHR_Corinthus: "Коринф"
+ GOTHONES_CHR_Fedorian: "Федорян"
+ GOTHONES_CHR_Chellick: "Челлик"
+ GOTHONES_CHR_Vyrnnus: "Вирнус"
+ GOTHONES_CHR_Emperus: "Эмперус"
+ GOTHONES_CHR_Sahira: "Сахира"
+ GOTHONES_CHR_Kandros: "Кандрос"
+ GOTHONES_CHR_Davaria: "Давария"
+ GOTHONES_CHR_Nyrek: "Нирек"
+ GOTHONES_CHR_Gaudium: "Гаудиум"
+ GOTHONES_CHR_Daphnon: "Дафнон"
+ GOTHONES_CHR_Ravidus: "Равидус"
+ GOTHONES_CHR_Satorim: "Саторим"
+ GOTHONES_CHR_Partainis: "Партенис"
+ GOTHONES_CHR_Iheras: "Ихерас"
+ GOTHONES_CHR_Dianix: "Дайникс"
+ GOTHONES_CHR_Pagasi: "Пагаси"
+ GOTHONES_CHR_Machaera: "Махаера"
+ GOTHONES_CHR_Septimax: "Септимакс"
+ GOTHONES_CHR_Tertius: "Терций"
+ GOTHONES_CHR_Lilix: "Лиликс"
+ GOTHONES_CHR_Antivus: "Антивус"
+ GOTHONES_CHR_Tanus: "Танус"
+ GOTHONES_CHR_Yahirix: "Яхирикс"
+ GOTHONES_CHR_Relius: "Релиус"
+ GOTHONES_CHR_Partinax: "Партинакс"
+ GOTHONES_CHR_Sylvatus: "Сильват"
+ GOTHONES_CHR_Patathor: "Пататор"
+ GOTHONES_CHR_Lux: "Люкс"
+ GOTHONES_CHR_Korlick: "Корлик"
+ GOTHONES_CHR_Latronus: "Латронус"
+ GOTHONES_CHR_Darikun: "Дарикун"
+ GOTHONES_CHR_Borlin: "Борлин"
+ GOTHONES_CHR_Paramon: "Парамон"
+ GOTHONES_CHR_Ursinus: "Урсинус"
+ GOTHONES_CHR_Quentiys: "Квентии"
+ GOTHONES_CHR_Spartarus: "Спартарус"
+ GOTHONES_CHR_Riten: "Ритен"
+ GOTHONES_CHR_Squaron: "Скварон"
+ GOTHONES_CHR_Septimas: "Септимас"
+ GOTHONES_CHR_Sycoram: "сикорам"
+ GOTHONES_CHR_Iherax: "Игеракс"
+ GOTHONES_CHR_Siyan: "Сиян"
+ GOTHONES_CHR_Irvinus: "Ирвинус"
+ GOTHONES_CHR_Korilius: "Корилиус"
+ GOTHONES_CHR_Dellk: "Делк"
+ GOTHONES_CHR_Egnadus: "Эгнад"
+ GOTHONES_CHR_Bartus: "Бартус"
+ GOTHONES_CHR_Arborandum: "Арборандум"
+ GOTHONES_CHR_Rubicum: "Рубикум"
+ GOTHONES_CHR_Raedun: "Редун"
+ GOTHONES_CHR_Ixiri: "Ииксири"
+ GOTHONES_CHR_Genchak: "Генчак"
+ GOTHONES_CHR_Vadus: "Вадус"

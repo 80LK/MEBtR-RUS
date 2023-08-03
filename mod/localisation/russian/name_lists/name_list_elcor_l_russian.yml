@@ -1,1155 +1,1155 @@
 ﻿l_russian:
- name_list_btr_elcor:0 "Элкор" #NT!
- ELCOR_SHIP_:0 ""
- ELCOR_SHIP_Aricie:0 "Ариси" #NT!
- ELCOR_SHIP_Antes:0 "анте" #NT!
- ELCOR_SHIP_Anoure:0 "Анур" #NT!
- ELCOR_SHIP_Anounuelle:0 "Анунуэль" #NT!
- ELCOR_SHIP_Anoulice:0 "Анулис" #NT!
- ELCOR_SHIP_Anges:0 "Анжес" #NT!
- ELCOR_SHIP_Ander:0 "Андер" #NT!
- ELCOR_SHIP_Anastever:0 "Анастевер" #NT!
- ELCOR_SHIP_Anai:0 "Анаи" #NT!
- ELCOR_SHIP_Ameie:0 "Ameie" #NT!
- ELCOR_SHIP_Amedre:0 "Амедре" #NT!
- ELCOR_SHIP_Alrece:0 "Элис" #NT!
- ELCOR_SHIP_Alicide:0 "Алицид" #NT!
- ELCOR_SHIP_Aleche:0 "Алече" #NT!
- ELCOR_SHIP_Albertmonde:0 "Альбертмонд" #NT!
- ELCOR_SHIP_Alable:0 "Аабл" #NT!
- ELCOR_SHIP_Aiais:0 "Айайс" #NT!
- ELCOR_SHIP_Achas:0 "Ахас" #NT!
- ELCOR_SHIP_Abence:0 "Отсутствие" #NT!
- ELCOR_SHIP_Bobeil:0 "Бобейл" #NT!
- ELCOR_SHIP_Blory:0 "Блори" #NT!
- ELCOR_SHIP_Blgene:0 "Блгене" #NT!
- ELCOR_SHIP_Blandaide:0 "Бладейд" #NT!
- ELCOR_SHIP_Bese:0 "Бесе" #NT!
- ELCOR_SHIP_Berthestance:0 "Бертестан" #NT!
- ELCOR_SHIP_Berere:0 "Берере" #NT!
- ELCOR_SHIP_Benedictlice:0 "Бенедиктлице" #NT!
- ELCOR_SHIP_Beacie:0 "Биси" #NT!
- ELCOR_SHIP_Barbgonde:0 "Барбгонде" #NT!
- ELCOR_SHIP_Barbathe:0 "Барбат" #NT!
- ELCOR_SHIP_Babstine:0 "Бабстин" #NT!
- ELCOR_SHIP_Aureoine:0 "Ауреоин" #NT!
- ELCOR_SHIP_Auglae:0 "Авгла" #NT!
- ELCOR_SHIP_Aubnace:0 "Обнас" #NT!
- ELCOR_SHIP_Asson:0 "Ассон" #NT!
- ELCOR_SHIP_Artoire:0 "Артуар" #NT!
- ELCOR_SHIP_Arle:0 "Арле" #NT!
- ELCOR_SHIP_Cheime:0 "Чиме" #NT!
- ELCOR_SHIP_Chaultou:0 "Шульту" #NT!
- ELCOR_SHIP_Chatou:0 "Шату" #NT!
- ELCOR_SHIP_Chate:0 "Чат" #NT!
- ELCOR_SHIP_Charle:0 "Чарльз" #NT!
- ELCOR_SHIP_Chantustine:0 "Шантустин" #NT!
- ELCOR_SHIP_Chane:0 "Чане" #NT!
- ELCOR_SHIP_Chalau:0 "Чалау" #NT!
- ELCOR_SHIP_Celea:0 "Селия" #NT!
- ELCOR_SHIP_Carolleine:0 "Каролина" #NT!
- ELCOR_SHIP_Carcy:0 "Карси" #NT!
- ELCOR_SHIP_Carathe:0 "Карате" #NT!
- ELCOR_SHIP_Campieu:0 "Кампьё" #NT!
- ELCOR_SHIP_Cagne:0 "Кань" #NT!
- ELCOR_SHIP_Bordy:0 "Борди" #NT!
- ELCOR_SHIP_Bonne:0 "Бонн" #NT!
- ELCOR_SHIP_Bonilea:0 "Бонилея" #NT!
- ELCOR_SHIP_Bonielme:0 "Бонельме" #NT!
- ELCOR_SHIP_Bobonn:0 "Бобонн" #NT!
- ELCOR_SHIP_Bobez:0 "Бобез" #NT!
- ELCOR_SHIP_Dorce:0 "Дорче" #NT!
- ELCOR_SHIP_Dieppieu:0 "Дьеппье" #NT!
- ELCOR_SHIP_Diarette:0 "Диаретта" #NT!
- ELCOR_SHIP_Desiroise:0 "Desiroise" #NT!
- ELCOR_SHIP_Decy:0 "Деси" #NT!
- ELCOR_SHIP_Cynee:0 "Сини" #NT!
- ELCOR_SHIP_Cornelentin:0 "Корнелентин" #NT!
- ELCOR_SHIP_Cony:0 "Кони" #NT!
- ELCOR_SHIP_Convoie:0 "Конвой" #NT!
- ELCOR_SHIP_Constoise:0 "Констоис" #NT!
- ELCOR_SHIP_Condee:0 "Конди" #NT!
- ELCOR_SHIP_Conay:0 "Коней" #NT!
- ELCOR_SHIP_Colombrelien:0 "Коломбрелиен" #NT!
- ELCOR_SHIP_Clony:0 "клон" #NT!
- ELCOR_SHIP_Clnore:0 "Кланор" #NT!
- ELCOR_SHIP_Clemtrice:0 "Клемтрис" #NT!
- ELCOR_SHIP_Clemdic:0 "Клемдик" #NT!
- ELCOR_SHIP_Cine:0 "кино" #NT!
- ELCOR_SHIP_Chire:0 "Чир" #NT!
- ELCOR_SHIP_Fonte:0 "Фонте" #NT!
- ELCOR_SHIP_Florvier:0 "Флорвье" #NT!
- ELCOR_SHIP_Floine:0 "Флоин" #NT!
- ELCOR_SHIP_Fleuinaire:0 "Флейнер" #NT!
- ELCOR_SHIP_Fittia:0 "Фиттия" #NT!
- ELCOR_SHIP_Fernandcrece:0 "Фернанкрече" #NT!
- ELCOR_SHIP_Ethleine:0 "Этлейн" #NT!
- ELCOR_SHIP_Erand:0 "Эранд" #NT!
- ELCOR_SHIP_Emelblanche:0 "Эмельбланш" #NT!
- ELCOR_SHIP_Elvina:0 "Эльвина" #NT!
- ELCOR_SHIP_Elianee:0 "Элиани" #NT!
- ELCOR_SHIP_Elacques:0 "Элакес" #NT!
- ELCOR_SHIP_Edthias:0 "Эдиас" #NT!
- ELCOR_SHIP_Edis:0 "Эдис" #NT!
- ELCOR_SHIP_Edierry:0 "Эдьерри" #NT!
- ELCOR_SHIP_Ede:0 "Эде" #NT!
- ELCOR_SHIP_Eaules:0 "Оль" #NT!
- ELCOR_SHIP_Dramboul:0 "Драмбул" #NT!
- ELCOR_SHIP_Honule:0 "Хонуле" #NT!
- ELCOR_SHIP_Honphin:0 "Хонпхин" #NT!
- ELCOR_SHIP_Honorara:0 "Онорара" #NT!
- ELCOR_SHIP_Hercille:0 "Герсиль" #NT!
- ELCOR_SHIP_Hemine:0 "Гемин" #NT!
- ELCOR_SHIP_Helly:0 "Хелли" #NT!
- ELCOR_SHIP_Helesaire:0 "Элезэр" #NT!
- ELCOR_SHIP_Hatia:0 "Хатиа" #NT!
- ELCOR_SHIP_Guilban:0 "Гильбан" #NT!
- ELCOR_SHIP_Grouberg:0 "Гроуберг" #NT!
- ELCOR_SHIP_Grezaire:0 "Грезер" #NT!
- ELCOR_SHIP_Grese:0 "Грезе" #NT!
- ELCOR_SHIP_Grasar:0 "Грасар" #NT!
- ELCOR_SHIP_Gony:0 "Гони" #NT!
- ELCOR_SHIP_Gismine:0 "Жисмин" #NT!
- ELCOR_SHIP_Gisee:0 "Гизе" #NT!
- ELCOR_SHIP_Gerine:0 "Герин" #NT!
- ELCOR_SHIP_Francy:0 "Фрэнси" #NT!
- ELCOR_SHIP_Fortvoie:0 "Фортвойе" #NT!
- ELCOR_SHIP_Lese:0 "Лесе" #NT!
- ELCOR_SHIP_Lere:0 "Лере" #NT!
- ELCOR_SHIP_Leaanne:0 "Линн" #NT!
- ELCOR_SHIP_Lazdine:0 "Лаздин" #NT!
- ELCOR_SHIP_Laurencile:0 "Лоуренсиль" #NT!
- ELCOR_SHIP_Judnin:0 "Джаднин" #NT!
- ELCOR_SHIP_Judent:0 "Джудент" #NT!
- ELCOR_SHIP_Joseemie:0 "Жоземи" #NT!
- ELCOR_SHIP_Joier:0 "Джойер" #NT!
- ELCOR_SHIP_Jocmilien:0 "Жокмильен" #NT!
- ELCOR_SHIP_Jocice:0 "Джочиче" #NT!
- ELCOR_SHIP_Jocery:0 "Джосери" #NT!
- ELCOR_SHIP_Jocenand:0 "Джосенанд" #NT!
- ELCOR_SHIP_Jerthias:0 "Иертиас" #NT!
- ELCOR_SHIP_Jeanrille:0 "Жанрилль" #NT!
- ELCOR_SHIP_Jealon:0 "Джиалон" #NT!
- ELCOR_SHIP_Jasemi:0 "Джасеми" #NT!
- ELCOR_SHIP_Isadrie:0 "Изадри" #NT!
- ELCOR_SHIP_Ireienne:0 "Ириенн" #NT!
- ELCOR_SHIP_Mese:0 "Месе" #NT!
- ELCOR_SHIP_Mery:0 "Мери" #NT!
- ELCOR_SHIP_Maxipasien:0 "Максипасиен" #NT!
- ELCOR_SHIP_Mauber:0 "Мобер" #NT!
- ELCOR_SHIP_Masar:0 "Масар" #NT!
- ELCOR_SHIP_Mary:0 "Мэри" #NT!
- ELCOR_SHIP_Martou:0 "Марту" #NT!
- ELCOR_SHIP_Marse:0 "Марс" #NT!
- ELCOR_SHIP_Marine:0 "морской" #NT!
- ELCOR_SHIP_Mare:0 "Маре" #NT!
- ELCOR_SHIP_Malme:0 "Мальме" #NT!
- ELCOR_SHIP_Male:0 "Мужской" #NT!
- ELCOR_SHIP_Mahy:0 "Махи" #NT!
- ELCOR_SHIP_Mahcile:0 "Махчиле" #NT!
- ELCOR_SHIP_Maelelien:0 "Мелелиен" #NT!
- ELCOR_SHIP_Lyone:0 "Лионе" #NT!
- ELCOR_SHIP_Lune:0 "Луна" #NT!
- ELCOR_SHIP_Lombes:0 "Ломб" #NT!
- ELCOR_SHIP_Loicnic:0 "Лоикник" #NT!
- ELCOR_SHIP_Logny:0 "Логни" #NT!
- ELCOR_SHIP_Lioippe:0 "Лиопп" #NT!
- ELCOR_SHIP_Linay:0 "Линай" #NT!
- ELCOR_SHIP_Pascaali:0 "Паскаали" #NT!
- ELCOR_SHIP_Osaian:0 "осейский" #NT!
- ELCOR_SHIP_Orindrie:0 "Ориндри" #NT!
- ELCOR_SHIP_Ontceaux:0 "Онсо" #NT!
- ELCOR_SHIP_Onesgue:0 "Онегю" #NT!
- ELCOR_SHIP_Oliques:0 "Оликес" #NT!
- ELCOR_SHIP_Odinon:0 "Одинон" #NT!
- ELCOR_SHIP_Normon:0 "Нормон" #NT!
- ELCOR_SHIP_Noon:0 "Полдень" #NT!
- ELCOR_SHIP_Nese:0 "Несе" #NT!
- ELCOR_SHIP_Neme:0 "Неме" #NT!
- ELCOR_SHIP_Necy:0 "Неси" #NT!
- ELCOR_SHIP_Narthieu:0 "Нартье" #NT!
- ELCOR_SHIP_Naix:0 "Нейкс" #NT!
- ELCOR_SHIP_Morla:0 "Морла" #NT!
- ELCOR_SHIP_Montpieu:0 "Монпьё" #NT!
- ELCOR_SHIP_Monte:0 "Монте" #NT!
- ELCOR_SHIP_Modaise:0 "Modaise" #NT!
- ELCOR_SHIP_Miraastasie:0 "Мираастази" #NT!
- ELCOR_SHIP_Meudy:0 "Меди" #NT!
- ELCOR_SHIP_Sylvdine:0 "Сильвдин" #NT!
- ELCOR_SHIP_Sevre:0 "Севр" #NT!
- ELCOR_SHIP_Savoie:0 "Савойя" #NT!
- ELCOR_SHIP_Sarre:0 "Сарр" #NT!
- ELCOR_SHIP_Samon:0 "Самон" #NT!
- ELCOR_SHIP_Rosevaise:0 "Розевиз" #NT!
- ELCOR_SHIP_Rosenon:0 "Розенон" #NT!
- ELCOR_SHIP_Rochienne:0 "Рошенн" #NT!
- ELCOR_SHIP_Rochdain:0 "Рочдейн" #NT!
- ELCOR_SHIP_Renon:0 "Ренон" #NT!
- ELCOR_SHIP_Reime:0 "Рейме" #NT!
- ELCOR_SHIP_Regice:0 "Реджис" #NT!
- ELCOR_SHIP_Raphfi:0 "Рафи" #NT!
- ELCOR_SHIP_Raphay:0 "Рафай" #NT!
- ELCOR_SHIP_Rambourg:0 "Рамбург" #NT!
- ELCOR_SHIP_Raise:0 "Поднимать" #NT!
- ELCOR_SHIP_Pigny:0 "Пини" #NT!
- ELCOR_SHIP_Pese:0 "песе" #NT!
- ELCOR_SHIP_Perpe:0 "Перпе" #NT!
- ELCOR_SHIP_Patrian:0 "Патриан" #NT!
- ELCOR_SHIP_Pascasine:0 "Паскасин" #NT!
- ELCOR_SHIP_Zephyome:0 "Зефиоме" #NT!
- ELCOR_SHIP_Yevrar:0 "Еврар" #NT!
- ELCOR_SHIP_Yanieu:0 "Яньё" #NT!
- ELCOR_SHIP_Virginil:0 "Вирджинил" #NT!
- ELCOR_SHIP_Violbel:0 "Виольбель" #NT!
- ELCOR_SHIP_Villay:0 "Виллай" #NT!
- ELCOR_SHIP_Verny:0 "Верный" #NT!
- ELCOR_SHIP_Vene:0 "Вене" #NT!
- ELCOR_SHIP_Vaulxerr:0 "Волксерр" #NT!
- ELCOR_SHIP_Vaultia:0 "Валтия" #NT!
- ELCOR_SHIP_Valean:0 "Валеан" #NT!
- ELCOR_SHIP_Valay:0 "Валай" #NT!
- ELCOR_SHIP_Tourcy:0 "Турси" #NT!
- ELCOR_SHIP_Tonny:0 "Тонни" #NT!
- ELCOR_SHIP_Thicel:0 "Тисель" #NT!
- ELCOR_SHIP_Telesllin:0 "Телеслин" #NT!
- ELCOR_xxElcor_Warrior_Flotilla_ORD:0 "$O$ Флотилия воинов Элькора" #NT!
- ELCOR_xxDefence_Warriors_ORD:0 "$O$ Воины обороны" #NT!
- ELCOR_xxAssualt_Warriors_ORD:0 "$O$ Штурмовые воины" #NT!
- ELCOR_xxIndentured_Warriors_ORD:0 "$O$ Наемные воины" #NT!
- ELCOR_xxClone_Warriors_ORD:0 "$O$ Клоны-воины" #NT!
- ELCOR_xxVI_Warriors_ORD:0 "$O$ VI Воины" #NT!
- ELCOR_xxBiotic_Warriors_ORD:0 "$O$ Биотические воины" #NT!
- ELCOR_xxEnhanced_Warriors_ORD:0 "$O$ Улучшить воинов" #NT!
- ELCOR_xxSupreme_Warriors_ORD:0 "$O$ Верховные воины" #NT!
- ELCOR_CHR_Yarigue:0 "Яриге" #NT!
- ELCOR_CHR_Yaiste:0 "Яисте" #NT!
- ELCOR_CHR_Visa:0 "Виза" #NT!
- ELCOR_CHR_Vespbert:0 "Веспберт" #NT!
- ELCOR_CHR_Vaisa:0 "Вайса" #NT!
- ELCOR_CHR_Vaentin:0 "Вентин" #NT!
- ELCOR_CHR_Urinaire:0 "мочевой пузырь" #NT!
- ELCOR_CHR_Umes:0 "Умес" #NT!
- ELCOR_CHR_Ucers:0 "Язвы" #NT!
- ELCOR_CHR_Trisllin:0 "Трислин" #NT!
- ELCOR_CHR_Toustide:0 "Тустид" #NT!
- ELCOR_CHR_Tousthan:0 "Тоустан" #NT!
- ELCOR_CHR_Tousse:0 "Тусс" #NT!
- ELCOR_CHR_Tosa:0 "Тоса" #NT!
- ELCOR_CHR_Tonic:0 "Тоник" #NT!
- ELCOR_CHR_Thisolon:0 "Тисолон" #NT!
- ELCOR_CHR_Tharda:0 "Тарда" #NT!
- ELCOR_CHR_Tesa:0 "Теса" #NT!
- ELCOR_CHR_Tanaut:0 "Танаут" #NT!
- ELCOR_CHR_Tainsa:0 "Тайнса" #NT!
- ELCOR_CHR_Stephare:0 "Стефар" #NT!
- ELCOR_CHR_Stefred:0 "Стефред" #NT!
- ELCOR_CHR_Sornart:0 "Сорнарт" #NT!
- ELCOR_CHR_Soda:0 "Сода" #NT!
- ELCOR_CHR_Soartzia:0 "Соарция" #NT!
- ELCOR_CHR_Simo:0 "Симо" #NT!
- ELCOR_CHR_Siislain:0 "Сиислайн" #NT!
- ELCOR_CHR_Seveelin:0 "Севелин" #NT!
- ELCOR_CHR_Sevedre:0 "Севедр" #NT!
- ELCOR_CHR_Sevc:0 "Севц" #NT!
- ELCOR_CHR_Sebatophe:0 "Себатоф" #NT!
- ELCOR_CHR_Sebasire:0 "Себасир" #NT!
- ELCOR_CHR_Save:0 "Сохранять" #NT!
- ELCOR_CHR_Sausa:0 "Сауса" #NT!
- ELCOR_CHR_Sartsa:0 "Сарца" #NT!
- ELCOR_CHR_Sanand:0 "Сананд" #NT!
- ELCOR_CHR_Samlie:0 "Сэмли" #NT!
- ELCOR_CHR_Saloinaire:0 "Салуанер" #NT!
- ELCOR_CHR_Rotli:0 "Ротли" #NT!
- ELCOR_CHR_Rotgui:0 "Ротгуи" #NT!
- ELCOR_CHR_Rolest:0 "Ролест" #NT!
- ELCOR_CHR_Role:0 "Роль" #NT!
- ELCOR_CHR_Rogui:0 "Rogui" #NT!
- ELCOR_CHR_Rochique:0 "Рошик" #NT!
- ELCOR_CHR_Rinetz:0 "Ринец" #NT!
- ELCOR_CHR_Rigui:0 "Риги" #NT!
- ELCOR_CHR_Ricsa:0 "Рикса" #NT!
- ELCOR_CHR_Rici:0 "Ричи" #NT!
- ELCOR_CHR_Richart:0 "Ричард" #NT!
- ELCOR_CHR_Rice:0 "Рис" #NT!
- ELCOR_CHR_Reynorin:0 "Рейнорин" #NT!
- ELCOR_CHR_Randa:0 "Ранда" #NT!
- ELCOR_CHR_Rami:0 "Рами" #NT!
- ELCOR_CHR_Rainel:0 "Райнель" #NT!
- ELCOR_CHR_Raiandre:0 "Райандре" #NT!
- ELCOR_CHR_Ragui:0 "Рагуи" #NT!
- ELCOR_CHR_Rago:0 "Раго" #NT!
- ELCOR_CHR_Raelemy:0 "Раэлеми" #NT!
- ELCOR_CHR_Prosraud:0 "Просро" #NT!
- ELCOR_CHR_Prosier:0 "Просье" #NT!
- ELCOR_CHR_Prosable:0 "Предполагаемый" #NT!
- ELCOR_CHR_Ponsa:0 "Понса" #NT!
- ELCOR_CHR_Ponnaud:0 "Понно" #NT!
- ELCOR_CHR_Pieriel:0 "Пьериэль" #NT!
- ELCOR_CHR_Philvain:0 "Филвен" #NT!
- ELCOR_CHR_Philrian:0 "Филриан" #NT!
- ELCOR_CHR_Philiri:0 "Филири" #NT!
- ELCOR_CHR_Peyre:0 "Пейр" #NT!
- ELCOR_CHR_Perri:0 "Перри" #NT!
- ELCOR_CHR_Pasche:0 "Паше" #NT!
- ELCOR_CHR_Ozois:0 "Озои" #NT!
- ELCOR_CHR_Ozeric:0 "Озерик" #NT!
- ELCOR_CHR_Ozade:0 "Озаде" #NT!
- ELCOR_CHR_Osfred:0 "Осфред" #NT!
- ELCOR_CHR_Osacal:0 "Осакал" #NT!
- ELCOR_CHR_Odvon:0 "Одвон" #NT!
- ELCOR_CHR_Niconn:0 "Никонн" #NT!
- ELCOR_CHR_Nicodald:0 "Никодальд" #NT!
- ELCOR_CHR_Nicllin:0 "Никлин" #NT!
- ELCOR_CHR_Nadilon:0 "Надилон" #NT!
- ELCOR_CHR_Mosa:0 "Моза" #NT!
- ELCOR_CHR_Monsa:0 "Монса" #NT!
- ELCOR_CHR_Monetz:0 "Монец" #NT!
- ELCOR_CHR_Modraud:0 "Модро" #NT!
- ELCOR_CHR_Modlin:0 "Модлин" #NT!
- ELCOR_CHR_Miain:0 "Миайн" #NT!
- ELCOR_CHR_Maxiorin:0 "Максиорин" #NT!
- ELCOR_CHR_Maurilon:0 "Морилон" #NT!
- ELCOR_CHR_Maurdee:0 "Морди" #NT!
- ELCOR_CHR_Matpold:0 "Матпольд" #NT!
- ELCOR_CHR_Matius:0 "Матиус" #NT!
- ELCOR_CHR_Mathrille:0 "Матрилль" #NT!
- ELCOR_CHR_Mathouard:0 "Матуар" #NT!
- ELCOR_CHR_Marsire:0 "Марсир" #NT!
- ELCOR_CHR_Marcelmand:0 "Марсельман" #NT!
- ELCOR_CHR_Marcelin:0 "Марселин" #NT!
- ELCOR_CHR_Maray:0 "Марай" #NT!
- ELCOR_CHR_Manaud:0 "Мано" #NT!
- ELCOR_CHR_Mami:0 "Мами" #NT!
- ELCOR_CHR_Maesile:0 "Маэсиле" #NT!
- ELCOR_CHR_Maeper:0 "Мэйпер" #NT!
- ELCOR_CHR_Maeat:0 "Маэат" #NT!
- ELCOR_CHR_Loneus:0 "Лонеус" #NT!
- ELCOR_CHR_Loicael:0 "Лойкаэль" #NT!
- ELCOR_CHR_Leolere:0 "Леолере" #NT!
- ELCOR_CHR_Legar:0 "Легар" #NT!
- ELCOR_CHR_Lauix:0 "Лоикс" #NT!
- ELCOR_CHR_Judilain:0 "Жюдилен" #NT!
- ELCOR_CHR_Judicfred:0 "Джудифред" #NT!
- ELCOR_CHR_Judicbert:0 "Джудикберт" #NT!
- ELCOR_CHR_Jossa:0 "Джосса" #NT!
- ELCOR_CHR_Jorent:0 "Джорент" #NT!
- ELCOR_CHR_Jorda:0 "Хорда" #NT!
- ELCOR_CHR_Johelms:0 "Йохелмс" #NT!
- ELCOR_CHR_Joeere:0 "Джоэр" #NT!
- ELCOR_CHR_Jocriste:0 "Иокриста" #NT!
- ELCOR_CHR_Jocrin:0 "Джокрин" #NT!
- ELCOR_CHR_Joansa:0 "Джоанса" #NT!
- ELCOR_CHR_Joanatz:0 "Джоанац" #NT!
- ELCOR_CHR_Jeuste:0 "Джуст" #NT!
- ELCOR_CHR_Jeroloi:0 "Джеролои" #NT!
- ELCOR_CHR_Jeroandre:0 "Джероандр" #NT!
- ELCOR_CHR_Jerleste:0 "Джерлесте" #NT!
- ELCOR_CHR_Jerache:0 "Джераш" #NT!
- ELCOR_CHR_Jeazare:0 "Джазаре" #NT!
- ELCOR_CHR_Jeanon:0 "Жанон" #NT!
- ELCOR_CHR_Jeancha:0 "Жанча" #NT!
- ELCOR_CHR_Jeanaut:0 "Жано" #NT!
- ELCOR_CHR_Jeacal:0 "Джакал" #NT!
- ELCOR_CHR_Jastin:0 "Джастин" #NT!
- ELCOR_CHR_Jaques:0 "Жак" #NT!
- ELCOR_CHR_Jaquel:0 "Жакель" #NT!
- ELCOR_CHR_Jacquin:0 "Жакен" #NT!
- ELCOR_CHR_Jacquel:0 "Жакель" #NT!
- ELCOR_CHR_Isatz:0 "Исац" #NT!
- ELCOR_CHR_Irautz:0 "Ираутц" #NT!
- ELCOR_CHR_Ilhers:0 "Ильерс" #NT!
- ELCOR_CHR_Humnis:0 "Гумнис" #NT!
- ELCOR_CHR_Humlin:0 "Хамлин" #NT!
- ELCOR_CHR_Hubebise:0 "Hubebise" #NT!
- ELCOR_CHR_Honrele:0 "Онреле" #NT!
- ELCOR_CHR_Hilare:0 "Хиларе" #NT!
- ELCOR_CHR_Heurtean:0 "эртовский" #NT!
- ELCOR_CHR_Heril:0 "Херил" #NT!
- ELCOR_CHR_Hercve:0 "Hercve" #NT!
- ELCOR_CHR_Heco:0 "Хеко" #NT!
- ELCOR_CHR_Hecelyn:0 "Хеселин" #NT!
- ELCOR_CHR_Guisa:0 "Гиза" #NT!
- ELCOR_CHR_Guire:0 "Гуайр" #NT!
- ELCOR_CHR_Guiotzia:0 "Гиоция" #NT!
- ELCOR_CHR_Guilre:0 "Гильре" #NT!
- ELCOR_CHR_Guili:0 "Guili" #NT!
- ELCOR_CHR_Guilhem:0 "Гильем" #NT!
- ELCOR_CHR_Guilhayl:0 "Гилхайл" #NT!
- ELCOR_CHR_Guilhartz:0 "Гильхарц" #NT!
- ELCOR_CHR_Guilhans:0 "Гильанс" #NT!
- ELCOR_CHR_Guilham:0 "Гилхэм" #NT!
- ELCOR_CHR_Guigui:0 "Гигуи" #NT!
- ELCOR_CHR_Guesa:0 "Геса" #NT!
- ELCOR_CHR_Gosa:0 "Госа" #NT!
- ELCOR_CHR_Gontre:0 "Гонтре" #NT!
- ELCOR_CHR_Gonault:0 "Гоно" #NT!
- ELCOR_CHR_Gonard:0 "Гонар" #NT!
- ELCOR_CHR_Gobern:0 "Гоберн" #NT!
- ELCOR_CHR_Gire:0 "Гир" #NT!
- ELCOR_CHR_Gili:0 "Гили" #NT!
- ELCOR_CHR_Giersa:0 "Герса" #NT!
- ELCOR_CHR_Giere:0 "Гир" #NT!
- ELCOR_CHR_Gersa:0 "Герса" #NT!
- ELCOR_CHR_Geray:0 "Герай" #NT!
- ELCOR_CHR_Georier:0 "Жорье" #NT!
- ELCOR_CHR_Gautos:0 "Гаутос" #NT!
- ELCOR_CHR_Gauton:0 "Гаутон" #NT!
- ELCOR_CHR_Gautac:0 "Гаутак" #NT!
- ELCOR_CHR_Gauda:0 "Гауда" #NT!
- ELCOR_CHR_Gasters:0 "Гастеры" #NT!
- ELCOR_CHR_Ganeus:0 "Ганеус" #NT!
- ELCOR_CHR_Galtis:0 "Галтис" #NT!
- ELCOR_CHR_Galtib:0 "Галтиб" #NT!
- ELCOR_CHR_Gaisa:0 "Гайса" #NT!
- ELCOR_CHR_Gaida:0 "Гайда" #NT!
- ELCOR_CHR_Gabmand:0 "Габманд" #NT!
- ELCOR_CHR_Fratzia:0 "Фрация" #NT!
- ELCOR_CHR_Franoe:0 "Франоэ" #NT!
- ELCOR_CHR_Francgue:0 "франк" #NT!
- ELCOR_CHR_Fraele:0 "Фраэле" #NT!
- ELCOR_CHR_Fosa:0 "Фоса" #NT!
- ELCOR_CHR_Folquin:0 "Фолькин" #NT!
- ELCOR_CHR_Foci:0 "Очаги" #NT!
- ELCOR_CHR_Floroul:0 "Флорул" #NT!
- ELCOR_CHR_Firier:0 "Огненный" #NT!
- ELCOR_CHR_Fili:0 "Фили" #NT!
- ELCOR_CHR_Fiaael:0 "Фиаэль" #NT!
- ELCOR_CHR_Fere:0 "Фер" #NT!
- ELCOR_CHR_Ferble:0 "Фербл" #NT!
- ELCOR_CHR_Felri:0 "Фелри" #NT!
- ELCOR_CHR_Feacques:0 "Феак" #NT!
- ELCOR_CHR_Fabface:0 "Фабфейс" #NT!
- ELCOR_CHR_Evitz:0 "Эвиц" #NT!
- ELCOR_CHR_Evics:0 "Эвикс" #NT!
- ELCOR_CHR_Evarve:0 "Эварв" #NT!
- ELCOR_CHR_Eugeste:0 "Евгений" #NT!
- ELCOR_CHR_Etaise:0 "Этаз" #NT!
- ELCOR_CHR_Erin:0 "Эрин" #NT!
- ELCOR_CHR_Enzzo:0 "Энццо" #NT!
- ELCOR_CHR_Enris:0 "Энрис" #NT!
- ELCOR_CHR_Emmanile:0 "Эмманиле" #NT!
- ELCOR_CHR_Emetz:0 "Эмец" #NT!
- ELCOR_CHR_Emel:0 "Эмель" #NT!
- ELCOR_CHR_Emecre:0 "Эмекре" #NT!
- ELCOR_CHR_Elmer:0 "Элмер" #NT!
- ELCOR_CHR_Ehas:0 "Эхас" #NT!
- ELCOR_CHR_Edidore:0 "Эдидор" #NT!
- ELCOR_CHR_Edain:0 "Эдайн" #NT!
- ELCOR_CHR_Dremi:0 "Дреми" #NT!
- ELCOR_CHR_Dorece:0 "Дорес" #NT!
- ELCOR_CHR_Dorais:0 "Дорэ" #NT!
- ELCOR_CHR_Donuel:0 "Донуэль" #NT!
- ELCOR_CHR_Donard:0 "Донард" #NT!
- ELCOR_CHR_Donagues:0 "Донагес" #NT!
- ELCOR_CHR_Donace:0 "Донас" #NT!
- ELCOR_CHR_Dominsue:0 "доминант" #NT!
- ELCOR_CHR_Doel:0 "Доэль" #NT!
- ELCOR_CHR_Diophane:0 "Диофан" #NT!
- ELCOR_CHR_Dioetan:0 "Диэтан" #NT!
- ELCOR_CHR_Dieuave:0 "Дьёав" #NT!
- ELCOR_CHR_Didebise:0 "Дидебизе" #NT!
- ELCOR_CHR_Deques:0 "Деки" #NT!
- ELCOR_CHR_Degoire:0 "Дегуар" #NT!
- ELCOR_CHR_Deebise:0 "Дибиз" #NT!
- ELCOR_CHR_Daire:0 "Дайре" #NT!
- ELCOR_CHR_Ctan:0 "Ктан" #NT!
- ELCOR_CHR_Costans:0 "Костаны" #NT!
- ELCOR_CHR_Coscha:0 "Коша" #NT!
- ELCOR_CHR_Cornemy:0 "Корнеми" #NT!
- ELCOR_CHR_Corentophe:0 "Корантоф" #NT!
- ELCOR_CHR_Corenasien:0 "Коренасьен" #NT!
- ELCOR_CHR_Cooic:0 "Куик" #NT!
- ELCOR_CHR_Constrand:0 "Констранд" #NT!
- ELCOR_CHR_Comothee:0 "Комоти" #NT!
- ELCOR_CHR_Clemier:0 "Клемье" #NT!
- ELCOR_CHR_Claudcent:0 "Клодсент" #NT!
- ELCOR_CHR_Celele:0 "Целеле" #NT!
- ELCOR_CHR_Cartzia:0 "Картция" #NT!
- ELCOR_CHR_Camme:0 "Камме" #NT!
- ELCOR_CHR_Camic:0 "Камик" #NT!
- ELCOR_CHR_Camdat:0 "Камдат" #NT!
- ELCOR_CHR_Burci:0 "Бурчи" #NT!
- ELCOR_CHR_Brielme:0 "Бриэльме" #NT!
- ELCOR_CHR_Bove:0 "Бове" #NT!
- ELCOR_CHR_Bertzia:0 "Берция" #NT!
- ELCOR_CHR_Bertsa:0 "Берца" #NT!
- ELCOR_CHR_Bertos:0 "Бертос" #NT!
- ELCOR_CHR_Bertans:0 "Бертанс" #NT!
- ELCOR_CHR_Bernart:0 "Бернарт" #NT!
- ELCOR_CHR_Bautac:0 "Баутак" #NT!
- ELCOR_CHR_Baudtien:0 "Бодтьен" #NT!
- ELCOR_CHR_Baudie:0 "Бауди" #NT!
- ELCOR_CHR_Baudat:0 "Бода" #NT!
- ELCOR_CHR_Baudald:0 "Бодальд" #NT!
- ELCOR_CHR_Bauda:0 "Бауда" #NT!
- ELCOR_CHR_Basa:0 "Баса" #NT!
- ELCOR_CHR_Baleste:0 "Балесте" #NT!
- ELCOR_CHR_Azes:0 "Азес" #NT!
- ELCOR_CHR_Azan:0 "Азан" #NT!
- ELCOR_CHR_Aurenne:0 "Оренн" #NT!
- ELCOR_CHR_Audes:0 "Одес" #NT!
- ELCOR_CHR_Aubin:0 "Обен" #NT!
- ELCOR_CHR_Aston:0 "Астон" #NT!
- ELCOR_CHR_Artin:0 "Артин" #NT!
- ELCOR_CHR_Arsiut:0 "Арсиут" #NT!
- ELCOR_CHR_Arsiucs:0 "Арсюкс" #NT!
- ELCOR_CHR_Armar:0 "Армар" #NT!
- ELCOR_CHR_Arin:0 "Арин" #NT!
- ELCOR_CHR_Arain:0 "Арайн" #NT!
- ELCOR_CHR_Apopasien:0 "Апопасиен" #NT!
- ELCOR_CHR_Antnace:0 "Антнас" #NT!
- ELCOR_CHR_Anille:0 "Аниль" #NT!
- ELCOR_CHR_Anfotz:0 "Анфотц" #NT!
- ELCOR_CHR_Anfos:0 "Анфос" #NT!
- ELCOR_CHR_Aneut:0 "Анеут" #NT!
- ELCOR_CHR_Aners:0 "Анерс" #NT!
- ELCOR_CHR_Andos:0 "Андос" #NT!
- ELCOR_CHR_Ances:0 "Ансы" #NT!
- ELCOR_CHR_Anais:0 "Анаис" #NT!
- ELCOR_CHR_Amy:0 "Эми" #NT!
- ELCOR_CHR_Amartz:0 "Амарц" #NT!
- ELCOR_CHR_Amars:0 "Амарс" #NT!
- ELCOR_CHR_Amans:0 "Аманс" #NT!
- ELCOR_CHR_Amalts:0 "Амальты" #NT!
- ELCOR_CHR_Altes:0 "Старый" #NT!
- ELCOR_CHR_Alter:0 "Изменить" #NT!
- ELCOR_CHR_Alphothee:0 "Альфотея" #NT!
- ELCOR_CHR_Aliars:0 "Алиарс" #NT!
- ELCOR_CHR_Alexois:0 "Алексуа" #NT!
- ELCOR_CHR_Aleiface:0 "Алейфейс" #NT!
- ELCOR_CHR_Aldris:0 "Олдрис" #NT!
- ELCOR_CHR_Aldric:0 "Олдрик" #NT!
- ELCOR_CHR_Aldire:0 "Алдире" #NT!
- ELCOR_CHR_Alard:0 "Алар" #NT!
- ELCOR_CHR_Aisas:0 "Айзас" #NT!
- ELCOR_CHR_Ainaut:0 "Энаут" #NT!
- ELCOR_CHR_Adastien:0 "Адастиен" #NT!
- ELCOR_CHR_Acotz:0 "Акотц" #NT!
- ELCOR_CHR_Abpasien:0 "Абпасиен" #NT!
- ELCOR_CHR_Abes:0 "Абес" #NT!
- ELCOR_CHR_Abert:0 "Аберт" #NT!
- ELCOR_CHR_Abele:0 "Абеле" #NT!
- ELCOR_CHR_Petozi:0 "Петози" #NT!
- ELCOR_CHR_Harrot:0 "Харрот" #NT!
- ELCOR_CHR_Calyn:0 "Калин" #NT!
- ELCOR_CHR_Xeltan:0 "Зелтан" #NT!
- ELCOR_CHR_Yveonore:0 "Ивеонора" #NT!
- ELCOR_CHR_Yvemaine:0 "Ивмейн" #NT!
- ELCOR_CHR_Virginoise:0 "виргинская" #NT!
- ELCOR_CHR_Viennmane:0 "Венмане" #NT!
- ELCOR_CHR_Victortoire:0 "Виктортуар" #NT!
- ELCOR_CHR_Verrin:0 "Веррин" #NT!
- ELCOR_CHR_Verrel:0 "Веррел" #NT!
- ELCOR_CHR_Verrais:0 "Верре" #NT!
- ELCOR_CHR_Ussas:0 "Уссас" #NT!
- ELCOR_CHR_Ursas:0 "Урсас" #NT!
- ELCOR_CHR_Thereluce:0 "Есть" #NT!
- ELCOR_CHR_Therebora:0 "Тебора" #NT!
- ELCOR_CHR_Synoite:0 "Синоит" #NT!
- ELCOR_CHR_Sylvielise:0 "Сильвиелиз" #NT!
- ELCOR_CHR_Sine:0 "Синус" #NT!
- ELCOR_CHR_Sibond:0 "Сибонд" #NT!
- ELCOR_CHR_Siblaide:0 "Сиблаиде" #NT!
- ELCOR_CHR_Sibgi:0 "Сибги" #NT!
- ELCOR_CHR_Sibauss:0 "Сибаусс" #NT!
- ELCOR_CHR_Sevexis:0 "Севексис" #NT!
- ELCOR_CHR_Severva:0 "Северва" #NT!
- ELCOR_CHR_Sevemilienne:0 "Севемильен" #NT!
- ELCOR_CHR_Serade:0 "Сераде" #NT!
- ELCOR_CHR_Sende:0 "Сенде" #NT!
- ELCOR_CHR_Sanna:0 "Санна" #NT!
- ELCOR_CHR_Sane:0 "В своем уме" #NT!
- ELCOR_CHR_Sana:0 "Сана" #NT!
- ELCOR_CHR_Salie:0 "Сали" #NT!
- ELCOR_CHR_Salia:0 "Салия" #NT!
- ELCOR_CHR_Sale:0 "Распродажа" #NT!
- ELCOR_CHR_Saisse:0 "Саисс" #NT!
- ELCOR_CHR_Saissa:0 "Саисса" #NT!
- ELCOR_CHR_Romxanne:0 "Ромксана" #NT!
- ELCOR_CHR_Romande:0 "Романда" #NT!
- ELCOR_CHR_Rine:0 "Райн" #NT!
- ELCOR_CHR_Restine:0 "Рестин" #NT!
- ELCOR_CHR_Rerece:0 "Rece" #NT!
- ELCOR_CHR_Relie:0 "Relie" #NT!
- ELCOR_CHR_Relia:0 "Релия" #NT!
- ELCOR_CHR_Rele:0 "Реле" #NT!
- ELCOR_CHR_Regiustine:0 "Регистина" #NT!
- ELCOR_CHR_Rayiel:0 "Райэль" #NT!
- ELCOR_CHR_Raise:0 "Поднимать" #NT!
- ELCOR_CHR_Raisa:0 "Раиса" #NT!
- ELCOR_CHR_Peroe:0 "Перо" #NT!
- ELCOR_CHR_Penetane:0 "Пенетан" #NT!
- ELCOR_CHR_Peneelie:0 "Пенили" #NT!
- ELCOR_CHR_Ozise:0 "Озизе" #NT!
- ELCOR_CHR_Osate:0 "Осате" #NT!
- ELCOR_CHR_Oricis:0 "Орицис" #NT!
- ELCOR_CHR_Odigaux:0 "Одиго" #NT!
- ELCOR_CHR_Ocestance:0 "Окестанс" #NT!
- ELCOR_CHR_Noeyne:0 "Ноэйне" #NT!
- ELCOR_CHR_Noeonne:0 "нённ" #NT!
- ELCOR_CHR_Noeltacha:0 "Ноэльтача" #NT!
- ELCOR_CHR_Noelpine:0 "Ноэльпин" #NT!
- ELCOR_CHR_Noellice:0 "Ноэллис" #NT!
- ELCOR_CHR_Ninlope:0 "Нинлопа" #NT!
- ELCOR_CHR_Mylon:0 "Майлон" #NT!
- ELCOR_CHR_Muotilde:0 "Муотильда" #NT!
- ELCOR_CHR_Monde:0 "мир" #NT!
- ELCOR_CHR_Monda:0 "Монда" #NT!
- ELCOR_CHR_Miramie:0 "Miramie" #NT!
- ELCOR_CHR_Mersa:0 "Мерса" #NT!
- ELCOR_CHR_Maxiievre:0 "Максимьевр" #NT!
- ELCOR_CHR_Mantie:0 "Манти" #NT!
- ELCOR_CHR_Manrene:0 "Манрен" #NT!
- ELCOR_CHR_Magtoire:0 "Магтуар" #NT!
- ELCOR_CHR_Maelonore:0 "Мелонор" #NT!
- ELCOR_CHR_Maberg:0 "Маберг" #NT!
- ELCOR_CHR_Louissse:0 "Луис" #NT!
- ELCOR_CHR_Lise:0 "Лиз" #NT!
- ELCOR_CHR_Line:0 "Линия" #NT!
- ELCOR_CHR_Lile:0 "Лиле" #NT!
- ELCOR_CHR_Liene:0 "Лиене" #NT!
- ELCOR_CHR_Liane:0 "Лиана" #NT!
- ELCOR_CHR_Lena:0 "Лена" #NT!
- ELCOR_CHR_Leaule:0 "Леуль" #NT!
- ELCOR_CHR_Laurth:0 "Лорт" #NT!
- ELCOR_CHR_Laurenandrie:0 "Лоренандри" #NT!
- ELCOR_CHR_Larmab:0 "Лармаб" #NT!
- ELCOR_CHR_Laetivienne:0 "Летивьен" #NT!
- ELCOR_CHR_Labond:0 "Лабонд" #NT!
- ELCOR_CHR_Labeth:0 "Лабет" #NT!
- ELCOR_CHR_Julione:0 "Джулиона" #NT!
- ELCOR_CHR_Josephrion:0 "Джозефрион" #NT!
- ELCOR_CHR_Josephgine:0 "Джозефгин" #NT!
- ELCOR_CHR_Jeanverine:0 "Жанверин" #NT!
- ELCOR_CHR_Jacquinique:0 "Жакиник" #NT!
- ELCOR_CHR_Jacquelea:0 "Жаклин" #NT!
- ELCOR_CHR_Inlianne:0 "Инлианна" #NT!
- ELCOR_CHR_Hyarene:0 "Гиарена" #NT!
- ELCOR_CHR_Huedicte:0 "Юэдикте" #NT!
- ELCOR_CHR_Hubara:0 "Хубара" #NT!
- ELCOR_CHR_Hilie:0 "Hilie" #NT!
- ELCOR_CHR_Hilia:0 "Хилия" #NT!
- ELCOR_CHR_Hile:0 "Хиле" #NT!
- ELCOR_CHR_Henritrice:0 "Генритрис" #NT!
- ELCOR_CHR_Henride:0 "Хенриде" #NT!
- ELCOR_CHR_Helona:0 "Хелона" #NT!
- ELCOR_CHR_Helie:0 "Хели" #NT!
- ELCOR_CHR_Helesiane:0 "Хелезиан" #NT!
- ELCOR_CHR_Helenylle:0 "Эленилл" #NT!
- ELCOR_CHR_Hele:0 "Хеле" #NT!
- ELCOR_CHR_Hansa:0 "Ганза" #NT!
- ELCOR_CHR_Haine:0 "Хайне" #NT!
- ELCOR_CHR_Haina:0 "Хайна" #NT!
- ELCOR_CHR_Guenuette:0 "Генуэтт" #NT!
- ELCOR_CHR_Ghysinne:0 "Гизинн" #NT!
- ELCOR_CHR_Geraldrine:0 "Джеральдрин" #NT!
- ELCOR_CHR_Gatacha:0 "Gatacha" #NT!
- ELCOR_CHR_Gaotilde:0 "Гаотильда" #NT!
- ELCOR_CHR_Galie:0 "Гали" #NT!
- ELCOR_CHR_Galia:0 "Галя" #NT!
- ELCOR_CHR_Gale:0 "Гейл" #NT!
- ELCOR_CHR_Gaeltacha:0 "Гаэлтача" #NT!
- ELCOR_CHR_Gaange:0 "Гаанге" #NT!
- ELCOR_CHR_Francmilienne:0 "Франсмильен" #NT!
- ELCOR_CHR_Francdra:0 "Франкдра" #NT!
- ELCOR_CHR_Florane:0 "Флоран" #NT!
- ELCOR_CHR_Fleurbeth:0 "Флербет" #NT!
- ELCOR_CHR_Fleume:0 "Флюме" #NT!
- ELCOR_CHR_Fleuloe:0 "Флёло" #NT!
- ELCOR_CHR_Fleugane:0 "Флёган" #NT!
- ELCOR_CHR_Flavele:0 "Флавеле" #NT!
- ELCOR_CHR_Fiastasie:0 "Фиастасия" #NT!
- ELCOR_CHR_Felie:0 "Фели" #NT!
- ELCOR_CHR_Feliclique:0 "Феликлик" #NT!
- ELCOR_CHR_Feliciril:0 "Фелицирил" #NT!
- ELCOR_CHR_Felicide:0 "Фелицид" #NT!
- ELCOR_CHR_Felicibeth:0 "Фелисибет" #NT!
- ELCOR_CHR_Feliccelyne:0 "Феличселин" #NT!
- ELCOR_CHR_Fele:0 "Феле" #NT!
- ELCOR_CHR_Fausttia:0 "Фаустия" #NT!
- ELCOR_CHR_Faustice:0 "Фаустис" #NT!
- ELCOR_CHR_Eulaali:0 "Эулаали" #NT!
- ELCOR_CHR_Ethis:0 "Этис" #NT!
- ELCOR_CHR_Esthilde:0 "Эстильда" #NT!
- ELCOR_CHR_Erris:0 "Эррис" #NT!
- ELCOR_CHR_Ergent:0 "Эргент" #NT!
- ELCOR_CHR_Enor:0 "Энор" #NT!
- ELCOR_CHR_Endent:0 "Эндент" #NT!
- ELCOR_CHR_Enas:0 "Энас" #NT!
- ELCOR_CHR_Emilemie:0 "Эмили" #NT!
- ELCOR_CHR_Elviylle:0 "Эльвийлль" #NT!
- ELCOR_CHR_Elvirtane:0 "Эльвиртане" #NT!
- ELCOR_CHR_Elva:0 "Эльва" #NT!
- ELCOR_CHR_Elois:0 "Элоис" #NT!
- ELCOR_CHR_Elodele:0 "Элоделе" #NT!
- ELCOR_CHR_Elisaombe:0 "Элизаомба" #NT!
- ELCOR_CHR_Elior:0 "Элиор" #NT!
- ELCOR_CHR_Eliiris:0 "Элиирис" #NT!
- ELCOR_CHR_Elient:0 "Элиент" #NT!
- ELCOR_CHR_Elias:0 "Элиас" #NT!
- ELCOR_CHR_Elianon:0 "Элианон" #NT!
- ELCOR_CHR_Elent:0 "Элент" #NT!
- ELCOR_CHR_Eleloe:0 "Элелоя" #NT!
- ELCOR_CHR_Elegane:0 "Элегейн" #NT!
- ELCOR_CHR_Edriam:0 "Эдриам" #NT!
- ELCOR_CHR_Edithlivie:0 "Эдитливи" #NT!
- ELCOR_CHR_Dorirore:0 "Dorirore" #NT!
- ELCOR_CHR_Domerie:0 "Домери" #NT!
- ELCOR_CHR_Dine:0 "пообедать" #NT!
- ELCOR_CHR_Dina:0 "Дина" #NT!
- ELCOR_CHR_Diase:0 "Диасе" #NT!
- ELCOR_CHR_Diasa:0 "Диаса" #NT!
- ELCOR_CHR_Daphnes:0 "Дафнес" #NT!
- ELCOR_CHR_Cyrian:0 "Цириан" #NT!
- ELCOR_CHR_Coralmone:0 "Коралмон" #NT!
- ELCOR_CHR_Coralienne:0 "Коралиенн" #NT!
- ELCOR_CHR_Coralence:0 "Кораленс" #NT!
- ELCOR_CHR_Coraerise:0 "Корариз" #NT!
- ELCOR_CHR_Coracile:0 "Корасиль" #NT!
- ELCOR_CHR_Cooite:0 "Куит" #NT!
- ELCOR_CHR_Constie:0 "Консти" #NT!
- ELCOR_CHR_Constacide:0 "Констацид" #NT!
- ELCOR_CHR_Colence:0 "Коленс" #NT!
- ELCOR_CHR_Clothmonde:0 "Клотмонд" #NT!
- ELCOR_CHR_Clothith:0 "Ткань" #NT!
- ELCOR_CHR_Clementdrie:0 "Клементдри" #NT!
- ELCOR_CHR_Claute:0 "Клауте" #NT!
- ELCOR_CHR_Claudmonde:0 "Клодмонд" #NT!
- ELCOR_CHR_Clarstiane:0 "Кларстиан" #NT!
- ELCOR_CHR_Clariguerite:0 "Кларигерит" #NT!
- ELCOR_CHR_Chrisnouk:0 "Криснук" #NT!
- ELCOR_CHR_Chriseline:0 "Криселин" #NT!
- ELCOR_CHR_Chriille:0 "Криилль" #NT!
- ELCOR_CHR_Charais:0 "Шаре" #NT!
- ELCOR_CHR_Chantcale:0 "Шанкаль" #NT!
- ELCOR_CHR_Carole:0 "Кэрол" #NT!
- ELCOR_CHR_Carin:0 "Карин" #NT!
- ELCOR_CHR_Carel:0 "Карел" #NT!
- ELCOR_CHR_Carandrie:0 "Карандри" #NT!
- ELCOR_CHR_Carais:0 "Караис" #NT!
- ELCOR_CHR_Bonde:0 "Бонд" #NT!
- ELCOR_CHR_Bonda:0 "Бонда" #NT!
- ELCOR_CHR_Blena:0 "Блена" #NT!
- ELCOR_CHR_Blaze:0 "Блейз" #NT!
- ELCOR_CHR_Blanda:0 "Бланда" #NT!
- ELCOR_CHR_Bilia:0 "Билия" #NT!
- ELCOR_CHR_Bethans:0 "Бетанс" #NT!
- ELCOR_CHR_Bernarais:0 "Бернаре" #NT!
- ELCOR_CHR_Bernaise:0 "Бернез" #NT!
- ELCOR_CHR_Berge:0 "Берге" #NT!
- ELCOR_CHR_Beamane:0 "Бимане" #NT!
- ELCOR_CHR_Baussa:0 "Баусса" #NT!
- ELCOR_CHR_Barna:0 "Барна" #NT!
- ELCOR_CHR_Baraide:0 "Барайде" #NT!
- ELCOR_CHR_Azent:0 "Азент" #NT!
- ELCOR_CHR_Azais:0 "Азаис" #NT!
- ELCOR_CHR_Avriali:0 "Авриали" #NT!
- ELCOR_CHR_Aurorelle:0 "Аврорель" #NT!
- ELCOR_CHR_Arrette:0 "Арретт" #NT!
- ELCOR_CHR_Ariaande:0 "Арианде" #NT!
- ELCOR_CHR_Arent:0 "Арент" #NT!
- ELCOR_CHR_Antointrice:0 "Антуантрис" #NT!
- ELCOR_CHR_Antoineemie:0 "Антуани" #NT!
- ELCOR_CHR_Antient:0 "Древний" #NT!
- ELCOR_CHR_Ansis:0 "Ансис" #NT!
- ELCOR_CHR_Ansas:0 "Ансас" #NT!
- ELCOR_CHR_Anoukie:0 "Ануки" #NT!
- ELCOR_CHR_Anouandrie:0 "Ануандри" #NT!
- ELCOR_CHR_Annent:0 "Аннент" #NT!
- ELCOR_CHR_Anneitte:0 "Аннет" #NT!
- ELCOR_CHR_Annee:0 "Энни" #NT!
- ELCOR_CHR_Annalome:0 "Анналоме" #NT!
- ELCOR_CHR_Annaiele:0 "Annaiele" #NT!
- ELCOR_CHR_Angelepine:0 "Анджелепин" #NT!
- ELCOR_CHR_Andrerene:0 "Андререн" #NT!
- ELCOR_CHR_Andis:0 "И является" #NT!
- ELCOR_CHR_Andandrie:0 "Андандрие" #NT!
- ELCOR_CHR_Anas:0 "Анас" #NT!
- ELCOR_CHR_Analisande:0 "Аналисанда" #NT!
- ELCOR_CHR_Anahilde:0 "Анахильда" #NT!
- ELCOR_CHR_Amnte:0 "Амнте" #NT!
- ELCOR_CHR_Ameaide:0 "Амеайде" #NT!
- ELCOR_CHR_Ambredicte:0 "Амбредикта" #NT!
- ELCOR_CHR_Amas:0 "Амас" #NT!
- ELCOR_CHR_Amaraguette:0 "Амарагетт" #NT!
- ELCOR_CHR_Amandloise:0 "Амандлуаза" #NT!
- ELCOR_CHR_Alpais:0 "Альпаи" #NT!
- ELCOR_CHR_Alias:0 "Псевдоним" #NT!
- ELCOR_CHR_Alexlla:0 "Алексла" #NT!
- ELCOR_CHR_Alde:0 "Альде" #NT!
- ELCOR_CHR_Alas:0 "Увы" #NT!
- ELCOR_CHR_Alais:0 "Але" #NT!
- ELCOR_CHR_Aissas:0 "Айссас" #NT!
- ELCOR_CHR_Aisent:0 "Айсент" #NT!
- ELCOR_CHR_Ainent:0 "Айнен" #NT!
- ELCOR_CHR_Aimonne:0 "Эмонн" #NT!
- ELCOR_CHR_Aillent:0 "Айлент" #NT!
- ELCOR_CHR_Ailent:0 "Айлент" #NT!
- ELCOR_CHR_Aibis:0 "Айбис" #NT!
- ELCOR_CHR_Aglbelle:0 "Агбель" #NT!
- ELCOR_CHR_Aglaerine:0 "Аглаэрин" #NT!
- ELCOR_CHR_Aesclas:0 "Эсклас" #NT!
- ELCOR_CHR_Aersent:0 "Эрсент" #NT!
- ELCOR_CHR_Aerris:0 "Эррис" #NT!
- ELCOR_CHR_Aergent:0 "Эржент" #NT!
- ELCOR_CHR_Aenor:0 "Энор" #NT!
- ELCOR_CHR_Aendent:0 "Аендент" #NT!
- ELCOR_CHR_Aenas:0 "Энас" #NT!
- ELCOR_CHR_Aelias:0 "Элиас" #NT!
- ELCOR_CHR_Adelvette:0 "Адельветт" #NT!
- ELCOR_CHR_Adelle:0 "Адель" #NT!
- ELCOR_CHR_Adas:0 "Адас" #NT!
- ELCOR_CHR_Abor:0 "Абор" #NT!
- ELCOR_CHR_Abis:0 "Абис" #NT!
- ELCOR_CHR_Abent:0 "Отсутствует" #NT!
- ELCOR_CHR_Yvoselle:0 "Ивозель" #NT!
- ELCOR_CHR_Yvdrien:0 "Ивдриен" #NT!
- ELCOR_CHR_Yanlere:0 "Янлере" #NT!
- ELCOR_CHR_Yaent:0 "Яент" #NT!
- ELCOR_CHR_Vinceau:0 "Винсо" #NT!
- ELCOR_CHR_Villy:0 "Вилли" #NT!
- ELCOR_CHR_Ville:0 "Вилле" #NT!
- ELCOR_CHR_Vigne:0 "Винье" #NT!
- ELCOR_CHR_Vieve:0 "Виве" #NT!
- ELCOR_CHR_Vienny:0 "Вена" #NT!
- ELCOR_CHR_Viennri:0 "Венри" #NT!
- ELCOR_CHR_Vichilde:0 "Вичильде" #NT!
- ELCOR_CHR_Vertou:0 "Верту" #NT!
- ELCOR_CHR_Versy:0 "Верси" #NT!
- ELCOR_CHR_Verne:0 "Верн" #NT!
- ELCOR_CHR_Vele:0 "Веле" #NT!
- ELCOR_CHR_Vegaux:0 "Вего" #NT!
- ELCOR_CHR_Vaulxerr:0 "Волксерр" #NT!
- ELCOR_CHR_Vale:0 "Вейл" #NT!
- ELCOR_CHR_Vaillieu:0 "Валье" #NT!
- ELCOR_CHR_Trame:0 "Траме" #NT!
- ELCOR_CHR_Tousmilien:0 "Тусмильен" #NT!
- ELCOR_CHR_Tourse:0 "Турс" #NT!
- ELCOR_CHR_Tigne:0 "Тинь" #NT!
- ELCOR_CHR_Theime:0 "Тема" #NT!
- ELCOR_CHR_Thaume:0 "Тауме" #NT!
- ELCOR_CHR_Teuilau:0 "Тойлау" #NT!
- ELCOR_CHR_Teleslene:0 "Телеслене" #NT!
- ELCOR_CHR_Taultou:0 "Талту" #NT!
- ELCOR_CHR_Sure:0 "Конечно" #NT!
- ELCOR_CHR_Sonot:0 "Сонот" #NT!
- ELCOR_CHR_Sonne:0 "Сонне" #NT!
- ELCOR_CHR_Sevenic:0 "Семиник" #NT!
- ELCOR_CHR_Setia:0 "Сетия" #NT!
- ELCOR_CHR_Serchal:0 "Серчал" #NT!
- ELCOR_CHR_Sebamaury:0 "Себамори" #NT!
- ELCOR_CHR_Sartry:0 "Сартри" #NT!
- ELCOR_CHR_Sanny:0 "Санни" #NT!
- ELCOR_CHR_Samaury:0 "Самаури" #NT!
- ELCOR_CHR_Sainvoie:0 "Сенвуа" #NT!
- ELCOR_CHR_Rueile:0 "Рюэйль" #NT!
- ELCOR_CHR_Rolaphyrine:0 "Ролафирин" #NT!
- ELCOR_CHR_Roixerr:0 "Ройксерр" #NT!
- ELCOR_CHR_Rodooe:0 "Роду" #NT!
- ELCOR_CHR_Riseau:0 "Ризо" #NT!
- ELCOR_CHR_Rillay:0 "Риллей" #NT!
- ELCOR_CHR_Reynon:0 "Рейнон" #NT!
- ELCOR_CHR_Reuxerr:0 "Рейксерр" #NT!
- ELCOR_CHR_Resy:0 "Рези" #NT!
- ELCOR_CHR_Rejall:0 "Реджалл" #NT!
- ELCOR_CHR_Reiste:0 "Рейсте" #NT!
- ELCOR_CHR_Regiisse:0 "Региисс" #NT!
- ELCOR_CHR_Rayne:0 "Рейн" #NT!
- ELCOR_CHR_Rase:0 "Расе" #NT!
- ELCOR_CHR_Raphzo:0 "Рафзо" #NT!
- ELCOR_CHR_Rainnette:0 "Рейнетт" #NT!
- ELCOR_CHR_Quenriam:0 "Квенриам" #NT!
- ELCOR_CHR_Ponte:0 "Понте" #NT!
- ELCOR_CHR_Ponsaint:0 "Понсен" #NT!
- ELCOR_CHR_Poite:0 "Поите" #NT!
- ELCOR_CHR_Pery:0 "Пери" #NT!
- ELCOR_CHR_Perry:0 "Перри" #NT!
- ELCOR_CHR_Pere:0 "Пере" #NT!
- ELCOR_CHR_Pentre:0 "Пентре" #NT!
- ELCOR_CHR_Pelle:0 "Пелле" #NT!
- ELCOR_CHR_Paulanais:0 "Пауланэ" #NT!
- ELCOR_CHR_Pasat:0 "Пасат" #NT!
- ELCOR_CHR_Pare:0 "Паре" #NT!
- ELCOR_CHR_Oret:0 "Орет" #NT!
- ELCOR_CHR_Opheree:0 "Офери" #NT!
- ELCOR_CHR_Olivuette:0 "Olivuette" #NT!
- ELCOR_CHR_Odidia:0 "Одидия" #NT!
- ELCOR_CHR_Odiais:0 "Одиаис" #NT!
- ELCOR_CHR_Ocene:0 "океан" #NT!
- ELCOR_CHR_None:0 "Никто" #NT!
- ELCOR_CHR_Noeephore:0 "Ноифор" #NT!
- ELCOR_CHR_Nicorette:0 "Никоретте" #NT!
- ELCOR_CHR_Nicodery:0 "Никодери" #NT!
- ELCOR_CHR_Nicemie:0 "Nicemie" #NT!
- ELCOR_CHR_Nicare:0 "Никаре" #NT!
- ELCOR_CHR_Nese:0 "Несе" #NT!
- ELCOR_CHR_Natatrice:0 "Нататриче" #NT!
- ELCOR_CHR_Nane:0 "Нанэ" #NT!
- ELCOR_CHR_Mylvienne:0 "Мильвен" #NT!
- ELCOR_CHR_Moule:0 "Муль" #NT!
- ELCOR_CHR_Morlla:0 "Морлла" #NT!
- ELCOR_CHR_Montre:0 "Монтре" #NT!
- ELCOR_CHR_Montou:0 "Монту" #NT!
- ELCOR_CHR_Montia:0 "Монтиа" #NT!
- ELCOR_CHR_Montge:0 "Монтж" #NT!
- ELCOR_CHR_Monte:0 "Монте" #NT!
- ELCOR_CHR_Mogy:0 "Моги" #NT!
- ELCOR_CHR_Moge:0 "Моге" #NT!
- ELCOR_CHR_Modnore:0 "Моднор" #NT!
- ELCOR_CHR_Miface:0 "Мифейс" #NT!
- ELCOR_CHR_Mierse:0 "Мирс" #NT!
- ELCOR_CHR_Miense:0 "Миенсе" #NT!
- ELCOR_CHR_Meudouai:0 "Медуай" #NT!
- ELCOR_CHR_Mente:0 "Менте" #NT!
- ELCOR_CHR_Mele:0 "Меле" #NT!
- ELCOR_CHR_Maxrelien:0 "Максрелиен" #NT!
- ELCOR_CHR_Maxierie:0 "максири" #NT!
- ELCOR_CHR_Maxi:0 "Макси" #NT!
- ELCOR_CHR_Matmond:0 "Матмонд" #NT!
- ELCOR_CHR_Mathvain:0 "Матвейн" #NT!
- ELCOR_CHR_Mathrian:0 "Матриан" #NT!
- ELCOR_CHR_Masse:0 "Массе" #NT!
- ELCOR_CHR_Marse:0 "Марс" #NT!
- ELCOR_CHR_Margustine:0 "Маргустин" #NT!
- ELCOR_CHR_Mare:0 "Маре" #NT!
- ELCOR_CHR_Male:0 "Мужской" #NT!
- ELCOR_CHR_Maelie:0 "Мэйли" #NT!
- ELCOR_CHR_Maeide:0 "Майде" #NT!
- ELCOR_CHR_Madethee:0 "Сделано" #NT!
- ELCOR_CHR_Lune:0 "Луна" #NT!
- ELCOR_CHR_Ludifleur:0 "Людифлер" #NT!
- ELCOR_CHR_Lucy:0 "Люси" #NT!
- ELCOR_CHR_Lucmaine:0 "Лукмейн" #NT!
- ELCOR_CHR_Lucene:0 "Люсен" #NT!
- ELCOR_CHR_Luance:0 "Луанс" #NT!
- ELCOR_CHR_Louque:0 "Лук" #NT!
- ELCOR_CHR_Lothsire:0 "Лотсир" #NT!
- ELCOR_CHR_Lone:0 "одинокий" #NT!
- ELCOR_CHR_Lombouill:0 "Ломбуй" #NT!
- ELCOR_CHR_Lolien:0 "Лолиен" #NT!
- ELCOR_CHR_Loiix:0 "Лойикс" #NT!
- ELCOR_CHR_Liseluce:0 "Лизелюс" #NT!
- ELCOR_CHR_Lilonore:0 "Лилонор" #NT!
- ELCOR_CHR_Lierse:0 "Льерс" #NT!
- ELCOR_CHR_Lese:0 "Лесе" #NT!
- ELCOR_CHR_Leper:0 "прокаженный" #NT!
- ELCOR_CHR_Leoonore:0 "Леонор" #NT!
- ELCOR_CHR_Leonvienne:0 "Леонвьен" #NT!
- ELCOR_CHR_Leoiel:0 "Леоэль" #NT!
- ELCOR_CHR_Leoebise:0 "Леэбизе" #NT!
- ELCOR_CHR_Leae:0 "Ли" #NT!
- ELCOR_CHR_Laurenic:0 "Лореник" #NT!
- ELCOR_CHR_Laurcinde:0 "Лаурсинда" #NT!
- ELCOR_CHR_Julme:0 "Джульме" #NT!
- ELCOR_CHR_Josslla:0 "Джоссла" #NT!
- ELCOR_CHR_Jony:0 "Джони" #NT!
- ELCOR_CHR_Joide:0 "Джойде" #NT!
- ELCOR_CHR_Joenis:0 "Йоенис" #NT!
- ELCOR_CHR_Joelcelyne:0 "Джоэлселин" #NT!
- ELCOR_CHR_Joege:0 "Джог" #NT!
- ELCOR_CHR_Joderic:0 "Джодерик" #NT!
- ELCOR_CHR_Jocelcelyne:0 "Джоселин" #NT!
- ELCOR_CHR_Jeanmelle:0 "Жанмель" #NT!
- ELCOR_CHR_Irenes:0 "Ирэн" #NT!
- ELCOR_CHR_Illen:0 "Иллен" #NT!
- ELCOR_CHR_Igis:0 "Игис" #NT!
- ELCOR_CHR_Hyalou:0 "Хьялоу" #NT!
- ELCOR_CHR_Huny:0 "Хьюни" #NT!
- ELCOR_CHR_Hune:0 "Хьюн" #NT!
- ELCOR_CHR_Hornise:0 "роговой" #NT!
- ELCOR_CHR_Honocal:0 "Честный" #NT!
- ELCOR_CHR_Honiste:0 "Хонисте" #NT!
- ELCOR_CHR_Hiry:0 "Хири" #NT!
- ELCOR_CHR_Heurcis:0 "Херцис" #NT!
- ELCOR_CHR_Hesine:0 "Хесин" #NT!
- ELCOR_CHR_Hermrelien:0 "Хермрелиен" #NT!
- ELCOR_CHR_Hermcisse:0 "Гермцисс" #NT!
- ELCOR_CHR_Hatou:0 "Хатоу" #NT!
- ELCOR_CHR_Hatia:0 "Хатиа" #NT!
- ELCOR_CHR_Hate:0 "Ненавидеть" #NT!
- ELCOR_CHR_Guilzaire:0 "Гильзер" #NT!
- ELCOR_CHR_Gueuxerr:0 "Гёксерр" #NT!
- ELCOR_CHR_Guc:0 "Гук" #NT!
- ELCOR_CHR_Grolle:0 "Гролле" #NT!
- ELCOR_CHR_Groixerr:0 "Груксерр" #NT!
- ELCOR_CHR_Greouin:0 "Греуэн" #NT!
- ELCOR_CHR_Gise:0 "Гизе" #NT!
- ELCOR_CHR_Gilime:0 "Гилиме" #NT!
- ELCOR_CHR_Ghysse:0 "Гиссе" #NT!
- ELCOR_CHR_Ghyssaint:0 "Гиссен" #NT!
- ELCOR_CHR_Ghyslaine:0 "Гилен" #NT!
- ELCOR_CHR_Ghon:0 "Гон" #NT!
- ELCOR_CHR_Ghimin:0 "Гимин" #NT!
- ELCOR_CHR_Gere:0 "Гир" #NT!
- ELCOR_CHR_Georgllin:0 "Георглин" #NT!
- ELCOR_CHR_Genne:0 "Генне" #NT!
- ELCOR_CHR_Geaud:0 "Джо" #NT!
- ELCOR_CHR_Garence:0 "Гаранс" #NT!
- ELCOR_CHR_Gagnoy:0 "Ганьюа" #NT!
- ELCOR_CHR_Gaetstine:0 "Гаэтстин" #NT!
- ELCOR_CHR_Gael:0 "Гаэль" #NT!
- ELCOR_CHR_Fulme:0 "Фульме" #NT!
- ELCOR_CHR_Fresny:0 "Френи" #NT!
- ELCOR_CHR_Frante:0 "Франте" #NT!
- ELCOR_CHR_Frange:0 "Френдж" #NT!
- ELCOR_CHR_Forte:0 "Форте" #NT!
- ELCOR_CHR_Fontia:0 "Фонтия" #NT!
- ELCOR_CHR_Floiane:0 "Флоян" #NT!
- ELCOR_CHR_Fleurndra:0 "Флерндра" #NT!
- ELCOR_CHR_Fitoine:0 "Фитуан" #NT!
- ELCOR_CHR_Firchal:0 "Фиршал" #NT!
- ELCOR_CHR_Ferre:0 "Ферре" #NT!
- ELCOR_CHR_Ferdinrie:0 "Фердинри" #NT!
- ELCOR_CHR_Felsphore:0 "Фелсфор" #NT!
- ELCOR_CHR_Felsee:0 "Фельзее" #NT!
- ELCOR_CHR_Felilie:0 "Фелили" #NT!
- ELCOR_CHR_Felic:0 "Фелич" #NT!
- ELCOR_CHR_Faustdonnee:0 "Фаустдонни" #NT!
- ELCOR_CHR_Fausnoite:0 "фаусноит" #NT!
- ELCOR_CHR_Fabsaint:0 "Фабсен" #NT!
- ELCOR_CHR_Evethaire:0 "Эветэр" #NT!
- ELCOR_CHR_Evenine:0 "Эвенин" #NT!
- ELCOR_CHR_Ethverine:0 "Этверин" #NT!
- ELCOR_CHR_Ethel:0 "Этель" #NT!
- ELCOR_CHR_Erres:0 "Эррес" #NT!
- ELCOR_CHR_Erno:0 "Эрно" #NT!
- ELCOR_CHR_Erges:0 "Эргес" #NT!
- ELCOR_CHR_Eninaire:0 "Энинер" #NT!
- ELCOR_CHR_Emmaore:0 "Эммаоре" #NT!
- ELCOR_CHR_Emicide:0 "Эмицид" #NT!
- ELCOR_CHR_Elthe:0 "Эльте" #NT!
- ELCOR_CHR_Eloloe:0 "Элолоэ" #NT!
- ELCOR_CHR_Ellaire:0 "Эллер" #NT!
- ELCOR_CHR_Elisephyrine:0 "Элизефирин" #NT!
- ELCOR_CHR_Drese:0 "Дрезе" #NT!
- ELCOR_CHR_Drege:0 "Дрег" #NT!
- ELCOR_CHR_Dorque:0 "Дорк" #NT!
- ELCOR_CHR_Doronuelle:0 "Доронуэль" #NT!
- ELCOR_CHR_Doricinthe:0 "Дорицинта" #NT!
- ELCOR_CHR_Donuette:0 "пончик" #NT!
- ELCOR_CHR_Donai:0 "Donai" #NT!
- ELCOR_CHR_Dominylle:0 "Доминилла" #NT!
- ELCOR_CHR_Digny:0 "Диньи" #NT!
- ELCOR_CHR_Digne:0 "Динь" #NT!
- ELCOR_CHR_Dezy:0 "Дези" #NT!
- ELCOR_CHR_Dezieu:0 "Дезье" #NT!
- ELCOR_CHR_Deze:0 "Дезе" #NT!
- ELCOR_CHR_Delbine:0 "Дельбин" #NT!
- ELCOR_CHR_Deemy:0 "Дими" #NT!
- ELCOR_CHR_Deain:0 "Дин" #NT!
- ELCOR_CHR_Danphine:0 "Данфин" #NT!
- ELCOR_CHR_Danierise:0 "Даньериз" #NT!
- ELCOR_CHR_Cyrlot:0 "Сирлот" #NT!
- ELCOR_CHR_Cyrcael:0 "Циркаэль" #NT!
- ELCOR_CHR_Courbeauv:0 "Курбо" #NT!
- ELCOR_CHR_Cornelblanche:0 "Корнельбланш" #NT!
- ELCOR_CHR_Corbers:0 "Корберы" #NT!
- ELCOR_CHR_Corarene:0 "Корарен" #NT!
- ELCOR_CHR_Cony:0 "Кони" #NT!
- ELCOR_CHR_Cone:0 "Конус" #NT!
- ELCOR_CHR_Colot:0 "Колот" #NT!
- ELCOR_CHR_Cole:0 "Коул" #NT!
- ELCOR_CHR_Coinge:0 "Coinge" #NT!
- ELCOR_CHR_Clothtane:0 "Клоттан" #NT!
- ELCOR_CHR_Clothlene:0 "Клотлин" #NT!
- ELCOR_CHR_Clothce:0 "Клотс" #NT!
- ELCOR_CHR_Clese:0 "Клезе" #NT!
- ELCOR_CHR_Clementery:0 "Клементери" #NT!
- ELCOR_CHR_Claipold:0 "Клайпольд" #NT!
- ELCOR_CHR_Cienny:0 "Сьенни" #NT!
- ELCOR_CHR_Chrislemy:0 "Крислеми" #NT!
- ELCOR_CHR_Chouille:0 "Шуй" #NT!
- ELCOR_CHR_Chelle:0 "Шелле" #NT!
- ELCOR_CHR_Chatou:0 "Шату" #NT!
- ELCOR_CHR_Chate:0 "Чат" #NT!
- ELCOR_CHR_Chartrie:0 "Чартри" #NT!
- ELCOR_CHR_Charpe:0 "Шарп" #NT!
- ELCOR_CHR_Chare:0 "Чаре" #NT!
- ELCOR_CHR_Champse:0 "Шампс" #NT!
- ELCOR_CHR_Chale:0 "Шале" #NT!
- ELCOR_CHR_Chagy:0 "Чаги" #NT!
- ELCOR_CHR_Cenny:0 "Сенни" #NT!
- ELCOR_CHR_Castre:0 "Кастр" #NT!
- ELCOR_CHR_Carolnne:0 "Каролинн" #NT!
- ELCOR_CHR_Caian:0 "Кайан" #NT!
- ELCOR_CHR_Caene:0 "Кане" #NT!
- ELCOR_CHR_Bruel:0 "Брюэль" #NT!
- ELCOR_CHR_Broanny:0 "Бронни" #NT!
- ELCOR_CHR_Brilly:0 "Брилли" #NT!
- ELCOR_CHR_Brigny:0 "Бриньи" #NT!
- ELCOR_CHR_Bravoie:0 "Бравуа" #NT!
- ELCOR_CHR_Brange:0 "Бранж" #NT!
- ELCOR_CHR_Bourge:0 "Бурж" #NT!
- ELCOR_CHR_Bonny:0 "Бонни" #NT!
- ELCOR_CHR_Bonive:0 "Бонив" #NT!
- ELCOR_CHR_Bonface:0 "Бонфейс" #NT!
- ELCOR_CHR_Beze:0 "Безе" #NT!
- ELCOR_CHR_Bevoie:0 "Бевуа" #NT!
- ELCOR_CHR_Beugy:0 "Бежи" #NT!
- ELCOR_CHR_Bese:0 "Бесе" #NT!
- ELCOR_CHR_Bervoie:0 "Бервуа" #NT!
- ELCOR_CHR_Bergy:0 "Бержи" #NT!
- ELCOR_CHR_Benes:0 "Бенеш" #NT!
- ELCOR_CHR_Belme:0 "Бельме" #NT!
- ELCOR_CHR_Belferr:0 "Белферр" #NT!
- ELCOR_CHR_Beauvoie:0 "Бовуа" #NT!
- ELCOR_CHR_Beaune:0 "бон" #NT!
- ELCOR_CHR_Bayonne:0 "Байонна" #NT!
- ELCOR_CHR_Baultou:0 "Балтоу" #NT!
- ELCOR_CHR_Baulte:0 "Балте" #NT!
- ELCOR_CHR_Bauelle:0 "Бауэль" #NT!
- ELCOR_CHR_Baudbeth:0 "Бодбет" #NT!
- ELCOR_CHR_Bastdilon:0 "Бастдилон" #NT!
- ELCOR_CHR_Bapable:0 "Бабабл" #NT!
- ELCOR_CHR_Baixerr:0 "Байксерр" #NT!
- ELCOR_CHR_Baitte:0 "Baitte" #NT!
- ELCOR_CHR_Bagny:0 "Баньи" #NT!
- ELCOR_CHR_Bagne:0 "Бань" #NT!
- ELCOR_CHR_Bachy:0 "Бахи" #NT!
- ELCOR_CHR_Auteaux:0 "Ото" #NT!
- ELCOR_CHR_Aurore:0 "Аврора" #NT!
- ELCOR_CHR_Aurelcale:0 "Аурелкаль" #NT!
- ELCOR_CHR_Aunes:0 "Аунес" #NT!
- ELCOR_CHR_Augtrice:0 "Огтрис" #NT!
- ELCOR_CHR_Augcisse:0 "Огсисс" #NT!
- ELCOR_CHR_Audeoup:0 "Audeoup" #NT!
- ELCOR_CHR_Attres:0 "Attres" #NT!
- ELCOR_CHR_Arnoe:0 "Арное" #NT!
- ELCOR_CHR_Armone:0 "Армоне" #NT!
- ELCOR_CHR_Arlsphore:0 "Арлсфор" #NT!
- ELCOR_CHR_Aristiraud:0 "Аристоро" #NT!
- ELCOR_CHR_Aristient:0 "Аристиент" #NT!
- ELCOR_CHR_Arianine:0 "Арианина" #NT!
- ELCOR_CHR_Apobault:0 "апобальт" #NT!
- ELCOR_CHR_Antoinedilon:0 "Антонедилон" #NT!
- ELCOR_CHR_Antoine:0 "Антуан" #NT!
- ELCOR_CHR_Antodonne:0 "Антодонн" #NT!
- ELCOR_CHR_Anourian:0 "Ануриан" #NT!
- ELCOR_CHR_Annes:0 "Энн" #NT!
- ELCOR_CHR_Anleste:0 "Анлесте" #NT!
- ELCOR_CHR_Angelitte:0 "Ангелитта" #NT!
- ELCOR_CHR_Angeladette:0 "Анжеладетт" #NT!
- ELCOR_CHR_Angeara:0 "Ангира" #NT!
- ELCOR_CHR_Ancynthe:0 "Ансинте" #NT!
- ELCOR_CHR_Amlain:0 "Амлен" #NT!
- ELCOR_CHR_Amel:0 "Амель" #NT!
- ELCOR_CHR_Ambes:0 "Амбес" #NT!
- ELCOR_CHR_Ambaud:0 "Амбо" #NT!
- ELCOR_CHR_Amarannie:0 "Амарани" #NT!
- ELCOR_CHR_Amaranice:0 "Амаранис" #NT!
- ELCOR_CHR_Amanariane:0 "Аманариане" #NT!
- ELCOR_CHR_Amaasien:0 "Амаасиен" #NT!
- ELCOR_CHR_Alphinne:0 "Альфинна" #NT!
- ELCOR_CHR_Allaux:0 "Алло" #NT!
- ELCOR_CHR_Alfon:0 "Альфон" #NT!
- ELCOR_CHR_Alexrick:0 "Алексрик" #NT!
- ELCOR_CHR_Alelie:0 "Алели" #NT!
- ELCOR_CHR_Alart:0 "Тревога" #NT!
- ELCOR_CHR_Ahon:0 "Ахон" #NT!
- ELCOR_CHR_Agues:0 "Лихорадка" #NT!
- ELCOR_CHR_Aglre:0 "Аглре" #NT!
- ELCOR_CHR_Agabise:0 "Agabise" #NT!
- ELCOR_CHR_Adrque:0 "Адрик" #NT!
- ELCOR_CHR_Adriian:0 "Адриан" #NT!
- ELCOR_CHR_Adrhe:0 "Адре" #NT!
- ELCOR_CHR_Acine:0 "Ацине" #NT!
+ name_list_btr_elcor: "Элкор"
+ ELCOR_SHIP_: 
+ ELCOR_SHIP_Aricie: "Ариси"
+ ELCOR_SHIP_Antes: "анте"
+ ELCOR_SHIP_Anoure: "Анур"
+ ELCOR_SHIP_Anounuelle: "Анунуэль"
+ ELCOR_SHIP_Anoulice: "Анулис"
+ ELCOR_SHIP_Anges: "Анжес"
+ ELCOR_SHIP_Ander: "Андер"
+ ELCOR_SHIP_Anastever: "Анастевер"
+ ELCOR_SHIP_Anai: "Анаи"
+ ELCOR_SHIP_Ameie: "Ameie"
+ ELCOR_SHIP_Amedre: "Амедре"
+ ELCOR_SHIP_Alrece: "Элис"
+ ELCOR_SHIP_Alicide: "Алицид"
+ ELCOR_SHIP_Aleche: "Алече"
+ ELCOR_SHIP_Albertmonde: "Альбертмонд"
+ ELCOR_SHIP_Alable: "Аабл"
+ ELCOR_SHIP_Aiais: "Айайс"
+ ELCOR_SHIP_Achas: "Ахас"
+ ELCOR_SHIP_Abence: "Отсутствие"
+ ELCOR_SHIP_Bobeil: "Бобейл"
+ ELCOR_SHIP_Blory: "Блори"
+ ELCOR_SHIP_Blgene: "Блгене"
+ ELCOR_SHIP_Blandaide: "Бладейд"
+ ELCOR_SHIP_Bese: "Бесе"
+ ELCOR_SHIP_Berthestance: "Бертестан"
+ ELCOR_SHIP_Berere: "Берере"
+ ELCOR_SHIP_Benedictlice: "Бенедиктлице"
+ ELCOR_SHIP_Beacie: "Биси"
+ ELCOR_SHIP_Barbgonde: "Барбгонде"
+ ELCOR_SHIP_Barbathe: "Барбат"
+ ELCOR_SHIP_Babstine: "Бабстин"
+ ELCOR_SHIP_Aureoine: "Ауреоин"
+ ELCOR_SHIP_Auglae: "Авгла"
+ ELCOR_SHIP_Aubnace: "Обнас"
+ ELCOR_SHIP_Asson: "Ассон"
+ ELCOR_SHIP_Artoire: "Артуар"
+ ELCOR_SHIP_Arle: "Арле"
+ ELCOR_SHIP_Cheime: "Чиме"
+ ELCOR_SHIP_Chaultou: "Шульту"
+ ELCOR_SHIP_Chatou: "Шату"
+ ELCOR_SHIP_Chate: "Чат"
+ ELCOR_SHIP_Charle: "Чарльз"
+ ELCOR_SHIP_Chantustine: "Шантустин"
+ ELCOR_SHIP_Chane: "Чане"
+ ELCOR_SHIP_Chalau: "Чалау"
+ ELCOR_SHIP_Celea: "Селия"
+ ELCOR_SHIP_Carolleine: "Каролина"
+ ELCOR_SHIP_Carcy: "Карси"
+ ELCOR_SHIP_Carathe: "Карате"
+ ELCOR_SHIP_Campieu: "Кампьё"
+ ELCOR_SHIP_Cagne: "Кань"
+ ELCOR_SHIP_Bordy: "Борди"
+ ELCOR_SHIP_Bonne: "Бонн"
+ ELCOR_SHIP_Bonilea: "Бонилея"
+ ELCOR_SHIP_Bonielme: "Бонельме"
+ ELCOR_SHIP_Bobonn: "Бобонн"
+ ELCOR_SHIP_Bobez: "Бобез"
+ ELCOR_SHIP_Dorce: "Дорче"
+ ELCOR_SHIP_Dieppieu: "Дьеппье"
+ ELCOR_SHIP_Diarette: "Диаретта"
+ ELCOR_SHIP_Desiroise: "Desiroise"
+ ELCOR_SHIP_Decy: "Деси"
+ ELCOR_SHIP_Cynee: "Сини"
+ ELCOR_SHIP_Cornelentin: "Корнелентин"
+ ELCOR_SHIP_Cony: "Кони"
+ ELCOR_SHIP_Convoie: "Конвой"
+ ELCOR_SHIP_Constoise: "Констоис"
+ ELCOR_SHIP_Condee: "Конди"
+ ELCOR_SHIP_Conay: "Коней"
+ ELCOR_SHIP_Colombrelien: "Коломбрелиен"
+ ELCOR_SHIP_Clony: "клон"
+ ELCOR_SHIP_Clnore: "Кланор"
+ ELCOR_SHIP_Clemtrice: "Клемтрис"
+ ELCOR_SHIP_Clemdic: "Клемдик"
+ ELCOR_SHIP_Cine: "кино"
+ ELCOR_SHIP_Chire: "Чир"
+ ELCOR_SHIP_Fonte: "Фонте"
+ ELCOR_SHIP_Florvier: "Флорвье"
+ ELCOR_SHIP_Floine: "Флоин"
+ ELCOR_SHIP_Fleuinaire: "Флейнер"
+ ELCOR_SHIP_Fittia: "Фиттия"
+ ELCOR_SHIP_Fernandcrece: "Фернанкрече"
+ ELCOR_SHIP_Ethleine: "Этлейн"
+ ELCOR_SHIP_Erand: "Эранд"
+ ELCOR_SHIP_Emelblanche: "Эмельбланш"
+ ELCOR_SHIP_Elvina: "Эльвина"
+ ELCOR_SHIP_Elianee: "Элиани"
+ ELCOR_SHIP_Elacques: "Элакес"
+ ELCOR_SHIP_Edthias: "Эдиас"
+ ELCOR_SHIP_Edis: "Эдис"
+ ELCOR_SHIP_Edierry: "Эдьерри"
+ ELCOR_SHIP_Ede: "Эде"
+ ELCOR_SHIP_Eaules: "Оль"
+ ELCOR_SHIP_Dramboul: "Драмбул"
+ ELCOR_SHIP_Honule: "Хонуле"
+ ELCOR_SHIP_Honphin: "Хонпхин"
+ ELCOR_SHIP_Honorara: "Онорара"
+ ELCOR_SHIP_Hercille: "Герсиль"
+ ELCOR_SHIP_Hemine: "Гемин"
+ ELCOR_SHIP_Helly: "Хелли"
+ ELCOR_SHIP_Helesaire: "Элезэр"
+ ELCOR_SHIP_Hatia: "Хатиа"
+ ELCOR_SHIP_Guilban: "Гильбан"
+ ELCOR_SHIP_Grouberg: "Гроуберг"
+ ELCOR_SHIP_Grezaire: "Грезер"
+ ELCOR_SHIP_Grese: "Грезе"
+ ELCOR_SHIP_Grasar: "Грасар"
+ ELCOR_SHIP_Gony: "Гони"
+ ELCOR_SHIP_Gismine: "Жисмин"
+ ELCOR_SHIP_Gisee: "Гизе"
+ ELCOR_SHIP_Gerine: "Герин"
+ ELCOR_SHIP_Francy: "Фрэнси"
+ ELCOR_SHIP_Fortvoie: "Фортвойе"
+ ELCOR_SHIP_Lese: "Лесе"
+ ELCOR_SHIP_Lere: "Лере"
+ ELCOR_SHIP_Leaanne: "Линн"
+ ELCOR_SHIP_Lazdine: "Лаздин"
+ ELCOR_SHIP_Laurencile: "Лоуренсиль"
+ ELCOR_SHIP_Judnin: "Джаднин"
+ ELCOR_SHIP_Judent: "Джудент"
+ ELCOR_SHIP_Joseemie: "Жоземи"
+ ELCOR_SHIP_Joier: "Джойер"
+ ELCOR_SHIP_Jocmilien: "Жокмильен"
+ ELCOR_SHIP_Jocice: "Джочиче"
+ ELCOR_SHIP_Jocery: "Джосери"
+ ELCOR_SHIP_Jocenand: "Джосенанд"
+ ELCOR_SHIP_Jerthias: "Иертиас"
+ ELCOR_SHIP_Jeanrille: "Жанрилль"
+ ELCOR_SHIP_Jealon: "Джиалон"
+ ELCOR_SHIP_Jasemi: "Джасеми"
+ ELCOR_SHIP_Isadrie: "Изадри"
+ ELCOR_SHIP_Ireienne: "Ириенн"
+ ELCOR_SHIP_Mese: "Месе"
+ ELCOR_SHIP_Mery: "Мери"
+ ELCOR_SHIP_Maxipasien: "Максипасиен"
+ ELCOR_SHIP_Mauber: "Мобер"
+ ELCOR_SHIP_Masar: "Масар"
+ ELCOR_SHIP_Mary: "Мэри"
+ ELCOR_SHIP_Martou: "Марту"
+ ELCOR_SHIP_Marse: "Марс"
+ ELCOR_SHIP_Marine: "морской"
+ ELCOR_SHIP_Mare: "Маре"
+ ELCOR_SHIP_Malme: "Мальме"
+ ELCOR_SHIP_Male: "Мужской"
+ ELCOR_SHIP_Mahy: "Махи"
+ ELCOR_SHIP_Mahcile: "Махчиле"
+ ELCOR_SHIP_Maelelien: "Мелелиен"
+ ELCOR_SHIP_Lyone: "Лионе"
+ ELCOR_SHIP_Lune: "Луна"
+ ELCOR_SHIP_Lombes: "Ломб"
+ ELCOR_SHIP_Loicnic: "Лоикник"
+ ELCOR_SHIP_Logny: "Логни"
+ ELCOR_SHIP_Lioippe: "Лиопп"
+ ELCOR_SHIP_Linay: "Линай"
+ ELCOR_SHIP_Pascaali: "Паскаали"
+ ELCOR_SHIP_Osaian: "осейский"
+ ELCOR_SHIP_Orindrie: "Ориндри"
+ ELCOR_SHIP_Ontceaux: "Онсо"
+ ELCOR_SHIP_Onesgue: "Онегю"
+ ELCOR_SHIP_Oliques: "Оликес"
+ ELCOR_SHIP_Odinon: "Одинон"
+ ELCOR_SHIP_Normon: "Нормон"
+ ELCOR_SHIP_Noon: "Полдень"
+ ELCOR_SHIP_Nese: "Несе"
+ ELCOR_SHIP_Neme: "Неме"
+ ELCOR_SHIP_Necy: "Неси"
+ ELCOR_SHIP_Narthieu: "Нартье"
+ ELCOR_SHIP_Naix: "Нейкс"
+ ELCOR_SHIP_Morla: "Морла"
+ ELCOR_SHIP_Montpieu: "Монпьё"
+ ELCOR_SHIP_Monte: "Монте"
+ ELCOR_SHIP_Modaise: "Modaise"
+ ELCOR_SHIP_Miraastasie: "Мираастази"
+ ELCOR_SHIP_Meudy: "Меди"
+ ELCOR_SHIP_Sylvdine: "Сильвдин"
+ ELCOR_SHIP_Sevre: "Севр"
+ ELCOR_SHIP_Savoie: "Савойя"
+ ELCOR_SHIP_Sarre: "Сарр"
+ ELCOR_SHIP_Samon: "Самон"
+ ELCOR_SHIP_Rosevaise: "Розевиз"
+ ELCOR_SHIP_Rosenon: "Розенон"
+ ELCOR_SHIP_Rochienne: "Рошенн"
+ ELCOR_SHIP_Rochdain: "Рочдейн"
+ ELCOR_SHIP_Renon: "Ренон"
+ ELCOR_SHIP_Reime: "Рейме"
+ ELCOR_SHIP_Regice: "Реджис"
+ ELCOR_SHIP_Raphfi: "Рафи"
+ ELCOR_SHIP_Raphay: "Рафай"
+ ELCOR_SHIP_Rambourg: "Рамбург"
+ ELCOR_SHIP_Raise: "Поднимать"
+ ELCOR_SHIP_Pigny: "Пини"
+ ELCOR_SHIP_Pese: "песе"
+ ELCOR_SHIP_Perpe: "Перпе"
+ ELCOR_SHIP_Patrian: "Патриан"
+ ELCOR_SHIP_Pascasine: "Паскасин"
+ ELCOR_SHIP_Zephyome: "Зефиоме"
+ ELCOR_SHIP_Yevrar: "Еврар"
+ ELCOR_SHIP_Yanieu: "Яньё"
+ ELCOR_SHIP_Virginil: "Вирджинил"
+ ELCOR_SHIP_Violbel: "Виольбель"
+ ELCOR_SHIP_Villay: "Виллай"
+ ELCOR_SHIP_Verny: "Верный"
+ ELCOR_SHIP_Vene: "Вене"
+ ELCOR_SHIP_Vaulxerr: "Волксерр"
+ ELCOR_SHIP_Vaultia: "Валтия"
+ ELCOR_SHIP_Valean: "Валеан"
+ ELCOR_SHIP_Valay: "Валай"
+ ELCOR_SHIP_Tourcy: "Турси"
+ ELCOR_SHIP_Tonny: "Тонни"
+ ELCOR_SHIP_Thicel: "Тисель"
+ ELCOR_SHIP_Telesllin: "Телеслин"
+ ELCOR_xxElcor_Warrior_Flotilla_ORD: "$O$ Флотилия воинов Элькора"
+ ELCOR_xxDefence_Warriors_ORD: "$O$ Воины обороны"
+ ELCOR_xxAssualt_Warriors_ORD: "$O$ Штурмовые воины"
+ ELCOR_xxIndentured_Warriors_ORD: "$O$ Наемные воины"
+ ELCOR_xxClone_Warriors_ORD: "$O$ Клоны-воины"
+ ELCOR_xxVI_Warriors_ORD: "$O$ VI Воины"
+ ELCOR_xxBiotic_Warriors_ORD: "$O$ Биотические воины"
+ ELCOR_xxEnhanced_Warriors_ORD: "$O$ Улучшить воинов"
+ ELCOR_xxSupreme_Warriors_ORD: "$O$ Верховные воины"
+ ELCOR_CHR_Yarigue: "Яриге"
+ ELCOR_CHR_Yaiste: "Яисте"
+ ELCOR_CHR_Visa: "Виза"
+ ELCOR_CHR_Vespbert: "Веспберт"
+ ELCOR_CHR_Vaisa: "Вайса"
+ ELCOR_CHR_Vaentin: "Вентин"
+ ELCOR_CHR_Urinaire: "мочевой пузырь"
+ ELCOR_CHR_Umes: "Умес"
+ ELCOR_CHR_Ucers: "Язвы"
+ ELCOR_CHR_Trisllin: "Трислин"
+ ELCOR_CHR_Toustide: "Тустид"
+ ELCOR_CHR_Tousthan: "Тоустан"
+ ELCOR_CHR_Tousse: "Тусс"
+ ELCOR_CHR_Tosa: "Тоса"
+ ELCOR_CHR_Tonic: "Тоник"
+ ELCOR_CHR_Thisolon: "Тисолон"
+ ELCOR_CHR_Tharda: "Тарда"
+ ELCOR_CHR_Tesa: "Теса"
+ ELCOR_CHR_Tanaut: "Танаут"
+ ELCOR_CHR_Tainsa: "Тайнса"
+ ELCOR_CHR_Stephare: "Стефар"
+ ELCOR_CHR_Stefred: "Стефред"
+ ELCOR_CHR_Sornart: "Сорнарт"
+ ELCOR_CHR_Soda: "Сода"
+ ELCOR_CHR_Soartzia: "Соарция"
+ ELCOR_CHR_Simo: "Симо"
+ ELCOR_CHR_Siislain: "Сиислайн"
+ ELCOR_CHR_Seveelin: "Севелин"
+ ELCOR_CHR_Sevedre: "Севедр"
+ ELCOR_CHR_Sevc: "Севц"
+ ELCOR_CHR_Sebatophe: "Себатоф"
+ ELCOR_CHR_Sebasire: "Себасир"
+ ELCOR_CHR_Save: "Сохранять"
+ ELCOR_CHR_Sausa: "Сауса"
+ ELCOR_CHR_Sartsa: "Сарца"
+ ELCOR_CHR_Sanand: "Сананд"
+ ELCOR_CHR_Samlie: "Сэмли"
+ ELCOR_CHR_Saloinaire: "Салуанер"
+ ELCOR_CHR_Rotli: "Ротли"
+ ELCOR_CHR_Rotgui: "Ротгуи"
+ ELCOR_CHR_Rolest: "Ролест"
+ ELCOR_CHR_Role: "Роль"
+ ELCOR_CHR_Rogui: "Rogui"
+ ELCOR_CHR_Rochique: "Рошик"
+ ELCOR_CHR_Rinetz: "Ринец"
+ ELCOR_CHR_Rigui: "Риги"
+ ELCOR_CHR_Ricsa: "Рикса"
+ ELCOR_CHR_Rici: "Ричи"
+ ELCOR_CHR_Richart: "Ричард"
+ ELCOR_CHR_Rice: "Рис"
+ ELCOR_CHR_Reynorin: "Рейнорин"
+ ELCOR_CHR_Randa: "Ранда"
+ ELCOR_CHR_Rami: "Рами"
+ ELCOR_CHR_Rainel: "Райнель"
+ ELCOR_CHR_Raiandre: "Райандре"
+ ELCOR_CHR_Ragui: "Рагуи"
+ ELCOR_CHR_Rago: "Раго"
+ ELCOR_CHR_Raelemy: "Раэлеми"
+ ELCOR_CHR_Prosraud: "Просро"
+ ELCOR_CHR_Prosier: "Просье"
+ ELCOR_CHR_Prosable: "Предполагаемый"
+ ELCOR_CHR_Ponsa: "Понса"
+ ELCOR_CHR_Ponnaud: "Понно"
+ ELCOR_CHR_Pieriel: "Пьериэль"
+ ELCOR_CHR_Philvain: "Филвен"
+ ELCOR_CHR_Philrian: "Филриан"
+ ELCOR_CHR_Philiri: "Филири"
+ ELCOR_CHR_Peyre: "Пейр"
+ ELCOR_CHR_Perri: "Перри"
+ ELCOR_CHR_Pasche: "Паше"
+ ELCOR_CHR_Ozois: "Озои"
+ ELCOR_CHR_Ozeric: "Озерик"
+ ELCOR_CHR_Ozade: "Озаде"
+ ELCOR_CHR_Osfred: "Осфред"
+ ELCOR_CHR_Osacal: "Осакал"
+ ELCOR_CHR_Odvon: "Одвон"
+ ELCOR_CHR_Niconn: "Никонн"
+ ELCOR_CHR_Nicodald: "Никодальд"
+ ELCOR_CHR_Nicllin: "Никлин"
+ ELCOR_CHR_Nadilon: "Надилон"
+ ELCOR_CHR_Mosa: "Моза"
+ ELCOR_CHR_Monsa: "Монса"
+ ELCOR_CHR_Monetz: "Монец"
+ ELCOR_CHR_Modraud: "Модро"
+ ELCOR_CHR_Modlin: "Модлин"
+ ELCOR_CHR_Miain: "Миайн"
+ ELCOR_CHR_Maxiorin: "Максиорин"
+ ELCOR_CHR_Maurilon: "Морилон"
+ ELCOR_CHR_Maurdee: "Морди"
+ ELCOR_CHR_Matpold: "Матпольд"
+ ELCOR_CHR_Matius: "Матиус"
+ ELCOR_CHR_Mathrille: "Матрилль"
+ ELCOR_CHR_Mathouard: "Матуар"
+ ELCOR_CHR_Marsire: "Марсир"
+ ELCOR_CHR_Marcelmand: "Марсельман"
+ ELCOR_CHR_Marcelin: "Марселин"
+ ELCOR_CHR_Maray: "Марай"
+ ELCOR_CHR_Manaud: "Мано"
+ ELCOR_CHR_Mami: "Мами"
+ ELCOR_CHR_Maesile: "Маэсиле"
+ ELCOR_CHR_Maeper: "Мэйпер"
+ ELCOR_CHR_Maeat: "Маэат"
+ ELCOR_CHR_Loneus: "Лонеус"
+ ELCOR_CHR_Loicael: "Лойкаэль"
+ ELCOR_CHR_Leolere: "Леолере"
+ ELCOR_CHR_Legar: "Легар"
+ ELCOR_CHR_Lauix: "Лоикс"
+ ELCOR_CHR_Judilain: "Жюдилен"
+ ELCOR_CHR_Judicfred: "Джудифред"
+ ELCOR_CHR_Judicbert: "Джудикберт"
+ ELCOR_CHR_Jossa: "Джосса"
+ ELCOR_CHR_Jorent: "Джорент"
+ ELCOR_CHR_Jorda: "Хорда"
+ ELCOR_CHR_Johelms: "Йохелмс"
+ ELCOR_CHR_Joeere: "Джоэр"
+ ELCOR_CHR_Jocriste: "Иокриста"
+ ELCOR_CHR_Jocrin: "Джокрин"
+ ELCOR_CHR_Joansa: "Джоанса"
+ ELCOR_CHR_Joanatz: "Джоанац"
+ ELCOR_CHR_Jeuste: "Джуст"
+ ELCOR_CHR_Jeroloi: "Джеролои"
+ ELCOR_CHR_Jeroandre: "Джероандр"
+ ELCOR_CHR_Jerleste: "Джерлесте"
+ ELCOR_CHR_Jerache: "Джераш"
+ ELCOR_CHR_Jeazare: "Джазаре"
+ ELCOR_CHR_Jeanon: "Жанон"
+ ELCOR_CHR_Jeancha: "Жанча"
+ ELCOR_CHR_Jeanaut: "Жано"
+ ELCOR_CHR_Jeacal: "Джакал"
+ ELCOR_CHR_Jastin: "Джастин"
+ ELCOR_CHR_Jaques: "Жак"
+ ELCOR_CHR_Jaquel: "Жакель"
+ ELCOR_CHR_Jacquin: "Жакен"
+ ELCOR_CHR_Jacquel: "Жакель"
+ ELCOR_CHR_Isatz: "Исац"
+ ELCOR_CHR_Irautz: "Ираутц"
+ ELCOR_CHR_Ilhers: "Ильерс"
+ ELCOR_CHR_Humnis: "Гумнис"
+ ELCOR_CHR_Humlin: "Хамлин"
+ ELCOR_CHR_Hubebise: "Hubebise"
+ ELCOR_CHR_Honrele: "Онреле"
+ ELCOR_CHR_Hilare: "Хиларе"
+ ELCOR_CHR_Heurtean: "эртовский"
+ ELCOR_CHR_Heril: "Херил"
+ ELCOR_CHR_Hercve: "Hercve"
+ ELCOR_CHR_Heco: "Хеко"
+ ELCOR_CHR_Hecelyn: "Хеселин"
+ ELCOR_CHR_Guisa: "Гиза"
+ ELCOR_CHR_Guire: "Гуайр"
+ ELCOR_CHR_Guiotzia: "Гиоция"
+ ELCOR_CHR_Guilre: "Гильре"
+ ELCOR_CHR_Guili: "Guili"
+ ELCOR_CHR_Guilhem: "Гильем"
+ ELCOR_CHR_Guilhayl: "Гилхайл"
+ ELCOR_CHR_Guilhartz: "Гильхарц"
+ ELCOR_CHR_Guilhans: "Гильанс"
+ ELCOR_CHR_Guilham: "Гилхэм"
+ ELCOR_CHR_Guigui: "Гигуи"
+ ELCOR_CHR_Guesa: "Геса"
+ ELCOR_CHR_Gosa: "Госа"
+ ELCOR_CHR_Gontre: "Гонтре"
+ ELCOR_CHR_Gonault: "Гоно"
+ ELCOR_CHR_Gonard: "Гонар"
+ ELCOR_CHR_Gobern: "Гоберн"
+ ELCOR_CHR_Gire: "Гир"
+ ELCOR_CHR_Gili: "Гили"
+ ELCOR_CHR_Giersa: "Герса"
+ ELCOR_CHR_Giere: "Гир"
+ ELCOR_CHR_Gersa: "Герса"
+ ELCOR_CHR_Geray: "Герай"
+ ELCOR_CHR_Georier: "Жорье"
+ ELCOR_CHR_Gautos: "Гаутос"
+ ELCOR_CHR_Gauton: "Гаутон"
+ ELCOR_CHR_Gautac: "Гаутак"
+ ELCOR_CHR_Gauda: "Гауда"
+ ELCOR_CHR_Gasters: "Гастеры"
+ ELCOR_CHR_Ganeus: "Ганеус"
+ ELCOR_CHR_Galtis: "Галтис"
+ ELCOR_CHR_Galtib: "Галтиб"
+ ELCOR_CHR_Gaisa: "Гайса"
+ ELCOR_CHR_Gaida: "Гайда"
+ ELCOR_CHR_Gabmand: "Габманд"
+ ELCOR_CHR_Fratzia: "Фрация"
+ ELCOR_CHR_Franoe: "Франоэ"
+ ELCOR_CHR_Francgue: "франк"
+ ELCOR_CHR_Fraele: "Фраэле"
+ ELCOR_CHR_Fosa: "Фоса"
+ ELCOR_CHR_Folquin: "Фолькин"
+ ELCOR_CHR_Foci: "Очаги"
+ ELCOR_CHR_Floroul: "Флорул"
+ ELCOR_CHR_Firier: "Огненный"
+ ELCOR_CHR_Fili: "Фили"
+ ELCOR_CHR_Fiaael: "Фиаэль"
+ ELCOR_CHR_Fere: "Фер"
+ ELCOR_CHR_Ferble: "Фербл"
+ ELCOR_CHR_Felri: "Фелри"
+ ELCOR_CHR_Feacques: "Феак"
+ ELCOR_CHR_Fabface: "Фабфейс"
+ ELCOR_CHR_Evitz: "Эвиц"
+ ELCOR_CHR_Evics: "Эвикс"
+ ELCOR_CHR_Evarve: "Эварв"
+ ELCOR_CHR_Eugeste: "Евгений"
+ ELCOR_CHR_Etaise: "Этаз"
+ ELCOR_CHR_Erin: "Эрин"
+ ELCOR_CHR_Enzzo: "Энццо"
+ ELCOR_CHR_Enris: "Энрис"
+ ELCOR_CHR_Emmanile: "Эмманиле"
+ ELCOR_CHR_Emetz: "Эмец"
+ ELCOR_CHR_Emel: "Эмель"
+ ELCOR_CHR_Emecre: "Эмекре"
+ ELCOR_CHR_Elmer: "Элмер"
+ ELCOR_CHR_Ehas: "Эхас"
+ ELCOR_CHR_Edidore: "Эдидор"
+ ELCOR_CHR_Edain: "Эдайн"
+ ELCOR_CHR_Dremi: "Дреми"
+ ELCOR_CHR_Dorece: "Дорес"
+ ELCOR_CHR_Dorais: "Дорэ"
+ ELCOR_CHR_Donuel: "Донуэль"
+ ELCOR_CHR_Donard: "Донард"
+ ELCOR_CHR_Donagues: "Донагес"
+ ELCOR_CHR_Donace: "Донас"
+ ELCOR_CHR_Dominsue: "доминант"
+ ELCOR_CHR_Doel: "Доэль"
+ ELCOR_CHR_Diophane: "Диофан"
+ ELCOR_CHR_Dioetan: "Диэтан"
+ ELCOR_CHR_Dieuave: "Дьёав"
+ ELCOR_CHR_Didebise: "Дидебизе"
+ ELCOR_CHR_Deques: "Деки"
+ ELCOR_CHR_Degoire: "Дегуар"
+ ELCOR_CHR_Deebise: "Дибиз"
+ ELCOR_CHR_Daire: "Дайре"
+ ELCOR_CHR_Ctan: "Ктан"
+ ELCOR_CHR_Costans: "Костаны"
+ ELCOR_CHR_Coscha: "Коша"
+ ELCOR_CHR_Cornemy: "Корнеми"
+ ELCOR_CHR_Corentophe: "Корантоф"
+ ELCOR_CHR_Corenasien: "Коренасьен"
+ ELCOR_CHR_Cooic: "Куик"
+ ELCOR_CHR_Constrand: "Констранд"
+ ELCOR_CHR_Comothee: "Комоти"
+ ELCOR_CHR_Clemier: "Клемье"
+ ELCOR_CHR_Claudcent: "Клодсент"
+ ELCOR_CHR_Celele: "Целеле"
+ ELCOR_CHR_Cartzia: "Картция"
+ ELCOR_CHR_Camme: "Камме"
+ ELCOR_CHR_Camic: "Камик"
+ ELCOR_CHR_Camdat: "Камдат"
+ ELCOR_CHR_Burci: "Бурчи"
+ ELCOR_CHR_Brielme: "Бриэльме"
+ ELCOR_CHR_Bove: "Бове"
+ ELCOR_CHR_Bertzia: "Берция"
+ ELCOR_CHR_Bertsa: "Берца"
+ ELCOR_CHR_Bertos: "Бертос"
+ ELCOR_CHR_Bertans: "Бертанс"
+ ELCOR_CHR_Bernart: "Бернарт"
+ ELCOR_CHR_Bautac: "Баутак"
+ ELCOR_CHR_Baudtien: "Бодтьен"
+ ELCOR_CHR_Baudie: "Бауди"
+ ELCOR_CHR_Baudat: "Бода"
+ ELCOR_CHR_Baudald: "Бодальд"
+ ELCOR_CHR_Bauda: "Бауда"
+ ELCOR_CHR_Basa: "Баса"
+ ELCOR_CHR_Baleste: "Балесте"
+ ELCOR_CHR_Azes: "Азес"
+ ELCOR_CHR_Azan: "Азан"
+ ELCOR_CHR_Aurenne: "Оренн"
+ ELCOR_CHR_Audes: "Одес"
+ ELCOR_CHR_Aubin: "Обен"
+ ELCOR_CHR_Aston: "Астон"
+ ELCOR_CHR_Artin: "Артин"
+ ELCOR_CHR_Arsiut: "Арсиут"
+ ELCOR_CHR_Arsiucs: "Арсюкс"
+ ELCOR_CHR_Armar: "Армар"
+ ELCOR_CHR_Arin: "Арин"
+ ELCOR_CHR_Arain: "Арайн"
+ ELCOR_CHR_Apopasien: "Апопасиен"
+ ELCOR_CHR_Antnace: "Антнас"
+ ELCOR_CHR_Anille: "Аниль"
+ ELCOR_CHR_Anfotz: "Анфотц"
+ ELCOR_CHR_Anfos: "Анфос"
+ ELCOR_CHR_Aneut: "Анеут"
+ ELCOR_CHR_Aners: "Анерс"
+ ELCOR_CHR_Andos: "Андос"
+ ELCOR_CHR_Ances: "Ансы"
+ ELCOR_CHR_Anais: "Анаис"
+ ELCOR_CHR_Amy: "Эми"
+ ELCOR_CHR_Amartz: "Амарц"
+ ELCOR_CHR_Amars: "Амарс"
+ ELCOR_CHR_Amans: "Аманс"
+ ELCOR_CHR_Amalts: "Амальты"
+ ELCOR_CHR_Altes: "Старый"
+ ELCOR_CHR_Alter: "Изменить"
+ ELCOR_CHR_Alphothee: "Альфотея"
+ ELCOR_CHR_Aliars: "Алиарс"
+ ELCOR_CHR_Alexois: "Алексуа"
+ ELCOR_CHR_Aleiface: "Алейфейс"
+ ELCOR_CHR_Aldris: "Олдрис"
+ ELCOR_CHR_Aldric: "Олдрик"
+ ELCOR_CHR_Aldire: "Алдире"
+ ELCOR_CHR_Alard: "Алар"
+ ELCOR_CHR_Aisas: "Айзас"
+ ELCOR_CHR_Ainaut: "Энаут"
+ ELCOR_CHR_Adastien: "Адастиен"
+ ELCOR_CHR_Acotz: "Акотц"
+ ELCOR_CHR_Abpasien: "Абпасиен"
+ ELCOR_CHR_Abes: "Абес"
+ ELCOR_CHR_Abert: "Аберт"
+ ELCOR_CHR_Abele: "Абеле"
+ ELCOR_CHR_Petozi: "Петози"
+ ELCOR_CHR_Harrot: "Харрот"
+ ELCOR_CHR_Calyn: "Калин"
+ ELCOR_CHR_Xeltan: "Зелтан"
+ ELCOR_CHR_Yveonore: "Ивеонора"
+ ELCOR_CHR_Yvemaine: "Ивмейн"
+ ELCOR_CHR_Virginoise: "виргинская"
+ ELCOR_CHR_Viennmane: "Венмане"
+ ELCOR_CHR_Victortoire: "Виктортуар"
+ ELCOR_CHR_Verrin: "Веррин"
+ ELCOR_CHR_Verrel: "Веррел"
+ ELCOR_CHR_Verrais: "Верре"
+ ELCOR_CHR_Ussas: "Уссас"
+ ELCOR_CHR_Ursas: "Урсас"
+ ELCOR_CHR_Thereluce: "Есть"
+ ELCOR_CHR_Therebora: "Тебора"
+ ELCOR_CHR_Synoite: "Синоит"
+ ELCOR_CHR_Sylvielise: "Сильвиелиз"
+ ELCOR_CHR_Sine: "Синус"
+ ELCOR_CHR_Sibond: "Сибонд"
+ ELCOR_CHR_Siblaide: "Сиблаиде"
+ ELCOR_CHR_Sibgi: "Сибги"
+ ELCOR_CHR_Sibauss: "Сибаусс"
+ ELCOR_CHR_Sevexis: "Севексис"
+ ELCOR_CHR_Severva: "Северва"
+ ELCOR_CHR_Sevemilienne: "Севемильен"
+ ELCOR_CHR_Serade: "Сераде"
+ ELCOR_CHR_Sende: "Сенде"
+ ELCOR_CHR_Sanna: "Санна"
+ ELCOR_CHR_Sane: "В своем уме"
+ ELCOR_CHR_Sana: "Сана"
+ ELCOR_CHR_Salie: "Сали"
+ ELCOR_CHR_Salia: "Салия"
+ ELCOR_CHR_Sale: "Распродажа"
+ ELCOR_CHR_Saisse: "Саисс"
+ ELCOR_CHR_Saissa: "Саисса"
+ ELCOR_CHR_Romxanne: "Ромксана"
+ ELCOR_CHR_Romande: "Романда"
+ ELCOR_CHR_Rine: "Райн"
+ ELCOR_CHR_Restine: "Рестин"
+ ELCOR_CHR_Rerece: "Rece"
+ ELCOR_CHR_Relie: "Relie"
+ ELCOR_CHR_Relia: "Релия"
+ ELCOR_CHR_Rele: "Реле"
+ ELCOR_CHR_Regiustine: "Регистина"
+ ELCOR_CHR_Rayiel: "Райэль"
+ ELCOR_CHR_Raise: "Поднимать"
+ ELCOR_CHR_Raisa: "Раиса"
+ ELCOR_CHR_Peroe: "Перо"
+ ELCOR_CHR_Penetane: "Пенетан"
+ ELCOR_CHR_Peneelie: "Пенили"
+ ELCOR_CHR_Ozise: "Озизе"
+ ELCOR_CHR_Osate: "Осате"
+ ELCOR_CHR_Oricis: "Орицис"
+ ELCOR_CHR_Odigaux: "Одиго"
+ ELCOR_CHR_Ocestance: "Окестанс"
+ ELCOR_CHR_Noeyne: "Ноэйне"
+ ELCOR_CHR_Noeonne: "нённ"
+ ELCOR_CHR_Noeltacha: "Ноэльтача"
+ ELCOR_CHR_Noelpine: "Ноэльпин"
+ ELCOR_CHR_Noellice: "Ноэллис"
+ ELCOR_CHR_Ninlope: "Нинлопа"
+ ELCOR_CHR_Mylon: "Майлон"
+ ELCOR_CHR_Muotilde: "Муотильда"
+ ELCOR_CHR_Monde: "мир"
+ ELCOR_CHR_Monda: "Монда"
+ ELCOR_CHR_Miramie: "Miramie"
+ ELCOR_CHR_Mersa: "Мерса"
+ ELCOR_CHR_Maxiievre: "Максимьевр"
+ ELCOR_CHR_Mantie: "Манти"
+ ELCOR_CHR_Manrene: "Манрен"
+ ELCOR_CHR_Magtoire: "Магтуар"
+ ELCOR_CHR_Maelonore: "Мелонор"
+ ELCOR_CHR_Maberg: "Маберг"
+ ELCOR_CHR_Louissse: "Луис"
+ ELCOR_CHR_Lise: "Лиз"
+ ELCOR_CHR_Line: "Линия"
+ ELCOR_CHR_Lile: "Лиле"
+ ELCOR_CHR_Liene: "Лиене"
+ ELCOR_CHR_Liane: "Лиана"
+ ELCOR_CHR_Lena: "Лена"
+ ELCOR_CHR_Leaule: "Леуль"
+ ELCOR_CHR_Laurth: "Лорт"
+ ELCOR_CHR_Laurenandrie: "Лоренандри"
+ ELCOR_CHR_Larmab: "Лармаб"
+ ELCOR_CHR_Laetivienne: "Летивьен"
+ ELCOR_CHR_Labond: "Лабонд"
+ ELCOR_CHR_Labeth: "Лабет"
+ ELCOR_CHR_Julione: "Джулиона"
+ ELCOR_CHR_Josephrion: "Джозефрион"
+ ELCOR_CHR_Josephgine: "Джозефгин"
+ ELCOR_CHR_Jeanverine: "Жанверин"
+ ELCOR_CHR_Jacquinique: "Жакиник"
+ ELCOR_CHR_Jacquelea: "Жаклин"
+ ELCOR_CHR_Inlianne: "Инлианна"
+ ELCOR_CHR_Hyarene: "Гиарена"
+ ELCOR_CHR_Huedicte: "Юэдикте"
+ ELCOR_CHR_Hubara: "Хубара"
+ ELCOR_CHR_Hilie: "Hilie"
+ ELCOR_CHR_Hilia: "Хилия"
+ ELCOR_CHR_Hile: "Хиле"
+ ELCOR_CHR_Henritrice: "Генритрис"
+ ELCOR_CHR_Henride: "Хенриде"
+ ELCOR_CHR_Helona: "Хелона"
+ ELCOR_CHR_Helie: "Хели"
+ ELCOR_CHR_Helesiane: "Хелезиан"
+ ELCOR_CHR_Helenylle: "Эленилл"
+ ELCOR_CHR_Hele: "Хеле"
+ ELCOR_CHR_Hansa: "Ганза"
+ ELCOR_CHR_Haine: "Хайне"
+ ELCOR_CHR_Haina: "Хайна"
+ ELCOR_CHR_Guenuette: "Генуэтт"
+ ELCOR_CHR_Ghysinne: "Гизинн"
+ ELCOR_CHR_Geraldrine: "Джеральдрин"
+ ELCOR_CHR_Gatacha: "Gatacha"
+ ELCOR_CHR_Gaotilde: "Гаотильда"
+ ELCOR_CHR_Galie: "Гали"
+ ELCOR_CHR_Galia: "Галя"
+ ELCOR_CHR_Gale: "Гейл"
+ ELCOR_CHR_Gaeltacha: "Гаэлтача"
+ ELCOR_CHR_Gaange: "Гаанге"
+ ELCOR_CHR_Francmilienne: "Франсмильен"
+ ELCOR_CHR_Francdra: "Франкдра"
+ ELCOR_CHR_Florane: "Флоран"
+ ELCOR_CHR_Fleurbeth: "Флербет"
+ ELCOR_CHR_Fleume: "Флюме"
+ ELCOR_CHR_Fleuloe: "Флёло"
+ ELCOR_CHR_Fleugane: "Флёган"
+ ELCOR_CHR_Flavele: "Флавеле"
+ ELCOR_CHR_Fiastasie: "Фиастасия"
+ ELCOR_CHR_Felie: "Фели"
+ ELCOR_CHR_Feliclique: "Феликлик"
+ ELCOR_CHR_Feliciril: "Фелицирил"
+ ELCOR_CHR_Felicide: "Фелицид"
+ ELCOR_CHR_Felicibeth: "Фелисибет"
+ ELCOR_CHR_Feliccelyne: "Феличселин"
+ ELCOR_CHR_Fele: "Феле"
+ ELCOR_CHR_Fausttia: "Фаустия"
+ ELCOR_CHR_Faustice: "Фаустис"
+ ELCOR_CHR_Eulaali: "Эулаали"
+ ELCOR_CHR_Ethis: "Этис"
+ ELCOR_CHR_Esthilde: "Эстильда"
+ ELCOR_CHR_Erris: "Эррис"
+ ELCOR_CHR_Ergent: "Эргент"
+ ELCOR_CHR_Enor: "Энор"
+ ELCOR_CHR_Endent: "Эндент"
+ ELCOR_CHR_Enas: "Энас"
+ ELCOR_CHR_Emilemie: "Эмили"
+ ELCOR_CHR_Elviylle: "Эльвийлль"
+ ELCOR_CHR_Elvirtane: "Эльвиртане"
+ ELCOR_CHR_Elva: "Эльва"
+ ELCOR_CHR_Elois: "Элоис"
+ ELCOR_CHR_Elodele: "Элоделе"
+ ELCOR_CHR_Elisaombe: "Элизаомба"
+ ELCOR_CHR_Elior: "Элиор"
+ ELCOR_CHR_Eliiris: "Элиирис"
+ ELCOR_CHR_Elient: "Элиент"
+ ELCOR_CHR_Elias: "Элиас"
+ ELCOR_CHR_Elianon: "Элианон"
+ ELCOR_CHR_Elent: "Элент"
+ ELCOR_CHR_Eleloe: "Элелоя"
+ ELCOR_CHR_Elegane: "Элегейн"
+ ELCOR_CHR_Edriam: "Эдриам"
+ ELCOR_CHR_Edithlivie: "Эдитливи"
+ ELCOR_CHR_Dorirore: "Dorirore"
+ ELCOR_CHR_Domerie: "Домери"
+ ELCOR_CHR_Dine: "пообедать"
+ ELCOR_CHR_Dina: "Дина"
+ ELCOR_CHR_Diase: "Диасе"
+ ELCOR_CHR_Diasa: "Диаса"
+ ELCOR_CHR_Daphnes: "Дафнес"
+ ELCOR_CHR_Cyrian: "Цириан"
+ ELCOR_CHR_Coralmone: "Коралмон"
+ ELCOR_CHR_Coralienne: "Коралиенн"
+ ELCOR_CHR_Coralence: "Кораленс"
+ ELCOR_CHR_Coraerise: "Корариз"
+ ELCOR_CHR_Coracile: "Корасиль"
+ ELCOR_CHR_Cooite: "Куит"
+ ELCOR_CHR_Constie: "Консти"
+ ELCOR_CHR_Constacide: "Констацид"
+ ELCOR_CHR_Colence: "Коленс"
+ ELCOR_CHR_Clothmonde: "Клотмонд"
+ ELCOR_CHR_Clothith: "Ткань"
+ ELCOR_CHR_Clementdrie: "Клементдри"
+ ELCOR_CHR_Claute: "Клауте"
+ ELCOR_CHR_Claudmonde: "Клодмонд"
+ ELCOR_CHR_Clarstiane: "Кларстиан"
+ ELCOR_CHR_Clariguerite: "Кларигерит"
+ ELCOR_CHR_Chrisnouk: "Криснук"
+ ELCOR_CHR_Chriseline: "Криселин"
+ ELCOR_CHR_Chriille: "Криилль"
+ ELCOR_CHR_Charais: "Шаре"
+ ELCOR_CHR_Chantcale: "Шанкаль"
+ ELCOR_CHR_Carole: "Кэрол"
+ ELCOR_CHR_Carin: "Карин"
+ ELCOR_CHR_Carel: "Карел"
+ ELCOR_CHR_Carandrie: "Карандри"
+ ELCOR_CHR_Carais: "Караис"
+ ELCOR_CHR_Bonde: "Бонд"
+ ELCOR_CHR_Bonda: "Бонда"
+ ELCOR_CHR_Blena: "Блена"
+ ELCOR_CHR_Blaze: "Блейз"
+ ELCOR_CHR_Blanda: "Бланда"
+ ELCOR_CHR_Bilia: "Билия"
+ ELCOR_CHR_Bethans: "Бетанс"
+ ELCOR_CHR_Bernarais: "Бернаре"
+ ELCOR_CHR_Bernaise: "Бернез"
+ ELCOR_CHR_Berge: "Берге"
+ ELCOR_CHR_Beamane: "Бимане"
+ ELCOR_CHR_Baussa: "Баусса"
+ ELCOR_CHR_Barna: "Барна"
+ ELCOR_CHR_Baraide: "Барайде"
+ ELCOR_CHR_Azent: "Азент"
+ ELCOR_CHR_Azais: "Азаис"
+ ELCOR_CHR_Avriali: "Авриали"
+ ELCOR_CHR_Aurorelle: "Аврорель"
+ ELCOR_CHR_Arrette: "Арретт"
+ ELCOR_CHR_Ariaande: "Арианде"
+ ELCOR_CHR_Arent: "Арент"
+ ELCOR_CHR_Antointrice: "Антуантрис"
+ ELCOR_CHR_Antoineemie: "Антуани"
+ ELCOR_CHR_Antient: "Древний"
+ ELCOR_CHR_Ansis: "Ансис"
+ ELCOR_CHR_Ansas: "Ансас"
+ ELCOR_CHR_Anoukie: "Ануки"
+ ELCOR_CHR_Anouandrie: "Ануандри"
+ ELCOR_CHR_Annent: "Аннент"
+ ELCOR_CHR_Anneitte: "Аннет"
+ ELCOR_CHR_Annee: "Энни"
+ ELCOR_CHR_Annalome: "Анналоме"
+ ELCOR_CHR_Annaiele: "Annaiele"
+ ELCOR_CHR_Angelepine: "Анджелепин"
+ ELCOR_CHR_Andrerene: "Андререн"
+ ELCOR_CHR_Andis: "И является"
+ ELCOR_CHR_Andandrie: "Андандрие"
+ ELCOR_CHR_Anas: "Анас"
+ ELCOR_CHR_Analisande: "Аналисанда"
+ ELCOR_CHR_Anahilde: "Анахильда"
+ ELCOR_CHR_Amnte: "Амнте"
+ ELCOR_CHR_Ameaide: "Амеайде"
+ ELCOR_CHR_Ambredicte: "Амбредикта"
+ ELCOR_CHR_Amas: "Амас"
+ ELCOR_CHR_Amaraguette: "Амарагетт"
+ ELCOR_CHR_Amandloise: "Амандлуаза"
+ ELCOR_CHR_Alpais: "Альпаи"
+ ELCOR_CHR_Alias: "Псевдоним"
+ ELCOR_CHR_Alexlla: "Алексла"
+ ELCOR_CHR_Alde: "Альде"
+ ELCOR_CHR_Alas: "Увы"
+ ELCOR_CHR_Alais: "Але"
+ ELCOR_CHR_Aissas: "Айссас"
+ ELCOR_CHR_Aisent: "Айсент"
+ ELCOR_CHR_Ainent: "Айнен"
+ ELCOR_CHR_Aimonne: "Эмонн"
+ ELCOR_CHR_Aillent: "Айлент"
+ ELCOR_CHR_Ailent: "Айлент"
+ ELCOR_CHR_Aibis: "Айбис"
+ ELCOR_CHR_Aglbelle: "Агбель"
+ ELCOR_CHR_Aglaerine: "Аглаэрин"
+ ELCOR_CHR_Aesclas: "Эсклас"
+ ELCOR_CHR_Aersent: "Эрсент"
+ ELCOR_CHR_Aerris: "Эррис"
+ ELCOR_CHR_Aergent: "Эржент"
+ ELCOR_CHR_Aenor: "Энор"
+ ELCOR_CHR_Aendent: "Аендент"
+ ELCOR_CHR_Aenas: "Энас"
+ ELCOR_CHR_Aelias: "Элиас"
+ ELCOR_CHR_Adelvette: "Адельветт"
+ ELCOR_CHR_Adelle: "Адель"
+ ELCOR_CHR_Adas: "Адас"
+ ELCOR_CHR_Abor: "Абор"
+ ELCOR_CHR_Abis: "Абис"
+ ELCOR_CHR_Abent: "Отсутствует"
+ ELCOR_CHR_Yvoselle: "Ивозель"
+ ELCOR_CHR_Yvdrien: "Ивдриен"
+ ELCOR_CHR_Yanlere: "Янлере"
+ ELCOR_CHR_Yaent: "Яент"
+ ELCOR_CHR_Vinceau: "Винсо"
+ ELCOR_CHR_Villy: "Вилли"
+ ELCOR_CHR_Ville: "Вилле"
+ ELCOR_CHR_Vigne: "Винье"
+ ELCOR_CHR_Vieve: "Виве"
+ ELCOR_CHR_Vienny: "Вена"
+ ELCOR_CHR_Viennri: "Венри"
+ ELCOR_CHR_Vichilde: "Вичильде"
+ ELCOR_CHR_Vertou: "Верту"
+ ELCOR_CHR_Versy: "Верси"
+ ELCOR_CHR_Verne: "Верн"
+ ELCOR_CHR_Vele: "Веле"
+ ELCOR_CHR_Vegaux: "Вего"
+ ELCOR_CHR_Vaulxerr: "Волксерр"
+ ELCOR_CHR_Vale: "Вейл"
+ ELCOR_CHR_Vaillieu: "Валье"
+ ELCOR_CHR_Trame: "Траме"
+ ELCOR_CHR_Tousmilien: "Тусмильен"
+ ELCOR_CHR_Tourse: "Турс"
+ ELCOR_CHR_Tigne: "Тинь"
+ ELCOR_CHR_Theime: "Тема"
+ ELCOR_CHR_Thaume: "Тауме"
+ ELCOR_CHR_Teuilau: "Тойлау"
+ ELCOR_CHR_Teleslene: "Телеслене"
+ ELCOR_CHR_Taultou: "Талту"
+ ELCOR_CHR_Sure: "Конечно"
+ ELCOR_CHR_Sonot: "Сонот"
+ ELCOR_CHR_Sonne: "Сонне"
+ ELCOR_CHR_Sevenic: "Семиник"
+ ELCOR_CHR_Setia: "Сетия"
+ ELCOR_CHR_Serchal: "Серчал"
+ ELCOR_CHR_Sebamaury: "Себамори"
+ ELCOR_CHR_Sartry: "Сартри"
+ ELCOR_CHR_Sanny: "Санни"
+ ELCOR_CHR_Samaury: "Самаури"
+ ELCOR_CHR_Sainvoie: "Сенвуа"
+ ELCOR_CHR_Rueile: "Рюэйль"
+ ELCOR_CHR_Rolaphyrine: "Ролафирин"
+ ELCOR_CHR_Roixerr: "Ройксерр"
+ ELCOR_CHR_Rodooe: "Роду"
+ ELCOR_CHR_Riseau: "Ризо"
+ ELCOR_CHR_Rillay: "Риллей"
+ ELCOR_CHR_Reynon: "Рейнон"
+ ELCOR_CHR_Reuxerr: "Рейксерр"
+ ELCOR_CHR_Resy: "Рези"
+ ELCOR_CHR_Rejall: "Реджалл"
+ ELCOR_CHR_Reiste: "Рейсте"
+ ELCOR_CHR_Regiisse: "Региисс"
+ ELCOR_CHR_Rayne: "Рейн"
+ ELCOR_CHR_Rase: "Расе"
+ ELCOR_CHR_Raphzo: "Рафзо"
+ ELCOR_CHR_Rainnette: "Рейнетт"
+ ELCOR_CHR_Quenriam: "Квенриам"
+ ELCOR_CHR_Ponte: "Понте"
+ ELCOR_CHR_Ponsaint: "Понсен"
+ ELCOR_CHR_Poite: "Поите"
+ ELCOR_CHR_Pery: "Пери"
+ ELCOR_CHR_Perry: "Перри"
+ ELCOR_CHR_Pere: "Пере"
+ ELCOR_CHR_Pentre: "Пентре"
+ ELCOR_CHR_Pelle: "Пелле"
+ ELCOR_CHR_Paulanais: "Пауланэ"
+ ELCOR_CHR_Pasat: "Пасат"
+ ELCOR_CHR_Pare: "Паре"
+ ELCOR_CHR_Oret: "Орет"
+ ELCOR_CHR_Opheree: "Офери"
+ ELCOR_CHR_Olivuette: "Olivuette"
+ ELCOR_CHR_Odidia: "Одидия"
+ ELCOR_CHR_Odiais: "Одиаис"
+ ELCOR_CHR_Ocene: "океан"
+ ELCOR_CHR_None: "Никто"
+ ELCOR_CHR_Noeephore: "Ноифор"
+ ELCOR_CHR_Nicorette: "Никоретте"
+ ELCOR_CHR_Nicodery: "Никодери"
+ ELCOR_CHR_Nicemie: "Nicemie"
+ ELCOR_CHR_Nicare: "Никаре"
+ ELCOR_CHR_Nese: "Несе"
+ ELCOR_CHR_Natatrice: "Нататриче"
+ ELCOR_CHR_Nane: "Нанэ"
+ ELCOR_CHR_Mylvienne: "Мильвен"
+ ELCOR_CHR_Moule: "Муль"
+ ELCOR_CHR_Morlla: "Морлла"
+ ELCOR_CHR_Montre: "Монтре"
+ ELCOR_CHR_Montou: "Монту"
+ ELCOR_CHR_Montia: "Монтиа"
+ ELCOR_CHR_Montge: "Монтж"
+ ELCOR_CHR_Monte: "Монте"
+ ELCOR_CHR_Mogy: "Моги"
+ ELCOR_CHR_Moge: "Моге"
+ ELCOR_CHR_Modnore: "Моднор"
+ ELCOR_CHR_Miface: "Мифейс"
+ ELCOR_CHR_Mierse: "Мирс"
+ ELCOR_CHR_Miense: "Миенсе"
+ ELCOR_CHR_Meudouai: "Медуай"
+ ELCOR_CHR_Mente: "Менте"
+ ELCOR_CHR_Mele: "Меле"
+ ELCOR_CHR_Maxrelien: "Максрелиен"
+ ELCOR_CHR_Maxierie: "максири"
+ ELCOR_CHR_Maxi: "Макси"
+ ELCOR_CHR_Matmond: "Матмонд"
+ ELCOR_CHR_Mathvain: "Матвейн"
+ ELCOR_CHR_Mathrian: "Матриан"
+ ELCOR_CHR_Masse: "Массе"
+ ELCOR_CHR_Marse: "Марс"
+ ELCOR_CHR_Margustine: "Маргустин"
+ ELCOR_CHR_Mare: "Маре"
+ ELCOR_CHR_Male: "Мужской"
+ ELCOR_CHR_Maelie: "Мэйли"
+ ELCOR_CHR_Maeide: "Майде"
+ ELCOR_CHR_Madethee: "Сделано"
+ ELCOR_CHR_Lune: "Луна"
+ ELCOR_CHR_Ludifleur: "Людифлер"
+ ELCOR_CHR_Lucy: "Люси"
+ ELCOR_CHR_Lucmaine: "Лукмейн"
+ ELCOR_CHR_Lucene: "Люсен"
+ ELCOR_CHR_Luance: "Луанс"
+ ELCOR_CHR_Louque: "Лук"
+ ELCOR_CHR_Lothsire: "Лотсир"
+ ELCOR_CHR_Lone: "одинокий"
+ ELCOR_CHR_Lombouill: "Ломбуй"
+ ELCOR_CHR_Lolien: "Лолиен"
+ ELCOR_CHR_Loiix: "Лойикс"
+ ELCOR_CHR_Liseluce: "Лизелюс"
+ ELCOR_CHR_Lilonore: "Лилонор"
+ ELCOR_CHR_Lierse: "Льерс"
+ ELCOR_CHR_Lese: "Лесе"
+ ELCOR_CHR_Leper: "прокаженный"
+ ELCOR_CHR_Leoonore: "Леонор"
+ ELCOR_CHR_Leonvienne: "Леонвьен"
+ ELCOR_CHR_Leoiel: "Леоэль"
+ ELCOR_CHR_Leoebise: "Леэбизе"
+ ELCOR_CHR_Leae: "Ли"
+ ELCOR_CHR_Laurenic: "Лореник"
+ ELCOR_CHR_Laurcinde: "Лаурсинда"
+ ELCOR_CHR_Julme: "Джульме"
+ ELCOR_CHR_Josslla: "Джоссла"
+ ELCOR_CHR_Jony: "Джони"
+ ELCOR_CHR_Joide: "Джойде"
+ ELCOR_CHR_Joenis: "Йоенис"
+ ELCOR_CHR_Joelcelyne: "Джоэлселин"
+ ELCOR_CHR_Joege: "Джог"
+ ELCOR_CHR_Joderic: "Джодерик"
+ ELCOR_CHR_Jocelcelyne: "Джоселин"
+ ELCOR_CHR_Jeanmelle: "Жанмель"
+ ELCOR_CHR_Irenes: "Ирэн"
+ ELCOR_CHR_Illen: "Иллен"
+ ELCOR_CHR_Igis: "Игис"
+ ELCOR_CHR_Hyalou: "Хьялоу"
+ ELCOR_CHR_Huny: "Хьюни"
+ ELCOR_CHR_Hune: "Хьюн"
+ ELCOR_CHR_Hornise: "роговой"
+ ELCOR_CHR_Honocal: "Честный"
+ ELCOR_CHR_Honiste: "Хонисте"
+ ELCOR_CHR_Hiry: "Хири"
+ ELCOR_CHR_Heurcis: "Херцис"
+ ELCOR_CHR_Hesine: "Хесин"
+ ELCOR_CHR_Hermrelien: "Хермрелиен"
+ ELCOR_CHR_Hermcisse: "Гермцисс"
+ ELCOR_CHR_Hatou: "Хатоу"
+ ELCOR_CHR_Hatia: "Хатиа"
+ ELCOR_CHR_Hate: "Ненавидеть"
+ ELCOR_CHR_Guilzaire: "Гильзер"
+ ELCOR_CHR_Gueuxerr: "Гёксерр"
+ ELCOR_CHR_Guc: "Гук"
+ ELCOR_CHR_Grolle: "Гролле"
+ ELCOR_CHR_Groixerr: "Груксерр"
+ ELCOR_CHR_Greouin: "Греуэн"
+ ELCOR_CHR_Gise: "Гизе"
+ ELCOR_CHR_Gilime: "Гилиме"
+ ELCOR_CHR_Ghysse: "Гиссе"
+ ELCOR_CHR_Ghyssaint: "Гиссен"
+ ELCOR_CHR_Ghyslaine: "Гилен"
+ ELCOR_CHR_Ghon: "Гон"
+ ELCOR_CHR_Ghimin: "Гимин"
+ ELCOR_CHR_Gere: "Гир"
+ ELCOR_CHR_Georgllin: "Георглин"
+ ELCOR_CHR_Genne: "Генне"
+ ELCOR_CHR_Geaud: "Джо"
+ ELCOR_CHR_Garence: "Гаранс"
+ ELCOR_CHR_Gagnoy: "Ганьюа"
+ ELCOR_CHR_Gaetstine: "Гаэтстин"
+ ELCOR_CHR_Gael: "Гаэль"
+ ELCOR_CHR_Fulme: "Фульме"
+ ELCOR_CHR_Fresny: "Френи"
+ ELCOR_CHR_Frante: "Франте"
+ ELCOR_CHR_Frange: "Френдж"
+ ELCOR_CHR_Forte: "Форте"
+ ELCOR_CHR_Fontia: "Фонтия"
+ ELCOR_CHR_Floiane: "Флоян"
+ ELCOR_CHR_Fleurndra: "Флерндра"
+ ELCOR_CHR_Fitoine: "Фитуан"
+ ELCOR_CHR_Firchal: "Фиршал"
+ ELCOR_CHR_Ferre: "Ферре"
+ ELCOR_CHR_Ferdinrie: "Фердинри"
+ ELCOR_CHR_Felsphore: "Фелсфор"
+ ELCOR_CHR_Felsee: "Фельзее"
+ ELCOR_CHR_Felilie: "Фелили"
+ ELCOR_CHR_Felic: "Фелич"
+ ELCOR_CHR_Faustdonnee: "Фаустдонни"
+ ELCOR_CHR_Fausnoite: "фаусноит"
+ ELCOR_CHR_Fabsaint: "Фабсен"
+ ELCOR_CHR_Evethaire: "Эветэр"
+ ELCOR_CHR_Evenine: "Эвенин"
+ ELCOR_CHR_Ethverine: "Этверин"
+ ELCOR_CHR_Ethel: "Этель"
+ ELCOR_CHR_Erres: "Эррес"
+ ELCOR_CHR_Erno: "Эрно"
+ ELCOR_CHR_Erges: "Эргес"
+ ELCOR_CHR_Eninaire: "Энинер"
+ ELCOR_CHR_Emmaore: "Эммаоре"
+ ELCOR_CHR_Emicide: "Эмицид"
+ ELCOR_CHR_Elthe: "Эльте"
+ ELCOR_CHR_Eloloe: "Элолоэ"
+ ELCOR_CHR_Ellaire: "Эллер"
+ ELCOR_CHR_Elisephyrine: "Элизефирин"
+ ELCOR_CHR_Drese: "Дрезе"
+ ELCOR_CHR_Drege: "Дрег"
+ ELCOR_CHR_Dorque: "Дорк"
+ ELCOR_CHR_Doronuelle: "Доронуэль"
+ ELCOR_CHR_Doricinthe: "Дорицинта"
+ ELCOR_CHR_Donuette: "пончик"
+ ELCOR_CHR_Donai: "Donai"
+ ELCOR_CHR_Dominylle: "Доминилла"
+ ELCOR_CHR_Digny: "Диньи"
+ ELCOR_CHR_Digne: "Динь"
+ ELCOR_CHR_Dezy: "Дези"
+ ELCOR_CHR_Dezieu: "Дезье"
+ ELCOR_CHR_Deze: "Дезе"
+ ELCOR_CHR_Delbine: "Дельбин"
+ ELCOR_CHR_Deemy: "Дими"
+ ELCOR_CHR_Deain: "Дин"
+ ELCOR_CHR_Danphine: "Данфин"
+ ELCOR_CHR_Danierise: "Даньериз"
+ ELCOR_CHR_Cyrlot: "Сирлот"
+ ELCOR_CHR_Cyrcael: "Циркаэль"
+ ELCOR_CHR_Courbeauv: "Курбо"
+ ELCOR_CHR_Cornelblanche: "Корнельбланш"
+ ELCOR_CHR_Corbers: "Корберы"
+ ELCOR_CHR_Corarene: "Корарен"
+ ELCOR_CHR_Cony: "Кони"
+ ELCOR_CHR_Cone: "Конус"
+ ELCOR_CHR_Colot: "Колот"
+ ELCOR_CHR_Cole: "Коул"
+ ELCOR_CHR_Coinge: "Coinge"
+ ELCOR_CHR_Clothtane: "Клоттан"
+ ELCOR_CHR_Clothlene: "Клотлин"
+ ELCOR_CHR_Clothce: "Клотс"
+ ELCOR_CHR_Clese: "Клезе"
+ ELCOR_CHR_Clementery: "Клементери"
+ ELCOR_CHR_Claipold: "Клайпольд"
+ ELCOR_CHR_Cienny: "Сьенни"
+ ELCOR_CHR_Chrislemy: "Крислеми"
+ ELCOR_CHR_Chouille: "Шуй"
+ ELCOR_CHR_Chelle: "Шелле"
+ ELCOR_CHR_Chatou: "Шату"
+ ELCOR_CHR_Chate: "Чат"
+ ELCOR_CHR_Chartrie: "Чартри"
+ ELCOR_CHR_Charpe: "Шарп"
+ ELCOR_CHR_Chare: "Чаре"
+ ELCOR_CHR_Champse: "Шампс"
+ ELCOR_CHR_Chale: "Шале"
+ ELCOR_CHR_Chagy: "Чаги"
+ ELCOR_CHR_Cenny: "Сенни"
+ ELCOR_CHR_Castre: "Кастр"
+ ELCOR_CHR_Carolnne: "Каролинн"
+ ELCOR_CHR_Caian: "Кайан"
+ ELCOR_CHR_Caene: "Кане"
+ ELCOR_CHR_Bruel: "Брюэль"
+ ELCOR_CHR_Broanny: "Бронни"
+ ELCOR_CHR_Brilly: "Брилли"
+ ELCOR_CHR_Brigny: "Бриньи"
+ ELCOR_CHR_Bravoie: "Бравуа"
+ ELCOR_CHR_Brange: "Бранж"
+ ELCOR_CHR_Bourge: "Бурж"
+ ELCOR_CHR_Bonny: "Бонни"
+ ELCOR_CHR_Bonive: "Бонив"
+ ELCOR_CHR_Bonface: "Бонфейс"
+ ELCOR_CHR_Beze: "Безе"
+ ELCOR_CHR_Bevoie: "Бевуа"
+ ELCOR_CHR_Beugy: "Бежи"
+ ELCOR_CHR_Bese: "Бесе"
+ ELCOR_CHR_Bervoie: "Бервуа"
+ ELCOR_CHR_Bergy: "Бержи"
+ ELCOR_CHR_Benes: "Бенеш"
+ ELCOR_CHR_Belme: "Бельме"
+ ELCOR_CHR_Belferr: "Белферр"
+ ELCOR_CHR_Beauvoie: "Бовуа"
+ ELCOR_CHR_Beaune: "бон"
+ ELCOR_CHR_Bayonne: "Байонна"
+ ELCOR_CHR_Baultou: "Балтоу"
+ ELCOR_CHR_Baulte: "Балте"
+ ELCOR_CHR_Bauelle: "Бауэль"
+ ELCOR_CHR_Baudbeth: "Бодбет"
+ ELCOR_CHR_Bastdilon: "Бастдилон"
+ ELCOR_CHR_Bapable: "Бабабл"
+ ELCOR_CHR_Baixerr: "Байксерр"
+ ELCOR_CHR_Baitte: "Baitte"
+ ELCOR_CHR_Bagny: "Баньи"
+ ELCOR_CHR_Bagne: "Бань"
+ ELCOR_CHR_Bachy: "Бахи"
+ ELCOR_CHR_Auteaux: "Ото"
+ ELCOR_CHR_Aurore: "Аврора"
+ ELCOR_CHR_Aurelcale: "Аурелкаль"
+ ELCOR_CHR_Aunes: "Аунес"
+ ELCOR_CHR_Augtrice: "Огтрис"
+ ELCOR_CHR_Augcisse: "Огсисс"
+ ELCOR_CHR_Audeoup: "Audeoup"
+ ELCOR_CHR_Attres: "Attres"
+ ELCOR_CHR_Arnoe: "Арное"
+ ELCOR_CHR_Armone: "Армоне"
+ ELCOR_CHR_Arlsphore: "Арлсфор"
+ ELCOR_CHR_Aristiraud: "Аристоро"
+ ELCOR_CHR_Aristient: "Аристиент"
+ ELCOR_CHR_Arianine: "Арианина"
+ ELCOR_CHR_Apobault: "апобальт"
+ ELCOR_CHR_Antoinedilon: "Антонедилон"
+ ELCOR_CHR_Antoine: "Антуан"
+ ELCOR_CHR_Antodonne: "Антодонн"
+ ELCOR_CHR_Anourian: "Ануриан"
+ ELCOR_CHR_Annes: "Энн"
+ ELCOR_CHR_Anleste: "Анлесте"
+ ELCOR_CHR_Angelitte: "Ангелитта"
+ ELCOR_CHR_Angeladette: "Анжеладетт"
+ ELCOR_CHR_Angeara: "Ангира"
+ ELCOR_CHR_Ancynthe: "Ансинте"
+ ELCOR_CHR_Amlain: "Амлен"
+ ELCOR_CHR_Amel: "Амель"
+ ELCOR_CHR_Ambes: "Амбес"
+ ELCOR_CHR_Ambaud: "Амбо"
+ ELCOR_CHR_Amarannie: "Амарани"
+ ELCOR_CHR_Amaranice: "Амаранис"
+ ELCOR_CHR_Amanariane: "Аманариане"
+ ELCOR_CHR_Amaasien: "Амаасиен"
+ ELCOR_CHR_Alphinne: "Альфинна"
+ ELCOR_CHR_Allaux: "Алло"
+ ELCOR_CHR_Alfon: "Альфон"
+ ELCOR_CHR_Alexrick: "Алексрик"
+ ELCOR_CHR_Alelie: "Алели"
+ ELCOR_CHR_Alart: "Тревога"
+ ELCOR_CHR_Ahon: "Ахон"
+ ELCOR_CHR_Agues: "Лихорадка"
+ ELCOR_CHR_Aglre: "Аглре"
+ ELCOR_CHR_Agabise: "Agabise"
+ ELCOR_CHR_Adrque: "Адрик"
+ ELCOR_CHR_Adriian: "Адриан"
+ ELCOR_CHR_Adrhe: "Адре"
+ ELCOR_CHR_Acine: "Ацине"

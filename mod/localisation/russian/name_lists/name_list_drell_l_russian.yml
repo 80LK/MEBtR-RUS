@@ -1,564 +1,564 @@
 ﻿l_russian:
- name_list_btr_drell:0 "Дрелл" #NT!
- DRELL_SHIP_Aspandedun:0 "Аспандедун" #NT!
- DRELL_SHIP_Arzan:0 "Арзан" #NT!
- DRELL_SHIP_Artdad:0 "Артдад" #NT!
- DRELL_SHIP_Artafandiar:0 "Артафандиар" #NT!
- DRELL_SHIP_Arshir:0 "Аршир" #NT!
- DRELL_SHIP_Aril:0 "Арил" #NT!
- DRELL_SHIP_Arashrat:0 "Арашрат" #NT!
- DRELL_SHIP_Arashmoun:0 "Арашмун" #NT!
- DRELL_SHIP_Arand:0 "Аранд" #NT!
- DRELL_SHIP_Aran:0 "Аран" #NT!
- DRELL_SHIP_Anih:0 "Аних" #NT!
- DRELL_SHIP_Angid:0 "Ангид" #NT!
- DRELL_SHIP_Aneh:0 "Анех" #NT!
- DRELL_SHIP_Andimi:0 "Андими" #NT!
- DRELL_SHIP_Andan:0 "Андан" #NT!
- DRELL_SHIP_Amim:0 "Амим" #NT!
- DRELL_SHIP_Ajleh:0 "Айлех" #NT!
- DRELL_SHIP_Afrapoor:0 "Афрапур" #NT!
- DRELL_SHIP_Affat:0 "Аффат" #NT!
- DRELL_SHIP_Adro:0 "Адро" #NT!
- DRELL_SHIP_Adarburzinbon:0 "Адарбурзинбон" #NT!
- DRELL_SHIP_Adan:0 "Адан" #NT!
- DRELL_SHIP_Aban:0 "Запрет" #NT!
- DRELL_SHIP_Abadfra:0 "Абадфра" #NT!
- DRELL_SHIP_Hozouyeh:0 "Hozouyeh" #NT!
- DRELL_SHIP_Hortad:0 "Ортад" #NT!
- DRELL_SHIP_Hari:0 "Хари" #NT!
- DRELL_SHIP_Hanowsh:0 "Хановш" #NT!
- DRELL_SHIP_Gola:0 "Гола" #NT!
- DRELL_SHIP_Ganal:0 "Ганал" #NT!
- DRELL_SHIP_Fari:0 "Фари" #NT!
- DRELL_SHIP_Farabad:0 "Фарабад" #NT!
- DRELL_SHIP_Fara:0 "Фара" #NT!
- DRELL_SHIP_Faqi:0 "Факи" #NT!
- DRELL_SHIP_Diyehy:0 "Диехи" #NT!
- DRELL_SHIP_Dashte:0 "Даште" #NT!
- DRELL_SHIP_Dara:0 "Дара" #NT!
- DRELL_SHIP_Burzan:0 "Бурзан" #NT!
- DRELL_SHIP_Basi:0 "Баси" #NT!
- DRELL_SHIP_Bashivan:0 "Башиван" #NT!
- DRELL_SHIP_Baschi:0 "Баски" #NT!
- DRELL_SHIP_Bamgushnasp:0 "Бамгушнасп" #NT!
- DRELL_SHIP_Bakhtaivan:0 "Бахтаиван" #NT!
- DRELL_SHIP_Bahy:0 "Бахи" #NT!
- DRELL_SHIP_Bahramasp:0 "Бахрамасп" #NT!
- DRELL_SHIP_Bahoy:0 "Баой" #NT!
- DRELL_SHIP_Azadachobin:0 "Azadachobin" #NT!
- DRELL_SHIP_Atjur:0 "Атжур" #NT!
- DRELL_SHIP_Athdish:0 "Атдиш" #NT!
- DRELL_SHIP_Atat:0 "Ата" #NT!
- DRELL_SHIP_Mehoo:0 "Меху" #NT!
- DRELL_SHIP_Meedi:0 "Меди" #NT!
- DRELL_SHIP_Masi:0 "Маси" #NT!
- DRELL_SHIP_Masa:0 "Маса" #NT!
- DRELL_SHIP_Mara:0 "Мара" #NT!
- DRELL_SHIP_Manushis:0 "Мануши" #NT!
- DRELL_SHIP_Mani:0 "Мани" #NT!
- DRELL_SHIP_Mana:0 "Мана" #NT!
- DRELL_SHIP_Maji:0 "Маджи" #NT!
- DRELL_SHIP_Mahoy:0 "махой" #NT!
- DRELL_SHIP_Lesa:0 "Леса" #NT!
- DRELL_SHIP_Korde:0 "Корде" #NT!
- DRELL_SHIP_Kiastut:0 "Киастут" #NT!
- DRELL_SHIP_Khiri:0 "Хири" #NT!
- DRELL_SHIP_Khanla:0 "Ханла" #NT!
- DRELL_SHIP_Khani:0 "Хани" #NT!
- DRELL_SHIP_Keyval:0 "Кейвал" #NT!
- DRELL_SHIP_Keshi:0 "Кеши" #NT!
- DRELL_SHIP_Kermian:0 "Кермиан" #NT!
- DRELL_SHIP_Kayashir:0 "Каяшир" #NT!
- DRELL_SHIP_Kashmas:0 "Кашмы" #NT!
- DRELL_SHIP_Kangan:0 "Канган" #NT!
- DRELL_SHIP_Kamshasb:0 "Камшасб" #NT!
- DRELL_SHIP_Kamriya:0 "Камрия" #NT!
- DRELL_SHIP_Kabehb:0 "Кабехб" #NT!
- DRELL_SHIP_Juna:0 "Джуна" #NT!
- DRELL_SHIP_Janaj:0 "Джанай" #NT!
- DRELL_SHIP_Imizh:0 "Имиж" #NT!
- DRELL_SHIP_Ijaz:0 "Иджаз" #NT!
- DRELL_SHIP_Rudi:0 "Руди" #NT!
- DRELL_SHIP_Rouzmiyah:0 "Рузмия" #NT!
- DRELL_SHIP_Rostmars:0 "Ростмарс" #NT!
- DRELL_SHIP_Ravi:0 "Рави" #NT!
- DRELL_SHIP_Rani:0 "Рани" #NT!
- DRELL_SHIP_Raneh:0 "Ране" #NT!
- DRELL_SHIP_Rahi:0 "Рахи" #NT!
- DRELL_SHIP_Rafi:0 "Рафи" #NT!
- DRELL_SHIP_Radi:0 "Ради" #NT!
- DRELL_SHIP_Qatji:0 "Катжи" #NT!
- DRELL_SHIP_Poury:0 "Залить" #NT!
- DRELL_SHIP_Peyvis:0 "Пейвис" #NT!
- DRELL_SHIP_Paynoosh:0 "Пейнуш" #NT!
- DRELL_SHIP_Parya:0 "Парья" #NT!
- DRELL_SHIP_Oroun:0 "Орун" #NT!
- DRELL_SHIP_Neha:0 "Неха" #NT!
- DRELL_SHIP_Nazoo:0 "Назу" #NT!
- DRELL_SHIP_Nari:0 "Нари" #NT!
- DRELL_SHIP_Nardi:0 "Нарди" #NT!
- DRELL_SHIP_Nabouk:0 "Набук" #NT!
- DRELL_SHIP_Myara:0 "Мьяра" #NT!
- DRELL_SHIP_Mubai:0 "Мубай" #NT!
- DRELL_SHIP_Mossa:0 "Мосса" #NT!
- DRELL_SHIP_Mohsa:0 "Мохса" #NT!
- DRELL_SHIP_Minou:0 "_Мину" #NT!
- DRELL_SHIP_Mini:0 "Мини" #NT!
- DRELL_SHIP_Mineh:0 "Мине" #NT!
- DRELL_SHIP_Mina:0 "Мина" #NT!
- DRELL_SHIP_Mihdi:0 "Михди" #NT!
- DRELL_SHIP_Miande:0 "Miande" #NT!
- DRELL_SHIP_Meri:0 "Мери" #NT!
- DRELL_SHIP_Vandkhordad:0 "Вандхордад" #NT!
- DRELL_SHIP_Tiyanab:0 "Тиянаб" #NT!
- DRELL_SHIP_Thraevan:0 "Треван" #NT!
- DRELL_SHIP_Tefakhr:0 "Тефахр" #NT!
- DRELL_SHIP_Suri:0 "Сури" #NT!
- DRELL_SHIP_Sorou:0 "Sorou" #NT!
- DRELL_SHIP_Siyavi:0 "Сияви" #NT!
- DRELL_SHIP_Sima:0 "Сима" #NT!
- DRELL_SHIP_Shomi:0 "Шоми" #NT!
- DRELL_SHIP_Sheda:0 "Шеда" #NT!
- DRELL_SHIP_Shasa:0 "Шаса" #NT!
- DRELL_SHIP_Shari:0 "Шари" #NT!
- DRELL_SHIP_Shani:0 "Шани" #NT!
- DRELL_SHIP_Shanand:0 "Шананд" #NT!
- DRELL_SHIP_Shami:0 "Шами" #NT!
- DRELL_SHIP_Shahri:0 "Шахри" #NT!
- DRELL_SHIP_Shaha:0 "Шаха" #NT!
- DRELL_SHIP_Sefa:0 "Сефа" #NT!
- DRELL_SHIP_Sama:0 "Сама" #NT!
- DRELL_SHIP_Sali:0 "Сали" #NT!
- DRELL_SHIP_Saka:0 "Сака" #NT!
- DRELL_SHIP_Safa:0 "Сафа" #NT!
- DRELL_SHIP_Sadi:0 "Сади" #NT!
- DRELL_SHIP_Ruju:0 "Руджу" #NT!
- DRELL_xxNaval_Forces_ORD:0 "$O$ Военно-морские силы" #NT!
- DRELL_xxDome_Guards_ORD:0 "$O$ Охранники купола" #NT!
- DRELL_xxCombat_Group_ORD:0 "$O$ Боевая группа" #NT!
- DRELL_xxBonded_Combat_Group_ORD:0 "$O$ Связная боевая группа" #NT!
- DRELL_xxReplica_Group_ORD:0 "$O$ Группа реплик" #NT!
- DRELL_xxVI_Division_ORD:0 "$O$ VI Отдел" #NT!
- DRELL_xxBiotic_Strike_Group_ORD:0 "$O$ Группа биотического удара" #NT!
- DRELL_xxBioEngineered_Division_ORD:0 "$O$ Отдел биоинженерии" #NT!
- DRELL_xxShadow_Commandos_ORD:0 "$O$ Теневые коммандос" #NT!
- DRELL_CHR_Mari:0 "Мари" #NT!
- DRELL_CHR_Yarzhar:0 "Яржар" #NT!
- DRELL_CHR_Egan:0 "Иган" #NT!
- DRELL_CHR_Vani:0 "Вани" #NT!
- DRELL_CHR_Baschi:0 "Баски" #NT!
- DRELL_CHR_Saidi:0 "Саиди" #NT!
- DRELL_CHR_Adeh:0 "Адех" #NT!
- DRELL_CHR_Sadia:0 "Садия" #NT!
- DRELL_CHR_Mini:0 "Мини" #NT!
- DRELL_CHR_Rangosht:0 "Рангошт" #NT!
- DRELL_CHR_Amir:0 "Амир" #NT!
- DRELL_CHR_Pehra:0 "Пера" #NT!
- DRELL_CHR_Afand:0 "Афанд" #NT!
- DRELL_CHR_Massa:0 "Масса" #NT!
- DRELL_CHR_Akpoon:0 "Акпун" #NT!
- DRELL_CHR_Manee:0 "Мани" #NT!
- DRELL_CHR_Khaybi:0 "Хайби" #NT!
- DRELL_CHR_Mana:0 "Мана" #NT!
- DRELL_CHR_Hab:0 "Дом" #NT!
- DRELL_CHR_Mahmi:0 "Махми" #NT!
- DRELL_CHR_Nem:0 "Нем" #NT!
- DRELL_CHR_Kiyanee:0 "Кияни" #NT!
- DRELL_CHR_Tal:0 "Таль" #NT!
- DRELL_CHR_Kami:0 "Ками" #NT!
- DRELL_CHR_Dhar:0 "Дхар" #NT!
- DRELL_CHR_Haffa:0 "Хаффа" #NT!
- DRELL_CHR_Gari:0 "Гари" #NT!
- DRELL_CHR_Ghimi:0 "Гими" #NT!
- DRELL_CHR_Meshkia:0 "Мешкия" #NT!
- DRELL_CHR_Fezoo:0 "Фезу" #NT!
- DRELL_CHR_Kazai:0 "Kazai" #NT!
- DRELL_CHR_Fazli:0 "Фазли" #NT!
- DRELL_CHR_Nizhi:0 "Nizhi" #NT!
- DRELL_CHR_Fardi:0 "Фарди" #NT!
- DRELL_CHR_Kazi:0 "Кази" #NT!
- DRELL_CHR_Boza:0 "Боза" #NT!
- DRELL_CHR_Mah:0 "Мах" #NT!
- DRELL_CHR_Arad:0 "Арад" #NT!
- DRELL_CHR_Moulli:0 "Мулли" #NT!
- DRELL_CHR_Ahid:0 "Ахид" #NT!
- DRELL_CHR_Feros:0 "Ферос" #NT!
- DRELL_CHR_Kolyat:0 "Колят" #NT!
- DRELL_CHR_Quoyle:0 "Куойл" #NT!
- DRELL_CHR_Thane:0 "Тан" #NT!
- DRELL_CHR_Zhutun:0 "Жутун" #NT!
- DRELL_CHR_Zani:0 "Зани" #NT!
- DRELL_CHR_Zadai:0 "Задай" #NT!
- DRELL_CHR_Yawhar:0 "Явар" #NT!
- DRELL_CHR_Thraeeh:0 "Траии" #NT!
- DRELL_CHR_Sumi:0 "Сумы" #NT!
- DRELL_CHR_Sohman:0 "Сохман" #NT!
- DRELL_CHR_Sohia:0 "Сохия" #NT!
- DRELL_CHR_Siavan:0 "Сиаван" #NT!
- DRELL_CHR_Siaun:0 "Сиаун" #NT!
- DRELL_CHR_Shyara:0 "Шьяра" #NT!
- DRELL_CHR_Shapoor:0 "Шапур" #NT!
- DRELL_CHR_Shami:0 "Шами" #NT!
- DRELL_CHR_Sepzur:0 "Сепзур" #NT!
- DRELL_CHR_Sanjah:0 "Санджа" #NT!
- DRELL_CHR_Sani:0 "Сани" #NT!
- DRELL_CHR_Sadry:0 "Садри" #NT!
- DRELL_CHR_Rouzfar:0 "Рузфар" #NT!
- DRELL_CHR_Ramkan:0 "Рамкан" #NT!
- DRELL_CHR_Puri:0 "Пури" #NT!
- DRELL_CHR_Pouvon:0 "Пувон" #NT!
- DRELL_CHR_Poujang:0 "Пуджанг" #NT!
- DRELL_CHR_Nessa:0 "Несса" #NT!
- DRELL_CHR_Naimi:0 "Наими" #NT!
- DRELL_CHR_Muqi:0 "Муки" #NT!
- DRELL_CHR_Moza:0 "Моза" #NT!
- DRELL_CHR_Miri:0 "Мири" #NT!
- DRELL_CHR_Meri:0 "Мери" #NT!
- DRELL_CHR_Mehrstoo:0 "Мерстоо" #NT!
- DRELL_CHR_Mehrkhordad:0 "Мехрхордад" #NT!
- DRELL_CHR_Mechi:0 "Мечи" #NT!
- DRELL_CHR_Manuiush:0 "Мануйуш" #NT!
- DRELL_CHR_Mansa:0 "Манса" #NT!
- DRELL_CHR_Koogushnasp:0 "Коогушнасп" #NT!
- DRELL_CHR_Kiumak:0 "Киумак" #NT!
- DRELL_CHR_Kiuidoon:0 "Kiuidoon" #NT!
- DRELL_CHR_Kiuchehr:0 "Кючер" #NT!
- DRELL_CHR_Kiuashir:0 "Киуашир" #NT!
- DRELL_CHR_Khushkhi:0 "Хушхи" #NT!
- DRELL_CHR_Kayvosh:0 "Кайвош" #NT!
- DRELL_CHR_Kayjumand:0 "Кайджуманд" #NT!
- DRELL_CHR_Kasri:0 "Касри" #NT!
- DRELL_CHR_Kaizoo:0 "Кайзу" #NT!
- DRELL_CHR_Kaigir:0 "Кайгир" #NT!
- DRELL_CHR_Jadi:0 "Джади" #NT!
- DRELL_CHR_Jabi:0 "Джаби" #NT!
- DRELL_CHR_Imar:0 "Имар" #NT!
- DRELL_CHR_Hoosha:0 "Хуша" #NT!
- DRELL_CHR_Heili:0 "Хейли" #NT!
- DRELL_CHR_Hahra:0 "Хара" #NT!
- DRELL_CHR_Hadfroz:0 "Хадфроз" #NT!
- DRELL_CHR_Geeziya:0 "Гизия" #NT!
- DRELL_CHR_Freytiar:0 "Фрейтиар" #NT!
- DRELL_CHR_Firosh:0 "Фирош" #NT!
- DRELL_CHR_Fipoor:0 "Фипур" #NT!
- DRELL_CHR_Farza:0 "Фарза" #NT!
- DRELL_CHR_Farihand:0 "Фариханд" #NT!
- DRELL_CHR_Faridiya:0 "Фаридия" #NT!
- DRELL_CHR_Farha:0 "Фарха" #NT!
- DRELL_CHR_Ettegh:0 "Эттех" #NT!
- DRELL_CHR_Eshkat:0 "Эшкат" #NT!
- DRELL_CHR_Erir:0 "Эрир" #NT!
- DRELL_CHR_Ekhar:0 "Эхар" #NT!
- DRELL_CHR_Delashaspa:0 "Делашаспа" #NT!
- DRELL_CHR_Bodi:0 "Боди" #NT!
- DRELL_CHR_Bedzi:0 "Бедзи" #NT!
- DRELL_CHR_Bavur:0 "Бавур" #NT!
- DRELL_CHR_Bavish:0 "Бавиш" #NT!
- DRELL_CHR_Bashham:0 "Башэм" #NT!
- DRELL_CHR_Basa:0 "Баса" #NT!
- DRELL_CHR_Bandin:0 "Бандин" #NT!
- DRELL_CHR_Bamrina:0 "Бамрина" #NT!
- DRELL_CHR_Bakni:0 "Бакни" #NT!
- DRELL_CHR_Bakhyan:0 "Бахян" #NT!
- DRELL_CHR_Bagya:0 "Багья" #NT!
- DRELL_CHR_Azmid:0 "Азмид" #NT!
- DRELL_CHR_Azim:0 "Азим" #NT!
- DRELL_CHR_Azaon:0 "Азаон" #NT!
- DRELL_CHR_Azadun:0 "Азадун" #NT!
- DRELL_CHR_Avat:0 "Ават" #NT!
- DRELL_CHR_Aushghat:0 "Аушхат" #NT!
- DRELL_CHR_Aspyasp:0 "Аспьясп" #NT!
- DRELL_CHR_Aspandiya:0 "Аспандия" #NT!
- DRELL_CHR_Aslash:0 "Эслэш" #NT!
- DRELL_CHR_Ashar:0 "Ашар" #NT!
- DRELL_CHR_Artviz:0 "Артвиз" #NT!
- DRELL_CHR_Arsam:0 "Арсам" #NT!
- DRELL_CHR_Ariz:0 "Ариз" #NT!
- DRELL_CHR_Ardaran:0 "Ардаран" #NT!
- DRELL_CHR_Ardand:0 "Ардан" #NT!
- DRELL_CHR_Arawamard:0 "Аравамар" #NT!
- DRELL_CHR_Arashjasb:0 "Арашджасб" #NT!
- DRELL_CHR_Aramard:0 "Арамар" #NT!
- DRELL_CHR_Apur:0 "Апур" #NT!
- DRELL_CHR_Aoshshin:0 "Аошшин" #NT!
- DRELL_CHR_Aoshmun:0 "Аошмун" #NT!
- DRELL_CHR_Aoshivan:0 "Аошиван" #NT!
- DRELL_CHR_Ansoor:0 "Ансур" #NT!
- DRELL_CHR_Aniv:0 "Анив" #NT!
- DRELL_CHR_Anaavan:0 "Анааван" #NT!
- DRELL_CHR_Amim:0 "Амим" #NT!
- DRELL_CHR_Amaostra:0 "Амаостра" #NT!
- DRELL_CHR_Alkevan:0 "Алкеван" #NT!
- DRELL_CHR_Aleh:0 "Олег" #NT!
- DRELL_CHR_Ajiz:0 "Ажиз" #NT!
- DRELL_CHR_Afrafrooz:0 "Афруз" #NT!
- DRELL_CHR_Aflada:0 "Афлада" #NT!
- DRELL_CHR_Afaim:0 "Афаим" #NT!
- DRELL_CHR_Adzhang:0 "Аджанг" #NT!
- DRELL_CHR_Adarburzinsalan:0 "Адарбурзинсалан" #NT!
- DRELL_CHR_Abban:0 "Аббан" #NT!
- DRELL_CHR_Qimi:0 "Qimi" #NT!
- DRELL_CHR_Mehrna:0 "Мерна" #NT!
- DRELL_CHR_Mand:0 "Манд" #NT!
- DRELL_CHR_Mahra:0 "Махра" #NT!
- DRELL_CHR_Khushmi:0 "Хушми" #NT!
- DRELL_CHR_Hama:0 "Хама" #NT!
- DRELL_CHR_Raq:0 "Рак" #NT!
- DRELL_CHR_Tayouna:0 "Таюна" #NT!
- DRELL_CHR_Abeh:0 "Абех" #NT!
- DRELL_CHR_Assteh:0 "Ассте" #NT!
- DRELL_CHR_Anil:0 "Анил" #NT!
- DRELL_CHR_Hila:0 "Хила" #NT!
- DRELL_CHR_Moly:0 "Моли" #NT!
- DRELL_CHR_Jahy:0 "Джахи" #NT!
- DRELL_CHR_Zada:0 "Зада" #NT!
- DRELL_CHR_Visi:0 "Визи" #NT!
- DRELL_CHR_Paka:0 "Пака" #NT!
- DRELL_CHR_Amed:0 "Амед" #NT!
- DRELL_CHR_Shara:0 "Шара" #NT!
- DRELL_CHR_Qashqai:0 "Кашкай" #NT!
- DRELL_CHR_Bihmy:0 "Бихми" #NT!
- DRELL_CHR_Abech:0 "Абеч" #NT!
- DRELL_CHR_Mina:0 "Мина" #NT!
- DRELL_CHR_Mazlai:0 "Мазлай" #NT!
- DRELL_CHR_Sada:0 "Сада" #NT!
- DRELL_CHR_Ghat:0 "Гат" #NT!
- DRELL_CHR_Horshoo:0 "Хоршу" #NT!
- DRELL_CHR_Ahim:0 "Ахим" #NT!
- DRELL_CHR_Assieh:0 "Асси" #NT!
- DRELL_CHR_Min:0 "Мин." #NT!
- DRELL_CHR_Hidi:0 "Хиди" #NT!
- DRELL_CHR_Zimi:0 "Зими" #NT!
- DRELL_CHR_Sama:0 "Сама" #NT!
- DRELL_CHR_Nassi:0 "Насси" #NT!
- DRELL_CHR_Mehi:0 "Мехи" #NT!
- DRELL_CHR_Hari:0 "Хари" #NT!
- DRELL_CHR_Arah:0 "Арах" #NT!
- DRELL_CHR_Sar:0 "Сар" #NT!
- DRELL_CHR_Hafar:0 "Хафар" #NT!
- DRELL_CHR_Irikah:0 "Ирика" #NT!
- DRELL_CHR_Zarloofar:0 "Зарлуфар" #NT!
- DRELL_CHR_Zari:0 "Зари" #NT!
- DRELL_CHR_Zanji:0 "Занджи" #NT!
- DRELL_CHR_Yasgol:0 "Ясгол" #NT!
- DRELL_CHR_Tiha:0 "Тиха" #NT!
- DRELL_CHR_Tehia:0 "Техия" #NT!
- DRELL_CHR_Tehi:0 "Техи" #NT!
- DRELL_CHR_Tari:0 "Тари" #NT!
- DRELL_CHR_Tala:0 "Тала" #NT!
- DRELL_CHR_Sudabnoo:0 "Судабну" #NT!
- DRELL_CHR_Souma:0 "Сума" #NT!
- DRELL_CHR_Sori:0 "Сори" #NT!
- DRELL_CHR_Sora:0 "Сора" #NT!
- DRELL_CHR_Sootah:0 "Сута" #NT!
- DRELL_CHR_Soha:0 "Соха" #NT!
- DRELL_CHR_Sima:0 "Сима" #NT!
- DRELL_CHR_Shondi:0 "Шонди" #NT!
- DRELL_CHR_Sherphidah:0 "Шерфида" #NT!
- DRELL_CHR_Sheeda:0 "Шида" #NT!
- DRELL_CHR_Shaybai:0 "Шайбай" #NT!
- DRELL_CHR_Setauzah:0 "Сетауза" #NT!
- DRELL_CHR_Setarsha:0 "Сетарша" #NT!
- DRELL_CHR_Satta:0 "Сатта" #NT!
- DRELL_CHR_Saphmin:0 "Сафмин" #NT!
- DRELL_CHR_Sana:0 "Сана" #NT!
- DRELL_CHR_Samirstreeda:0 "Самирстреда" #NT!
- DRELL_CHR_Samiere:0 "Самьер" #NT!
- DRELL_CHR_Sabi:0 "Саби" #NT!
- DRELL_CHR_Sabah:0 "Сабах" #NT!
- DRELL_CHR_Saanin:0 "Саанин" #NT!
- DRELL_CHR_Rina:0 "Рина" #NT!
- DRELL_CHR_Rafi:0 "Рафи" #NT!
- DRELL_CHR_Poorandah:0 "Пуранда" #NT!
- DRELL_CHR_Poonhoo:0 "Пунху" #NT!
- DRELL_CHR_Pooneh:0 "Пуне" #NT!
- DRELL_CHR_Pezuw:0 "Пезув" #NT!
- DRELL_CHR_Peroah:0 "Пероа" #NT!
- DRELL_CHR_Pariiti:0 "Париити" #NT!
- DRELL_CHR_Pari:0 "Пари" #NT!
- DRELL_CHR_Nushthea:0 "Нуштея" #NT!
- DRELL_CHR_Nisheh:0 "Нише" #NT!
- DRELL_CHR_Niri:0 "Нири" #NT!
- DRELL_CHR_Nilar:0 "Нилар" #NT!
- DRELL_CHR_Niha:0 "Ниха" #NT!
- DRELL_CHR_Negord:0 "Негорд" #NT!
- DRELL_CHR_Negayun:0 "Негаюн" #NT!
- DRELL_CHR_Nazadis:0 "Назади" #NT!
- DRELL_CHR_Nasto:0 "Насто" #NT!
- DRELL_CHR_Muzgar:0 "Музгар" #NT!
- DRELL_CHR_Mumti:0 "Мумти" #NT!
- DRELL_CHR_Muini:0 "Муини" #NT!
- DRELL_CHR_Monou:0 "Моноу" #NT!
- DRELL_CHR_Mitzarin:0 "Мицарин" #NT!
- DRELL_CHR_Mindi:0 "Минди" #NT!
- DRELL_CHR_Mazi:0 "Мази" #NT!
- DRELL_CHR_Mami:0 "Мами" #NT!
- DRELL_CHR_Mahsia:0 "Махсия" #NT!
- DRELL_CHR_Mahda:0 "Махда" #NT!
- DRELL_CHR_Maha:0 "Маха" #NT!
- DRELL_CHR_Lila:0 "Лила" #NT!
- DRELL_CHR_Lidu:0 "Лиду" #NT!
- DRELL_CHR_Lidtosa:0 "Лидтоса" #NT!
- DRELL_CHR_Layjan:0 "Лайджан" #NT!
- DRELL_CHR_Lavin:0 "Лавин" #NT!
- DRELL_CHR_Ladveen:0 "Ладвин" #NT!
- DRELL_CHR_Kordi:0 "Корди" #NT!
- DRELL_CHR_Kisa:0 "Киса" #NT!
- DRELL_CHR_Khathondeh:0 "Хатонде" #NT!
- DRELL_CHR_Khahri:0 "Хари" #NT!
- DRELL_CHR_Khahi:0 "Хахи" #NT!
- DRELL_CHR_Kataydah:0 "Катайда" #NT!
- DRELL_CHR_Hafi:0 "Хафи" #NT!
- DRELL_CHR_Golveen:0 "Голвин" #NT!
- DRELL_CHR_Ghuzai:0 "Гузай" #NT!
- DRELL_CHR_Ghalya:0 "Галя" #NT!
- DRELL_CHR_Forouhita:0 "Форухита" #NT!
- DRELL_CHR_Fistreeda:0 "Фистрида" #NT!
- DRELL_CHR_Firuoma:0 "Firuoma" #NT!
- DRELL_CHR_Firdia:0 "Фирдия" #NT!
- DRELL_CHR_Farra:0 "Фарра" #NT!
- DRELL_CHR_Farida:0 "Фарида" #NT!
- DRELL_CHR_Farbeh:0 "Фарбех" #NT!
- DRELL_CHR_Donthea:0 "Донтея" #NT!
- DRELL_CHR_Davik:0 "Давик" #NT!
- DRELL_CHR_Bouezou:0 "Буэзу" #NT!
- DRELL_CHR_Boubeh:0 "Бубе" #NT!
- DRELL_CHR_Beti:0 "Бети" #NT!
- DRELL_CHR_Belzi:0 "Белзи" #NT!
- DRELL_CHR_Bazan:0 "Базан" #NT!
- DRELL_CHR_Bahi:0 "Бахи" #NT!
- DRELL_CHR_Bahaivash:0 "Бахайваш" #NT!
- DRELL_CHR_Azoofar:0 "Азофар" #NT!
- DRELL_CHR_Azanoo:0 "Азаноо" #NT!
- DRELL_CHR_Azahave:0 "Азахаве" #NT!
- DRELL_CHR_Avizh:0 "Авиж" #NT!
- DRELL_CHR_Atooun:0 "Атун" #NT!
- DRELL_CHR_Atooere:0 "Атоер" #NT!
- DRELL_CHR_Atoda:0 "Атода" #NT!
- DRELL_CHR_Asita:0 "Асита" #NT!
- DRELL_CHR_Arih:0 "Арих" #NT!
- DRELL_CHR_Areh:0 "Арех" #NT!
- DRELL_CHR_Ankhondeh:0 "Анхонде" #NT!
- DRELL_CHR_Andhoo:0 "Андху" #NT!
- DRELL_CHR_Anahreh:0 "Анахре" #NT!
- DRELL_CHR_Amriba:0 "Амриба" #NT!
- DRELL_CHR_Alvat:0 "Алват" #NT!
- DRELL_CHR_Alausheh:0 "Алауше" #NT!
- DRELL_CHR_Ahyn:0 "Ахын" #NT!
- DRELL_CHR_Afarivash:0 "Афариваш" #NT!
- DRELL_CHR_Afahondeh:0 "Афаонде" #NT!
- DRELL_CHR_Adadr:0 "Ададр" #NT!
- DRELL_CHR_Zhushama:0 "Zhushama" #NT!
- DRELL_CHR_Yastis:0 "Ястис" #NT!
- DRELL_CHR_Yasemeher:0 "Ясемехер" #NT!
- DRELL_CHR_Yaseburzin:0 "Ясебурзин" #NT!
- DRELL_CHR_Thraevan:0 "Треван" #NT!
- DRELL_CHR_Thraetaman:0 "Траэтаман" #NT!
- DRELL_CHR_Tehre:0 "Тере" #NT!
- DRELL_CHR_Taranmeen:0 "Таранмин" #NT!
- DRELL_CHR_Soandyar:0 "Соандьяр" #NT!
- DRELL_CHR_Sirhang:0 "Сирханг" #NT!
- DRELL_CHR_Sikurush:0 "Сикуруш" #NT!
- DRELL_CHR_Shamah:0 "Шама" #NT!
- DRELL_CHR_Shaiti:0 "Шаити" #NT!
- DRELL_CHR_Shahrhita:0 "Шахрита" #NT!
- DRELL_CHR_Shahre:0 "Шахре" #NT!
- DRELL_CHR_Shahgis:0 "Шахгис" #NT!
- DRELL_CHR_Sare:0 "Саре" #NT!
- DRELL_CHR_Samiidoon:0 "Самидун" #NT!
- DRELL_CHR_Samihand:0 "Самиханд" #NT!
- DRELL_CHR_Sadra:0 "Садра" #NT!
- DRELL_CHR_Roshariar:0 "Рошариар" #NT!
- DRELL_CHR_Ramveh:0 "Рамве" #NT!
- DRELL_CHR_Qaemshoy:0 "Каемшо" #NT!
- DRELL_CHR_Pishvi:0 "Пишви" #NT!
- DRELL_CHR_Peronan:0 "Перонан" #NT!
- DRELL_CHR_Pereh:0 "Перех" #NT!
- DRELL_CHR_Peia:0 "Пейя" #NT!
- DRELL_CHR_Peeman:0 "Пиман" #NT!
- DRELL_CHR_Parvzaad:0 "Парвзад" #NT!
- DRELL_CHR_Para:0 "Пара" #NT!
- DRELL_CHR_Panpadyavand:0 "Панпадьяванд" #NT!
- DRELL_CHR_Niar:0 "Ниар" #NT!
- DRELL_CHR_Negfrang:0 "Негфранг" #NT!
- DRELL_CHR_Myara:0 "Мьяра" #NT!
- DRELL_CHR_Minveh:0 "Минвех" #NT!
- DRELL_CHR_Mineh:0 "Мине" #NT!
- DRELL_CHR_Minav:0 "Минав" #NT!
- DRELL_CHR_Miehoy:0 "Михой" #NT!
- DRELL_CHR_Mehrzita:0 "Мерзита" #NT!
- DRELL_CHR_Mehre:0 "Мере" #NT!
- DRELL_CHR_Mara:0 "Мара" #NT!
- DRELL_CHR_Manav:0 "Манав" #NT!
- DRELL_CHR_Mahshad:0 "Махшад" #NT!
- DRELL_CHR_Ladriya:0 "Ладрия" #NT!
- DRELL_CHR_Kinshoy:0 "Киншой" #NT!
- DRELL_CHR_Khatder:0 "Хатдер" #NT!
- DRELL_CHR_Khahra:0 "Кахра" #NT!
- DRELL_CHR_Katdish:0 "Катдиш" #NT!
- DRELL_CHR_Katayzin:0 "Катайзин" #NT!
- DRELL_CHR_Kara:0 "Кара" #NT!
- DRELL_CHR_Kaman:0 "Каман" #NT!
- DRELL_CHR_Jara:0 "Хара" #NT!
- DRELL_CHR_Jali:0 "Джали" #NT!
- DRELL_CHR_Huredarmah:0 "Хуредарма" #NT!
- DRELL_CHR_Hurdi:0 "Хурди" #NT!
- DRELL_CHR_Hozouyeh:0 "Hozouyeh" #NT!
- DRELL_CHR_Horborz:0 "Хорборз" #NT!
- DRELL_CHR_Hofar:0 "Хофар" #NT!
- DRELL_CHR_Hahre:0 "Харе" #NT!
- DRELL_CHR_Hadur:0 "Хадур" #NT!
- DRELL_CHR_Gizaneh:0 "Гизане" #NT!
- DRELL_CHR_Gisam:0 "Гисам" #NT!
- DRELL_CHR_Ganab:0 "Ганаб" #NT!
- DRELL_CHR_Foumeshk:0 "Фумешк" #NT!
- DRELL_CHR_Foay:0 "Фой" #NT!
- DRELL_CHR_Firsarv:0 "Фирсарв" #NT!
- DRELL_CHR_Estash:0 "Эсташ" #NT!
- DRELL_CHR_Delour:0 "Делор" #NT!
- DRELL_CHR_Darjis:0 "Даржи" #NT!
- DRELL_CHR_Darband:0 "Дарбанд" #NT!
- DRELL_CHR_Byanal:0 "Бьянал" #NT!
- DRELL_CHR_Borzuran:0 "Борзуран" #NT!
- DRELL_CHR_Bonan:0 "Бонан" #NT!
- DRELL_CHR_Bitad:0 "Битад" #NT!
- DRELL_CHR_Birjav:0 "Биржав" #NT!
- DRELL_CHR_Bineh:0 "Бине" #NT!
- DRELL_CHR_Bijan:0 "Бижан" #NT!
- DRELL_CHR_Bemanesh:0 "Беманеш" #NT!
- DRELL_CHR_Banzin:0 "Banzin" #NT!
- DRELL_CHR_Banfravash:0 "Банфраваш" #NT!
- DRELL_CHR_Bahshavir:0 "Бахшавир" #NT!
- DRELL_CHR_Bahoy:0 "Баой" #NT!
- DRELL_CHR_Bade:0 "Баде" #NT!
- DRELL_CHR_Azvil:0 "Азвил" #NT!
- DRELL_CHR_Azain:0 "Азаин" #NT!
- DRELL_CHR_Azabaz:0 "Азабаз" #NT!
- DRELL_CHR_Avstut:0 "Австут" #NT!
- DRELL_CHR_Avaj:0 "Авадж" #NT!
- DRELL_CHR_Auzad:0 "Аузад" #NT!
- DRELL_CHR_Atashmeher:0 "Аташмехер" #NT!
- DRELL_CHR_Astar:0 "Звезда" #NT!
- DRELL_CHR_Aspandsam:0 "Аспансам" #NT!
- DRELL_CHR_Ariam:0 "Ариам" #NT!
- DRELL_CHR_Ardehe:0 "Ардехе" #NT!
- DRELL_CHR_Ardaedarmah:0 "Ардаедарма" #NT!
- DRELL_CHR_Arask:0 "Араск" #NT!
- DRELL_CHR_Aran:0 "Аран" #NT!
- DRELL_CHR_Anoumak:0 "Анумак" #NT!
- DRELL_CHR_Anjar:0 "Анджар" #NT!
- DRELL_CHR_Amsan:0 "Амсан" #NT!
- DRELL_CHR_Amin:0 "Амин" #NT!
- DRELL_CHR_Amamanesh:0 "Амаманеш" #NT!
- DRELL_CHR_Ahrab:0 "Ахраб" #NT!
- DRELL_CHR_Ahivan:0 "Ахиван" #NT!
- DRELL_CHR_Ahis:0 "Ахис" #NT!
- DRELL_CHR_Afarma:0 "Афарма" #NT!
- DRELL_CHR_Afah:0 "Афа" #NT!
- DRELL_CHR_Adarburzinchobin:0 "Адарбурзинчобин" #NT!
- DRELL_CHR_Abasan:0 "Абасан" #NT!
- DRELL_CHR_Abak:0 "Абак" #NT!
- DRELL_CHR_Abahr:0 "Абар" #NT!
- DRELL_CHR_Abaddokht:0 "Абаддохт" #NT!
- DRELL_CHR_Krios:0 "Криос" #NT!
+ name_list_btr_drell: "Дрелл"
+ DRELL_SHIP_Aspandedun: "Аспандедун"
+ DRELL_SHIP_Arzan: "Арзан"
+ DRELL_SHIP_Artdad: "Артдад"
+ DRELL_SHIP_Artafandiar: "Артафандиар"
+ DRELL_SHIP_Arshir: "Аршир"
+ DRELL_SHIP_Aril: "Арил"
+ DRELL_SHIP_Arashrat: "Арашрат"
+ DRELL_SHIP_Arashmoun: "Арашмун"
+ DRELL_SHIP_Arand: "Аранд"
+ DRELL_SHIP_Aran: "Аран"
+ DRELL_SHIP_Anih: "Аних"
+ DRELL_SHIP_Angid: "Ангид"
+ DRELL_SHIP_Aneh: "Анех"
+ DRELL_SHIP_Andimi: "Андими"
+ DRELL_SHIP_Andan: "Андан"
+ DRELL_SHIP_Amim: "Амим"
+ DRELL_SHIP_Ajleh: "Айлех"
+ DRELL_SHIP_Afrapoor: "Афрапур"
+ DRELL_SHIP_Affat: "Аффат"
+ DRELL_SHIP_Adro: "Адро"
+ DRELL_SHIP_Adarburzinbon: "Адарбурзинбон"
+ DRELL_SHIP_Adan: "Адан"
+ DRELL_SHIP_Aban: "Запрет"
+ DRELL_SHIP_Abadfra: "Абадфра"
+ DRELL_SHIP_Hozouyeh: "Hozouyeh"
+ DRELL_SHIP_Hortad: "Ортад"
+ DRELL_SHIP_Hari: "Хари"
+ DRELL_SHIP_Hanowsh: "Хановш"
+ DRELL_SHIP_Gola: "Гола"
+ DRELL_SHIP_Ganal: "Ганал"
+ DRELL_SHIP_Fari: "Фари"
+ DRELL_SHIP_Farabad: "Фарабад"
+ DRELL_SHIP_Fara: "Фара"
+ DRELL_SHIP_Faqi: "Факи"
+ DRELL_SHIP_Diyehy: "Диехи"
+ DRELL_SHIP_Dashte: "Даште"
+ DRELL_SHIP_Dara: "Дара"
+ DRELL_SHIP_Burzan: "Бурзан"
+ DRELL_SHIP_Basi: "Баси"
+ DRELL_SHIP_Bashivan: "Башиван"
+ DRELL_SHIP_Baschi: "Баски"
+ DRELL_SHIP_Bamgushnasp: "Бамгушнасп"
+ DRELL_SHIP_Bakhtaivan: "Бахтаиван"
+ DRELL_SHIP_Bahy: "Бахи"
+ DRELL_SHIP_Bahramasp: "Бахрамасп"
+ DRELL_SHIP_Bahoy: "Баой"
+ DRELL_SHIP_Azadachobin: "Azadachobin"
+ DRELL_SHIP_Atjur: "Атжур"
+ DRELL_SHIP_Athdish: "Атдиш"
+ DRELL_SHIP_Atat: "Ата"
+ DRELL_SHIP_Mehoo: "Меху"
+ DRELL_SHIP_Meedi: "Меди"
+ DRELL_SHIP_Masi: "Маси"
+ DRELL_SHIP_Masa: "Маса"
+ DRELL_SHIP_Mara: "Мара"
+ DRELL_SHIP_Manushis: "Мануши"
+ DRELL_SHIP_Mani: "Мани"
+ DRELL_SHIP_Mana: "Мана"
+ DRELL_SHIP_Maji: "Маджи"
+ DRELL_SHIP_Mahoy: "махой"
+ DRELL_SHIP_Lesa: "Леса"
+ DRELL_SHIP_Korde: "Корде"
+ DRELL_SHIP_Kiastut: "Киастут"
+ DRELL_SHIP_Khiri: "Хири"
+ DRELL_SHIP_Khanla: "Ханла"
+ DRELL_SHIP_Khani: "Хани"
+ DRELL_SHIP_Keyval: "Кейвал"
+ DRELL_SHIP_Keshi: "Кеши"
+ DRELL_SHIP_Kermian: "Кермиан"
+ DRELL_SHIP_Kayashir: "Каяшир"
+ DRELL_SHIP_Kashmas: "Кашмы"
+ DRELL_SHIP_Kangan: "Канган"
+ DRELL_SHIP_Kamshasb: "Камшасб"
+ DRELL_SHIP_Kamriya: "Камрия"
+ DRELL_SHIP_Kabehb: "Кабехб"
+ DRELL_SHIP_Juna: "Джуна"
+ DRELL_SHIP_Janaj: "Джанай"
+ DRELL_SHIP_Imizh: "Имиж"
+ DRELL_SHIP_Ijaz: "Иджаз"
+ DRELL_SHIP_Rudi: "Руди"
+ DRELL_SHIP_Rouzmiyah: "Рузмия"
+ DRELL_SHIP_Rostmars: "Ростмарс"
+ DRELL_SHIP_Ravi: "Рави"
+ DRELL_SHIP_Rani: "Рани"
+ DRELL_SHIP_Raneh: "Ране"
+ DRELL_SHIP_Rahi: "Рахи"
+ DRELL_SHIP_Rafi: "Рафи"
+ DRELL_SHIP_Radi: "Ради"
+ DRELL_SHIP_Qatji: "Катжи"
+ DRELL_SHIP_Poury: "Залить"
+ DRELL_SHIP_Peyvis: "Пейвис"
+ DRELL_SHIP_Paynoosh: "Пейнуш"
+ DRELL_SHIP_Parya: "Парья"
+ DRELL_SHIP_Oroun: "Орун"
+ DRELL_SHIP_Neha: "Неха"
+ DRELL_SHIP_Nazoo: "Назу"
+ DRELL_SHIP_Nari: "Нари"
+ DRELL_SHIP_Nardi: "Нарди"
+ DRELL_SHIP_Nabouk: "Набук"
+ DRELL_SHIP_Myara: "Мьяра"
+ DRELL_SHIP_Mubai: "Мубай"
+ DRELL_SHIP_Mossa: "Мосса"
+ DRELL_SHIP_Mohsa: "Мохса"
+ DRELL_SHIP_Minou: "_Мину"
+ DRELL_SHIP_Mini: "Мини"
+ DRELL_SHIP_Mineh: "Мине"
+ DRELL_SHIP_Mina: "Мина"
+ DRELL_SHIP_Mihdi: "Михди"
+ DRELL_SHIP_Miande: "Miande"
+ DRELL_SHIP_Meri: "Мери"
+ DRELL_SHIP_Vandkhordad: "Вандхордад"
+ DRELL_SHIP_Tiyanab: "Тиянаб"
+ DRELL_SHIP_Thraevan: "Треван"
+ DRELL_SHIP_Tefakhr: "Тефахр"
+ DRELL_SHIP_Suri: "Сури"
+ DRELL_SHIP_Sorou: "Sorou"
+ DRELL_SHIP_Siyavi: "Сияви"
+ DRELL_SHIP_Sima: "Сима"
+ DRELL_SHIP_Shomi: "Шоми"
+ DRELL_SHIP_Sheda: "Шеда"
+ DRELL_SHIP_Shasa: "Шаса"
+ DRELL_SHIP_Shari: "Шари"
+ DRELL_SHIP_Shani: "Шани"
+ DRELL_SHIP_Shanand: "Шананд"
+ DRELL_SHIP_Shami: "Шами"
+ DRELL_SHIP_Shahri: "Шахри"
+ DRELL_SHIP_Shaha: "Шаха"
+ DRELL_SHIP_Sefa: "Сефа"
+ DRELL_SHIP_Sama: "Сама"
+ DRELL_SHIP_Sali: "Сали"
+ DRELL_SHIP_Saka: "Сака"
+ DRELL_SHIP_Safa: "Сафа"
+ DRELL_SHIP_Sadi: "Сади"
+ DRELL_SHIP_Ruju: "Руджу"
+ DRELL_xxNaval_Forces_ORD: "$O$ Военно-морские силы"
+ DRELL_xxDome_Guards_ORD: "$O$ Охранники купола"
+ DRELL_xxCombat_Group_ORD: "$O$ Боевая группа"
+ DRELL_xxBonded_Combat_Group_ORD: "$O$ Связная боевая группа"
+ DRELL_xxReplica_Group_ORD: "$O$ Группа реплик"
+ DRELL_xxVI_Division_ORD: "$O$ VI Отдел"
+ DRELL_xxBiotic_Strike_Group_ORD: "$O$ Группа биотического удара"
+ DRELL_xxBioEngineered_Division_ORD: "$O$ Отдел биоинженерии"
+ DRELL_xxShadow_Commandos_ORD: "$O$ Теневые коммандос"
+ DRELL_CHR_Mari: "Мари"
+ DRELL_CHR_Yarzhar: "Яржар"
+ DRELL_CHR_Egan: "Иган"
+ DRELL_CHR_Vani: "Вани"
+ DRELL_CHR_Baschi: "Баски"
+ DRELL_CHR_Saidi: "Саиди"
+ DRELL_CHR_Adeh: "Адех"
+ DRELL_CHR_Sadia: "Садия"
+ DRELL_CHR_Mini: "Мини"
+ DRELL_CHR_Rangosht: "Рангошт"
+ DRELL_CHR_Amir: "Амир"
+ DRELL_CHR_Pehra: "Пера"
+ DRELL_CHR_Afand: "Афанд"
+ DRELL_CHR_Massa: "Масса"
+ DRELL_CHR_Akpoon: "Акпун"
+ DRELL_CHR_Manee: "Мани"
+ DRELL_CHR_Khaybi: "Хайби"
+ DRELL_CHR_Mana: "Мана"
+ DRELL_CHR_Hab: "Дом"
+ DRELL_CHR_Mahmi: "Махми"
+ DRELL_CHR_Nem: "Нем"
+ DRELL_CHR_Kiyanee: "Кияни"
+ DRELL_CHR_Tal: "Таль"
+ DRELL_CHR_Kami: "Ками"
+ DRELL_CHR_Dhar: "Дхар"
+ DRELL_CHR_Haffa: "Хаффа"
+ DRELL_CHR_Gari: "Гари"
+ DRELL_CHR_Ghimi: "Гими"
+ DRELL_CHR_Meshkia: "Мешкия"
+ DRELL_CHR_Fezoo: "Фезу"
+ DRELL_CHR_Kazai: "Kazai"
+ DRELL_CHR_Fazli: "Фазли"
+ DRELL_CHR_Nizhi: "Nizhi"
+ DRELL_CHR_Fardi: "Фарди"
+ DRELL_CHR_Kazi: "Кази"
+ DRELL_CHR_Boza: "Боза"
+ DRELL_CHR_Mah: "Мах"
+ DRELL_CHR_Arad: "Арад"
+ DRELL_CHR_Moulli: "Мулли"
+ DRELL_CHR_Ahid: "Ахид"
+ DRELL_CHR_Feros: "Ферос"
+ DRELL_CHR_Kolyat: "Колят"
+ DRELL_CHR_Quoyle: "Куойл"
+ DRELL_CHR_Thane: "Тан"
+ DRELL_CHR_Zhutun: "Жутун"
+ DRELL_CHR_Zani: "Зани"
+ DRELL_CHR_Zadai: "Задай"
+ DRELL_CHR_Yawhar: "Явар"
+ DRELL_CHR_Thraeeh: "Траии"
+ DRELL_CHR_Sumi: "Сумы"
+ DRELL_CHR_Sohman: "Сохман"
+ DRELL_CHR_Sohia: "Сохия"
+ DRELL_CHR_Siavan: "Сиаван"
+ DRELL_CHR_Siaun: "Сиаун"
+ DRELL_CHR_Shyara: "Шьяра"
+ DRELL_CHR_Shapoor: "Шапур"
+ DRELL_CHR_Shami: "Шами"
+ DRELL_CHR_Sepzur: "Сепзур"
+ DRELL_CHR_Sanjah: "Санджа"
+ DRELL_CHR_Sani: "Сани"
+ DRELL_CHR_Sadry: "Садри"
+ DRELL_CHR_Rouzfar: "Рузфар"
+ DRELL_CHR_Ramkan: "Рамкан"
+ DRELL_CHR_Puri: "Пури"
+ DRELL_CHR_Pouvon: "Пувон"
+ DRELL_CHR_Poujang: "Пуджанг"
+ DRELL_CHR_Nessa: "Несса"
+ DRELL_CHR_Naimi: "Наими"
+ DRELL_CHR_Muqi: "Муки"
+ DRELL_CHR_Moza: "Моза"
+ DRELL_CHR_Miri: "Мири"
+ DRELL_CHR_Meri: "Мери"
+ DRELL_CHR_Mehrstoo: "Мерстоо"
+ DRELL_CHR_Mehrkhordad: "Мехрхордад"
+ DRELL_CHR_Mechi: "Мечи"
+ DRELL_CHR_Manuiush: "Мануйуш"
+ DRELL_CHR_Mansa: "Манса"
+ DRELL_CHR_Koogushnasp: "Коогушнасп"
+ DRELL_CHR_Kiumak: "Киумак"
+ DRELL_CHR_Kiuidoon: "Kiuidoon"
+ DRELL_CHR_Kiuchehr: "Кючер"
+ DRELL_CHR_Kiuashir: "Киуашир"
+ DRELL_CHR_Khushkhi: "Хушхи"
+ DRELL_CHR_Kayvosh: "Кайвош"
+ DRELL_CHR_Kayjumand: "Кайджуманд"
+ DRELL_CHR_Kasri: "Касри"
+ DRELL_CHR_Kaizoo: "Кайзу"
+ DRELL_CHR_Kaigir: "Кайгир"
+ DRELL_CHR_Jadi: "Джади"
+ DRELL_CHR_Jabi: "Джаби"
+ DRELL_CHR_Imar: "Имар"
+ DRELL_CHR_Hoosha: "Хуша"
+ DRELL_CHR_Heili: "Хейли"
+ DRELL_CHR_Hahra: "Хара"
+ DRELL_CHR_Hadfroz: "Хадфроз"
+ DRELL_CHR_Geeziya: "Гизия"
+ DRELL_CHR_Freytiar: "Фрейтиар"
+ DRELL_CHR_Firosh: "Фирош"
+ DRELL_CHR_Fipoor: "Фипур"
+ DRELL_CHR_Farza: "Фарза"
+ DRELL_CHR_Farihand: "Фариханд"
+ DRELL_CHR_Faridiya: "Фаридия"
+ DRELL_CHR_Farha: "Фарха"
+ DRELL_CHR_Ettegh: "Эттех"
+ DRELL_CHR_Eshkat: "Эшкат"
+ DRELL_CHR_Erir: "Эрир"
+ DRELL_CHR_Ekhar: "Эхар"
+ DRELL_CHR_Delashaspa: "Делашаспа"
+ DRELL_CHR_Bodi: "Боди"
+ DRELL_CHR_Bedzi: "Бедзи"
+ DRELL_CHR_Bavur: "Бавур"
+ DRELL_CHR_Bavish: "Бавиш"
+ DRELL_CHR_Bashham: "Башэм"
+ DRELL_CHR_Basa: "Баса"
+ DRELL_CHR_Bandin: "Бандин"
+ DRELL_CHR_Bamrina: "Бамрина"
+ DRELL_CHR_Bakni: "Бакни"
+ DRELL_CHR_Bakhyan: "Бахян"
+ DRELL_CHR_Bagya: "Багья"
+ DRELL_CHR_Azmid: "Азмид"
+ DRELL_CHR_Azim: "Азим"
+ DRELL_CHR_Azaon: "Азаон"
+ DRELL_CHR_Azadun: "Азадун"
+ DRELL_CHR_Avat: "Ават"
+ DRELL_CHR_Aushghat: "Аушхат"
+ DRELL_CHR_Aspyasp: "Аспьясп"
+ DRELL_CHR_Aspandiya: "Аспандия"
+ DRELL_CHR_Aslash: "Эслэш"
+ DRELL_CHR_Ashar: "Ашар"
+ DRELL_CHR_Artviz: "Артвиз"
+ DRELL_CHR_Arsam: "Арсам"
+ DRELL_CHR_Ariz: "Ариз"
+ DRELL_CHR_Ardaran: "Ардаран"
+ DRELL_CHR_Ardand: "Ардан"
+ DRELL_CHR_Arawamard: "Аравамар"
+ DRELL_CHR_Arashjasb: "Арашджасб"
+ DRELL_CHR_Aramard: "Арамар"
+ DRELL_CHR_Apur: "Апур"
+ DRELL_CHR_Aoshshin: "Аошшин"
+ DRELL_CHR_Aoshmun: "Аошмун"
+ DRELL_CHR_Aoshivan: "Аошиван"
+ DRELL_CHR_Ansoor: "Ансур"
+ DRELL_CHR_Aniv: "Анив"
+ DRELL_CHR_Anaavan: "Анааван"
+ DRELL_CHR_Amim: "Амим"
+ DRELL_CHR_Amaostra: "Амаостра"
+ DRELL_CHR_Alkevan: "Алкеван"
+ DRELL_CHR_Aleh: "Олег"
+ DRELL_CHR_Ajiz: "Ажиз"
+ DRELL_CHR_Afrafrooz: "Афруз"
+ DRELL_CHR_Aflada: "Афлада"
+ DRELL_CHR_Afaim: "Афаим"
+ DRELL_CHR_Adzhang: "Аджанг"
+ DRELL_CHR_Adarburzinsalan: "Адарбурзинсалан"
+ DRELL_CHR_Abban: "Аббан"
+ DRELL_CHR_Qimi: "Qimi"
+ DRELL_CHR_Mehrna: "Мерна"
+ DRELL_CHR_Mand: "Манд"
+ DRELL_CHR_Mahra: "Махра"
+ DRELL_CHR_Khushmi: "Хушми"
+ DRELL_CHR_Hama: "Хама"
+ DRELL_CHR_Raq: "Рак"
+ DRELL_CHR_Tayouna: "Таюна"
+ DRELL_CHR_Abeh: "Абех"
+ DRELL_CHR_Assteh: "Ассте"
+ DRELL_CHR_Anil: "Анил"
+ DRELL_CHR_Hila: "Хила"
+ DRELL_CHR_Moly: "Моли"
+ DRELL_CHR_Jahy: "Джахи"
+ DRELL_CHR_Zada: "Зада"
+ DRELL_CHR_Visi: "Визи"
+ DRELL_CHR_Paka: "Пака"
+ DRELL_CHR_Amed: "Амед"
+ DRELL_CHR_Shara: "Шара"
+ DRELL_CHR_Qashqai: "Кашкай"
+ DRELL_CHR_Bihmy: "Бихми"
+ DRELL_CHR_Abech: "Абеч"
+ DRELL_CHR_Mina: "Мина"
+ DRELL_CHR_Mazlai: "Мазлай"
+ DRELL_CHR_Sada: "Сада"
+ DRELL_CHR_Ghat: "Гат"
+ DRELL_CHR_Horshoo: "Хоршу"
+ DRELL_CHR_Ahim: "Ахим"
+ DRELL_CHR_Assieh: "Асси"
+ DRELL_CHR_Min: "Мин."
+ DRELL_CHR_Hidi: "Хиди"
+ DRELL_CHR_Zimi: "Зими"
+ DRELL_CHR_Sama: "Сама"
+ DRELL_CHR_Nassi: "Насси"
+ DRELL_CHR_Mehi: "Мехи"
+ DRELL_CHR_Hari: "Хари"
+ DRELL_CHR_Arah: "Арах"
+ DRELL_CHR_Sar: "Сар"
+ DRELL_CHR_Hafar: "Хафар"
+ DRELL_CHR_Irikah: "Ирика"
+ DRELL_CHR_Zarloofar: "Зарлуфар"
+ DRELL_CHR_Zari: "Зари"
+ DRELL_CHR_Zanji: "Занджи"
+ DRELL_CHR_Yasgol: "Ясгол"
+ DRELL_CHR_Tiha: "Тиха"
+ DRELL_CHR_Tehia: "Техия"
+ DRELL_CHR_Tehi: "Техи"
+ DRELL_CHR_Tari: "Тари"
+ DRELL_CHR_Tala: "Тала"
+ DRELL_CHR_Sudabnoo: "Судабну"
+ DRELL_CHR_Souma: "Сума"
+ DRELL_CHR_Sori: "Сори"
+ DRELL_CHR_Sora: "Сора"
+ DRELL_CHR_Sootah: "Сута"
+ DRELL_CHR_Soha: "Соха"
+ DRELL_CHR_Sima: "Сима"
+ DRELL_CHR_Shondi: "Шонди"
+ DRELL_CHR_Sherphidah: "Шерфида"
+ DRELL_CHR_Sheeda: "Шида"
+ DRELL_CHR_Shaybai: "Шайбай"
+ DRELL_CHR_Setauzah: "Сетауза"
+ DRELL_CHR_Setarsha: "Сетарша"
+ DRELL_CHR_Satta: "Сатта"
+ DRELL_CHR_Saphmin: "Сафмин"
+ DRELL_CHR_Sana: "Сана"
+ DRELL_CHR_Samirstreeda: "Самирстреда"
+ DRELL_CHR_Samiere: "Самьер"
+ DRELL_CHR_Sabi: "Саби"
+ DRELL_CHR_Sabah: "Сабах"
+ DRELL_CHR_Saanin: "Саанин"
+ DRELL_CHR_Rina: "Рина"
+ DRELL_CHR_Rafi: "Рафи"
+ DRELL_CHR_Poorandah: "Пуранда"
+ DRELL_CHR_Poonhoo: "Пунху"
+ DRELL_CHR_Pooneh: "Пуне"
+ DRELL_CHR_Pezuw: "Пезув"
+ DRELL_CHR_Peroah: "Пероа"
+ DRELL_CHR_Pariiti: "Париити"
+ DRELL_CHR_Pari: "Пари"
+ DRELL_CHR_Nushthea: "Нуштея"
+ DRELL_CHR_Nisheh: "Нише"
+ DRELL_CHR_Niri: "Нири"
+ DRELL_CHR_Nilar: "Нилар"
+ DRELL_CHR_Niha: "Ниха"
+ DRELL_CHR_Negord: "Негорд"
+ DRELL_CHR_Negayun: "Негаюн"
+ DRELL_CHR_Nazadis: "Назади"
+ DRELL_CHR_Nasto: "Насто"
+ DRELL_CHR_Muzgar: "Музгар"
+ DRELL_CHR_Mumti: "Мумти"
+ DRELL_CHR_Muini: "Муини"
+ DRELL_CHR_Monou: "Моноу"
+ DRELL_CHR_Mitzarin: "Мицарин"
+ DRELL_CHR_Mindi: "Минди"
+ DRELL_CHR_Mazi: "Мази"
+ DRELL_CHR_Mami: "Мами"
+ DRELL_CHR_Mahsia: "Махсия"
+ DRELL_CHR_Mahda: "Махда"
+ DRELL_CHR_Maha: "Маха"
+ DRELL_CHR_Lila: "Лила"
+ DRELL_CHR_Lidu: "Лиду"
+ DRELL_CHR_Lidtosa: "Лидтоса"
+ DRELL_CHR_Layjan: "Лайджан"
+ DRELL_CHR_Lavin: "Лавин"
+ DRELL_CHR_Ladveen: "Ладвин"
+ DRELL_CHR_Kordi: "Корди"
+ DRELL_CHR_Kisa: "Киса"
+ DRELL_CHR_Khathondeh: "Хатонде"
+ DRELL_CHR_Khahri: "Хари"
+ DRELL_CHR_Khahi: "Хахи"
+ DRELL_CHR_Kataydah: "Катайда"
+ DRELL_CHR_Hafi: "Хафи"
+ DRELL_CHR_Golveen: "Голвин"
+ DRELL_CHR_Ghuzai: "Гузай"
+ DRELL_CHR_Ghalya: "Галя"
+ DRELL_CHR_Forouhita: "Форухита"
+ DRELL_CHR_Fistreeda: "Фистрида"
+ DRELL_CHR_Firuoma: "Firuoma"
+ DRELL_CHR_Firdia: "Фирдия"
+ DRELL_CHR_Farra: "Фарра"
+ DRELL_CHR_Farida: "Фарида"
+ DRELL_CHR_Farbeh: "Фарбех"
+ DRELL_CHR_Donthea: "Донтея"
+ DRELL_CHR_Davik: "Давик"
+ DRELL_CHR_Bouezou: "Буэзу"
+ DRELL_CHR_Boubeh: "Бубе"
+ DRELL_CHR_Beti: "Бети"
+ DRELL_CHR_Belzi: "Белзи"
+ DRELL_CHR_Bazan: "Базан"
+ DRELL_CHR_Bahi: "Бахи"
+ DRELL_CHR_Bahaivash: "Бахайваш"
+ DRELL_CHR_Azoofar: "Азофар"
+ DRELL_CHR_Azanoo: "Азаноо"
+ DRELL_CHR_Azahave: "Азахаве"
+ DRELL_CHR_Avizh: "Авиж"
+ DRELL_CHR_Atooun: "Атун"
+ DRELL_CHR_Atooere: "Атоер"
+ DRELL_CHR_Atoda: "Атода"
+ DRELL_CHR_Asita: "Асита"
+ DRELL_CHR_Arih: "Арих"
+ DRELL_CHR_Areh: "Арех"
+ DRELL_CHR_Ankhondeh: "Анхонде"
+ DRELL_CHR_Andhoo: "Андху"
+ DRELL_CHR_Anahreh: "Анахре"
+ DRELL_CHR_Amriba: "Амриба"
+ DRELL_CHR_Alvat: "Алват"
+ DRELL_CHR_Alausheh: "Алауше"
+ DRELL_CHR_Ahyn: "Ахын"
+ DRELL_CHR_Afarivash: "Афариваш"
+ DRELL_CHR_Afahondeh: "Афаонде"
+ DRELL_CHR_Adadr: "Ададр"
+ DRELL_CHR_Zhushama: "Zhushama"
+ DRELL_CHR_Yastis: "Ястис"
+ DRELL_CHR_Yasemeher: "Ясемехер"
+ DRELL_CHR_Yaseburzin: "Ясебурзин"
+ DRELL_CHR_Thraevan: "Треван"
+ DRELL_CHR_Thraetaman: "Траэтаман"
+ DRELL_CHR_Tehre: "Тере"
+ DRELL_CHR_Taranmeen: "Таранмин"
+ DRELL_CHR_Soandyar: "Соандьяр"
+ DRELL_CHR_Sirhang: "Сирханг"
+ DRELL_CHR_Sikurush: "Сикуруш"
+ DRELL_CHR_Shamah: "Шама"
+ DRELL_CHR_Shaiti: "Шаити"
+ DRELL_CHR_Shahrhita: "Шахрита"
+ DRELL_CHR_Shahre: "Шахре"
+ DRELL_CHR_Shahgis: "Шахгис"
+ DRELL_CHR_Sare: "Саре"
+ DRELL_CHR_Samiidoon: "Самидун"
+ DRELL_CHR_Samihand: "Самиханд"
+ DRELL_CHR_Sadra: "Садра"
+ DRELL_CHR_Roshariar: "Рошариар"
+ DRELL_CHR_Ramveh: "Рамве"
+ DRELL_CHR_Qaemshoy: "Каемшо"
+ DRELL_CHR_Pishvi: "Пишви"
+ DRELL_CHR_Peronan: "Перонан"
+ DRELL_CHR_Pereh: "Перех"
+ DRELL_CHR_Peia: "Пейя"
+ DRELL_CHR_Peeman: "Пиман"
+ DRELL_CHR_Parvzaad: "Парвзад"
+ DRELL_CHR_Para: "Пара"
+ DRELL_CHR_Panpadyavand: "Панпадьяванд"
+ DRELL_CHR_Niar: "Ниар"
+ DRELL_CHR_Negfrang: "Негфранг"
+ DRELL_CHR_Myara: "Мьяра"
+ DRELL_CHR_Minveh: "Минвех"
+ DRELL_CHR_Mineh: "Мине"
+ DRELL_CHR_Minav: "Минав"
+ DRELL_CHR_Miehoy: "Михой"
+ DRELL_CHR_Mehrzita: "Мерзита"
+ DRELL_CHR_Mehre: "Мере"
+ DRELL_CHR_Mara: "Мара"
+ DRELL_CHR_Manav: "Манав"
+ DRELL_CHR_Mahshad: "Махшад"
+ DRELL_CHR_Ladriya: "Ладрия"
+ DRELL_CHR_Kinshoy: "Киншой"
+ DRELL_CHR_Khatder: "Хатдер"
+ DRELL_CHR_Khahra: "Кахра"
+ DRELL_CHR_Katdish: "Катдиш"
+ DRELL_CHR_Katayzin: "Катайзин"
+ DRELL_CHR_Kara: "Кара"
+ DRELL_CHR_Kaman: "Каман"
+ DRELL_CHR_Jara: "Хара"
+ DRELL_CHR_Jali: "Джали"
+ DRELL_CHR_Huredarmah: "Хуредарма"
+ DRELL_CHR_Hurdi: "Хурди"
+ DRELL_CHR_Hozouyeh: "Hozouyeh"
+ DRELL_CHR_Horborz: "Хорборз"
+ DRELL_CHR_Hofar: "Хофар"
+ DRELL_CHR_Hahre: "Харе"
+ DRELL_CHR_Hadur: "Хадур"
+ DRELL_CHR_Gizaneh: "Гизане"
+ DRELL_CHR_Gisam: "Гисам"
+ DRELL_CHR_Ganab: "Ганаб"
+ DRELL_CHR_Foumeshk: "Фумешк"
+ DRELL_CHR_Foay: "Фой"
+ DRELL_CHR_Firsarv: "Фирсарв"
+ DRELL_CHR_Estash: "Эсташ"
+ DRELL_CHR_Delour: "Делор"
+ DRELL_CHR_Darjis: "Даржи"
+ DRELL_CHR_Darband: "Дарбанд"
+ DRELL_CHR_Byanal: "Бьянал"
+ DRELL_CHR_Borzuran: "Борзуран"
+ DRELL_CHR_Bonan: "Бонан"
+ DRELL_CHR_Bitad: "Битад"
+ DRELL_CHR_Birjav: "Биржав"
+ DRELL_CHR_Bineh: "Бине"
+ DRELL_CHR_Bijan: "Бижан"
+ DRELL_CHR_Bemanesh: "Беманеш"
+ DRELL_CHR_Banzin: "Banzin"
+ DRELL_CHR_Banfravash: "Банфраваш"
+ DRELL_CHR_Bahshavir: "Бахшавир"
+ DRELL_CHR_Bahoy: "Баой"
+ DRELL_CHR_Bade: "Баде"
+ DRELL_CHR_Azvil: "Азвил"
+ DRELL_CHR_Azain: "Азаин"
+ DRELL_CHR_Azabaz: "Азабаз"
+ DRELL_CHR_Avstut: "Австут"
+ DRELL_CHR_Avaj: "Авадж"
+ DRELL_CHR_Auzad: "Аузад"
+ DRELL_CHR_Atashmeher: "Аташмехер"
+ DRELL_CHR_Astar: "Звезда"
+ DRELL_CHR_Aspandsam: "Аспансам"
+ DRELL_CHR_Ariam: "Ариам"
+ DRELL_CHR_Ardehe: "Ардехе"
+ DRELL_CHR_Ardaedarmah: "Ардаедарма"
+ DRELL_CHR_Arask: "Араск"
+ DRELL_CHR_Aran: "Аран"
+ DRELL_CHR_Anoumak: "Анумак"
+ DRELL_CHR_Anjar: "Анджар"
+ DRELL_CHR_Amsan: "Амсан"
+ DRELL_CHR_Amin: "Амин"
+ DRELL_CHR_Amamanesh: "Амаманеш"
+ DRELL_CHR_Ahrab: "Ахраб"
+ DRELL_CHR_Ahivan: "Ахиван"
+ DRELL_CHR_Ahis: "Ахис"
+ DRELL_CHR_Afarma: "Афарма"
+ DRELL_CHR_Afah: "Афа"
+ DRELL_CHR_Adarburzinchobin: "Адарбурзинчобин"
+ DRELL_CHR_Abasan: "Абасан"
+ DRELL_CHR_Abak: "Абак"
+ DRELL_CHR_Abahr: "Абар"
+ DRELL_CHR_Abaddokht: "Абаддохт"
+ DRELL_CHR_Krios: "Криос"

@@ -1,472 +1,472 @@
 ﻿l_russian:
- name_list_btr_volus:0 "Волюс" #NT!
- VOLUS_SHIP_Bramaistadt:0 "Брамайштадт" #NT!
- VOLUS_SHIP_Bodo:0 "бодо" #NT!
- VOLUS_SHIP_Blahnefeld:0 "Бланефельд" #NT!
- VOLUS_SHIP_Berta:0 "Берта" #NT!
- VOLUS_SHIP_Bereudorf:0 "Берёудорф" #NT!
- VOLUS_SHIP_Balta:0 "Балта" #NT!
- VOLUS_SHIP_Arnard:0 "Арнард" #NT!
- VOLUS_SHIP_Ardus:0 "Ардус" #NT!
- VOLUS_SHIP_Ardildif:0 "Ардильдиф" #NT!
- VOLUS_SHIP_Ardanard:0 "Арданар" #NT!
- VOLUS_SHIP_Andus:0 "И нас" #NT!
- VOLUS_SHIP_Andhald:0 "Андхалд" #NT!
- VOLUS_SHIP_Albewis:0 "Альбевис" #NT!
- VOLUS_SHIP_Aidus:0 "Айдус" #NT!
- VOLUS_SHIP_Adarat:0 "Адарат" #NT!
- VOLUS_SHIP_Abenbruck:0 "Абенбрюк" #NT!
- VOLUS_SHIP_Elemmard:0 "Элеммар" #NT!
- VOLUS_SHIP_Eichtenstadt:0 "Эйхтенштадт" #NT!
- VOLUS_SHIP_Egerdis:0 "Эгердис" #NT!
- VOLUS_SHIP_Ecis:0 "Эцис" #NT!
- VOLUS_SHIP_Disuinda:0 "Disuinda" #NT!
- VOLUS_SHIP_Dietzierruck:0 "Дитциеррак" #NT!
- VOLUS_SHIP_Dereuhofen:0 "Dereuhofen" #NT!
- VOLUS_SHIP_Deneruck:0 "Денерук" #NT!
- VOLUS_SHIP_Denedorf:0 "Денедорф" #NT!
- VOLUS_SHIP_Burhelde:0 "Бурхельде" #NT!
- VOLUS_SHIP_Burga:0 "Бурга" #NT!
- VOLUS_SHIP_Budefels:0 "Будефельс" #NT!
- VOLUS_SHIP_Breckalthofen:0 "Брекалтхофен" #NT!
- VOLUS_SHIP_Brauneuwald:0 "Браунойвальд" #NT!
- VOLUS_SHIP_Geneheim:0 "Генехейм" #NT!
- VOLUS_SHIP_Geiseheim:0 "Гайзехайм" #NT!
- VOLUS_SHIP_Gautbo:0 "Гаутбо" #NT!
- VOLUS_SHIP_Gasta:0 "Гаста" #NT!
- VOLUS_SHIP_Gardise:0 "Гардис" #NT!
- VOLUS_SHIP_Frodgundra:0 "Фродгундра" #NT!
- VOLUS_SHIP_Frictra:0 "Фриктра" #NT!
- VOLUS_SHIP_Fretzo:0 "Фрецо" #NT!
- VOLUS_SHIP_Fildefeld:0 "Филдефельд" #NT!
- VOLUS_SHIP_Etrundis:0 "Этрундис" #NT!
- VOLUS_SHIP_Etebed:0 "Этебед" #NT!
- VOLUS_SHIP_Esenbach:0 "Эзенбах" #NT!
- VOLUS_SHIP_Eppenberg:0 "Эппенберг" #NT!
- VOLUS_SHIP_Ennindswald:0 "Эннинсвальд" #NT!
- VOLUS_SHIP_Endadan:0 "Эндадан" #NT!
- VOLUS_SHIP_Emudef:0 "Эмудеф" #NT!
- VOLUS_SHIP_Heidefels:0 "Хайдефельс" #NT!
- VOLUS_SHIP_Hari:0 "Хари" #NT!
- VOLUS_SHIP_Hanseruck:0 "Ханзерук" #NT!
- VOLUS_SHIP_Haimo:0 "Хаймо" #NT!
- VOLUS_SHIP_Gundebach:0 "Гундебах" #NT!
- VOLUS_SHIP_Gunda:0 "Гунда" #NT!
- VOLUS_SHIP_Gotzsto:0 "Гоцсто" #NT!
- VOLUS_SHIP_Goro:0 "Горо" #NT!
- VOLUS_SHIP_Gori:0 "Гори" #NT!
- VOLUS_SHIP_Godo:0 "Иди делай" #NT!
- VOLUS_SHIP_Gleneheim:0 "Гленхейм" #NT!
- VOLUS_SHIP_Gisuide:0 "Gisuide" #NT!
- VOLUS_SHIP_Giso:0 "Гисо" #NT!
- VOLUS_SHIP_Gisamia:0 "Гисамия" #NT!
- VOLUS_SHIP_Gesebach:0 "Гезебах" #NT!
- VOLUS_SHIP_Germaiheim:0 "Гермайхайм" #NT!
- VOLUS_SHIP_Gerla:0 "Герла" #NT!
- VOLUS_SHIP_Geri:0 "Джери" #NT!
- VOLUS_SHIP_Hochestein:0 "Хохештейн" #NT!
- VOLUS_SHIP_Hilta:0 "Хилта" #NT!
- VOLUS_SHIP_Hilleystein:0 "Хиллистейн" #NT!
- VOLUS_SHIP_Hildisa:0 "Хильдиса" #NT!
- VOLUS_SHIP_Hilda:0 "Хильда" #NT!
- VOLUS_SHIP_Herzenstadt:0 "Герценштадт" #NT!
- VOLUS_SHIP_Hermsebruck:0 "Хермзебрюк" #NT!
- VOLUS_SHIP_Heri:0 "Хери" #NT!
- VOLUS_SHIP_Hennestein:0 "Хеннештайн" #NT!
- VOLUS_SHIP_Heneufels:0 "Хенойфельс" #NT!
- VOLUS_SHIP_Henehofen:0 "Хенехофен" #NT!
- VOLUS_SHIP_Heneheim:0 "Хенехайм" #NT!
- VOLUS_SHIP_Henefels:0 "Хенефельс" #NT!
- VOLUS_SHIP_Henedorf:0 "Хенедорф" #NT!
- VOLUS_SHIP_Heleyfels:0 "Хелейфельс" #NT!
- VOLUS_SHIP_Letterfeld:0 "Леттерфельд" #NT!
- VOLUS_SHIP_Lenestadt:0 "Ленештадт" #NT!
- VOLUS_SHIP_Lenefels:0 "Ленефельс" #NT!
- VOLUS_SHIP_Lenedorf:0 "Ленедорф" #NT!
- VOLUS_SHIP_Kulmaiheim:0 "Кульмайхайм" #NT!
- VOLUS_SHIP_Krankersruck:0 "Кранкерсрак" #NT!
- VOLUS_SHIP_Kircheberg:0 "Кирхеберг" #NT!
- VOLUS_SHIP_Kenestadt:0 "Кенештадт" #NT!
- VOLUS_SHIP_Ingendorf:0 "Ингендорф" #NT!
- VOLUS_SHIP_Hutterbach:0 "Хуттербах" #NT!
- VOLUS_SHIP_Hornestein:0 "Хорнестайн" #NT!
- VOLUS_SHIP_Hornefels:0 "Хорнефельс" #NT!
- VOLUS_SHIP_Hopfenstadt:0 "Хопфенштадт" #NT!
- VOLUS_SHIP_Munchestadt:0 "Мюнхен" #NT!
- VOLUS_SHIP_Munchefels:0 "Мюнхефельс" #NT!
- VOLUS_SHIP_Muhlestadt:0 "Мюлештадт" #NT!
- VOLUS_SHIP_Muhleruck:0 "Мюлерук" #NT!
- VOLUS_SHIP_Muhlefels:0 "Мюлефельс" #NT!
- VOLUS_SHIP_Mersedorf:0 "Мерседорф" #NT!
- VOLUS_SHIP_Merkenruck:0 "Меркенрак" #NT!
- VOLUS_SHIP_Meisehofen:0 "Майзехофен" #NT!
- VOLUS_SHIP_Meineruck:0 "Майнерук" #NT!
- VOLUS_SHIP_Medestadt:0 "Медештадт" #NT!
- VOLUS_SHIP_Maro:0 "Маро" #NT!
- VOLUS_SHIP_Mannefeld:0 "Маннефельд" #NT!
- VOLUS_SHIP_Mannebach:0 "Маннебах" #NT!
- VOLUS_SHIP_Lowaheim:0 "Ловахайм" #NT!
- VOLUS_SHIP_Rada:0 "Рада" #NT!
- VOLUS_SHIP_Pottenbruck:0 "Поттенбрюк" #NT!
- VOLUS_SHIP_Pirsestadt:0 "Пиршештадт" #NT!
- VOLUS_SHIP_Pfereuheim:0 "Пферойхайм" #NT!
- VOLUS_SHIP_Penewald:0 "Пеневальд" #NT!
- VOLUS_SHIP_Peneruck:0 "Пенерук" #NT!
- VOLUS_SHIP_Peneberg:0 "Пенеберг" #NT!
- VOLUS_SHIP_Peledorf:0 "Пеледорф" #NT!
- VOLUS_SHIP_Othindis:0 "Отиндис" #NT!
- VOLUS_SHIP_Ostenheim:0 "Остенхайм" #NT!
- VOLUS_SHIP_Orgalben:0 "Оргалбен" #NT!
- VOLUS_SHIP_Ondenstadt:0 "Онденштадт" #NT!
- VOLUS_SHIP_Nazo:0 "Назо" #NT!
- VOLUS_SHIP_Munzelldorf:0 "Мюнцельдорф" #NT!
- VOLUS_SHIP_Munchestein:0 "Мюнхенштейн" #NT!
- VOLUS_SHIP_Senedorf:0 "Сенедорф" #NT!
- VOLUS_SHIP_Senebach:0 "Сенебах" #NT!
- VOLUS_SHIP_Schlusseberg:0 "Шлюссеберг" #NT!
- VOLUS_SHIP_Schligudstadt:0 "Шлигудштадт" #NT!
- VOLUS_SHIP_Schenneuheim:0 "Шеннойхайм" #NT!
- VOLUS_SHIP_Schatzenfels:0 "Шаценфельс" #NT!
- VOLUS_SHIP_Ronefeld:0 "Ронефельд" #NT!
- VOLUS_SHIP_Romaihofen:0 "Romaihofen" #NT!
- VOLUS_SHIP_Rocina:0 "Рочина" #NT!
- VOLUS_SHIP_Ribo:0 "Рибо" #NT!
- VOLUS_SHIP_Redo:0 "Повторить" #NT!
- VOLUS_SHIP_Rausedorf:0 "Раузедорф" #NT!
- VOLUS_SHIP_Raomio:0 "Раомио" #NT!
- VOLUS_SHIP_Rankuppdorf:0 "Ранкупдорф" #NT!
- VOLUS_SHIP_Radedorf:0 "Радедорф" #NT!
- VOLUS_SHIP_Weitenheim:0 "Вайтенхайм" #NT!
- VOLUS_SHIP_Weissefeld:0 "Вайсфельд" #NT!
- VOLUS_SHIP_Weinefels:0 "Вайнефельс" #NT!
- VOLUS_SHIP_Weinefeld:0 "Вайнефельд" #NT!
- VOLUS_SHIP_Weidho:0 "Вайдо" #NT!
- VOLUS_SHIP_Wando:0 "Вандо" #NT!
- VOLUS_SHIP_Walleybach:0 "Валлейбах" #NT!
- VOLUS_SHIP_Vinuuara:0 "Винууара" #NT!
- VOLUS_SHIP_Usserruck:0 "Уссеррук" #NT!
- VOLUS_SHIP_Unsterstein:0 "Унстерштейн" #NT!
- VOLUS_SHIP_Ullenstadt:0 "Улленштадт" #NT!
- VOLUS_SHIP_Spenestadt:0 "Спенештадт" #NT!
- VOLUS_SHIP_Siga:0 "Сига" #NT!
- VOLUS_SHIP_Seneuheim:0 "Сенухайм" #NT!
- VOLUS_SHIP_Senefeld:0 "Сенефельд" #NT!
- VOLUS_SHIP_Wurzierfels:0 "Вурцирфельс" #NT!
- VOLUS_SHIP_Wocco:0 "Вокко" #NT!
- VOLUS_SHIP_Wino:0 "Вино" #NT!
- VOLUS_SHIP_Werterhofen:0 "Вертерхофен" #NT!
- VOLUS_SHIP_Weiterwald:0 "Вейтервальд" #NT!
- VOLUS_xxFlotilla_ORD:0 "$O$ Флотилия ОРД" #NT!
- VOLUS_xxPlanetary_Corps_ORD:0 "$O$ планетарный корпус ORD" #NT!
- VOLUS_xxCentral_Corps_ORD:0 "$O$ Центральный корпус ОРД" #NT!
- VOLUS_xxMercenary_Corps_ORD:0 "$O$ Корпус наемников ОРД" #NT!
- VOLUS_xxClone_Corps_ORD:0 "$O$ Корпус клонов ORD" #NT!
- VOLUS_xxDrone_Corps_ORD:0 "$O$ Отряд дронов ORD" #NT!
- VOLUS_xxBiotic_Corps_ORD:0 "$O$ Биотический корпус ORD" #NT!
- VOLUS_xxXeno_Corps_ORD:0 "$O$ Ксенокорпус ОРД" #NT!
- VOLUS_xxGene_Corps_ORD:0 "$O$ Gene Corps ORD" #NT!
- VOLUS_CHR_Zhar:0 "Жар" #NT!
- VOLUS_CHR_Zelada:0 "Зелада" #NT!
- VOLUS_CHR_Yuned:0 "Юнед" #NT!
- VOLUS_CHR_Yuleph:0 "Юлеф" #NT!
- VOLUS_CHR_Warat:0 "Варат" #NT!
- VOLUS_CHR_Vuren:0 "Вурен" #NT!
- VOLUS_CHR_Vort:0 "Ворт" #NT!
- VOLUS_CHR_Viyo:0 "Вийо" #NT!
- VOLUS_CHR_Vhilin:0 "Вилин" #NT!
- VOLUS_CHR_Van:0 "Ван" #NT!
- VOLUS_CHR_Valsil:0 "Валсиль" #NT!
- VOLUS_CHR_Urgrec:0 "Ургрек" #NT!
- VOLUS_CHR_Tymo:0 "Тимо" #NT!
- VOLUS_CHR_Tre:0 "Тре" #NT!
- VOLUS_CHR_Tott:0 "Тотт" #NT!
- VOLUS_CHR_Tol:0 "Тол" #NT!
- VOLUS_CHR_Tazonthe:0 "Тазонте" #NT!
- VOLUS_CHR_Tardon:0 "Тардон" #NT!
- VOLUS_CHR_Tanith:0 "Танит" #NT!
- VOLUS_CHR_Tal:0 "Таль" #NT!
- VOLUS_CHR_Tae:0 "Тэ" #NT!
- VOLUS_CHR_Skawn:0 "Скаун" #NT!
- VOLUS_CHR_Siolo:0 "Сиоло" #NT!
- VOLUS_CHR_Silais:0 "Силаис" #NT!
- VOLUS_CHR_Shul:0 "Шул" #NT!
- VOLUS_CHR_Sedriss:0 "Седрис" #NT!
- VOLUS_CHR_Saylew:0 "Сэйлью" #NT!
- VOLUS_CHR_Saresh:0 "Сареш" #NT!
- VOLUS_CHR_Rol:0 "Рол" #NT!
- VOLUS_CHR_Ro:0 "Ро" #NT!
- VOLUS_CHR_Ress:0 "Ресс" #NT!
- VOLUS_CHR_Remmik:0 "Реммик" #NT!
- VOLUS_CHR_Ree:0 "Ри" #NT!
- VOLUS_CHR_Quink:0 "Квинк" #NT!
- VOLUS_CHR_Pratari:0 "Пратари" #NT!
- VOLUS_CHR_Poronth:0 "Поронт" #NT!
- VOLUS_CHR_Pol:0 "Пол" #NT!
- VOLUS_CHR_Orn:0 "Орн" #NT!
- VOLUS_CHR_Onok:0 "Онок" #NT!
- VOLUS_CHR_Olm:0 "Олм" #NT!
- VOLUS_CHR_Ob:0 "Обь" #NT!
- VOLUS_CHR_Nuro:0 "Нуро" #NT!
- VOLUS_CHR_Nilim:0 "Нилим" #NT!
- VOLUS_CHR_Nico:0 "Нико" #NT!
- VOLUS_CHR_Newar:0 "Невар" #NT!
- VOLUS_CHR_Nerra:0 "Нерра" #NT!
- VOLUS_CHR_Nawara:0 "Навара" #NT!
- VOLUS_CHR_Nat:0 "Нат" #NT!
- VOLUS_CHR_Namen:0 "Имя" #NT!
- VOLUS_CHR_Nabat:0 "Набат" #NT!
- VOLUS_CHR_Mazer:0 "Мазер" #NT!
- VOLUS_CHR_Matrik:0 "Матрик" #NT!
- VOLUS_CHR_Mannes:0 "Маннес" #NT!
- VOLUS_CHR_Lur:0 "Лур" #NT!
- VOLUS_CHR_Lupo:0 "Лупо" #NT!
- VOLUS_CHR_Lonay:0 "Лоней" #NT!
- VOLUS_CHR_Lon:0 "Лон" #NT!
- VOLUS_CHR_Leb:0 "Леб" #NT!
- VOLUS_CHR_Komad:0 "Комад" #NT!
- VOLUS_CHR_Kiph:0 "Киф" #NT!
- VOLUS_CHR_Kidd:0 "Кидд" #NT!
- VOLUS_CHR_Khwir:0 "Хвир" #NT!
- VOLUS_CHR_Kaul:0 "Каул" #NT!
- VOLUS_CHR_Karawn:0 "Карон" #NT!
- VOLUS_CHR_Karal:0 "Карал" #NT!
- VOLUS_CHR_Kandon:0 "Кандон" #NT!
- VOLUS_CHR_Kaim:0 "Каим" #NT!
- VOLUS_CHR_Kailur:0 "Кайлур" #NT!
- VOLUS_CHR_Jundo:0 "Jundo" #NT!
- VOLUS_CHR_Jor:0 "Джор" #NT!
- VOLUS_CHR_Jinx:0 "Джинкс" #NT!
- VOLUS_CHR_Jer:0 "Джер" #NT!
- VOLUS_CHR_Jela:0 "Джела" #NT!
- VOLUS_CHR_Jekk:0 "Джекк" #NT!
- VOLUS_CHR_Jart:0 "Джарт" #NT!
- VOLUS_CHR_Jan:0 "Ян" #NT!
- VOLUS_CHR_Inun:0 "Инун" #NT!
- VOLUS_CHR_Ilar:0 "Илар" #NT!
- VOLUS_CHR_Hid:0 "Спрятался" #NT!
- VOLUS_CHR_Harra:0 "Харра" #NT!
- VOLUS_CHR_Haly:0 "Халы" #NT!
- VOLUS_CHR_Hab:0 "Дом" #NT!
- VOLUS_CHR_Guun:0 "Гуун" #NT!
- VOLUS_CHR_Guldus:0 "Гулдус" #NT!
- VOLUS_CHR_Gobi:0 "Гоби" #NT!
- VOLUS_CHR_Griff:0 "Грифф" #NT!
- VOLUS_CHR_Glie:0 "Глие" #NT!
- VOLUS_CHR_Gim:0 "Гим" #NT!
- VOLUS_CHR_Firith:0 "Фирит" #NT!
- VOLUS_CHR_Femi:0 "Феми" #NT!
- VOLUS_CHR_Fassa:0 "Фасса" #NT!
- VOLUS_CHR_Elav:0 "Элав" #NT!
- VOLUS_CHR_Doton:0 "Дотон" #NT!
- VOLUS_CHR_Dinek:0 "Динек" #NT!
- VOLUS_CHR_Dez:0 "Дез" #NT!
- VOLUS_CHR_Deesra:0 "Деэсра" #NT!
- VOLUS_CHR_Darap:0 "Дарап" #NT!
- VOLUS_CHR_Cotan:0 "Котан" #NT!
- VOLUS_CHR_Connus:0 "Коннус" #NT!
- VOLUS_CHR_Chom:0 "Чом" #NT!
- VOLUS_CHR_Chee:0 "Чи" #NT!
- VOLUS_CHR_Cham:0 "Чам" #NT!
- VOLUS_CHR_Chabak:0 "Чабак" #NT!
- VOLUS_CHR_Cesi:0 "Чези" #NT!
- VOLUS_CHR_Cel:0 "Чел" #NT!
- VOLUS_CHR_Cazne:0 "Казне" #NT!
- VOLUS_CHR_Cash:0 "Наличные" #NT!
- VOLUS_CHR_Byt:0 "байт" #NT!
- VOLUS_CHR_Bril:0 "Бриль" #NT!
- VOLUS_CHR_Bolook:0 "Болук" #NT!
- VOLUS_CHR_Boc:0 "Бок" #NT!
- VOLUS_CHR_Bik:0 "Бик" #NT!
- VOLUS_CHR_Bib:0 "нагрудник" #NT!
- VOLUS_CHR_Artruk:0 "Артрук" #NT!
- VOLUS_CHR_Anoon:0 "Анун" #NT!
- VOLUS_CHR_Alask:0 "Аляска" #NT!
- VOLUS_CHR_Ahrnell:0 "Арнелл" #NT!
- VOLUS_CHR_Zoriis:0 "Зориис" #NT!
- VOLUS_CHR_Yuthura:0 "Ютура" #NT!
- VOLUS_CHR_Yadira:0 "Ядира" #NT!
- VOLUS_CHR_Xiann:0 "Xiann" #NT!
- VOLUS_CHR_Xiaan:0 "Xiaan" #NT!
- VOLUS_CHR_Vokara:0 "Вокара" #NT!
- VOLUS_CHR_Vant:0 "Вант" #NT!
- VOLUS_CHR_Tronda:0 "Тронда" #NT!
- VOLUS_CHR_Trella:0 "Трелла" #NT!
- VOLUS_CHR_Teeubo:0 "Тиубо" #NT!
- VOLUS_CHR_Tann:0 "Танн" #NT!
- VOLUS_CHR_Talik:0 "Талик" #NT!
- VOLUS_CHR_Sumari:0 "Сумари" #NT!
- VOLUS_CHR_Suu:0 "Суу" #NT!
- VOLUS_CHR_Sinya:0 "Синя" #NT!
- VOLUS_CHR_Sienn:0 "Сиенн" #NT!
- VOLUS_CHR_Shiri:0 "Шири" #NT!
- VOLUS_CHR_Shakka:0 "Шакка" #NT!
- VOLUS_CHR_Shaeeah:0 "Шейа" #NT!
- VOLUS_CHR_Seku:0 "Секу" #NT!
- VOLUS_CHR_Seela:0 "Сила" #NT!
- VOLUS_CHR_Seddwia:0 "Седдвия" #NT!
- VOLUS_CHR_Saya:0 "Сая" #NT!
- VOLUS_CHR_Rypka:0 "Рыпка" #NT!
- VOLUS_CHR_Rianna:0 "Рианна" #NT!
- VOLUS_CHR_Ramana:0 "Рамана" #NT!
- VOLUS_CHR_Rachi:0 "Рачи" #NT!
- VOLUS_CHR_Ranna:0 "Ранна" #NT!
- VOLUS_CHR_Poy:0 "Пой" #NT!
- VOLUS_CHR_Palakwi:0 "Палакви" #NT!
- VOLUS_CHR_Padda:0 "Падда" #NT!
- VOLUS_CHR_Oola:0 "Оола" #NT!
- VOLUS_CHR_Numa:0 "Нума" #NT!
- VOLUS_CHR_Nolaa:0 "Нолаа" #NT!
- VOLUS_CHR_Nima:0 "Нима" #NT!
- VOLUS_CHR_Nalan:0 "Налан" #NT!
- VOLUS_CHR_Nabrina:0 "Набрина" #NT!
- VOLUS_CHR_Mission:0 "Миссия" #NT!
- VOLUS_CHR_Memah:0 "Мемах" #NT!
- VOLUS_CHR_Mazie:0 "Мази" #NT!
- VOLUS_CHR_Marny:0 "Марни" #NT!
- VOLUS_CHR_Malare:0 "Маларе" #NT!
- VOLUS_CHR_Mala:0 "Мала" #NT!
- VOLUS_CHR_Lyn:0 "Лин" #NT!
- VOLUS_CHR_Lunae:0 "Луна" #NT!
- VOLUS_CHR_Lubo:0 "Любо" #NT!
- VOLUS_CHR_Leontyne:0 "Леонтина" #NT!
- VOLUS_CHR_Lena:0 "Лена" #NT!
- VOLUS_CHR_Laseema:0 "Ласима" #NT!
- VOLUS_CHR_Larrim:0 "Ларрим" #NT!
- VOLUS_CHR_Laranth:0 "Ларант" #NT!
- VOLUS_CHR_Koyi:0 "Койи" #NT!
- VOLUS_CHR_Kolovish:0 "Коловиш" #NT!
- VOLUS_CHR_Kayi:0 "Кайи" #NT!
- VOLUS_CHR_Hera:0 "Гера" #NT!
- VOLUS_CHR_Hadiya:0 "Хадия" #NT!
- VOLUS_CHR_Juda:0 "Иуда" #NT!
- VOLUS_CHR_Jiljoo:0 "Джиджу" #NT!
- VOLUS_CHR_Janice:0 "Дженис" #NT!
- VOLUS_CHR_Isval:0 "Исваль" #NT!
- VOLUS_CHR_Hirani:0 "Hirani" #NT!
- VOLUS_CHR_Giza:0 "Гиза" #NT!
- VOLUS_CHR_Gida:0 "Гида" #NT!
- VOLUS_CHR_Ghia:0 "Гиа" #NT!
- VOLUS_CHR_Finn:0 "Финн" #NT!
- VOLUS_CHR_Feen:0 "Фен" #NT!
- VOLUS_CHR_Eleena:0 "Елена" #NT!
- VOLUS_CHR_Drua:0 "Друа" #NT!
- VOLUS_CHR_Dia:0 "Диа" #NT!
- VOLUS_CHR_Daesha:0 "Даеша" #NT!
- VOLUS_CHR_Borna:0 "Борна" #NT!
- VOLUS_CHR_Bink:0 "Бинк" #NT!
- VOLUS_CHR_Berri:0 "Берри" #NT!
- VOLUS_CHR_Astraal:0 "Астраал" #NT!
- VOLUS_CHR_Arruna:0 "Арруна" #NT!
- VOLUS_CHR_Ardana:0 "Ардана" #NT!
- VOLUS_CHR_Aola:0 "Аола" #NT!
- VOLUS_CHR_Ann:0 "Анна" #NT!
- VOLUS_CHR_Anglu:0 "Англу" #NT!
- VOLUS_CHR_Alora:0 "Алора" #NT!
- VOLUS_CHR_Alema:0 "Алема" #NT!
- VOLUS_CHR_Aayla:0 "Айла" #NT!
- VOLUS_CHR_Ziveri:0 "Зивери" #NT!
- VOLUS_CHR_Waran:0 "Варан" #NT!
- VOLUS_CHR_Vrei:0 "Врей" #NT!
- VOLUS_CHR_Vida:0 "Вида" #NT!
- VOLUS_CHR_Ven:0 "Вен" #NT!
- VOLUS_CHR_Vao:0 "Вао" #NT!
- VOLUS_CHR_Valla:0 "Валла" #NT!
- VOLUS_CHR_Vaal:0 "ваал" #NT!
- VOLUS_CHR_Utrila:0 "Утрила" #NT!
- VOLUS_CHR_Tualin:0 "Туалин" #NT!
- VOLUS_CHR_Torr:0 "Торр" #NT!
- VOLUS_CHR_Toqema:0 "Токема" #NT!
- VOLUS_CHR_Tiatkin:0 "Тяткин" #NT!
- VOLUS_CHR_Thorla:0 "Торла" #NT!
- VOLUS_CHR_Teksa:0 "Текса" #NT!
- VOLUS_CHR_Tarkona:0 "Таркона" #NT!
- VOLUS_CHR_Tarak:0 "Тарак" #NT!
- VOLUS_CHR_Tar:0 "Тар" #NT!
- VOLUS_CHR_TaoVen:0 "Тао'Вен" #NT!
- VOLUS_CHR_Taa:0 "Таа" #NT!
- VOLUS_CHR_Syndulla:0 "Синдулла" #NT!
- VOLUS_CHR_Surool:0 "Сурул" #NT!
- VOLUS_CHR_Sulas:0 "Сулас" #NT!
- VOLUS_CHR_Sorzo:0 "Сорзо" #NT!
- VOLUS_CHR_Smoo:0 "Сму" #NT!
- VOLUS_CHR_Sivron:0 "Сиврон" #NT!
- VOLUS_CHR_Sitra:0 "Ситра" #NT!
- VOLUS_CHR_Shar:0 "Шар" #NT!
- VOLUS_CHR_Shala:0 "Шала" #NT!
- VOLUS_CHR_Senvi:0 "Сенви" #NT!
- VOLUS_CHR_Sekia:0 "Секия" #NT!
- VOLUS_CHR_Secura:0 "Секура" #NT!
- VOLUS_CHR_Saren:0 "Сарен" #NT!
- VOLUS_CHR_Sana:0 "Сана" #NT!
- VOLUS_CHR_Roothes:0 "Рутс" #NT!
- VOLUS_CHR_Rha:0 "Ра" #NT!
- VOLUS_CHR_Rar:0 "рар" #NT!
- VOLUS_CHR_Raloch:0 "Ралох" #NT!
- VOLUS_CHR_Racor:0 "Ракор" #NT!
- VOLUS_CHR_Rackus:0 "Ракус" #NT!
- VOLUS_CHR_Preyssola:0 "Прейсола" #NT!
- VOLUS_CHR_Phan:0 "Фан" #NT!
- VOLUS_CHR_Passik:0 "Пассик" #NT!
- VOLUS_CHR_Olgkru:0 "Ольгкру" #NT!
- VOLUS_CHR_Olan:0 "Олан" #NT!
- VOLUS_CHR_Norman:0 "Норманн" #NT!
- VOLUS_CHR_Nall:0 "Налл" #NT!
- VOLUS_CHR_Mobok:0 "Мобок" #NT!
- VOLUS_CHR_Minx:0 "шалунья" #NT!
- VOLUS_CHR_Me:0 "Мне" #NT!
- VOLUS_CHR_Mateil:0 "Матейл" #NT!
- VOLUS_CHR_Martik:0 "Мартик" #NT!
- VOLUS_CHR_Lys:0 "Лис" #NT!
- VOLUS_CHR_Luroon:0 "Лурун" #NT!
- VOLUS_CHR_Lor:0 "Лор" #NT!
- VOLUS_CHR_Lestin:0 "Лестин" #NT!
- VOLUS_CHR_Lawquane:0 "Локуейн" #NT!
- VOLUS_CHR_Kulavinar:0 "Кулавинар" #NT!
- VOLUS_CHR_Ksi:0 "Кси" #NT!
- VOLUS_CHR_Kru:0 "Кру" #NT!
- VOLUS_CHR_Kobbeth:0 "Коббет" #NT!
- VOLUS_CHR_Kluub:0 "Клуб" #NT!
- VOLUS_CHR_Kareen:0 "Карин" #NT!
- VOLUS_CHR_Kairn:0 "Кайрн" #NT!
- VOLUS_CHR_Kaar:0 "Каар" #NT!
- VOLUS_CHR_Jada:0 "Джада" #NT!
- VOLUS_CHR_Jab:0 "Джеб" #NT!
- VOLUS_CHR_Idrall:0 "Идралл" #NT!
- VOLUS_CHR_Het:0 "Хет" #NT!
- VOLUS_CHR_Han:0 "Хан" #NT!
- VOLUS_CHR_Golor:0 "Голор" #NT!
- VOLUS_CHR_Ghon:0 "Гон" #NT!
- VOLUS_CHR_Gella:0 "Гелла" #NT!
- VOLUS_CHR_Garrulan:0 "Гаррулан" #NT!
- VOLUS_CHR_Freykaa:0 "Фрейкаа" #NT!
- VOLUS_CHR_Freetaa:0 "Фритаа" #NT!
- VOLUS_CHR_Forrth:0 "вперед" #NT!
- VOLUS_CHR_Fortuna:0 "Фортуна" #NT!
- VOLUS_CHR_Fenn:0 "Фенн" #NT!
- VOLUS_CHR_Eyan:0 "Эян" #NT!
- VOLUS_CHR_Ertay:0 "Эртай" #NT!
- VOLUS_CHR_Eirriss:0 "Эйррис" #NT!
- VOLUS_CHR_Dura:0 "Дура" #NT!
- VOLUS_CHR_Drakas:0 "Драки" #NT!
- VOLUS_CHR_Doole:0 "Дул" #NT!
- VOLUS_CHR_Doneta:0 "Донета" #NT!
- VOLUS_CHR_Distombe:0 "Дистомбе" #NT!
- VOLUS_CHR_Daru:0 "Дару" #NT!
- VOLUS_CHR_Cinn:0 "Синн" #NT!
- VOLUS_CHR_Chura:0 "Чура" #NT!
- VOLUS_CHR_Cholakk:0 "Чолакк" #NT!
- VOLUS_CHR_Che:0 "Че" #NT!
- VOLUS_CHR_Chanzor:0 "Чанзор" #NT!
- VOLUS_CHR_Boon:0 "Благо" #NT!
- VOLUS_CHR_Bondura:0 "Бондура" #NT!
- VOLUS_CHR_Bondara:0 "Бондара" #NT!
- VOLUS_CHR_Blen:0 "Блен" #NT!
- VOLUS_CHR_Blankuna:0 "Бланкуна" #NT!
- VOLUS_CHR_Bem:0 "Бем" #NT!
- VOLUS_CHR_Ban:0 "Бан" #NT!
- VOLUS_CHR_Bafka:0 "Бафка" #NT!
- VOLUS_CHR_Aseca:0 "Асека" #NT!
- VOLUS_CHR_Ark:0 "Ковчег" #NT!
- VOLUS_CHR_Ani:0 "Ани" #NT!
- VOLUS_CHR_Amersu:0 "Амерсу" #NT!
- VOLUS_CHR_Afa:0 "Афа" #NT!
+ name_list_btr_volus: "Волюс"
+ VOLUS_SHIP_Bramaistadt: "Брамайштадт"
+ VOLUS_SHIP_Bodo: "бодо"
+ VOLUS_SHIP_Blahnefeld: "Бланефельд"
+ VOLUS_SHIP_Berta: "Берта"
+ VOLUS_SHIP_Bereudorf: "Берёудорф"
+ VOLUS_SHIP_Balta: "Балта"
+ VOLUS_SHIP_Arnard: "Арнард"
+ VOLUS_SHIP_Ardus: "Ардус"
+ VOLUS_SHIP_Ardildif: "Ардильдиф"
+ VOLUS_SHIP_Ardanard: "Арданар"
+ VOLUS_SHIP_Andus: "И нас"
+ VOLUS_SHIP_Andhald: "Андхалд"
+ VOLUS_SHIP_Albewis: "Альбевис"
+ VOLUS_SHIP_Aidus: "Айдус"
+ VOLUS_SHIP_Adarat: "Адарат"
+ VOLUS_SHIP_Abenbruck: "Абенбрюк"
+ VOLUS_SHIP_Elemmard: "Элеммар"
+ VOLUS_SHIP_Eichtenstadt: "Эйхтенштадт"
+ VOLUS_SHIP_Egerdis: "Эгердис"
+ VOLUS_SHIP_Ecis: "Эцис"
+ VOLUS_SHIP_Disuinda: "Disuinda"
+ VOLUS_SHIP_Dietzierruck: "Дитциеррак"
+ VOLUS_SHIP_Dereuhofen: "Dereuhofen"
+ VOLUS_SHIP_Deneruck: "Денерук"
+ VOLUS_SHIP_Denedorf: "Денедорф"
+ VOLUS_SHIP_Burhelde: "Бурхельде"
+ VOLUS_SHIP_Burga: "Бурга"
+ VOLUS_SHIP_Budefels: "Будефельс"
+ VOLUS_SHIP_Breckalthofen: "Брекалтхофен"
+ VOLUS_SHIP_Brauneuwald: "Браунойвальд"
+ VOLUS_SHIP_Geneheim: "Генехейм"
+ VOLUS_SHIP_Geiseheim: "Гайзехайм"
+ VOLUS_SHIP_Gautbo: "Гаутбо"
+ VOLUS_SHIP_Gasta: "Гаста"
+ VOLUS_SHIP_Gardise: "Гардис"
+ VOLUS_SHIP_Frodgundra: "Фродгундра"
+ VOLUS_SHIP_Frictra: "Фриктра"
+ VOLUS_SHIP_Fretzo: "Фрецо"
+ VOLUS_SHIP_Fildefeld: "Филдефельд"
+ VOLUS_SHIP_Etrundis: "Этрундис"
+ VOLUS_SHIP_Etebed: "Этебед"
+ VOLUS_SHIP_Esenbach: "Эзенбах"
+ VOLUS_SHIP_Eppenberg: "Эппенберг"
+ VOLUS_SHIP_Ennindswald: "Эннинсвальд"
+ VOLUS_SHIP_Endadan: "Эндадан"
+ VOLUS_SHIP_Emudef: "Эмудеф"
+ VOLUS_SHIP_Heidefels: "Хайдефельс"
+ VOLUS_SHIP_Hari: "Хари"
+ VOLUS_SHIP_Hanseruck: "Ханзерук"
+ VOLUS_SHIP_Haimo: "Хаймо"
+ VOLUS_SHIP_Gundebach: "Гундебах"
+ VOLUS_SHIP_Gunda: "Гунда"
+ VOLUS_SHIP_Gotzsto: "Гоцсто"
+ VOLUS_SHIP_Goro: "Горо"
+ VOLUS_SHIP_Gori: "Гори"
+ VOLUS_SHIP_Godo: "Иди делай"
+ VOLUS_SHIP_Gleneheim: "Гленхейм"
+ VOLUS_SHIP_Gisuide: "Gisuide"
+ VOLUS_SHIP_Giso: "Гисо"
+ VOLUS_SHIP_Gisamia: "Гисамия"
+ VOLUS_SHIP_Gesebach: "Гезебах"
+ VOLUS_SHIP_Germaiheim: "Гермайхайм"
+ VOLUS_SHIP_Gerla: "Герла"
+ VOLUS_SHIP_Geri: "Джери"
+ VOLUS_SHIP_Hochestein: "Хохештейн"
+ VOLUS_SHIP_Hilta: "Хилта"
+ VOLUS_SHIP_Hilleystein: "Хиллистейн"
+ VOLUS_SHIP_Hildisa: "Хильдиса"
+ VOLUS_SHIP_Hilda: "Хильда"
+ VOLUS_SHIP_Herzenstadt: "Герценштадт"
+ VOLUS_SHIP_Hermsebruck: "Хермзебрюк"
+ VOLUS_SHIP_Heri: "Хери"
+ VOLUS_SHIP_Hennestein: "Хеннештайн"
+ VOLUS_SHIP_Heneufels: "Хенойфельс"
+ VOLUS_SHIP_Henehofen: "Хенехофен"
+ VOLUS_SHIP_Heneheim: "Хенехайм"
+ VOLUS_SHIP_Henefels: "Хенефельс"
+ VOLUS_SHIP_Henedorf: "Хенедорф"
+ VOLUS_SHIP_Heleyfels: "Хелейфельс"
+ VOLUS_SHIP_Letterfeld: "Леттерфельд"
+ VOLUS_SHIP_Lenestadt: "Ленештадт"
+ VOLUS_SHIP_Lenefels: "Ленефельс"
+ VOLUS_SHIP_Lenedorf: "Ленедорф"
+ VOLUS_SHIP_Kulmaiheim: "Кульмайхайм"
+ VOLUS_SHIP_Krankersruck: "Кранкерсрак"
+ VOLUS_SHIP_Kircheberg: "Кирхеберг"
+ VOLUS_SHIP_Kenestadt: "Кенештадт"
+ VOLUS_SHIP_Ingendorf: "Ингендорф"
+ VOLUS_SHIP_Hutterbach: "Хуттербах"
+ VOLUS_SHIP_Hornestein: "Хорнестайн"
+ VOLUS_SHIP_Hornefels: "Хорнефельс"
+ VOLUS_SHIP_Hopfenstadt: "Хопфенштадт"
+ VOLUS_SHIP_Munchestadt: "Мюнхен"
+ VOLUS_SHIP_Munchefels: "Мюнхефельс"
+ VOLUS_SHIP_Muhlestadt: "Мюлештадт"
+ VOLUS_SHIP_Muhleruck: "Мюлерук"
+ VOLUS_SHIP_Muhlefels: "Мюлефельс"
+ VOLUS_SHIP_Mersedorf: "Мерседорф"
+ VOLUS_SHIP_Merkenruck: "Меркенрак"
+ VOLUS_SHIP_Meisehofen: "Майзехофен"
+ VOLUS_SHIP_Meineruck: "Майнерук"
+ VOLUS_SHIP_Medestadt: "Медештадт"
+ VOLUS_SHIP_Maro: "Маро"
+ VOLUS_SHIP_Mannefeld: "Маннефельд"
+ VOLUS_SHIP_Mannebach: "Маннебах"
+ VOLUS_SHIP_Lowaheim: "Ловахайм"
+ VOLUS_SHIP_Rada: "Рада"
+ VOLUS_SHIP_Pottenbruck: "Поттенбрюк"
+ VOLUS_SHIP_Pirsestadt: "Пиршештадт"
+ VOLUS_SHIP_Pfereuheim: "Пферойхайм"
+ VOLUS_SHIP_Penewald: "Пеневальд"
+ VOLUS_SHIP_Peneruck: "Пенерук"
+ VOLUS_SHIP_Peneberg: "Пенеберг"
+ VOLUS_SHIP_Peledorf: "Пеледорф"
+ VOLUS_SHIP_Othindis: "Отиндис"
+ VOLUS_SHIP_Ostenheim: "Остенхайм"
+ VOLUS_SHIP_Orgalben: "Оргалбен"
+ VOLUS_SHIP_Ondenstadt: "Онденштадт"
+ VOLUS_SHIP_Nazo: "Назо"
+ VOLUS_SHIP_Munzelldorf: "Мюнцельдорф"
+ VOLUS_SHIP_Munchestein: "Мюнхенштейн"
+ VOLUS_SHIP_Senedorf: "Сенедорф"
+ VOLUS_SHIP_Senebach: "Сенебах"
+ VOLUS_SHIP_Schlusseberg: "Шлюссеберг"
+ VOLUS_SHIP_Schligudstadt: "Шлигудштадт"
+ VOLUS_SHIP_Schenneuheim: "Шеннойхайм"
+ VOLUS_SHIP_Schatzenfels: "Шаценфельс"
+ VOLUS_SHIP_Ronefeld: "Ронефельд"
+ VOLUS_SHIP_Romaihofen: "Romaihofen"
+ VOLUS_SHIP_Rocina: "Рочина"
+ VOLUS_SHIP_Ribo: "Рибо"
+ VOLUS_SHIP_Redo: "Повторить"
+ VOLUS_SHIP_Rausedorf: "Раузедорф"
+ VOLUS_SHIP_Raomio: "Раомио"
+ VOLUS_SHIP_Rankuppdorf: "Ранкупдорф"
+ VOLUS_SHIP_Radedorf: "Радедорф"
+ VOLUS_SHIP_Weitenheim: "Вайтенхайм"
+ VOLUS_SHIP_Weissefeld: "Вайсфельд"
+ VOLUS_SHIP_Weinefels: "Вайнефельс"
+ VOLUS_SHIP_Weinefeld: "Вайнефельд"
+ VOLUS_SHIP_Weidho: "Вайдо"
+ VOLUS_SHIP_Wando: "Вандо"
+ VOLUS_SHIP_Walleybach: "Валлейбах"
+ VOLUS_SHIP_Vinuuara: "Винууара"
+ VOLUS_SHIP_Usserruck: "Уссеррук"
+ VOLUS_SHIP_Unsterstein: "Унстерштейн"
+ VOLUS_SHIP_Ullenstadt: "Улленштадт"
+ VOLUS_SHIP_Spenestadt: "Спенештадт"
+ VOLUS_SHIP_Siga: "Сига"
+ VOLUS_SHIP_Seneuheim: "Сенухайм"
+ VOLUS_SHIP_Senefeld: "Сенефельд"
+ VOLUS_SHIP_Wurzierfels: "Вурцирфельс"
+ VOLUS_SHIP_Wocco: "Вокко"
+ VOLUS_SHIP_Wino: "Вино"
+ VOLUS_SHIP_Werterhofen: "Вертерхофен"
+ VOLUS_SHIP_Weiterwald: "Вейтервальд"
+ VOLUS_xxFlotilla_ORD: "$O$ Флотилия ОРД"
+ VOLUS_xxPlanetary_Corps_ORD: "$O$ планетарный корпус ORD"
+ VOLUS_xxCentral_Corps_ORD: "$O$ Центральный корпус ОРД"
+ VOLUS_xxMercenary_Corps_ORD: "$O$ Корпус наемников ОРД"
+ VOLUS_xxClone_Corps_ORD: "$O$ Корпус клонов ORD"
+ VOLUS_xxDrone_Corps_ORD: "$O$ Отряд дронов ORD"
+ VOLUS_xxBiotic_Corps_ORD: "$O$ Биотический корпус ORD"
+ VOLUS_xxXeno_Corps_ORD: "$O$ Ксенокорпус ОРД"
+ VOLUS_xxGene_Corps_ORD: "$O$ Gene Corps ORD"
+ VOLUS_CHR_Zhar: "Жар"
+ VOLUS_CHR_Zelada: "Зелада"
+ VOLUS_CHR_Yuned: "Юнед"
+ VOLUS_CHR_Yuleph: "Юлеф"
+ VOLUS_CHR_Warat: "Варат"
+ VOLUS_CHR_Vuren: "Вурен"
+ VOLUS_CHR_Vort: "Ворт"
+ VOLUS_CHR_Viyo: "Вийо"
+ VOLUS_CHR_Vhilin: "Вилин"
+ VOLUS_CHR_Van: "Ван"
+ VOLUS_CHR_Valsil: "Валсиль"
+ VOLUS_CHR_Urgrec: "Ургрек"
+ VOLUS_CHR_Tymo: "Тимо"
+ VOLUS_CHR_Tre: "Тре"
+ VOLUS_CHR_Tott: "Тотт"
+ VOLUS_CHR_Tol: "Тол"
+ VOLUS_CHR_Tazonthe: "Тазонте"
+ VOLUS_CHR_Tardon: "Тардон"
+ VOLUS_CHR_Tanith: "Танит"
+ VOLUS_CHR_Tal: "Таль"
+ VOLUS_CHR_Tae: "Тэ"
+ VOLUS_CHR_Skawn: "Скаун"
+ VOLUS_CHR_Siolo: "Сиоло"
+ VOLUS_CHR_Silais: "Силаис"
+ VOLUS_CHR_Shul: "Шул"
+ VOLUS_CHR_Sedriss: "Седрис"
+ VOLUS_CHR_Saylew: "Сэйлью"
+ VOLUS_CHR_Saresh: "Сареш"
+ VOLUS_CHR_Rol: "Рол"
+ VOLUS_CHR_Ro: "Ро"
+ VOLUS_CHR_Ress: "Ресс"
+ VOLUS_CHR_Remmik: "Реммик"
+ VOLUS_CHR_Ree: "Ри"
+ VOLUS_CHR_Quink: "Квинк"
+ VOLUS_CHR_Pratari: "Пратари"
+ VOLUS_CHR_Poronth: "Поронт"
+ VOLUS_CHR_Pol: "Пол"
+ VOLUS_CHR_Orn: "Орн"
+ VOLUS_CHR_Onok: "Онок"
+ VOLUS_CHR_Olm: "Олм"
+ VOLUS_CHR_Ob: "Обь"
+ VOLUS_CHR_Nuro: "Нуро"
+ VOLUS_CHR_Nilim: "Нилим"
+ VOLUS_CHR_Nico: "Нико"
+ VOLUS_CHR_Newar: "Невар"
+ VOLUS_CHR_Nerra: "Нерра"
+ VOLUS_CHR_Nawara: "Навара"
+ VOLUS_CHR_Nat: "Нат"
+ VOLUS_CHR_Namen: "Имя"
+ VOLUS_CHR_Nabat: "Набат"
+ VOLUS_CHR_Mazer: "Мазер"
+ VOLUS_CHR_Matrik: "Матрик"
+ VOLUS_CHR_Mannes: "Маннес"
+ VOLUS_CHR_Lur: "Лур"
+ VOLUS_CHR_Lupo: "Лупо"
+ VOLUS_CHR_Lonay: "Лоней"
+ VOLUS_CHR_Lon: "Лон"
+ VOLUS_CHR_Leb: "Леб"
+ VOLUS_CHR_Komad: "Комад"
+ VOLUS_CHR_Kiph: "Киф"
+ VOLUS_CHR_Kidd: "Кидд"
+ VOLUS_CHR_Khwir: "Хвир"
+ VOLUS_CHR_Kaul: "Каул"
+ VOLUS_CHR_Karawn: "Карон"
+ VOLUS_CHR_Karal: "Карал"
+ VOLUS_CHR_Kandon: "Кандон"
+ VOLUS_CHR_Kaim: "Каим"
+ VOLUS_CHR_Kailur: "Кайлур"
+ VOLUS_CHR_Jundo: "Jundo"
+ VOLUS_CHR_Jor: "Джор"
+ VOLUS_CHR_Jinx: "Джинкс"
+ VOLUS_CHR_Jer: "Джер"
+ VOLUS_CHR_Jela: "Джела"
+ VOLUS_CHR_Jekk: "Джекк"
+ VOLUS_CHR_Jart: "Джарт"
+ VOLUS_CHR_Jan: "Ян"
+ VOLUS_CHR_Inun: "Инун"
+ VOLUS_CHR_Ilar: "Илар"
+ VOLUS_CHR_Hid: "Спрятался"
+ VOLUS_CHR_Harra: "Харра"
+ VOLUS_CHR_Haly: "Халы"
+ VOLUS_CHR_Hab: "Дом"
+ VOLUS_CHR_Guun: "Гуун"
+ VOLUS_CHR_Guldus: "Гулдус"
+ VOLUS_CHR_Gobi: "Гоби"
+ VOLUS_CHR_Griff: "Грифф"
+ VOLUS_CHR_Glie: "Глие"
+ VOLUS_CHR_Gim: "Гим"
+ VOLUS_CHR_Firith: "Фирит"
+ VOLUS_CHR_Femi: "Феми"
+ VOLUS_CHR_Fassa: "Фасса"
+ VOLUS_CHR_Elav: "Элав"
+ VOLUS_CHR_Doton: "Дотон"
+ VOLUS_CHR_Dinek: "Динек"
+ VOLUS_CHR_Dez: "Дез"
+ VOLUS_CHR_Deesra: "Деэсра"
+ VOLUS_CHR_Darap: "Дарап"
+ VOLUS_CHR_Cotan: "Котан"
+ VOLUS_CHR_Connus: "Коннус"
+ VOLUS_CHR_Chom: "Чом"
+ VOLUS_CHR_Chee: "Чи"
+ VOLUS_CHR_Cham: "Чам"
+ VOLUS_CHR_Chabak: "Чабак"
+ VOLUS_CHR_Cesi: "Чези"
+ VOLUS_CHR_Cel: "Чел"
+ VOLUS_CHR_Cazne: "Казне"
+ VOLUS_CHR_Cash: "Наличные"
+ VOLUS_CHR_Byt: "байт"
+ VOLUS_CHR_Bril: "Бриль"
+ VOLUS_CHR_Bolook: "Болук"
+ VOLUS_CHR_Boc: "Бок"
+ VOLUS_CHR_Bik: "Бик"
+ VOLUS_CHR_Bib: "нагрудник"
+ VOLUS_CHR_Artruk: "Артрук"
+ VOLUS_CHR_Anoon: "Анун"
+ VOLUS_CHR_Alask: "Аляска"
+ VOLUS_CHR_Ahrnell: "Арнелл"
+ VOLUS_CHR_Zoriis: "Зориис"
+ VOLUS_CHR_Yuthura: "Ютура"
+ VOLUS_CHR_Yadira: "Ядира"
+ VOLUS_CHR_Xiann: "Xiann"
+ VOLUS_CHR_Xiaan: "Xiaan"
+ VOLUS_CHR_Vokara: "Вокара"
+ VOLUS_CHR_Vant: "Вант"
+ VOLUS_CHR_Tronda: "Тронда"
+ VOLUS_CHR_Trella: "Трелла"
+ VOLUS_CHR_Teeubo: "Тиубо"
+ VOLUS_CHR_Tann: "Танн"
+ VOLUS_CHR_Talik: "Талик"
+ VOLUS_CHR_Sumari: "Сумари"
+ VOLUS_CHR_Suu: "Суу"
+ VOLUS_CHR_Sinya: "Синя"
+ VOLUS_CHR_Sienn: "Сиенн"
+ VOLUS_CHR_Shiri: "Шири"
+ VOLUS_CHR_Shakka: "Шакка"
+ VOLUS_CHR_Shaeeah: "Шейа"
+ VOLUS_CHR_Seku: "Секу"
+ VOLUS_CHR_Seela: "Сила"
+ VOLUS_CHR_Seddwia: "Седдвия"
+ VOLUS_CHR_Saya: "Сая"
+ VOLUS_CHR_Rypka: "Рыпка"
+ VOLUS_CHR_Rianna: "Рианна"
+ VOLUS_CHR_Ramana: "Рамана"
+ VOLUS_CHR_Rachi: "Рачи"
+ VOLUS_CHR_Ranna: "Ранна"
+ VOLUS_CHR_Poy: "Пой"
+ VOLUS_CHR_Palakwi: "Палакви"
+ VOLUS_CHR_Padda: "Падда"
+ VOLUS_CHR_Oola: "Оола"
+ VOLUS_CHR_Numa: "Нума"
+ VOLUS_CHR_Nolaa: "Нолаа"
+ VOLUS_CHR_Nima: "Нима"
+ VOLUS_CHR_Nalan: "Налан"
+ VOLUS_CHR_Nabrina: "Набрина"
+ VOLUS_CHR_Mission: "Миссия"
+ VOLUS_CHR_Memah: "Мемах"
+ VOLUS_CHR_Mazie: "Мази"
+ VOLUS_CHR_Marny: "Марни"
+ VOLUS_CHR_Malare: "Маларе"
+ VOLUS_CHR_Mala: "Мала"
+ VOLUS_CHR_Lyn: "Лин"
+ VOLUS_CHR_Lunae: "Луна"
+ VOLUS_CHR_Lubo: "Любо"
+ VOLUS_CHR_Leontyne: "Леонтина"
+ VOLUS_CHR_Lena: "Лена"
+ VOLUS_CHR_Laseema: "Ласима"
+ VOLUS_CHR_Larrim: "Ларрим"
+ VOLUS_CHR_Laranth: "Ларант"
+ VOLUS_CHR_Koyi: "Койи"
+ VOLUS_CHR_Kolovish: "Коловиш"
+ VOLUS_CHR_Kayi: "Кайи"
+ VOLUS_CHR_Hera: "Гера"
+ VOLUS_CHR_Hadiya: "Хадия"
+ VOLUS_CHR_Juda: "Иуда"
+ VOLUS_CHR_Jiljoo: "Джиджу"
+ VOLUS_CHR_Janice: "Дженис"
+ VOLUS_CHR_Isval: "Исваль"
+ VOLUS_CHR_Hirani: "Hirani"
+ VOLUS_CHR_Giza: "Гиза"
+ VOLUS_CHR_Gida: "Гида"
+ VOLUS_CHR_Ghia: "Гиа"
+ VOLUS_CHR_Finn: "Финн"
+ VOLUS_CHR_Feen: "Фен"
+ VOLUS_CHR_Eleena: "Елена"
+ VOLUS_CHR_Drua: "Друа"
+ VOLUS_CHR_Dia: "Диа"
+ VOLUS_CHR_Daesha: "Даеша"
+ VOLUS_CHR_Borna: "Борна"
+ VOLUS_CHR_Bink: "Бинк"
+ VOLUS_CHR_Berri: "Берри"
+ VOLUS_CHR_Astraal: "Астраал"
+ VOLUS_CHR_Arruna: "Арруна"
+ VOLUS_CHR_Ardana: "Ардана"
+ VOLUS_CHR_Aola: "Аола"
+ VOLUS_CHR_Ann: "Анна"
+ VOLUS_CHR_Anglu: "Англу"
+ VOLUS_CHR_Alora: "Алора"
+ VOLUS_CHR_Alema: "Алема"
+ VOLUS_CHR_Aayla: "Айла"
+ VOLUS_CHR_Ziveri: "Зивери"
+ VOLUS_CHR_Waran: "Варан"
+ VOLUS_CHR_Vrei: "Врей"
+ VOLUS_CHR_Vida: "Вида"
+ VOLUS_CHR_Ven: "Вен"
+ VOLUS_CHR_Vao: "Вао"
+ VOLUS_CHR_Valla: "Валла"
+ VOLUS_CHR_Vaal: "ваал"
+ VOLUS_CHR_Utrila: "Утрила"
+ VOLUS_CHR_Tualin: "Туалин"
+ VOLUS_CHR_Torr: "Торр"
+ VOLUS_CHR_Toqema: "Токема"
+ VOLUS_CHR_Tiatkin: "Тяткин"
+ VOLUS_CHR_Thorla: "Торла"
+ VOLUS_CHR_Teksa: "Текса"
+ VOLUS_CHR_Tarkona: "Таркона"
+ VOLUS_CHR_Tarak: "Тарак"
+ VOLUS_CHR_Tar: "Тар"
+ VOLUS_CHR_TaoVen: "Тао'Вен"
+ VOLUS_CHR_Taa: "Таа"
+ VOLUS_CHR_Syndulla: "Синдулла"
+ VOLUS_CHR_Surool: "Сурул"
+ VOLUS_CHR_Sulas: "Сулас"
+ VOLUS_CHR_Sorzo: "Сорзо"
+ VOLUS_CHR_Smoo: "Сму"
+ VOLUS_CHR_Sivron: "Сиврон"
+ VOLUS_CHR_Sitra: "Ситра"
+ VOLUS_CHR_Shar: "Шар"
+ VOLUS_CHR_Shala: "Шала"
+ VOLUS_CHR_Senvi: "Сенви"
+ VOLUS_CHR_Sekia: "Секия"
+ VOLUS_CHR_Secura: "Секура"
+ VOLUS_CHR_Saren: "Сарен"
+ VOLUS_CHR_Sana: "Сана"
+ VOLUS_CHR_Roothes: "Рутс"
+ VOLUS_CHR_Rha: "Ра"
+ VOLUS_CHR_Rar: "рар"
+ VOLUS_CHR_Raloch: "Ралох"
+ VOLUS_CHR_Racor: "Ракор"
+ VOLUS_CHR_Rackus: "Ракус"
+ VOLUS_CHR_Preyssola: "Прейсола"
+ VOLUS_CHR_Phan: "Фан"
+ VOLUS_CHR_Passik: "Пассик"
+ VOLUS_CHR_Olgkru: "Ольгкру"
+ VOLUS_CHR_Olan: "Олан"
+ VOLUS_CHR_Norman: "Норманн"
+ VOLUS_CHR_Nall: "Налл"
+ VOLUS_CHR_Mobok: "Мобок"
+ VOLUS_CHR_Minx: "шалунья"
+ VOLUS_CHR_Me: "Мне"
+ VOLUS_CHR_Mateil: "Матейл"
+ VOLUS_CHR_Martik: "Мартик"
+ VOLUS_CHR_Lys: "Лис"
+ VOLUS_CHR_Luroon: "Лурун"
+ VOLUS_CHR_Lor: "Лор"
+ VOLUS_CHR_Lestin: "Лестин"
+ VOLUS_CHR_Lawquane: "Локуейн"
+ VOLUS_CHR_Kulavinar: "Кулавинар"
+ VOLUS_CHR_Ksi: "Кси"
+ VOLUS_CHR_Kru: "Кру"
+ VOLUS_CHR_Kobbeth: "Коббет"
+ VOLUS_CHR_Kluub: "Клуб"
+ VOLUS_CHR_Kareen: "Карин"
+ VOLUS_CHR_Kairn: "Кайрн"
+ VOLUS_CHR_Kaar: "Каар"
+ VOLUS_CHR_Jada: "Джада"
+ VOLUS_CHR_Jab: "Джеб"
+ VOLUS_CHR_Idrall: "Идралл"
+ VOLUS_CHR_Het: "Хет"
+ VOLUS_CHR_Han: "Хан"
+ VOLUS_CHR_Golor: "Голор"
+ VOLUS_CHR_Ghon: "Гон"
+ VOLUS_CHR_Gella: "Гелла"
+ VOLUS_CHR_Garrulan: "Гаррулан"
+ VOLUS_CHR_Freykaa: "Фрейкаа"
+ VOLUS_CHR_Freetaa: "Фритаа"
+ VOLUS_CHR_Forrth: "вперед"
+ VOLUS_CHR_Fortuna: "Фортуна"
+ VOLUS_CHR_Fenn: "Фенн"
+ VOLUS_CHR_Eyan: "Эян"
+ VOLUS_CHR_Ertay: "Эртай"
+ VOLUS_CHR_Eirriss: "Эйррис"
+ VOLUS_CHR_Dura: "Дура"
+ VOLUS_CHR_Drakas: "Драки"
+ VOLUS_CHR_Doole: "Дул"
+ VOLUS_CHR_Doneta: "Донета"
+ VOLUS_CHR_Distombe: "Дистомбе"
+ VOLUS_CHR_Daru: "Дару"
+ VOLUS_CHR_Cinn: "Синн"
+ VOLUS_CHR_Chura: "Чура"
+ VOLUS_CHR_Cholakk: "Чолакк"
+ VOLUS_CHR_Che: "Че"
+ VOLUS_CHR_Chanzor: "Чанзор"
+ VOLUS_CHR_Boon: "Благо"
+ VOLUS_CHR_Bondura: "Бондура"
+ VOLUS_CHR_Bondara: "Бондара"
+ VOLUS_CHR_Blen: "Блен"
+ VOLUS_CHR_Blankuna: "Бланкуна"
+ VOLUS_CHR_Bem: "Бем"
+ VOLUS_CHR_Ban: "Бан"
+ VOLUS_CHR_Bafka: "Бафка"
+ VOLUS_CHR_Aseca: "Асека"
+ VOLUS_CHR_Ark: "Ковчег"
+ VOLUS_CHR_Ani: "Ани"
+ VOLUS_CHR_Amersu: "Амерсу"
+ VOLUS_CHR_Afa: "Афа"

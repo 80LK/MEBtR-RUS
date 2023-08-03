@@ -1,163 +1,163 @@
 ﻿l_russian:
- name_list_btr_krogan:0 "Кроган" #NT!
- KROGAN_SHIP_TrumDakhan:0 "Трум'Дахан" #NT!
- KROGAN_SHIP_TrumSoyob:0 "Трум'Сойоб" #NT!
- KROGAN_SHIP_TrumHariss:0 "Трум'Харисс" #NT!
- KROGAN_SHIP_TrumPoffon:0 "Трум'Поффон" #NT!
- KROGAN_SHIP_TrumKariss:0 "Трум'Карисс" #NT!
- KROGAN_SHIP_TrumVakhna:0 "Трум'Вахна" #NT!
- KROGAN_SHIP_TrumRokh:0 "Трум'Рох" #NT!
- KROGAN_SHIP_TrumDoloss:0 "Трум'Долосс" #NT!
- KROGAN_SHIP_TrumSarim:0 "Трум'Сарим" #NT!
- KROGAN_SHIP_TrumDolon:0 "Трум'Долон" #NT!
- KROGAN_SHIP_TrumPakh:0 "Трум'Пах" #NT!
- KROGAN_SHIP_TrumOkran:0 "Трум'Окран" #NT!
- KROGAN_SHIP_TrumOloman:0 "Трум'Оломан" #NT!
- KROGAN_SHIP_TrumHistan:0 "Трум'Хистан" #NT!
- KROGAN_SHIP_TrumRokba:0 "Трум'Рокба" #NT!
- KROGAN_SHIP_TrumLampan:0 "Трум'Лампан" #NT!
- KROGAN_SHIP_TrumBarkan:0 "Трум'Баркан" #NT!
- KROGAN_SHIP_TrumCassthar:0 "Трум'Кастар" #NT!
- KROGAN_SHIP_TrumEsam:0 "Трум'Эсам" #NT!
- KROGAN_SHIP_TrumVassk:0 "Трум'Васск" #NT!
- KROGAN_SHIP_TrumDukh:0 "Трум'Дух" #NT!
- KROGAN_SHIP_TrumVoim:0 "Трум'Войм" #NT!
- KROGAN_SHIP_TrumReeken:0 "Трум'Рикен" #NT!
- KROGAN_SHIP_TrumAbnar:0 "Трум'Абнар" #NT!
- KROGAN_SHIP_TrumZoyom:0 "Трум'Зойом" #NT!
- KROGAN_SHIP_TrumBathnor:0 "Трум'Батнор" #NT!
- KROGAN_SHIP_TrumBodnok:0 "Трум'Боднок" #NT!
- KROGAN_SHIP_TrumDialom:0 "Трум'Диалом" #NT!
- KROGAN_SHIP_TrumMothon:0 "Трум'Мотон" #NT!
- KROGAN_SHIP_TrumIomath:0 "Трум'Иомат" #NT!
- KROGAN_SHIP_TrumFarass:0 "Трум'Фарас" #NT!
- KROGAN_SHIP_TrumFokin:0 "Трум'Фокин" #NT!
- KROGAN_SHIP_AlamHinthab:0 "Алам'Хинтаб" #NT!
- KROGAN_SHIP_AlamKorob:0 "Алам'Короб" #NT!
- KROGAN_SHIP_AlamGioshum:0 "Алам'Гиошум" #NT!
- KROGAN_SHIP_AlamParathnak:0 "Алам'Паратнак" #NT!
- KROGAN_SHIP_AlamShuss:0 "Алам'Шусс" #NT!
- KROGAN_SHIP_AlamPurim:0 "Алам Пурим" #NT!
- KROGAN_SHIP_AlamTisska:0 "Алам'Тисска" #NT!
- KROGAN_SHIP_AlamTaratha:0 "Алам'Тарата" #NT!
- KROGAN_SHIP_AlamTurom:0 "Алам'Туром" #NT!
- KROGAN_SHIP_AlamBissna:0 "Алам'Биссна" #NT!
- KROGAN_SHIP_AlamTreesk:0 "Алам'Триск" #NT!
- KROGAN_SHIP_AlamRastram:0 "Алам'Растрам" #NT!
- KROGAN_SHIP_AlamPolluner:0 "Алам'Поллунер" #NT!
- KROGAN_SHIP_AlamFethon:0 "Алам'Фетон" #NT!
- KROGAN_SHIP_AlamBebinna:0 "Алам'Бебинна" #NT!
- KROGAN_SHIP_AlamRossul:0 "Алам'Россул" #NT!
- KROGAN_SHIP_AlamSior:0 "Алам'Сиор" #NT!
- KROGAN_SHIP_AlamTannek:0 "Алам'Таннек" #NT!
- KROGAN_SHIP_AlamAvintok:0 "Алам'Авинток" #NT!
- KROGAN_SHIP_AlamKulom:0 "Алам'Кулом" #NT!
- KROGAN_SHIP_PobDuthur:0 "Поб'Дутур" #NT!
- KROGAN_SHIP_PobKreedak:0 "Поб'Кредак" #NT!
- KROGAN_SHIP_PobEreesim:0 "Поб'Эрисим" #NT!
- KROGAN_SHIP_PobSumath:0 "Поб'Сумат" #NT!
- KROGAN_SHIP_PobMinisk:0 "Поб'Миниск" #NT!
- KROGAN_SHIP_PobGreefad:0 "Поб'Грифад" #NT!
- KROGAN_SHIP_PobOnor:0 "Поб'Онор" #NT!
- KROGAN_SHIP_PobKassh:0 "Поб'Каш" #NT!
- KROGAN_SHIP_PobTirin:0 "Поб'Тирин" #NT!
- KROGAN_SHIP_AlamBuskat:0 "Алам'Бускат" #NT!
- KROGAN_SHIP_AlamEnerpul:0 "Алам'Энерпул" #NT!
- KROGAN_SHIP_PobIkath:0 "Поб'Икат" #NT!
- KROGAN_SHIP_PobRumber:0 "Поб'Рамбер" #NT!
- KROGAN_SHIP_PobThorok:0 "Поб'Торок" #NT!
- KROGAN_SHIP_PobVikham:0 "Поб'Викхам" #NT!
- KROGAN_SHIP_PobIllith:0 "Поб'Илит" #NT!
- KROGAN_SHIP_PobTharat:0 "Поб'Тарат" #NT!
- KROGAN_SHIP_PobBuvdar:0 "Поб'Бувдар" #NT!
- KROGAN_SHIP_PobBadram:0 "Поб'Бадрам" #NT!
- KROGAN_SHIP_PobVermeb:0 "Поб'Вермеб" #NT!
- KROGAN_SHIP_PobHialash:0 "Поб'Хиалаш" #NT!
- KROGAN_FLEET_Weyrloc_Clan_Fleet:0 "Флот клана Вейрлок" #NT!
- KROGAN_FLEET_Nakmor_Clan_Fleet:0 "Флот клана Накмор" #NT!
- KROGAN_FLEET_Jurdon_Clan_Fleet:0 "Флот клана Джердон" #NT!
- KROGAN_FLEET_Drau_Clan_Fleet:0 "Флот клана Драу" #NT!
- KROGAN_FLEET_Raik_Clan_Fleet:0 "Флот клана Райка" #NT!
- KROGAN_FLEET_Khel_Clan_Fleet:0 "Флот клана Хел" #NT!
- KROGAN_FLEET_Thax_Clan_Fleet:0 "Флот клана Такс" #NT!
- KROGAN_FLEET_Ravanor_Clan_Fleet:0 "Флот клана Раванор" #NT!
- KROGAN_FLEET_Quash_Clan_Fleet:0 "Флот клана Куаш" #NT!
- KROGAN_FLEET_Urdnot_Clan_Fleet:0 "Флот клана Урднот" #NT!
- KROGAN_FLEET_Clan_Fleet_ORD:0 "$O$ Клановый флот" #NT!
- KROGAN_xxClan_ORD:0 "$O$ Клан" #NT!
- KROGAN_xxBerserker_ORD:0 "$O$ Берсерки" #NT!
- KROGAN_xxBondservants_ORD:0 "$O$ Подневольные слуги" #NT!
- KROGAN_xxAssault_Nexus_ORD:0 "$O$ Атака на Нексус" #NT!
- KROGAN_xxShaman_Adepts_ORD:0 "$O$ Шаманские адепты" #NT!
- KROGAN_xxWar_Beasts_ORD:0 "$O$ Боевые звери" #NT!
- KROGAN_xxBattlemaster_ORD:0 "$O$ Военачальники" #NT!
- KROGAN_CHAR_Bragus:0 "Брагус" #NT!
- KROGAN_CHAR_Drau:0 "Драу" #NT!
- KROGAN_CHAR_Forsan:0 "Форсан" #NT!
- KROGAN_CHAR_Ganar:0 "Ганар" #NT!
- KROGAN_CHAR_Gatatog:0 "Гататог" #NT!
- KROGAN_CHAR_Hailot:0 "Хайлот" #NT!
- KROGAN_CHAR_Jorgal:0 "Йоргал" #NT!
- KROGAN_CHAR_Jurdon:0 "Джердон" #NT!
- KROGAN_CHAR_Khel:0 "Хел" #NT!
- KROGAN_CHAR_Nakmor:0 "Накмор" #NT!
- KROGAN_CHAR_Quash:0 "Куаш" #NT!
- KROGAN_CHAR_Raik:0 "Райк" #NT!
- KROGAN_CHAR_Ravanor:0 "Раванор" #NT!
- KROGAN_CHAR_Talyth:0 "Талит" #NT!
- KROGAN_CHAR_Thax:0 "Такс" #NT!
- KROGAN_CHAR_Weyrloc:0 "Вейрлок" #NT!
- KROGAN_CHAR_Urdnot:0 "Урднот" #NT!
- KROGAN_CHAR_Waar:0 "Ваар" #NT!
- KROGAN_CHAR_Drand:0 "Дранд" #NT!
- KROGAN_CHAR_Magor:0 "Магор" #NT!
- KROGAN_CHAR_Nax:0 "Накс" #NT!
- KROGAN_CHAR_Ralax:0 "Ралакс" #NT!
- KROGAN_CHAR_Rak:0 "Рак" #NT!
- KROGAN_CHAR_Grand:0 "Гранд" #NT!
- KROGAN_CHAR_Srutack:0 "Срутак" #NT!
- KROGAN_CHAR_Krulak:0 "Крулак" #NT!
- KROGAN_CHAR_Gand:0 "Ганд" #NT!
- KROGAN_CHAR_Guld:0 "Гульд" #NT!
- KROGAN_CHAR_Vorak:0 "Ворак" #NT!
- KROGAN_CHAR_Wrund:0 "Wrund" #NT!
- KROGAN_CHAR_Thul:0 "Тул" #NT!
- KROGAN_CHAR_Sorze:0 "Сорце" #NT!
- KROGAN_CHAR_Wrang:0 "Вранг" #NT!
- KROGAN_CHAR_Hurgott:0 "Хурготт" #NT!
- KROGAN_CHAR_Burrum:0 "Буррум" #NT!
- KROGAN_CHAR_Grunt:0 "ворчание" #NT!
- KROGAN_CHAR_Wreav:0 "Врев" #NT!
- KROGAN_CHAR_Wrex:0 "Рекс" #NT!
- KROGAN_CHAR_Waare:0 "Вааре" #NT!
- KROGAN_CHAR_Drandu:0 "Дранду" #NT!
- KROGAN_CHAR_Magora:0 "Magora" #NT!
- KROGAN_CHAR_Naxu:0 "Наксу" #NT!
- KROGAN_CHAR_Ralaxe:0 "Расслабление" #NT!
- KROGAN_CHAR_Raki:0 "Раки" #NT!
- KROGAN_CHAR_Granda:0 "Гранда" #NT!
- KROGAN_CHAR_Srutacka:0 "Шрутацка" #NT!
- KROGAN_CHAR_Krulaka:0 "Крулака" #NT!
- KROGAN_CHAR_Gandu:0 "Ганду" #NT!
- KROGAN_CHAR_Gulda:0 "Гульда" #NT!
- KROGAN_CHAR_Voraka:0 "Ворака" #NT!
- KROGAN_CHAR_Wrundi:0 "Врунди" #NT!
- KROGAN_CHAR_Thuli:0 "Тули" #NT!
- KROGAN_CHAR_Wrange:0 "Вранг" #NT!
- KROGAN_CHAR_Hurgotta:0 "Хурготта" #NT!
- KROGAN_CHAR_Burrumi:0 "Бурруми" #NT!
- KROGAN_CHAR_Wreavi:0 "Вреви" #NT!
- KROGAN_CHAR_Bakara:0 "Бакара" #NT!
- KROGAN_CHAR_Wrexa:0 "Рекса" #NT!
- KROGAN_CHAR_Waaara:0 "Вааара" #NT!
- KROGAN_CHAR_Wrarre:0 "Ворре" #NT!
- KROGAN_CHAR_Wurri:0 "Вурри" #NT!
- KROGAN_CHAR_Wuraka:0 "Вурака" #NT!
- KROGAN_CHAR_Wruxxi:0 "Врукси" #NT!
- KROGAN_CHAR_Wrodu:0 "Вроду" #NT!
- KROGAN_CHAR_Wrunda:0 "Врунда" #NT!
- KROGAN_CHAR_Wrarr:0 "Воррр" #NT!
- KROGAN_CHAR_Wurr:0 "Вурр" #NT!
- KROGAN_CHAR_Wurak:0 "Вурак" #NT!
- KROGAN_CHAR_Wruxx:0 "Врукс" #NT!
- KROGAN_CHAR_Wrod:0 "Врод" #NT!
+ name_list_btr_krogan: "Кроган"
+ KROGAN_SHIP_TrumDakhan: "Трум'Дахан"
+ KROGAN_SHIP_TrumSoyob: "Трум'Сойоб"
+ KROGAN_SHIP_TrumHariss: "Трум'Харисс"
+ KROGAN_SHIP_TrumPoffon: "Трум'Поффон"
+ KROGAN_SHIP_TrumKariss: "Трум'Карисс"
+ KROGAN_SHIP_TrumVakhna: "Трум'Вахна"
+ KROGAN_SHIP_TrumRokh: "Трум'Рох"
+ KROGAN_SHIP_TrumDoloss: "Трум'Долосс"
+ KROGAN_SHIP_TrumSarim: "Трум'Сарим"
+ KROGAN_SHIP_TrumDolon: "Трум'Долон"
+ KROGAN_SHIP_TrumPakh: "Трум'Пах"
+ KROGAN_SHIP_TrumOkran: "Трум'Окран"
+ KROGAN_SHIP_TrumOloman: "Трум'Оломан"
+ KROGAN_SHIP_TrumHistan: "Трум'Хистан"
+ KROGAN_SHIP_TrumRokba: "Трум'Рокба"
+ KROGAN_SHIP_TrumLampan: "Трум'Лампан"
+ KROGAN_SHIP_TrumBarkan: "Трум'Баркан"
+ KROGAN_SHIP_TrumCassthar: "Трум'Кастар"
+ KROGAN_SHIP_TrumEsam: "Трум'Эсам"
+ KROGAN_SHIP_TrumVassk: "Трум'Васск"
+ KROGAN_SHIP_TrumDukh: "Трум'Дух"
+ KROGAN_SHIP_TrumVoim: "Трум'Войм"
+ KROGAN_SHIP_TrumReeken: "Трум'Рикен"
+ KROGAN_SHIP_TrumAbnar: "Трум'Абнар"
+ KROGAN_SHIP_TrumZoyom: "Трум'Зойом"
+ KROGAN_SHIP_TrumBathnor: "Трум'Батнор"
+ KROGAN_SHIP_TrumBodnok: "Трум'Боднок"
+ KROGAN_SHIP_TrumDialom: "Трум'Диалом"
+ KROGAN_SHIP_TrumMothon: "Трум'Мотон"
+ KROGAN_SHIP_TrumIomath: "Трум'Иомат"
+ KROGAN_SHIP_TrumFarass: "Трум'Фарас"
+ KROGAN_SHIP_TrumFokin: "Трум'Фокин"
+ KROGAN_SHIP_AlamHinthab: "Алам'Хинтаб"
+ KROGAN_SHIP_AlamKorob: "Алам'Короб"
+ KROGAN_SHIP_AlamGioshum: "Алам'Гиошум"
+ KROGAN_SHIP_AlamParathnak: "Алам'Паратнак"
+ KROGAN_SHIP_AlamShuss: "Алам'Шусс"
+ KROGAN_SHIP_AlamPurim: "Алам Пурим"
+ KROGAN_SHIP_AlamTisska: "Алам'Тисска"
+ KROGAN_SHIP_AlamTaratha: "Алам'Тарата"
+ KROGAN_SHIP_AlamTurom: "Алам'Туром"
+ KROGAN_SHIP_AlamBissna: "Алам'Биссна"
+ KROGAN_SHIP_AlamTreesk: "Алам'Триск"
+ KROGAN_SHIP_AlamRastram: "Алам'Растрам"
+ KROGAN_SHIP_AlamPolluner: "Алам'Поллунер"
+ KROGAN_SHIP_AlamFethon: "Алам'Фетон"
+ KROGAN_SHIP_AlamBebinna: "Алам'Бебинна"
+ KROGAN_SHIP_AlamRossul: "Алам'Россул"
+ KROGAN_SHIP_AlamSior: "Алам'Сиор"
+ KROGAN_SHIP_AlamTannek: "Алам'Таннек"
+ KROGAN_SHIP_AlamAvintok: "Алам'Авинток"
+ KROGAN_SHIP_AlamKulom: "Алам'Кулом"
+ KROGAN_SHIP_PobDuthur: "Поб'Дутур"
+ KROGAN_SHIP_PobKreedak: "Поб'Кредак"
+ KROGAN_SHIP_PobEreesim: "Поб'Эрисим"
+ KROGAN_SHIP_PobSumath: "Поб'Сумат"
+ KROGAN_SHIP_PobMinisk: "Поб'Миниск"
+ KROGAN_SHIP_PobGreefad: "Поб'Грифад"
+ KROGAN_SHIP_PobOnor: "Поб'Онор"
+ KROGAN_SHIP_PobKassh: "Поб'Каш"
+ KROGAN_SHIP_PobTirin: "Поб'Тирин"
+ KROGAN_SHIP_AlamBuskat: "Алам'Бускат"
+ KROGAN_SHIP_AlamEnerpul: "Алам'Энерпул"
+ KROGAN_SHIP_PobIkath: "Поб'Икат"
+ KROGAN_SHIP_PobRumber: "Поб'Рамбер"
+ KROGAN_SHIP_PobThorok: "Поб'Торок"
+ KROGAN_SHIP_PobVikham: "Поб'Викхам"
+ KROGAN_SHIP_PobIllith: "Поб'Илит"
+ KROGAN_SHIP_PobTharat: "Поб'Тарат"
+ KROGAN_SHIP_PobBuvdar: "Поб'Бувдар"
+ KROGAN_SHIP_PobBadram: "Поб'Бадрам"
+ KROGAN_SHIP_PobVermeb: "Поб'Вермеб"
+ KROGAN_SHIP_PobHialash: "Поб'Хиалаш"
+ KROGAN_FLEET_Weyrloc_Clan_Fleet: "Флот клана Вейрлок"
+ KROGAN_FLEET_Nakmor_Clan_Fleet: "Флот клана Накмор"
+ KROGAN_FLEET_Jurdon_Clan_Fleet: "Флот клана Джердон"
+ KROGAN_FLEET_Drau_Clan_Fleet: "Флот клана Драу"
+ KROGAN_FLEET_Raik_Clan_Fleet: "Флот клана Райка"
+ KROGAN_FLEET_Khel_Clan_Fleet: "Флот клана Хел"
+ KROGAN_FLEET_Thax_Clan_Fleet: "Флот клана Такс"
+ KROGAN_FLEET_Ravanor_Clan_Fleet: "Флот клана Раванор"
+ KROGAN_FLEET_Quash_Clan_Fleet: "Флот клана Куаш"
+ KROGAN_FLEET_Urdnot_Clan_Fleet: "Флот клана Урднот"
+ KROGAN_FLEET_Clan_Fleet_ORD: "$O$ Клановый флот"
+ KROGAN_xxClan_ORD: "$O$ Клан"
+ KROGAN_xxBerserker_ORD: "$O$ Берсерки"
+ KROGAN_xxBondservants_ORD: "$O$ Подневольные слуги"
+ KROGAN_xxAssault_Nexus_ORD: "$O$ Атака на Нексус"
+ KROGAN_xxShaman_Adepts_ORD: "$O$ Шаманские адепты"
+ KROGAN_xxWar_Beasts_ORD: "$O$ Боевые звери"
+ KROGAN_xxBattlemaster_ORD: "$O$ Военачальники"
+ KROGAN_CHAR_Bragus: "Брагус"
+ KROGAN_CHAR_Drau: "Драу"
+ KROGAN_CHAR_Forsan: "Форсан"
+ KROGAN_CHAR_Ganar: "Ганар"
+ KROGAN_CHAR_Gatatog: "Гататог"
+ KROGAN_CHAR_Hailot: "Хайлот"
+ KROGAN_CHAR_Jorgal: "Йоргал"
+ KROGAN_CHAR_Jurdon: "Джердон"
+ KROGAN_CHAR_Khel: "Хел"
+ KROGAN_CHAR_Nakmor: "Накмор"
+ KROGAN_CHAR_Quash: "Куаш"
+ KROGAN_CHAR_Raik: "Райк"
+ KROGAN_CHAR_Ravanor: "Раванор"
+ KROGAN_CHAR_Talyth: "Талит"
+ KROGAN_CHAR_Thax: "Такс"
+ KROGAN_CHAR_Weyrloc: "Вейрлок"
+ KROGAN_CHAR_Urdnot: "Урднот"
+ KROGAN_CHAR_Waar: "Ваар"
+ KROGAN_CHAR_Drand: "Дранд"
+ KROGAN_CHAR_Magor: "Магор"
+ KROGAN_CHAR_Nax: "Накс"
+ KROGAN_CHAR_Ralax: "Ралакс"
+ KROGAN_CHAR_Rak: "Рак"
+ KROGAN_CHAR_Grand: "Гранд"
+ KROGAN_CHAR_Srutack: "Срутак"
+ KROGAN_CHAR_Krulak: "Крулак"
+ KROGAN_CHAR_Gand: "Ганд"
+ KROGAN_CHAR_Guld: "Гульд"
+ KROGAN_CHAR_Vorak: "Ворак"
+ KROGAN_CHAR_Wrund: "Wrund"
+ KROGAN_CHAR_Thul: "Тул"
+ KROGAN_CHAR_Sorze: "Сорце"
+ KROGAN_CHAR_Wrang: "Вранг"
+ KROGAN_CHAR_Hurgott: "Хурготт"
+ KROGAN_CHAR_Burrum: "Буррум"
+ KROGAN_CHAR_Grunt: "ворчание"
+ KROGAN_CHAR_Wreav: "Врев"
+ KROGAN_CHAR_Wrex: "Рекс"
+ KROGAN_CHAR_Waare: "Вааре"
+ KROGAN_CHAR_Drandu: "Дранду"
+ KROGAN_CHAR_Magora: "Magora"
+ KROGAN_CHAR_Naxu: "Наксу"
+ KROGAN_CHAR_Ralaxe: "Расслабление"
+ KROGAN_CHAR_Raki: "Раки"
+ KROGAN_CHAR_Granda: "Гранда"
+ KROGAN_CHAR_Srutacka: "Шрутацка"
+ KROGAN_CHAR_Krulaka: "Крулака"
+ KROGAN_CHAR_Gandu: "Ганду"
+ KROGAN_CHAR_Gulda: "Гульда"
+ KROGAN_CHAR_Voraka: "Ворака"
+ KROGAN_CHAR_Wrundi: "Врунди"
+ KROGAN_CHAR_Thuli: "Тули"
+ KROGAN_CHAR_Wrange: "Вранг"
+ KROGAN_CHAR_Hurgotta: "Хурготта"
+ KROGAN_CHAR_Burrumi: "Бурруми"
+ KROGAN_CHAR_Wreavi: "Вреви"
+ KROGAN_CHAR_Bakara: "Бакара"
+ KROGAN_CHAR_Wrexa: "Рекса"
+ KROGAN_CHAR_Waaara: "Вааара"
+ KROGAN_CHAR_Wrarre: "Ворре"
+ KROGAN_CHAR_Wurri: "Вурри"
+ KROGAN_CHAR_Wuraka: "Вурака"
+ KROGAN_CHAR_Wruxxi: "Врукси"
+ KROGAN_CHAR_Wrodu: "Вроду"
+ KROGAN_CHAR_Wrunda: "Врунда"
+ KROGAN_CHAR_Wrarr: "Воррр"
+ KROGAN_CHAR_Wurr: "Вурр"
+ KROGAN_CHAR_Wurak: "Вурак"
+ KROGAN_CHAR_Wruxx: "Врукс"
+ KROGAN_CHAR_Wrod: "Врод"

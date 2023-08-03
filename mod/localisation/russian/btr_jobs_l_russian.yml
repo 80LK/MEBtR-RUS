@@ -1,32 +1,25 @@
 ﻿l_russian:
-
- job_distiller:0 "Дистиллятор" #NT!
- job_distiller_plural:0 "Дистилляторы" #NT!
- job_distiller_desc:0 "Этим специалистам предоставлено приготовление широкого спектра алкогольных напитков, известных не только своей крепостью, но и вкусом и мягкостью." #NT!
- job_distiller_effect_desc:0 "£job_distiller£ $job_distiller_plural$ превратить £food£ §Y$food$§! в £consumer_goods£ §Y$consumer_goods$§!" #NT!
- mod_job_distiller_add:0 "$job_distiller$ Вакансии" #NT!
- mod_job_distiller_per_pop:0 "§G+1§! $job_distiller$ Задание на $VALUE$ Население" #NT!
- mod_job_distiller_per_pop_short:0 "\n§G+1§! £mod_job_distiller_add£ на $VALUE$ £pop£" #NT!
-
- job_elcor_elder:0 "Старейшина" #NT!
- job_elcor_elder_plural:0 "Старейшины" #NT!
- job_elcor_elder_desc:0 "Уважаемый и опытный лидер, чьи знания и мудрость помогают направлять молодые поколения, консультируя и пополняя великую библиотеку, в которой хранятся юридические документы прошлых поколений, определяющие, как наши доброжелательные люди должны поступать в любых ситуациях." #NT!
- mod_job_elcor_elder_add:0 "$job_elcor_elder$ Вакансии" #NT!
-
- job_hanar_caretaker:0 "смотритель" #NT!
- job_hanar_caretaker_plural:0 "Смотрители" #NT!
- job_hanar_caretaker_desc:0 "Самые деликатные и праведные среди нас, эти ответственны за славную задачу по сохранению тайн Enkindlers. Они сохраняют любые и все артефакты Enkindler, обращаясь с ними с превосходной заботой и элегантностью." #NT!
- mod_job_hanar_caretaker_add:0 "$job_hanar_caretaker$ Вакансии" #NT!
- job_caretaker_effect_desc:0 "£job_hanar_caretaker£ $job_hanar_caretaker_plural$ превратите £minor_artifacts£ §Y$£minor_artifacts£$§! в £unity£ §Y$unity$§! и исследования" #NT!
-
- job_league_one:0 "Оперативник лиги" #NT!
- job_league_one_plural:0 "Оперативники Лиги" #NT!
- job_league_one_desc:0 "Преемник первоначальных членов Лиги, этот элитный оперативник служит лидером, духовным наставником и разведчиком одновременно." #NT!
- mod_job_league_one_add:0 "$job_league_one$ Вакансии" #NT!
-
- job_beastmaster:0 "Повелитель зверей" #NT!
- job_beastmaster_plural:0 "Повелители зверей" #NT!
- job_beastmaster_desc:0 "Приручить зверя недостаточно, мы должны сражаться, жить и работать вместе с ним так же, как мы это делали для себя. С помощью насилия мы сломим их, а с помощью сообщества мы сделаем зверей наших миров лучше, чем они были прежде. Как и любой камень в большом сооружении, Готон и зверь будут вместе крепче!" #NT!
- mod_job_beastmaster_add:0 "$job_beastmaster$ Вакансии" #NT!
-
-
+  job_distiller: "Дистиллятор"
+  job_distiller_plural: "Дистилляторы"
+  job_distiller_desc: "Этим специалистам предоставлено приготовление широкого спектра алкогольных напитков, известных не только своей крепостью, но и вкусом и мягкостью."
+  job_distiller_effect_desc: "£job_distiller£ $job_distiller_plural$ превратить £food£ §Y$food$§! в £consumer_goods£ §Y$consumer_goods$§!"
+  mod_job_distiller_add: "$job_distiller$ Вакансии"
+  mod_job_distiller_per_pop: "§G+1§! $job_distiller$ Задание на $VALUE$ Население"
+  mod_job_distiller_per_pop_short: "\n§G+1§! £mod_job_distiller_add£ на $VALUE$ £pop£"
+  job_elcor_elder: "Старейшина"
+  job_elcor_elder_plural: "Старейшины"
+  job_elcor_elder_desc: "Уважаемый и опытный лидер, чьи знания и мудрость помогают направлять молодые поколения, консультируя и пополняя великую библиотеку, в которой хранятся юридические документы прошлых поколений, определяющие, как наши доброжелательные люди должны поступать в любых ситуациях."
+  mod_job_elcor_elder_add: "$job_elcor_elder$ Вакансии"
+  job_hanar_caretaker: "смотритель"
+  job_hanar_caretaker_plural: "Смотрители"
+  job_hanar_caretaker_desc: "Самые деликатные и праведные среди нас, эти ответственны за славную задачу по сохранению тайн Enkindlers. Они сохраняют любые и все артефакты Enkindler, обращаясь с ними с превосходной заботой и элегантностью."
+  mod_job_hanar_caretaker_add: "$job_hanar_caretaker$ Вакансии"
+  job_caretaker_effect_desc: "£job_hanar_caretaker£ $job_hanar_caretaker_plural$ превратите £minor_artifacts£ §Y$£minor_artifacts£$§! в £unity£ §Y$unity$§! и исследования"
+  job_league_one: "Оперативник лиги"
+  job_league_one_plural: "Оперативники Лиги"
+  job_league_one_desc: "Преемник первоначальных членов Лиги, этот элитный оперативник служит лидером, духовным наставником и разведчиком одновременно."
+  mod_job_league_one_add: "$job_league_one$ Вакансии"
+  job_beastmaster: "Повелитель зверей"
+  job_beastmaster_plural: "Повелители зверей"
+  job_beastmaster_desc: "Приручить зверя недостаточно, мы должны сражаться, жить и работать вместе с ним так же, как мы это делали для себя. С помощью насилия мы сломим их, а с помощью сообщества мы сделаем зверей наших миров лучше, чем они были прежде. Как и любой камень в большом сооружении, Готон и зверь будут вместе крепче!"
+  mod_job_beastmaster_add: "$job_beastmaster$ Вакансии"

@@ -1,229 +1,224 @@
 ﻿l_russian:
-
- #### ASARI REPUBLICS INITIALIZER ####
-
- Parnitha:0 "Парнита" #NT!
- Kurinth:0 "Куринт" #NT!
- Thessia:0 "Тессия" #NT!
- Piares:0 "Пиарес" #NT!
- Lucen:0 "Люсен" #NT!
- Janiri:0 "Джанири" #NT!
- Athame:0 "Атам" #NT!
- Tevura:0 "Тевура" #NT!
- Tomaros:0 "Томарос" #NT!
- Lusia:0 "Люсия" #NT!
- Niagolon:0 "Ниаголон" #NT!
- Pronoia:0 "Пронойя" #NT!
- Beness:0 "Бенесс" #NT!
- Ialessa:0 "Ялесса" #NT!
- Ilmnos:0 "Ильмнос" #NT!
- Sanves:0 "Санвес" #NT!
- Zylium:0 "Зилиум" #NT!
- Trikalon:0 "Трикалон" #NT!
- Nossia:0 "Носсия" #NT!
- Orisoni:0 "Orisoni" #NT!
- Thissioni:0 "Тисиони" #NT!
- Niacal:0 "Ниакаль" #NT!
- Kralla:0 "Кралла" #NT!
- Egalic:0 "эгалический" #NT!
- Vernio:0 "Вернио" #NT!
- Nauti:0 "Наути" #NT!
- Promavess:0 "Промавесс" #NT!
- Sotera:0 "Сотера" #NT!
- Tritogenith:0 "Тритогенит" #NT!
- Mavote:0 "Мавоте" #NT!
- Polissa:0 "Полисса" #NT!
- Loropi:0 "Лоропи" #NT!
- Paphos:0 "Пафос" #NT!
- Yasilium:0 "Ясилиум" #NT!
- Teyolia:0 "Тейолия" #NT!
- Loxia:0 "Локсия" #NT!
- Nevos:0 "Невос" #NT!
- Fara:0 "Фара" #NT!
- Revulla:0 "Ревула" #NT!
- Quirezia:0 "Киреция" #NT!
- Atebolos:0 "Атеболос" #NT!
- Kypladon:0 "Кипладон" #NT!
- Hanalei:0 "Ханалей" #NT!
- Cyone:0 "Сионе" #NT!
- Tropai:0 "Тропай" #NT!
- Lochia:0 "лохии" #NT!
- Nili:0 "Нили" #NT!
- Katebolo:0 "Катеболо" #NT!
- Nahuala:0 "Науала" #NT!
- Agessia:0 "Агессия" #NT!
- Hyetiana:0 "Гиетиана" #NT!
- Phoros:0 "Форос" #NT!
- Fotia:0 "Фотия" #NT!
- Oramona:0 "Орамона" #NT!
- Gallikimos:0 "Галликимос" #NT!
- Malkos:0 "Малкос" #NT!
- Kispois:0 "Киспойс" #NT!
- Mitrios:0 "Митриос" #NT!
- Echthronos:0 "Эхтронос" #NT!
- Charias:0 "Хариас" #NT!
- Trintayllo:0 "Тринтайлло" #NT!
- Elensia:0 "Эленсия" #NT!
- Alatania:0 "Алатания" #NT!
- Diras:0 "Дирас" #NT!
- Kosquia:0 "Коскиа" #NT!
- Restu:0 "Ресту" #NT!
- Tracla:0 "Тракла" #NT!
- Gula:0 "Гула" #NT!
- Pelion:0 "Пелион" #NT!
- Zosteros:0 "Зостерос" #NT!
- Sthenia:0 "Стения" #NT!
- Trategos:0 "Тратегос" #NT!
- Aitis:0 "Айтис" #NT!
- Mesana:0 "Месана" #NT!
- Lesuss:0 "Лесус" #NT!
- Lymetis:0 "Лиметис" #NT!
- Medokos:0 "Медокос" #NT!
- Shastessia:0 "Шастесия" #NT!
- Vylius:0 "Вилиус" #NT!
-
- #### SALARIAN UNION INITIALIZER ####
- Pranas:0 "Праны" #NT!
- Saradril:0 "Сарадриль" #NT!
- Sur'Kesh:0 "Сур'Кеш" #NT!
- name_list_btr_salarian:0 "саларианец" #NT!
- Dragel:0 "Драгель" #NT!
- Halegeuse:0 "Халегез" #NT!
- Paeto:0 "Паэто" #NT!
- Ruoshca:0 "Руошка" #NT!
- Bek'Non:0 "Бек'Нон" #NT!
- Aschendal:0 "Ашендаль" #NT!
- Osu'Debal:0 "Osu'Debal" #NT!
- Mannovai:0 "Манноваи" #NT!
- Vothi:0 "Воти" #NT!
- Nasurn:0 "Насурн" #NT!
- Rothila:0 "Ротила" #NT!
- Friga:0 "Фрига" #NT!
- Dagnes:0 "Дагнес" #NT!
- Warrik:0 "Уоррик" #NT!
- Yomala:0 "Йомала" #NT!
- Ferwen:0 "Фервен" #NT!
- Cuzene:0 "Кузен" #NT!
- Tinoth:0 "Тинот" #NT!
- Baleia:0 "Балея" #NT!
- Jikkart:0 "Джиккарт" #NT!
- Maced'Dei:0 "Maced'Dei" #NT!
- Jaeto:0 "Хаэто" #NT!
- Gareta:0 "Гарета" #NT!
- Gorot:0 "Горо" #NT!
- Sovak:0 "Совак" #NT!
- Farek:0 "Фарек" #NT!
- Gataly:0 "Гатали" #NT!
- Ishka:0 "Ишка" #NT!
- Limron:0 "Лимрон" #NT!
- Darinle:0 "Даринл" #NT!
- Narota:0 "Нарота" #NT!
- Senoquol:0 "Сеноквол" #NT!
- Busdegu:0 "Busdegu" #NT!
- Lidarause:0 "Лидараузе" #NT!
- Antillin:0 "Антиллин" #NT!
- Londa'Mon:0 "Лонда'Мон" #NT!
- Indei'Tush:0 "Индей'Туш" #NT!
- Saetabelo:0 "Саетабело" #NT!
- Baldanoa:0 "Балданоа" #NT!
- Manayoi:0 "Манайой" #NT!
- Zislum:0 "Зислум" #NT!
- Dendari:0 "Дендари" #NT!
- Vildisa:0 "Вилдиса" #NT!
- Anduse:0 "Андусе" #NT!
- Voya:0 "Воя" #NT!
- Tumeya:0 "Тумея" #NT!
- Anuni'Lib'Se:0 "Ануни'Либ'Се" #NT!
- Osolaneb:0 "Осоланеб" #NT!
- Rannandril:0 "Раннандрил" #NT!
- Jensalas:0 "Дженсалас" #NT!
- Owoukeen:0 "Овокин" #NT!
- Besk'Dit:0 "Беск'Дит" #NT!
- Bedi:0 "Беди" #NT!
- Olor:0 "Олор" #NT!
- Strabo:0 "Страбон" #NT!
- Antigar:0 "Антигар" #NT!
-
-#### TURIAN HIERARCHY INITIALIZER ####
-
- Trebia:0 "Требия" #NT!
- Aventen:0 "Авентен" #NT!
- Caelax:0 "Целакс" #NT!
- Palaven:0 "Палавен" #NT!
- Menae:0 "Мины" #NT!
- Nanus:0 "Нанус" #NT!
- Impera:0 "Импера" #NT!
- Essenus:0 "Эссенус" #NT!
- Datriux:0 "Датриу" #NT!
- Orachorum:0 "Орахорум" #NT!
- Esterum:0 "Эстерум" #NT!
- Namur:0 "Намюр" #NT!
- Chatti:0 "Чатти" #NT!
- Navale:0 "Навале" #NT!
- Solvit:0 "Солвит" #NT!
- Formilun:0 "Формилун" #NT!
- Aephus:0 "Эф" #NT!
- Gerens:0 "Геренс" #NT!
- Ratis:0 "Ратис" #NT!
- Castellus:0 "Кастельус" #NT!
- Carborix:0 "Карборикс" #NT!
- Nios:0 "Ниос" #NT!
- Digeris:0 "Дигерис" #NT!
- Fiax:0 "Фиакс" #NT!
- Iritum:0 "Иритум" #NT!
- Alcapus:0 "Алькапус" #NT!
- Epyrus:0 "Эпир" #NT!
- Norel:0 "Норел" #NT!
- Leliehielaron:0 "Лелихиеларон" #NT!
- Gemmae:0 "Джеммы" #NT!
- Pheiros:0 "Фейрос" #NT!
- Caestus:0 "Цест" #NT!
- Invictus:0 "Инвиктус" #NT!
- Temerarus:0 "Темерарус" #NT!
- Arrae:0 "Аррае" #NT!
- Erros:0 "Эррос" #NT!
- Gellix:0 "Гелликс" #NT!
- Antinax:0 "Антинакс" #NT!
- Nirrus:0 "Ниррус" #NT!
- Nura:0 "Нура" #NT!
- Lahu:0 "Лаху" #NT!
- Gorgun:0 "Горгун" #NT!
- Talava:0 "Талава" #NT!
- Aitarus:0 "Айтарус" #NT!
- Kaushus:0 "Каушус" #NT!
- Maitrum:0 "Майтрум" #NT!
- Taitus:0 "Тайтус" #NT!
- Mactare:0 "Мактар" #NT!
- Sanhei:0 "Sanhei" #NT!
- Taetrus:0 "Таэтрус" #NT!
- Regeris:0 "Регерис" #NT!
- Palex:0 "Палекс" #NT!
- Xemna:0 "Земна" #NT!
- Telae:0 "Телае" #NT!
- Narbo:0 "Нарбо" #NT!
- Eutica:0 "Эвтика" #NT!
- Nimines:0 "Ниминес" #NT!
- Lokar:0 "Локар" #NT!
- Nedlus:0 "Недлус" #NT!
- Arsacid:0 "Аршацид" #NT!
- Parthia:0 "Парфия" #NT!
- Ctesiphon:0 "Ктесифон" #NT!
- Ecbatana:0 "Экбатана" #NT!
- Hesterax:0 "Гестеракс" #NT!
- Susa:0 "Сузы" #NT!
- Laudate:0 "хвалить" #NT!
- Arabor:0 "Абор" #NT!
- Lutum:0 "Лутум" #NT!
- Magna:0 "Магна" #NT!
- Petram:0 "Петрам" #NT!
- Iuto:0 "Iuto" #NT!
- Lapellam:0 "Лапеллам" #NT!
- Caerulus:0 "Церул" #NT!
- Dilatelux:0 "Дилателюкс" #NT!
- Sabulum:0 "Сабулум" #NT!
- Edessan:0 "Эдессан" #NT!
- Caustes:0 "Каусты" #NT!
- Jactatum:0 "Яктатум" #NT!
- Vastus:0 "Вастус" #NT!
- Terevan:0 "Тереван" #NT!
- Lodantus:0 "Лодантус" #NT!
+  #### ASARI REPUBLICS INITIALIZER ####
+  Parnitha: "Парнита"
+  Kurinth: "Куринт"
+  Thessia: "Тессия"
+  Piares: "Пиарес"
+  Lucen: "Люсен"
+  Janiri: "Джанири"
+  Athame: "Атам"
+  Tevura: "Тевура"
+  Tomaros: "Томарос"
+  Lusia: "Люсия"
+  Niagolon: "Ниаголон"
+  Pronoia: "Пронойя"
+  Beness: "Бенесс"
+  Ialessa: "Ялесса"
+  Ilmnos: "Ильмнос"
+  Sanves: "Санвес"
+  Zylium: "Зилиум"
+  Trikalon: "Трикалон"
+  Nossia: "Носсия"
+  Orisoni: "Orisoni"
+  Thissioni: "Тисиони"
+  Niacal: "Ниакаль"
+  Kralla: "Кралла"
+  Egalic: "эгалический"
+  Vernio: "Вернио"
+  Nauti: "Наути"
+  Promavess: "Промавесс"
+  Sotera: "Сотера"
+  Tritogenith: "Тритогенит"
+  Mavote: "Мавоте"
+  Polissa: "Полисса"
+  Loropi: "Лоропи"
+  Paphos: "Пафос"
+  Yasilium: "Ясилиум"
+  Teyolia: "Тейолия"
+  Loxia: "Локсия"
+  Nevos: "Невос"
+  Fara: "Фара"
+  Revulla: "Ревула"
+  Quirezia: "Киреция"
+  Atebolos: "Атеболос"
+  Kypladon: "Кипладон"
+  Hanalei: "Ханалей"
+  Cyone: "Сионе"
+  Tropai: "Тропай"
+  Lochia: "лохии"
+  Nili: "Нили"
+  Katebolo: "Катеболо"
+  Nahuala: "Науала"
+  Agessia: "Агессия"
+  Hyetiana: "Гиетиана"
+  Phoros: "Форос"
+  Fotia: "Фотия"
+  Oramona: "Орамона"
+  Gallikimos: "Галликимос"
+  Malkos: "Малкос"
+  Kispois: "Киспойс"
+  Mitrios: "Митриос"
+  Echthronos: "Эхтронос"
+  Charias: "Хариас"
+  Trintayllo: "Тринтайлло"
+  Elensia: "Эленсия"
+  Alatania: "Алатания"
+  Diras: "Дирас"
+  Kosquia: "Коскиа"
+  Restu: "Ресту"
+  Tracla: "Тракла"
+  Gula: "Гула"
+  Pelion: "Пелион"
+  Zosteros: "Зостерос"
+  Sthenia: "Стения"
+  Trategos: "Тратегос"
+  Aitis: "Айтис"
+  Mesana: "Месана"
+  Lesuss: "Лесус"
+  Lymetis: "Лиметис"
+  Medokos: "Медокос"
+  Shastessia: "Шастесия"
+  Vylius: "Вилиус"
+  #### SALARIAN UNION INITIALIZER ####
+  Pranas: "Праны"
+  Saradril: "Сарадриль"
+  Sur'Kesh: "Сур'Кеш"
+  name_list_btr_salarian: "саларианец"
+  Dragel: "Драгель"
+  Halegeuse: "Халегез"
+  Paeto: "Паэто"
+  Ruoshca: "Руошка"
+  Bek'Non: "Бек'Нон"
+  Aschendal: "Ашендаль"
+  Osu'Debal: "Osu'Debal"
+  Mannovai: "Манноваи"
+  Vothi: "Воти"
+  Nasurn: "Насурн"
+  Rothila: "Ротила"
+  Friga: "Фрига"
+  Dagnes: "Дагнес"
+  Warrik: "Уоррик"
+  Yomala: "Йомала"
+  Ferwen: "Фервен"
+  Cuzene: "Кузен"
+  Tinoth: "Тинот"
+  Baleia: "Балея"
+  Jikkart: "Джиккарт"
+  Maced'Dei: "Maced'Dei"
+  Jaeto: "Хаэто"
+  Gareta: "Гарета"
+  Gorot: "Горо"
+  Sovak: "Совак"
+  Farek: "Фарек"
+  Gataly: "Гатали"
+  Ishka: "Ишка"
+  Limron: "Лимрон"
+  Darinle: "Даринл"
+  Narota: "Нарота"
+  Senoquol: "Сеноквол"
+  Busdegu: "Busdegu"
+  Lidarause: "Лидараузе"
+  Antillin: "Антиллин"
+  Londa'Mon: "Лонда'Мон"
+  Indei'Tush: "Индей'Туш"
+  Saetabelo: "Саетабело"
+  Baldanoa: "Балданоа"
+  Manayoi: "Манайой"
+  Zislum: "Зислум"
+  Dendari: "Дендари"
+  Vildisa: "Вилдиса"
+  Anduse: "Андусе"
+  Voya: "Воя"
+  Tumeya: "Тумея"
+  Anuni'Lib'Se: "Ануни'Либ'Се"
+  Osolaneb: "Осоланеб"
+  Rannandril: "Раннандрил"
+  Jensalas: "Дженсалас"
+  Owoukeen: "Овокин"
+  Besk'Dit: "Беск'Дит"
+  Bedi: "Беди"
+  Olor: "Олор"
+  Strabo: "Страбон"
+  Antigar: "Антигар"
+  #### TURIAN HIERARCHY INITIALIZER ####
+  Trebia: "Требия"
+  Aventen: "Авентен"
+  Caelax: "Целакс"
+  Palaven: "Палавен"
+  Menae: "Мины"
+  Nanus: "Нанус"
+  Impera: "Импера"
+  Essenus: "Эссенус"
+  Datriux: "Датриу"
+  Orachorum: "Орахорум"
+  Esterum: "Эстерум"
+  Namur: "Намюр"
+  Chatti: "Чатти"
+  Navale: "Навале"
+  Solvit: "Солвит"
+  Formilun: "Формилун"
+  Aephus: "Эф"
+  Gerens: "Геренс"
+  Ratis: "Ратис"
+  Castellus: "Кастельус"
+  Carborix: "Карборикс"
+  Nios: "Ниос"
+  Digeris: "Дигерис"
+  Fiax: "Фиакс"
+  Iritum: "Иритум"
+  Alcapus: "Алькапус"
+  Epyrus: "Эпир"
+  Norel: "Норел"
+  Leliehielaron: "Лелихиеларон"
+  Gemmae: "Джеммы"
+  Pheiros: "Фейрос"
+  Caestus: "Цест"
+  Invictus: "Инвиктус"
+  Temerarus: "Темерарус"
+  Arrae: "Аррае"
+  Erros: "Эррос"
+  Gellix: "Гелликс"
+  Antinax: "Антинакс"
+  Nirrus: "Ниррус"
+  Nura: "Нура"
+  Lahu: "Лаху"
+  Gorgun: "Горгун"
+  Talava: "Талава"
+  Aitarus: "Айтарус"
+  Kaushus: "Каушус"
+  Maitrum: "Майтрум"
+  Taitus: "Тайтус"
+  Mactare: "Мактар"
+  Sanhei: "Sanhei"
+  Taetrus: "Таэтрус"
+  Regeris: "Регерис"
+  Palex: "Палекс"
+  Xemna: "Земна"
+  Telae: "Телае"
+  Narbo: "Нарбо"
+  Eutica: "Эвтика"
+  Nimines: "Ниминес"
+  Lokar: "Локар"
+  Nedlus: "Недлус"
+  Arsacid: "Аршацид"
+  Parthia: "Парфия"
+  Ctesiphon: "Ктесифон"
+  Ecbatana: "Экбатана"
+  Hesterax: "Гестеракс"
+  Susa: "Сузы"
+  Laudate: "хвалить"
+  Arabor: "Абор"
+  Lutum: "Лутум"
+  Magna: "Магна"
+  Petram: "Петрам"
+  Iuto: "Iuto"
+  Lapellam: "Лапеллам"
+  Caerulus: "Церул"
+  Dilatelux: "Дилателюкс"
+  Sabulum: "Сабулум"
+  Edessan: "Эдессан"
+  Caustes: "Каусты"
+  Jactatum: "Яктатум"
+  Vastus: "Вастус"
+  Terevan: "Тереван"
+  Lodantus: "Лодантус"

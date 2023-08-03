@@ -1,45 +1,44 @@
 ﻿l_russian:
-
- mod_planet_districts_energy_cost_mult:0 "Стоимость районной энергии" #NT!
- mod_planet_districts_minerals_cost_mult:0 "Стоимость минералов района" #NT!
- mod_planet_districts_minerals_upkeep_mult:0 "Содержание полезных ископаемых района" #NT!
- mod_shipclass_colonizer_build_cost_mult:0 "Стоимость постройки колониального корабля" #NT!
- mod_shipclass_colonizer_build_speed_mult:0 "Скорость строительства колониальных кораблей" #NT!
- mod_shipclass_observation_station_build_cost_mult:0 "Стоимость строительства наблюдательного пункта" #NT!
- mod_country_consumer_goods_cost_mult:0 "Стоимость потребительских товаров империи" #NT!
- mod_starbase_outpost_influence_cost_mult:0 "Стоимость влияния аванпоста" #NT!
- mod_starbase_outpost_alloys_cost_mult:0 "Стоимость сплавов аванпоста" #NT!
- mod_planet_buildings_time_cost_mult:0 "Скорость строительства планеты" #NT!
- mod_armies_time_cost_mult:0 "Скорость строительства армии" #NT!
- mod_planet_structures_minerals_cost_mult:0 "Стоимость строительных минералов" #NT!
- mod_country_resource_max_food_add:0 "Емкость для хранения продуктов" #NT!
- mod_country_menace_produces_mult:0 "ЗАМЕНИТЕ МЕНЯ" #NT!
- mod_country_base_minor_artifacts_produces_add:0 "Артефакты" #NT!
- mod_station_researchers_unity_produces_mult:0 "Исследователь Юнити Продакшн" #NT!
- mod_planet_structures_time_cost_mult:0 "ЗАМЕНИТЕ МЕНЯ" #NT!
- mod_planet_jobs_worker_only_food_produces_mult:0 "Производство продуктов питания" #NT!
- mod_planet_jobs_food_upkeep_mult:0 "Обслуживание продуктов питания на рабочем месте" #NT!
- mod_planet_farmers_energy_produces_add:0 "Фермер Энерджи" #NT!
- mod_planet_miners_energy_produces_add:0 "Майнер Энергия" #NT!
- mod_planet_administrators_influence_produces_add:0 "Влияние администратора" #NT!
- mod_planet_soldiers_food_produces_add:0 "Солдатская еда" #NT!
- mod_planet_enforcers_energy_produces_add:0 "Инфорсер Энергия" #NT!
- mod_planet_artisans_energy_produces_add:0 "Ремесленная Энергия" #NT!
- mod_planet_artisans_unity_produces_add:0 "Арисан Юнити" #NT!
- mod_planet_pops_food_upkeep_mult:0 "Обеспечение продовольствием населения" #NT!
- mod_armies_energy_upkeep_mult:0 "Содержание энергии армии" #NT!
- mod_leaders_energy_cost_mult:0 "Стоимость энергии лидера" #NT!
- mod_country_civics_consumer_goods_upkeep_add:0 "Содержание потребительских товаров" #NT!
- mod_country_tech_physics_research_produces_add:0 "Физические исследования" #NT!
- mod_country_tech_society_research_produces_add:0 "Исследования общества" #NT!
- mod_country_tech_engineering_research_produces_add:0 "Инженерные исследования" #NT!
- mod_monthly_trades_food_produces_add:0 "Производство продуктов питания" #NT!
- mod_shipsize_starbase_outpost_hull_mult:0 "Форпост Корпус" #NT!
- mod_shipsize_starbase_starport_hull_mult:0 "Корпус космопорта" #NT!
- mod_shipsize_starbase_starhold_hull_mult:0 "Стархолд Халл" #NT!
- mod_shipsize_starbase_starfortress_hull_mult:0 "Корпус Звездной крепости" #NT!
- mod_shipsize_starbase_citadel_hull_mult:0 "Цитадель Халл" #NT!
- mod_damage_vs_country_type_default_mult:0 "ЗАМЕНИТЕ МЕНЯ" #NT!
- mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "Аттракцион фанатичного спиритуалиста" #NT!
- mod_starbase_outpost_time_cost_mult:0 "Скорость строительства аванпоста" #NT!
- mod_job_enforcer_stability_add:0 "Производство стабильности Enforcer" #NT!
+  mod_planet_districts_energy_cost_mult: "Стоимость районной энергии"
+  mod_planet_districts_minerals_cost_mult: "Стоимость минералов района"
+  mod_planet_districts_minerals_upkeep_mult: "Содержание полезных ископаемых района"
+  mod_shipclass_colonizer_build_cost_mult: "Стоимость постройки колониального корабля"
+  mod_shipclass_colonizer_build_speed_mult: "Скорость строительства колониальных кораблей"
+  mod_shipclass_observation_station_build_cost_mult: "Стоимость строительства наблюдательного пункта"
+  mod_country_consumer_goods_cost_mult: "Стоимость потребительских товаров империи"
+  mod_starbase_outpost_influence_cost_mult: "Стоимость влияния аванпоста"
+  mod_starbase_outpost_alloys_cost_mult: "Стоимость сплавов аванпоста"
+  mod_planet_buildings_time_cost_mult: "Скорость строительства планеты"
+  mod_armies_time_cost_mult: "Скорость строительства армии"
+  mod_planet_structures_minerals_cost_mult: "Стоимость строительных минералов"
+  mod_country_resource_max_food_add: "Емкость для хранения продуктов"
+  mod_country_menace_produces_mult: "ЗАМЕНИТЕ МЕНЯ"
+  mod_country_base_minor_artifacts_produces_add: "Артефакты"
+  mod_station_researchers_unity_produces_mult: "Исследователь Юнити Продакшн"
+  mod_planet_structures_time_cost_mult: "ЗАМЕНИТЕ МЕНЯ"
+  mod_planet_jobs_worker_only_food_produces_mult: "Производство продуктов питания"
+  mod_planet_jobs_food_upkeep_mult: "Обслуживание продуктов питания на рабочем месте"
+  mod_planet_farmers_energy_produces_add: "Фермер Энерджи"
+  mod_planet_miners_energy_produces_add: "Майнер Энергия"
+  mod_planet_administrators_influence_produces_add: "Влияние администратора"
+  mod_planet_soldiers_food_produces_add: "Солдатская еда"
+  mod_planet_enforcers_energy_produces_add: "Инфорсер Энергия"
+  mod_planet_artisans_energy_produces_add: "Ремесленная Энергия"
+  mod_planet_artisans_unity_produces_add: "Арисан Юнити"
+  mod_planet_pops_food_upkeep_mult: "Обеспечение продовольствием населения"
+  mod_armies_energy_upkeep_mult: "Содержание энергии армии"
+  mod_leaders_energy_cost_mult: "Стоимость энергии лидера"
+  mod_country_civics_consumer_goods_upkeep_add: "Содержание потребительских товаров"
+  mod_country_tech_physics_research_produces_add: "Физические исследования"
+  mod_country_tech_society_research_produces_add: "Исследования общества"
+  mod_country_tech_engineering_research_produces_add: "Инженерные исследования"
+  mod_monthly_trades_food_produces_add: "Производство продуктов питания"
+  mod_shipsize_starbase_outpost_hull_mult: "Форпост Корпус"
+  mod_shipsize_starbase_starport_hull_mult: "Корпус космопорта"
+  mod_shipsize_starbase_starhold_hull_mult: "Стархолд Халл"
+  mod_shipsize_starbase_starfortress_hull_mult: "Корпус Звездной крепости"
+  mod_shipsize_starbase_citadel_hull_mult: "Цитадель Халл"
+  mod_damage_vs_country_type_default_mult: "ЗАМЕНИТЕ МЕНЯ"
+  mod_pop_ethic_fanatic_spiritualist_attraction_mult: "Аттракцион фанатичного спиритуалиста"
+  mod_starbase_outpost_time_cost_mult: "Скорость строительства аванпоста"
+  mod_job_enforcer_stability_add: "Производство стабильности Enforcer"

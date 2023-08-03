@@ -1,2584 +1,2583 @@
 ﻿l_russian:
- name_list_btr_systems_alliance:0 "Альянс систем" #NT!
- ALLIANCE_SHIP_:0 "ССВ" #NT!
- ALLIANCE_SHIP_Restless_Sea:0 "Беспокойное море" #NT!
- ALLIANCE_SHIP_Pike:0 "Щука" #NT!
- ALLIANCE_SHIP_Harrier:0 "Лунь" #NT!
- ALLIANCE_SHIP_Hound:0 "Гончая" #NT!
- ALLIANCE_SHIP_Lark:0 "Жаворонок" #NT!
- ALLIANCE_SHIP_Sparta:0 "Спарта" #NT!
- ALLIANCE_SHIP_Defender:0 "Защитник" #NT!
- ALLIANCE_SHIP_Artemis:0 "Артемида" #NT!
- ALLIANCE_SHIP_Eagle:0 "Орел" #NT!
- ALLIANCE_SHIP_Providence:0 "Провиденс" #NT!
- ALLIANCE_SHIP_Avenger:0 "Мститель" #NT!
- ALLIANCE_SHIP_Pluto:0 "Плутон" #NT!
- ALLIANCE_SHIP_Friday:0 "Пятница" #NT!
- ALLIANCE_SHIP_Harpy:0 "Гарпия" #NT!
- ALLIANCE_SHIP_Sydney:0 "Сидней" #NT!
- ALLIANCE_SHIP_Australia:0 "Австралия" #NT!
- ALLIANCE_SHIP_San_Antonio:0 "Сан Антонио" #NT!
- ALLIANCE_SHIP_Colombia:0 "Колумбия" #NT!
- ALLIANCE_SHIP_Hill:0 "Холм" #NT!
- ALLIANCE_SHIP_Washington:0 "Вашингтон" #NT!
- ALLIANCE_SHIP_Veteran:0 "ветеран" #NT!
- ALLIANCE_SHIP_Wilson:0 "Уилсон" #NT!
- ALLIANCE_SHIP_Stalingrad:0 "Сталинград" #NT!
- ALLIANCE_SHIP_Vienna:0 "Вена" #NT!
- ALLIANCE_SHIP_Jerusalem:0 "Иерусалим" #NT!
- ALLIANCE_SHIP_Actium:0 "Актиум" #NT!
- ALLIANCE_SHIP_Constantinople:0 "Константинополь" #NT!
- ALLIANCE_SHIP_Midway:0 "Мидуэй" #NT!
- ALLIANCE_SHIP_Saratoga:0 "Саратога" #NT!
- ALLIANCE_SHIP_Salamis:0 "Саламин" #NT!
- ALLIANCE_SHIP_Trafalgar:0 "Трафальгар" #NT!
- ALLIANCE_SHIP_Normandy:0 "Нормандия" #NT!
- ALLIANCE_SHIP_Leipzig:0 "Лейпциг" #NT!
- ALLIANCE_SHIP_Iwo_Jima:0 "Iwo Jima" #NT!
- ALLIANCE_SHIP_Hong_Kong:0 "Гонконг" #NT!
- ALLIANCE_SHIP_Hastings:0 "Гастингс" #NT!
- ALLIANCE_SHIP_Ain_Jalut:0 "Айн Джалут" #NT!
- ALLIANCE_SHIP_Agincourt:0 "Азенкур" #NT!
- ALLIANCE_SHIP_Tannenberg:0 "Танненберг" #NT!
- ALLIANCE_SHIP_Poltava:0 "Полтава" #NT!
- ALLIANCE_SHIP_Adrianople:0 "Адрианополь" #NT!
- ALLIANCE_SHIP_Lepanto:0 "Лепанто" #NT!
- ALLIANCE_SHIP_Yarmouk:0 "Ярмук" #NT!
- ALLIANCE_SHIP_Gaugamela:0 "Гаугамела" #NT!
- ALLIANCE_SHIP_Gettysburg:0 "Геттисберг" #NT!
- ALLIANCE_SHIP_Abraham:0 "Авраам" #NT!
- ALLIANCE_SHIP_Duke_of_York:0 "герцог Йоркский" #NT!
- ALLIANCE_SHIP_Plains:0 "Равнины" #NT!
- ALLIANCE_SHIP_Tours:0 "Туры" #NT!
- ALLIANCE_SHIP_Tenochtitlan:0 "Теночтитлан" #NT!
- ALLIANCE_SHIP_Cannae:0 "Канны" #NT!
- ALLIANCE_SHIP_Tsushima:0 "Цусима" #NT!
- ALLIANCE_SHIP_Granada:0 "Гранада" #NT!
- ALLIANCE_SHIP_Marathon:0 "Марафон" #NT!
- ALLIANCE_SHIP_Marne:0 "Марна" #NT!
- ALLIANCE_SHIP_Teutoburg:0 "Тевтобург" #NT!
- ALLIANCE_SHIP_Jutland:0 "Ютландия" #NT!
- ALLIANCE_SHIP_Hattin:0 "Хаттин" #NT!
- ALLIANCE_SHIP_Ipsus:0 "Ипсус" #NT!
- ALLIANCE_SHIP_Pharsalus:0 "Фарсал" #NT!
- ALLIANCE_SHIP_Incheon:0 "Инчхон" #NT!
- ALLIANCE_SHIP_Metauris:0 "Метаврид" #NT!
- ALLIANCE_SHIP_San_Jacinto:0 "Сан-Хасинто" #NT!
- ALLIANCE_SHIP_Peipus:0 "Пейпус" #NT!
- ALLIANCE_SHIP_Yom_Kippur:0 "Йом Кипур" #NT!
- ALLIANCE_SHIP_Austerlitz:0 "Аустерлиц" #NT!
- ALLIANCE_SHIP_Lutzen:0 "Люцен" #NT!
- ALLIANCE_SHIP_Borodino:0 "Бородино" #NT!
- ALLIANCE_SHIP_Tet:0 "Тет" #NT!
- ALLIANCE_SHIP_Dien_Bien_Phu:0 "Дьенбьенфу" #NT!
- ALLIANCE_SHIP_Pearl_Harbor:0 "Перл Харбор" #NT!
- ALLIANCE_SHIP_Six_Day:0 "Шестидневный" #NT!
- ALLIANCE_SHIP_Megiddo:0 "Megiddo" #NT!
- ALLIANCE_SHIP_Mylae:0 "Милэ" #NT!
- ALLIANCE_SHIP_Koeniggraetz:0 "Кениггрец" #NT!
- ALLIANCE_SHIP_Alkmaar:0 "Алкмар" #NT!
- ALLIANCE_SHIP_Sekingahara:0 "Секингахара" #NT!
- ALLIANCE_SHIP_Bach_Dang:0 "Бах Данг" #NT!
- ALLIANCE_SHIP_Nancy:0 "Нэнси" #NT!
- ALLIANCE_SHIP_Mohacs:0 "Мохачи" #NT!
- ALLIANCE_SHIP_Naseby:0 "Нейсби" #NT!
- ALLIANCE_SHIP_Chrysopolis:0 "Хризополис" #NT!
- ALLIANCE_SHIP_Medway:0 "Медуэй" #NT!
- ALLIANCE_SHIP_Leuthen:0 "Лойтен" #NT!
- ALLIANCE_SHIP_Poyang:0 "Poyang" #NT!
- ALLIANCE_SHIP_Navas_de_Tolosa:0 "Навас-де-Толоса" #NT!
- ALLIANCE_SHIP_Nineveh:0 "Ниневия" #NT!
- ALLIANCE_SHIP_Boyne:0 "Бойн" #NT!
- ALLIANCE_SHIP_Valmy:0 "Вальми" #NT!
- ALLIANCE_SHIP_Aegospotami:0 "Эгоспотами" #NT!
- ALLIANCE_SHIP_Agnadello:0 "Аньяделло" #NT!
- ALLIANCE_SHIP_Magnesia:0 "Магнезия" #NT!
- ALLIANCE_SHIP_Muye:0 "Муйе" #NT!
- ALLIANCE_SHIP_Carchemish:0 "Кархемиш" #NT!
- ALLIANCE_SHIP_Thymbra:0 "Тимбра" #NT!
- ALLIANCE_SHIP_Taraori:0 "Тараори" #NT!
- ALLIANCE_SHIP_Chaeronea:0 "Херонея" #NT!
- ALLIANCE_SHIP_Julu:0 "Джулу" #NT!
- ALLIANCE_SHIP_Castillon:0 "Кастийон" #NT!
- ALLIANCE_SHIP_Fehrbellin:0 "Фербеллин" #NT!
- ALLIANCE_SHIP_Beneventum:0 "Беневентум" #NT!
- ALLIANCE_SHIP_Solferino:0 "Сольферино" #NT!
- ALLIANCE_SHIP_Malplaquet:0 "Мальплаке" #NT!
- ALLIANCE_SHIP_Sacheon:0 "Сачхон" #NT!
- ALLIANCE_SHIP_Leuctra:0 "Левктра" #NT!
- ALLIANCE_SHIP_Patay:0 "Патай" #NT!
- ALLIANCE_SHIP_Panipat:0 "Панипат" #NT!
- ALLIANCE_SHIP_Guadalcanal:0 "Гуадалканал" #NT!
- ALLIANCE_SHIP_Coral_Sea:0 "Коралловое море" #NT!
- ALLIANCE_SHIP_Chichi_Jima:0 "Chichi Jima" #NT!
- ALLIANCE_SHIP_Okinawa:0 "Окинава" #NT!
- ALLIANCE_SHIP_Kleidon:0 "Клейдон" #NT!
- ALLIANCE_SHIP_Amphipolis:0 "Амфиполь" #NT!
- ALLIANCE_SHIP_Colenso:0 "Коленсо" #NT!
- ALLIANCE_SHIP_Nihawand:0 "Нихаванд" #NT!
- ALLIANCE_SHIP_Sentinum:0 "Сентинум" #NT!
- ALLIANCE_SHIP_Isandlwana:0 "Исандлвана" #NT!
- ALLIANCE_SHIP_Navarino:0 "Наварино" #NT!
- ALLIANCE_SHIP_Chalons:0 "Шалоны" #NT!
- ALLIANCE_SHIP_Sempach:0 "Земпах" #NT!
- ALLIANCE_SHIP_Lechfeld:0 "Лехфельд" #NT!
- ALLIANCE_SHIP_Boyaca:0 "Бояка" #NT!
- ALLIANCE_SHIP_Tricamarum:0 "Трикамарум" #NT!
- ALLIANCE_SHIP_Perugia:0 "Перуджа" #NT!
- ALLIANCE_SHIP_New_Delhi:0 "Нью-Дели" #NT!
- ALLIANCE_SHIP_Nairobi:0 "Найроби" #NT!
- ALLIANCE_SHIP_Manila:0 "Манила" #NT!
- ALLIANCE_SHIP_Madrid:0 "Мадрид" #NT!
- ALLIANCE_SHIP_London:0 "Лондон" #NT!
- ALLIANCE_SHIP_Jakarta:0 "Джакарта" #NT!
- ALLIANCE_SHIP_Hyderabad:0 "Хайдарабад" #NT!
- ALLIANCE_SHIP_Geneva:0 "Женева" #NT!
- ALLIANCE_SHIP_Emden:0 "Эмден" #NT!
- ALLIANCE_SHIP_Town:0 "Город" #NT!
- ALLIANCE_SHIP_Cape:0 "мыс" #NT!
- ALLIANCE_SHIP_Cairo:0 "Каир" #NT!
- ALLIANCE_SHIP_Budapest:0 "Будапешт" #NT!
- ALLIANCE_SHIP_Waterloo:0 "Ватерлоо" #NT!
- ALLIANCE_SHIP_Magdeburg:0 "Магдебург" #NT!
- ALLIANCE_SHIP_Hohenfriedberg:0 "Хоэнфридберг" #NT!
- ALLIANCE_SHIP_Desert_Storm:0 "Буря в пустыне" #NT!
- ALLIANCE_SHIP_Dhaka:0 "Дакка" #NT!
- ALLIANCE_SHIP_Moscow:0 "Москва" #NT!
- ALLIANCE_SHIP_Osaka:0 "Осака" #NT!
- ALLIANCE_SHIP_Mumbai:0 "Мумбаи" #NT!
- ALLIANCE_SHIP_Mexico_City:0 "Мехико" #NT!
- ALLIANCE_SHIP_Sao_Paulo:0 "Сан-Паулу" #NT!
- ALLIANCE_SHIP_Guangzhou:0 "Гуанчжоу" #NT!
- ALLIANCE_SHIP_Beijing:0 "Пекин" #NT!
- ALLIANCE_SHIP_Karachi:0 "Карачи" #NT!
- ALLIANCE_SHIP_Seoul:0 "Сеул" #NT!
- ALLIANCE_SHIP_New_York:0 "Нью-Йорк" #NT!
- ALLIANCE_SHIP_Singapore:0 "Сингапур" #NT!
- ALLIANCE_SHIP_Bangkok:0 "Бангкок" #NT!
- ALLIANCE_SHIP_Paris:0 "Париж" #NT!
- ALLIANCE_SHIP_Warsaw:0 "Варшава" #NT!
- ALLIANCE_SHIP_Tokyo:0 "Токио" #NT!
- ALLIANCE_SHIP_Shenyang:0 "Шэньян" #NT!
- ALLIANCE_SHIP_Shanghai:0 "Шанхай" #NT!
- ALLIANCE_SHIP_Bengaluru:0 "Бангалор" #NT!
- ALLIANCE_SHIP_Saigon:0 "SaigonE" #NT!
- ALLIANCE_SHIP_Chicago:0 "Чикаго" #NT!
- ALLIANCE_SHIP_Chennai:0 "Ченнаи" #NT!
- ALLIANCE_SHIP_Lahore:0 "Лахор" #NT!
- ALLIANCE_SHIP_Nagoya:0 "Nagoya" #NT!
- ALLIANCE_SHIP_Chengdu:0 "Чэнду" #NT!
- ALLIANCE_SHIP_Lima:0 "Лима" #NT!
- ALLIANCE_SHIP_Tianjin:0 "Тяньцзинь" #NT!
- ALLIANCE_SHIP_Kinshasa:0 "Киншаса" #NT!
- ALLIANCE_SHIP_Rio_de_Janeiro:0 "Рио де Жанейро" #NT!
- ALLIANCE_SHIP_Shenzen:0 "Shenzen" #NT!
- ALLIANCE_SHIP_lagos:0 "Лагос" #NT!
- ALLIANCE_SHIP_Istanbul:0 "Стамбул" #NT!
- ALLIANCE_SHIP_Tehran:0 "Тегеран" #NT!
- ALLIANCE_SHIP_Buenos_Aires:0 "Буэнос айрес" #NT!
- ALLIANCE_SHIP_Kolkata:0 "Калькутта" #NT!
- ALLIANCE_SHIP_Los_Angeles:0 "Лос-Анджелес" #NT!
- ALLIANCE_SHIP_Xian:0 "Сиань" #NT!
- ALLIANCE_SHIP_Nanjing:0 "Нанкин" #NT!
- ALLIANCE_SHIP_Dallas:0 "Даллас" #NT!
- ALLIANCE_SHIP_Santiago:0 "Сантьяго" #NT!
- ALLIANCE_SHIP_Toronto:0 "Toronto" #NT!
- ALLIANCE_SHIP_Baghdad:0 "Багдад" #NT!
- ALLIANCE_SHIP_Essen:0 "Эссен" #NT!
- ALLIANCE_SHIP_Quanzhou:0 "Цюаньчжоу" #NT!
- ALLIANCE_SHIP_Kuala_Lumpur:0 "Куала-Лумпур" #NT!
- ALLIANCE_SHIP_Ahmedabad:0 "Ахмедабад" #NT!
- ALLIANCE_SHIP_Chonquing:0 "Чунцин" #NT!
- ALLIANCE_SHIP_Hangzhou:0 "Ханчжоу" #NT!
- ALLIANCE_SHIP_Taipei:0 "Тайбэй" #NT!
- ALLIANCE_SHIP_Wuhan:0 "Ухань" #NT!
- ALLIANCE_SHIP_Johannesburg:0 "Йоханнесбург" #NT!
- ALLIANCE_SHIP_Dongguan:0 "Дунгуань" #NT!
- ALLIANCE_SHIP_Washington_D.C.:0 "Вашингтон, округ Колумбия." #NT!
- ALLIANCE_SHIP_Zhengzhou:0 "Чжэнчжоу" #NT!
- ALLIANCE_SHIP_Atlanta:0 "Атланта" #NT!
- ALLIANCE_SHIP_Khartoum:0 "Хартум" #NT!
- ALLIANCE_SHIP_Saint_Petersburg:0 "Санкт-Петербург" #NT!
- ALLIANCE_SHIP_Suzhou:0 "Suzhou" #NT!
- ALLIANCE_SHIP_Milan:0 "Милан" #NT!
- ALLIANCE_SHIP_Surat:0 "Сурат" #NT!
- ALLIANCE_SHIP_Philadelphia:0 "Филадельфия" #NT!
- ALLIANCE_SHIP_Pune:0 "Пуна" #NT!
- ALLIANCE_SHIP_Riyadh:0 "Эр-Рияд" #NT!
- ALLIANCE_SHIP_Bandung:0 "Бандунг" #NT!
- ALLIANCE_SHIP_Miami:0 "Майами" #NT!
- ALLIANCE_SHIP_Houston:0 "Хьюстон" #NT!
- ALLIANCE_SHIP_Quingdao:0 "Quingdao" #NT!
- ALLIANCE_SHIP_Luanda:0 "Луанда" #NT!
- ALLIANCE_SHIP_San_Francisco:0 "Сан-Франциско" #NT!
- ALLIANCE_SHIP_Berlin:0 "Берлин" #NT!
- ALLIANCE_SHIP_Monterrey:0 "Монтеррей" #NT!
- ALLIANCE_SHIP_Accra:0 "Аккра" #NT!
- ALLIANCE_SHIP_Dalian:0 "Далянь" #NT!
- ALLIANCE_SHIP_Phoenix:0 "Феникс" #NT!
- ALLIANCE_SHIP_Dar_es_Salaam:0 "Дар-эс-Салам" #NT!
- ALLIANCE_SHIP_Kuwait:0 "KuwaitE" #NT!
- ALLIANCE_SHIP_Xiamen:0 "Сямэнь" #NT!
- ALLIANCE_SHIP_Boston:0 "Бостон" #NT!
- ALLIANCE_SHIP_Belo_Horizonte:0 "Белу-Оризонти" #NT!
- ALLIANCE_SHIP_Ankara:0 "Анкара" #NT!
- ALLIANCE_SHIP_Guadalajara:0 "Гвадалахара" #NT!
- ALLIANCE_SHIP_Kabul:0 "Кабул" #NT!
- ALLIANCE_SHIP_Alexandria:0 "Александрия" #NT!
- ALLIANCE_SHIP_Barcelona:0 "Барселона" #NT!
- ALLIANCE_SHIP_Harbin:0 "Харбин" #NT!
- ALLIANCE_SHIP_Surabaya:0 "Сурабая" #NT!
- ALLIANCE_SHIP_Kano:0 "Кано" #NT!
- ALLIANCE_SHIP_Aleppo:0 "Алеппо" #NT!
- ALLIANCE_SHIP_Faisalabad:0 "Фейсалабад" #NT!
- ALLIANCE_SHIP_Medellin:0 "Медельин" #NT!
- ALLIANCE_SHIP_Wuxi:0 "Уси" #NT!
- ALLIANCE_SHIP_Kunming:0 "Kunming" #NT!
- ALLIANCE_SHIP_Changsha:0 "Чанша" #NT!
- ALLIANCE_SHIP_Hefei:0 "Хэфэй" #NT!
- ALLIANCE_SHIP_Detroit:0 "Детройт" #NT!
- ALLIANCE_SHIP_Jeddah:0 "Джидда" #NT!
- ALLIANCE_SHIP_Taiyuan:0 "Taiyuan" #NT!
- ALLIANCE_SHIP_Naples:0 "Неаполь" #NT!
- ALLIANCE_SHIP_Hanoi:0 "Ханой" #NT!
- ALLIANCE_SHIP_Ningbo:0 "Нинбо" #NT!
- ALLIANCE_SHIP_Jinan:0 "Цзинань" #NT!
- ALLIANCE_SHIP_Busan:0 "Пусан" #NT!
- ALLIANCE_SHIP_Rome:0 "Рим" #NT!
- ALLIANCE_SHIP_Melbourne:0 "Мельбурн" #NT!
- ALLIANCE_SHIP_Dubai:0 "Дубай" #NT!
- ALLIANCE_SHIP_Medan:0 "Медан" #NT!
- ALLIANCE_SHIP_Fuzhou:0 "Fuzhou" #NT!
- ALLIANCE_SHIP_Chittagong:0 "Читтагонг" #NT!
- ALLIANCE_SHIP_Lucknow:0 "Лакхнау" #NT!
- ALLIANCE_SHIP_Salvador:0 "Сальвадор" #NT!
- ALLIANCE_SHIP_Casablanca:0 "Касабланка" #NT!
- ALLIANCE_SHIP_Seattle:0 "Сиэтл" #NT!
- ALLIANCE_SHIP_Mashhad:0 "Мешхед" #NT!
- ALLIANCE_SHIP_Recife:0 "Ресифи" #NT!
- ALLIANCE_SHIP_Shijazhuang:0 "Shijazhuang" #NT!
- ALLIANCE_SHIP_Changchun:0 "Чанчунь" #NT!
- ALLIANCE_SHIP_Addis_Abeba:0 "Аддис-Абеба" #NT!
- ALLIANCE_SHIP_Fortaleza:0 "Форталеза" #NT!
- ALLIANCE_SHIP_Jaipur:0 "Джайпур" #NT!
- ALLIANCE_SHIP_Porto_Alegre:0 "Порту-Алегри" #NT!
- ALLIANCE_SHIP_Durban:0 "Дурбан" #NT!
- ALLIANCE_SHIP_Changzhou:0 "Чанчжоу" #NT!
- ALLIANCE_SHIP_Athens:0 "Афины" #NT!
- ALLIANCE_SHIP_Dakar:0 "Дакар" #NT!
- ALLIANCE_SHIP_Montreal:0 "Монреаль" #NT!
- ALLIANCE_SHIP_Tai_Shan:0 "Tai Shan" #NT!
- ALLIANCE_SHIP_Shasta:0 "Шаста" #NT!
- ALLIANCE_SHIP_Orizaba:0 "Орисаба" #NT!
- ALLIANCE_SHIP_Logan:0 "Логан" #NT!
- ALLIANCE_SHIP_Kilimanjaro:0 "Килиманджаро" #NT!
- ALLIANCE_SHIP_Fuji:0 "Фудзи" #NT!
- ALLIANCE_SHIP_Everest:0 "Эверест" #NT!
- ALLIANCE_SHIP_Elbrus:0 "Эльбрус" #NT!
- ALLIANCE_SHIP_Aconcagua:0 "Аконкагуа" #NT!
- ALLIANCE_SHIP_Tel_Aviv:0 "Тель-Авив" #NT!
- ALLIANCE_SHIP_Sanaa:0 "Сана" #NT!
- ALLIANCE_SHIP_Zhongshan:0 "Чжуншань" #NT!
- ALLIANCE_SHIP_Kanpur:0 "Канпур" #NT!
- ALLIANCE_SHIP_Zhangjiagang:0 "Чжанцзяган" #NT!
- ALLIANCE_SHIP_San_Diego:0 "Сан Диего" #NT!
- ALLIANCE_SHIP_Curitiba:0 "Куритиба" #NT!
- ALLIANCE_SHIP_Izmir:0 "Измир" #NT!
- ALLIANCE_SHIP_Ibadan:0 "Ибадан" #NT!
- ALLIANCE_SHIP_Wenzhou:0 "Вэньчжоу" #NT!
- ALLIANCE_SHIP_Masherbrum:0 "Машербрум" #NT!
- ALLIANCE_SHIP_Himalchuli:0 "Гималчули" #NT!
- ALLIANCE_SHIP_Gyachung_Kang:0 "Гьячунг Кан" #NT!
- ALLIANCE_SHIP_Sishapangma:0 "Шишапангма" #NT!
- ALLIANCE_SHIP_Broad_Peak:0 "Броуд Пик" #NT!
- ALLIANCE_SHIP_Gasherbrum:0 "Гашербрум" #NT!
- ALLIANCE_SHIP_Annapurna:0 "Аннапурна" #NT!
- ALLIANCE_SHIP_Nanga_Parbat:0 "Нанга Парбат" #NT!
- ALLIANCE_SHIP_Manaslu:0 "Манаслу" #NT!
- ALLIANCE_SHIP_Dhaulagiri:0 "Дхаулагири" #NT!
- ALLIANCE_SHIP_Cho_Oyu:0 "Cho Oyu" #NT!
- ALLIANCE_SHIP_Makalu:0 "Макалу" #NT!
- ALLIANCE_SHIP_Lhotse:0 "Лхоцзе" #NT!
- ALLIANCE_SHIP_Kachenjunga:0 "Каченджанга" #NT!
- ALLIANCE_SHIP_Qogir:0 "Когир" #NT!
- ALLIANCE_SHIP_Austen:0 "Остин" #NT!
- ALLIANCE_SHIP_Mount_Cook:0 "Маунт Кук" #NT!
- ALLIANCE_SHIP_Grosslockner:0 "Гросслокнер" #NT!
- ALLIANCE_SHIP_Mauna_Kea:0 "Мауна-Кеа" #NT!
- ALLIANCE_SHIP_Dent_Blanche:0 "Дент Бланш" #NT!
- ALLIANCE_SHIP_Rainier:0 "Ренье" #NT!
- ALLIANCE_SHIP_Matterhorn:0 "Маттерхорн" #NT!
- ALLIANCE_SHIP_Montblanc:0 "Монблан" #NT!
- ALLIANCE_SHIP_Ruwenzori:0 "Ruwenzori" #NT!
- ALLIANCE_SHIP_Ararat:0 "Арарат" #NT!
- ALLIANCE_SHIP_Popocatepetl:0 "Попокатепетль" #NT!
- ALLIANCE_SHIP_Vinson:0 "Винсон" #NT!
- ALLIANCE_SHIP_McKinley:0 "МакКинли" #NT!
- ALLIANCE_SHIP_Ojos_del_Salado:0 "Охос-дель-Саладо" #NT!
- ALLIANCE_SHIP_Kamet:0 "Камет" #NT!
- ALLIANCE_SHIP_Rakaposhi:0 "Rakaposhi" #NT!
- ALLIANCE_SHIP_Nanda_Devi:0 "Нанда Деви" #NT!
- ALLIANCE_SHIP_Piz_Bernia:0 "Пиц Берниа" #NT!
- ALLIANCE_SHIP_Eiger:0 "Эйгер" #NT!
- ALLIANCE_SHIP_Mauna_Loa:0 "Мауна-Лоа" #NT!
- ALLIANCE_SHIP_Tajamulco:0 "Таджамулько" #NT!
- ALLIANCE_SHIP_Dome_du_Gouter:0 "Купол Гутер" #NT!
- ALLIANCE_SHIP_Mount_Vinson:0 "Маунт Винсон" #NT!
- ALLIANCE_SHIP_Mount_Cameroon:0 "Гора Камерун" #NT!
- ALLIANCE_SHIP_Mawensi:0 "Мавенси" #NT!
- ALLIANCE_SHIP_Aigulle_du_Midi:0 "Эгюль дю Миди" #NT!
- ALLIANCE_SHIP_Hohenzollern:0 "Гогенцоллерн" #NT!
- ALLIANCE_SHIP_Ben_Nevis:0 "Бен-Невис" #NT!
- ALLIANCE_SHIP_Brocken:0 "Брокен" #NT!
- ALLIANCE_SHIP_Kyffhaeuser:0 "Кифхойзер" #NT!
- ALLIANCE_SHIP_Zugspitze:0 "Цугшпитце" #NT!
- ALLIANCE_SHIP_Vesuvius:0 "Везувий" #NT!
- ALLIANCE_SHIP_Mount_Whitney:0 "Гора Уитни" #NT!
- ALLIANCE_SHIP_Etna:0 "Этна" #NT!
- ALLIANCE_SHIP_Gunnbjorn_Fjeld:0 "Гуннбьорн Фьельд" #NT!
- ALLIANCE_SHIP_Jengish_Chokusu:0 "Jengish Chokusu" #NT!
- ALLIANCE_SHIP_Klyuchevskaya:0 "Ключевская" #NT!
- ALLIANCE_SHIP_Damavand:0 "Дамаванд" #NT!
- ALLIANCE_SHIP_Puncak_Jaya:0 "Пунчак Джая" #NT!
- ALLIANCE_SHIP_Citlaltepetl:0 "Читлалтепетль" #NT!
- ALLIANCE_SHIP_Cristobal_Colon:0 "Кристобаль Колон" #NT!
- ALLIANCE_SHIP_Olympus:0 "Олимп" #NT!
- ALLIANCE_SHIP_Finsteraarhorn:0 "Финстерархорн" #NT!
- ALLIANCE_SHIP_Mustag_Ata:0 "Мустаг Ата" #NT!
- ALLIANCE_SHIP_Erebus:0 "Эребус" #NT!
- ALLIANCE_SHIP_Scorpion:0 "Скорпион" #NT!
- ALLIANCE_SHIP_Siren:0 "Сирена" #NT!
- ALLIANCE_SHIP_Fisgard:0 "Фисгард" #NT!
- ALLIANCE_SHIP_Ellinor:0 "Эллинор" #NT!
- ALLIANCE_SHIP_Leonidas:0 "Леонидас" #NT!
- ALLIANCE_SHIP_Watchman:0 "Сторож" #NT!
- ALLIANCE_SHIP_Babylon:0 "Вавилон" #NT!
- ALLIANCE_SHIP_Carmen:0 "Кармен" #NT!
- ALLIANCE_SHIP_Cordelia:0 "Корделия" #NT!
- ALLIANCE_SHIP_Hollyhock:0 "Холлихок" #NT!
- ALLIANCE_SHIP_Fortune_Prize:0 "Приз удачи" #NT!
- ALLIANCE_SHIP_Balmain:0 "Бальмен" #NT!
- ALLIANCE_SHIP_Young_Lion:0 "Молодой лев" #NT!
- ALLIANCE_SHIP_Ambrose:0 "Амвросий" #NT!
- ALLIANCE_SHIP_Penelope:0 "Пенелопа" #NT!
- ALLIANCE_SHIP_Auckland:0 "Окленд" #NT!
- ALLIANCE_SHIP_Avon:0 "Эйвон" #NT!
- ALLIANCE_SHIP_Vulture:0 "Стервятник" #NT!
- ALLIANCE_SHIP_Spitfire:0 "Спитфайр" #NT!
- ALLIANCE_SHIP_Fortune:0 "Удача" #NT!
- ALLIANCE_SHIP_Tigris:0 "Тигр" #NT!
- ALLIANCE_SHIP_Acasta:0 "Акаста" #NT!
- ALLIANCE_SHIP_Meadow:0 "Луг" #NT!
- ALLIANCE_SHIP_Aigle:0 "Эгль" #NT!
- ALLIANCE_SHIP_Lobelia:0 "Лобелия" #NT!
- ALLIANCE_SHIP_Glowing_Light:0 "Светящийся свет" #NT!
- ALLIANCE_SHIP_Legion:0 "Легион" #NT!
- ALLIANCE_SHIP_Genista:0 "Дрок" #NT!
- ALLIANCE_SHIP_Ballista:0 "Баллиста" #NT!
- ALLIANCE_SHIP_Hydra:0 "Гидра" #NT!
- Detroit:0 "Детройт" #NT!
- Kowloon:0 "Коулун" #NT!
- Alamo:0 "Аламо" #NT!
- Normandy:0 "Нормандия" #NT!
- Berlin:0 "Берлин" #NT!
- Geneva:0 "Женева" #NT!
- Everest:0 "Эверест" #NT!
- Kilimanjaro:0 "Килиманджаро" #NT!
- ALLIANCE_xxFLEET_ORD:0 "$O$ Флот Альянса" #NT!
- ALLIANCE_xxInfantry_Garrison_ORD:0 "$O$ Пехотный гарнизон" #NT!
- ALLIANCE_xxMarine_Division_ORD:0 "$O$ Подразделение морской пехоты" #NT!
- ALLIANCE_xxDrafted_Corps_ORD:0 "$O$ Собран корпус" #NT!
- ALLIANCE_xxClone_Corps_ORD:0 "$O$ Корпус клонов" #NT!
- ALLIANCE_xxVI_Stike_Corps_ORD:0 "$O$ Stike Corps" #NT!
- ALLIANCE_xxVI_Defense_Corps_ORD:0 "$O$ Корпус обороны" #NT!
- ALLIANCE_xxBiotic_Division_ORD:0 "R$O$ Биотический отдел" #NT!
- ALLIANCE_xxXeno_Commando_Force_ORD:0 "$O$ Xeno Commando Force" #NT!
- ALLIANCE_xxN7_Commando_Team_ORD:0 "$O$ N7 Команда коммандос" #NT!
- ALLIANCE_CHR_Kevin:0 "Кевин" #NT!
- ALLIANCE_CHR_Samuel:0 "Самуэль" #NT!
- ALLIANCE_CHR_Ryan:0 "Райан" #NT!
- ALLIANCE_CHR_Daniel:0 "Даниэль" #NT!
- ALLIANCE_CHR_Anthony:0 "Энтони" #NT!
- ALLIANCE_CHR_Matthew:0 "Мэтью" #NT!
- ALLIANCE_CHR_Joseph:0 "Джозеф" #NT!
- ALLIANCE_CHR_Ethan:0 "Итан" #NT!
- ALLIANCE_CHR_Michael:0 "Майкл" #NT!
- ALLIANCE_CHR_Joshua:0 "Joshua" #NT!
- ALLIANCE_CHR_Christopher:0 "Кристофер" #NT!
- ALLIANCE_CHR_Jacob:0 "Джейкоб" #NT!
- ALLIANCE_CHR_William:0 "Уильям" #NT!
- ALLIANCE_CHR_James:0 "Джеймс" #NT!
- ALLIANCE_CHR_Adam:0 "Адам" #NT!
- ALLIANCE_CHR_Peter:0 "Питер" #NT!
- ALLIANCE_CHR_Brian:0 "Брайан" #NT!
- ALLIANCE_CHR_John:0 "Джон" #NT!
- ALLIANCE_CHR_Vernon:0 "Вернон" #NT!
- ALLIANCE_CHR_Alfred:0 "Альфред" #NT!
- ALLIANCE_CHR_Earl:0 "граф" #NT!
- ALLIANCE_CHR_Merritt:0 "Меррит" #NT!
- ALLIANCE_CHR_Louis:0 "Луи" #NT!
- ALLIANCE_CHR_Charles:0 "Чарльз" #NT!
- ALLIANCE_CHR_Walter:0 "Уолтер" #NT!
- ALLIANCE_CHR_Wayne:0 "Уэйн" #NT!
- ALLIANCE_CHR_Wyatt:0 "Вятт" #NT!
- ALLIANCE_CHR_Jack:0 "Джек" #NT!
- ALLIANCE_CHR_Owen:0 "Оуэн" #NT!
- ALLIANCE_CHR_Gavin:0 "Гэвин" #NT!
- ALLIANCE_CHR_Nicholas:0 "Николай" #NT!
- ALLIANCE_CHR_Henry:0 "Генри" #NT!
- ALLIANCE_CHR_Andrew:0 "Андрей" #NT!
- ALLIANCE_CHR_Benjamin:0 "Бенджамин" #NT!
- ALLIANCE_CHR_Carter:0 "Картер" #NT!
- ALLIANCE_CHR_Logan:0 "Логан" #NT!
- ALLIANCE_CHR_David:0 "Дэйвид" #NT!
- ALLIANCE_CHR_Duncan:0 "Дункан" #NT!
- ALLIANCE_CHR_Scott:0 "Скотт" #NT!
- ALLIANCE_CHR_Marcus:0 "Маркус" #NT!
- ALLIANCE_CHR_Mark:0 "Отметка" #NT!
- ALLIANCE_CHR_Richard:0 "Ричард" #NT!
- ALLIANCE_CHR_Jon:0 "Джон" #NT!
- ALLIANCE_CHR_Stephen:0 "Стивен" #NT!
- ALLIANCE_CHR_Francis:0 "Фрэнсис" #NT!
- ALLIANCE_CHR_Ronald:0 "Рональд" #NT!
- ALLIANCE_CHR_Hugh:0 "Хью" #NT!
- ALLIANCE_CHR_Glen:0 "Глен" #NT!
- ALLIANCE_CHR_Gene:0 "Ген" #NT!
- ALLIANCE_CHR_Robert:0 "Роберт" #NT!
- ALLIANCE_CHR_Thomas:0 "Томас" #NT!
- ALLIANCE_CHR_Greg:0 "Грег" #NT!
- ALLIANCE_CHR_Paul:0 "Павел" #NT!
- ALLIANCE_CHR_George:0 "Джордж" #NT!
- ALLIANCE_CHR_Donald:0 "Дональд" #NT!
- ALLIANCE_CHR_Edward:0 "Эдвард" #NT!
- ALLIANCE_CHR_Alan:0 "Алан" #NT!
- ALLIANCE_CHR_Harry:0 "Гарри" #NT!
- ALLIANCE_CHR_Patrick:0 "Патрик" #NT!
- ALLIANCE_CHR_Lawrence:0 "Лоуренс" #NT!
- ALLIANCE_CHR_Tyrone:0 "Тайрон" #NT!
- ALLIANCE_CHR_Tony:0 "Тони" #NT!
- ALLIANCE_CHR_Andy:0 "Энди" #NT!
- ALLIANCE_CHR_Ralph:0 "Ральф" #NT!
- ALLIANCE_CHR_Kenneth:0 "Кеннет" #NT!
- ALLIANCE_CHR_Oliver:0 "Оливер" #NT!
- ALLIANCE_CHR_Clay:0 "Глина" #NT!
- ALLIANCE_CHR_Tom:0 "Том" #NT!
- ALLIANCE_CHR_Steve:0 "Стив" #NT!
- ALLIANCE_CHR_Lee:0 "Ли" #NT!
- ALLIANCE_CHR_Clayton:0 "Клейтон" #NT!
- ALLIANCE_CHR_Russell:0 "Рассел" #NT!
- ALLIANCE_CHR_Howard:0 "Говард" #NT!
- ALLIANCE_CHR_Keith:0 "Кейт" #NT!
- ALLIANCE_CHR_Douglas:0 "Дуглас" #NT!
- ALLIANCE_CHR_Fred:0 "Фред" #NT!
- ALLIANCE_CHR_Raymond:0 "Раймонд" #NT!
- ALLIANCE_CHR_Harold:0 "Гарольд" #NT!
- ALLIANCE_CHR_Jeffrey:0 "Джеффри" #NT!
- ALLIANCE_CHR_Neil:0 "Нил" #NT!
- ALLIANCE_CHR_Calhoun:0 "Калхун" #NT!
- ALLIANCE_CHR_Stanley:0 "Стэнли" #NT!
- ALLIANCE_CHR_Cooper:0 "Купер" #NT!
- ALLIANCE_CHR_Sean:0 "Шон" #NT!
- ALLIANCE_CHR_Gaylord:0 "Гейлорд" #NT!
- ALLIANCE_CHR_Connor:0 "Коннор" #NT!
- ALLIANCE_CHR_Harrison:0 "Харрисон" #NT!
- ALLIANCE_CHR_Jonathan:0 "Джонатан" #NT!
- ALLIANCE_CHR_Martin:0 "Мартин" #NT!
- ALLIANCE_CHR_Jason:0 "Джейсон" #NT!
- ALLIANCE_CHR_Craig:0 "КрейгЭ" #NT!
- ALLIANCE_CHR_Frank:0 "Откровенный" #NT!
- ALLIANCE_CHR_Eugene:0 "Юджин" #NT!
- ALLIANCE_CHR_Dennis:0 "Деннис" #NT!
- ALLIANCE_CHR_Orson:0 "Орсон" #NT!
- ALLIANCE_CHR_Marvin:0 "Марвин" #NT!
- ALLIANCE_CHR_Graham:0 "Грэм" #NT!
- ALLIANCE_CHR_Warren:0 "Уоррен" #NT!
- ALLIANCE_CHR_Ernest:0 "Эрнест" #NT!
- ALLIANCE_CHR_Ben:0 "Бен" #NT!
- ALLIANCE_CHR_Mortimer:0 "Мортимер" #NT!
- ALLIANCE_CHR_Duane:0 "Дуэйн" #NT!
- ALLIANCE_CHR_Lloyd:0 "Ллойд" #NT!
- ALLIANCE_CHR_Clarence:0 "Кларенс" #NT!
- ALLIANCE_CHR_Horatio:0 "Горацио" #NT!
- ALLIANCE_CHR_Norris:0 "Норрис" #NT!
- ALLIANCE_CHR_Bruce:0 "Брюс" #NT!
- ALLIANCE_CHR_Ken:0 "Кен" #NT!
- ALLIANCE_CHR_Jesse:0 "Джесси" #NT!
- ALLIANCE_CHR_Roy:0 "Рой" #NT!
- ALLIANCE_CHR_Silas:0 "Сайлас" #NT!
- ALLIANCE_CHR_Marshall:0 "Маршалл" #NT!
- ALLIANCE_CHR_Carl:0 "Карл" #NT!
- ALLIANCE_CHR_Floyd:0 "Флойд" #NT!
- ALLIANCE_CHR_Randolph:0 "Рэндольф" #NT!
- ALLIANCE_CHR_Seth:0 "Сет" #NT!
- ALLIANCE_CHR_Irving:0 "Ирвинг" #NT!
- ALLIANCE_CHR_Horace:0 "Гораций" #NT!
- ALLIANCE_CHR_Jake:0 "Джейк" #NT!
- ALLIANCE_CHR_Franklin:0 "Франклин" #NT!
- ALLIANCE_CHR_Gerald:0 "Джеральд" #NT!
- ALLIANCE_CHR_Rodney:0 "Родни" #NT!
- ALLIANCE_CHR_Clyde:0 "Клайд" #NT!
- ALLIANCE_CHR_Montgomery:0 "Монтгомери" #NT!
- ALLIANCE_CHR_Percival:0 "Персиваль" #NT!
- ALLIANCE_CHR_Arthur:0 "Артур" #NT!
- ALLIANCE_CHR_Harlan:0 "Харлан" #NT!
- ALLIANCE_CHR_Dwight:0 "Дуайт" #NT!
- ALLIANCE_CHR_Jackson:0 "Джексон" #NT!
- ALLIANCE_CHR_Derek:0 "Дерек" #NT!
- ALLIANCE_CHR_Gordon:0 "Гордон" #NT!
- ALLIANCE_CHR_Leonard:0 "Леонард" #NT!
- ALLIANCE_CHR_Ian:0 "Ян" #NT!
- ALLIANCE_CHR_Larry:0 "Ларри" #NT!
- ALLIANCE_CHR_Geoffrey:0 "Джеффри" #NT!
- ALLIANCE_CHR_Robin:0 "Робин" #NT!
- ALLIANCE_CHR_Albert:0 "Альберт" #NT!
- ALLIANCE_CHR_Eric:0 "Эрик" #NT!
- ALLIANCE_CHR_Nathan:0 "Натан" #NT!
- ALLIANCE_CHR_Gary:0 "Гэри" #NT!
- ALLIANCE_CHR_Edmund:0 "Эдмунд" #NT!
- ALLIANCE_CHR_Pierce:0 "Пирс" #NT!
- ALLIANCE_CHR_Wallace:0 "Уоллес" #NT!
- ALLIANCE_CHR_Timothy:0 "Тимоти" #NT!
- ALLIANCE_CHR_Malcolm:0 "Малькольм" #NT!
- ALLIANCE_CHR_Cliff:0 "Утес" #NT!
- ALLIANCE_CHR_Brent:0 "Брент" #NT!
- ALLIANCE_CHR_Jared:0 "Джаред" #NT!
- ALLIANCE_CHR_Xavier:0 "Ксавье" #NT!
- ALLIANCE_CHR_Clark:0 "Кларк" #NT!
- ALLIANCE_CHR_Morgan:0 "Морган" #NT!
- ALLIANCE_CHR_Simon:0 "Саймон" #NT!
- ALLIANCE_CHR_Elliot:0 "Эллиот" #NT!
- ALLIANCE_CHR_Zack:0 "Зак" #NT!
- ALLIANCE_CHR_Justin:0 "Джастин" #NT!
- ALLIANCE_CHR_Melvin:0 "Мелвин" #NT!
- ALLIANCE_CHR_Darren:0 "Даррен" #NT!
- ALLIANCE_CHR_Colin:0 "Колин" #NT!
- ALLIANCE_CHR_Ross:0 "Росс" #NT!
- ALLIANCE_CHR_Philip:0 "Филип" #NT!
- ALLIANCE_CHR_Dean:0 "Дин" #NT!
- ALLIANCE_CHR_Rupert:0 "Руперт" #NT!
- ALLIANCE_CHR_Stuart:0 "Стюарт" #NT!
- ALLIANCE_CHR_Bernard:0 "Бернар" #NT!
- ALLIANCE_CHR_Alec:0 "Алек" #NT!
- ALLIANCE_CHR_Maxwell:0 "Максвелл" #NT!
- ALLIANCE_CHR_Felix:0 "Феликс" #NT!
- ALLIANCE_CHR_Dudley:0 "Дадли" #NT!
- ALLIANCE_CHR_Dermot:0 "Дермот" #NT!
- ALLIANCE_CHR_Conan:0 "Конан" #NT!
- ALLIANCE_CHR_Kieran:0 "Киран" #NT!
- ALLIANCE_CHR_Basil:0 "Бэзил" #NT!
- ALLIANCE_CHR_Ambrose:0 "Амвросий" #NT!
- ALLIANCE_CHR_Brett:0 "Бретт" #NT!
- ALLIANCE_CHR_Brendan:0 "Брендан" #NT!
- ALLIANCE_CHR_Desmond:0 "Десмонд" #NT!
- ALLIANCE_CHR_Adrian:0 "Адриан" #NT!
- ALLIANCE_CHR_Lance:0 "Лэнс" #NT!
- ALLIANCE_CHR_Travis:0 "Трэвис" #NT!
- ALLIANCE_CHR_Trevor:0 "Тревор" #NT!
- ALLIANCE_CHR_Emmett:0 "Эммет" #NT!
- ALLIANCE_CHR_Nelson:0 "Нельсон" #NT!
- ALLIANCE_CHR_Crispin:0 "Криспин" #NT!
- ALLIANCE_CHR_Edgar:0 "Эдгар" #NT!
- ALLIANCE_CHR_Bradley:0 "Брэдли" #NT!
- ALLIANCE_CHR_Dominic:0 "Доминик" #NT!
- ALLIANCE_CHR_Alexander:0 "Александр" #NT!
- ALLIANCE_CHR_Nigel:0 "Найджел" #NT!
- ALLIANCE_CHR_Wesley:0 "Уэсли" #NT!
- ALLIANCE_CHR_Herbert:0 "Герберт" #NT!
- ALLIANCE_CHR_Reginald:0 "Реджинальд" #NT!
- ALLIANCE_CHR_Randall:0 "Рэндалл" #NT!
- ALLIANCE_CHR_Morton:0 "Мортон" #NT!
- ALLIANCE_CHR_Miles:0 "Мили" #NT!
- ALLIANCE_CHR_Luke:0 "Люк" #NT!
- ALLIANCE_CHR_Grant:0 "Грант" #NT!
- ALLIANCE_CHR_Angus:0 "Ангус" #NT!
- ALLIANCE_CHR_Vincent:0 "Винсент" #NT!
- ALLIANCE_CHR_Aaron:0 "Аарон" #NT!
- ALLIANCE_CHR_Sidney:0 "Сидни" #NT!
- ALLIANCE_CHR_Oscar:0 "Оскар" #NT!
- ALLIANCE_CHR_Finn:0 "Финн" #NT!
- ALLIANCE_CHR_Chester:0 "Честер" #NT!
- ALLIANCE_CHR_Kyle:0 "Кайл" #NT!
- ALLIANCE_CHR_Vance:0 "Вэнс" #NT!
- ALLIANCE_CHR_Sir_Andrew:0 "Сэр Эндрю" #NT!
- ALLIANCE_CHR_Sir_Douglas:0 "сэр Дуглас" #NT!
- ALLIANCE_CHR_Sir_Montgomery:0 "сэр Монтгомери" #NT!
- ALLIANCE_CHR_Sir_Nigel:0 "Сэр Найджел" #NT!
- ALLIANCE_CHR_Sir_Walter:0 "сэр Уолтер" #NT!
- ALLIANCE_CHR_Sir_James:0 "сэр Джеймс" #NT!
- ALLIANCE_CHR_Sir_Benjamin:0 "сэр Бенджамин" #NT!
- ALLIANCE_CHR_Dirk:0 "Кортик" #NT!
- ALLIANCE_CHR_Liam:0 "Лиам" #NT!
- ALLIANCE_CHR_Hannah:0 "Ханна" #NT!
- ALLIANCE_CHR_Honor:0 "Честь" #NT!
- ALLIANCE_CHR_Jillian:0 "Джиллиан" #NT!
- ALLIANCE_CHR_Sigourney:0 "Сигурни" #NT!
- ALLIANCE_CHR_April:0 "апрель" #NT!
- ALLIANCE_CHR_Veronica:0 "Вероника" #NT!
- ALLIANCE_CHR_Jodie:0 "Джоди" #NT!
- ALLIANCE_CHR_Meryl:0 "Мерил" #NT!
- ALLIANCE_CHR_Penny:0 "Пенни" #NT!
- ALLIANCE_CHR_Jenny:0 "Дженни" #NT!
- ALLIANCE_CHR_Constance:0 "Констанция" #NT!
- ALLIANCE_CHR_Molly:0 "Молли" #NT!
- ALLIANCE_CHR_Jill:0 "Джилл" #NT!
- ALLIANCE_CHR_Winona:0 "Вайнона" #NT!
- ALLIANCE_CHR_Marion:0 "Марион" #NT!
- ALLIANCE_CHR_Mercedes:0 "Мерседес" #NT!
- ALLIANCE_CHR_Mallory:0 "Мэллори" #NT!
- ALLIANCE_CHR_Hayden:0 "Хайден" #NT!
- ALLIANCE_CHR_Carmen:0 "Кармен" #NT!
- ALLIANCE_CHR_Paige:0 "Пейдж" #NT!
- ALLIANCE_CHR_Heidi:0 "Хайди" #NT!
- ALLIANCE_CHR_Erica:0 "ЭрикаЭ" #NT!
- ALLIANCE_CHR_Lynda:0 "Линда" #NT!
- ALLIANCE_CHR_Meredith:0 "Мередит" #NT!
- ALLIANCE_CHR_Mona:0 "Мона" #NT!
- ALLIANCE_CHR_Lydia:0 "Лидия" #NT!
- ALLIANCE_CHR_Natasha:0 "Наташа" #NT!
- ALLIANCE_CHR_Stephanie:0 "Стефани" #NT!
- ALLIANCE_CHR_Bianca:0 "Бьянка" #NT!
- ALLIANCE_CHR_Brittney:0 "Бритни" #NT!
- ALLIANCE_CHR_Janice:0 "Дженис" #NT!
- ALLIANCE_CHR_Holly:0 "Холли" #NT!
- ALLIANCE_CHR_Bonnie:0 "Бонни" #NT!
- ALLIANCE_CHR_Kelly:0 "Келли" #NT!
- ALLIANCE_CHR_Jackie:0 "Джеки" #NT!
- ALLIANCE_CHR_Teri:0 "Тери" #NT!
- ALLIANCE_CHR_Danielle:0 "Даниэль" #NT!
- ALLIANCE_CHR_Claire:0 "Клэр" #NT!
- ALLIANCE_CHR_Hilary:0 "Хилари" #NT!
- ALLIANCE_CHR_Willow:0 "Уиллоу" #NT!
- ALLIANCE_CHR_Judy:0 "Джуди" #NT!
- ALLIANCE_CHR_Tamara:0 "Тамара" #NT!
- ALLIANCE_CHR_Vivica:0 "Вивика" #NT!
- ALLIANCE_CHR_Miriam:0 "Мириам" #NT!
- ALLIANCE_CHR_Carrie:0 "Кэрри" #NT!
- ALLIANCE_CHR_Tina:0 "Тина" #NT!
- ALLIANCE_CHR_Kathryn:0 "Кэтрин" #NT!
- ALLIANCE_CHR_Ann:0 "Анна" #NT!
- ALLIANCE_CHR_Gail:0 "Гейл" #NT!
- ALLIANCE_CHR_Elle:0 "Эль" #NT!
- ALLIANCE_CHR_Susie:0 "Сюзи" #NT!
- ALLIANCE_CHR_Shannon:0 "Шеннон" #NT!
- ALLIANCE_CHR_Kara:0 "Кара" #NT!
- ALLIANCE_CHR_Elaine:0 "Элейн" #NT!
- ALLIANCE_CHR_Sally:0 "Салли" #NT!
- ALLIANCE_CHR_Phyllis:0 "Филлис" #NT!
- ALLIANCE_CHR_Diane:0 "Диана" #NT!
- ALLIANCE_CHR_Tricia:0 "Триша" #NT!
- ALLIANCE_CHR_Karla:0 "Карла" #NT!
- ALLIANCE_CHR_Gina:0 "Джина" #NT!
- ALLIANCE_CHR_Virginia:0 "Вирджиния" #NT!
- ALLIANCE_CHR_Miranda:0 "Миранда" #NT!
- ALLIANCE_CHR_Rachel:0 "Рэйчел" #NT!
- ALLIANCE_CHR_Mindy:0 "Минди" #NT!
- ALLIANCE_CHR_Mandy:0 "Мэнди" #NT!
- Frances:0 "Фрэнсис" #NT!
- ALLIANCE_CHR_Shelly:0 "Шелли" #NT!
- ALLIANCE_CHR_Courtney:0 "Кортни" #NT!
- ALLIANCE_CHR_Julie:0 "Джули" #NT!
- ALLIANCE_CHR_Doris:0 "Дорис" #NT!
- ALLIANCE_CHR_Fran:0 "Фрэн" #NT!
- ALLIANCE_CHR_Majel:0 "Маджел" #NT!
- ALLIANCE_CHR_Tisha:0 "Тиша" #NT!
- ALLIANCE_CHR_Arlene:0 "Арлин" #NT!
- ALLIANCE_CHR_Candace:0 "Кэндис" #NT!
- ALLIANCE_CHR_Christina:0 "Кристина" #NT!
- ALLIANCE_CHR_Felicia:0 "Фелиция" #NT!
- ALLIANCE_CHR_Odette:0 "Одетт:" #NT!
- ALLIANCE_CHR_Kristen:0 "Кристен" #NT!
- ALLIANCE_CHR_Gillian:0 "Джиллиан" #NT!
- ALLIANCE_CHR_Lindsay:0 "Линдси" #NT!
- ALLIANCE_CHR_Heather:0 "Вереск" #NT!
- ALLIANCE_CHR_Irene:0 "Ирэн" #NT!
- ALLIANCE_CHR_Monica:0 "Моника" #NT!
- ALLIANCE_CHR_Adrienne:0 "Эдриенн" #NT!
- ALLIANCE_CHR_Sherry:0 "Шерри" #NT!
- ALLIANCE_CHR_Pamela:0 "Памела" #NT!
- ALLIANCE_CHR_Joan:0 "Джоан" #NT!
- ALLIANCE_CHR_Zelda:0 "Зельда" #NT!
- ALLIANCE_CHR_Vera:0 "Вера" #NT!
- ALLIANCE_CHR_Yvette:0 "Иветт" #NT!
- ALLIANCE_CHR_Victoria:0 "Виктория" #NT!
- ALLIANCE_CHR_Winifred:0 "Уинифред" #NT!
- ALLIANCE_CHR_Wendy:0 "Венди" #NT!
- ALLIANCE_CHR_Wanda:0 "Ванда" #NT!
- ALLIANCE_CHR_Melissa:0 "Мелисса" #NT!
- ALLIANCE_CHR_Vivian:0 "Вивиан" #NT!
- ALLIANCE_CHR_Vanessa:0 "Ванесса" #NT!
- ALLIANCE_CHR_Tiffany:0 "Тиффани" #NT!
- ALLIANCE_CHR_Teresa:0 "Тереза" #NT!
- ALLIANCE_CHR_Thelma:0 "Тельма" #NT!
- ALLIANCE_CHR_Tabitha:0 "Табита" #NT!
- ALLIANCE_CHR_Tara:0 "Тара" #NT!
- ALLIANCE_CHR_Suzanne:0 "Сюзанна" #NT!
- ALLIANCE_CHR_Sibyl:0 "Сивилла" #NT!
- ALLIANCE_CHR_Selina:0 "Селина" #NT!
- ALLIANCE_CHR_Selma:0 "Сельма" #NT!
- ALLIANCE_CHR_Sabrina:0 "Сабрина" #NT!
- ALLIANCE_CHR_Roxanne:0 "Роксана" #NT!
- ALLIANCE_CHR_Rosemary:0 "Розмари" #NT!
- ALLIANCE_CHR_Rosamund:0 "Розамунда" #NT!
- ALLIANCE_CHR_Roberta:0 "Роберта" #NT!
- ALLIANCE_CHR_Rita:0 "Рита" #NT!
- ALLIANCE_CHR_Rhonda:0 "Ронда" #NT!
- ALLIANCE_CHR_Priscilla:0 "Присцилла" #NT!
- ALLIANCE_CHR_Philippa:0 "Филиппа" #NT!
- ALLIANCE_CHR_Penelope:0 "Пенелопа" #NT!
- ALLIANCE_CHR_Paula:0 "Паула" #NT!
- ALLIANCE_CHR_Nadine:0 "Надин" #NT!
- ALLIANCE_CHR_Mavis:0 "Мэвис" #NT!
- ALLIANCE_CHR_Myrna:0 "Мирна" #NT!
- ALLIANCE_CHR_Melanie:0 "Мелани" #NT!
- ALLIANCE_CHR_Maud:0 "Мод" #NT!
- ALLIANCE_CHR_Marjorie:0 "Марджори" #NT!
- ALLIANCE_CHR_Marissa:0 "Марисса" #NT!
- ALLIANCE_CHR_Marilyn:0 "Мэрилин" #NT!
- ALLIANCE_CHR_Marcia:0 "Марсия" #NT!
- ALLIANCE_CHR_Mabel:0 "Мейбл" #NT!
- ALLIANCE_CHR_Lucinda:0 "Люсинда" #NT!
- ALLIANCE_CHR_Lynnette:0 "Линнетт" #NT!
- ALLIANCE_CHR_Louisa:0 "Луиза" #NT!
- ALLIANCE_CHR_Lorna:0 "Лорна" #NT!
- ALLIANCE_CHR_Loretta:0 "Лоретта" #NT!
- ALLIANCE_CHR_Lois:0 "Лоис" #NT!
- ALLIANCE_CHR_Leah:0 "Лия" #NT!
- ALLIANCE_CHR_Kaylee:0 "Кейли" #NT!
- ALLIANCE_CHR_Kierra:0 "Кирра" #NT!
- ALLIANCE_CHR_Kathleen:0 "Кэтлин" #NT!
- ALLIANCE_CHR_Julianne:0 "Джулианна" #NT!
- ALLIANCE_CHR_Josephine:0 "Жозефина" #NT!
- ALLIANCE_CHR_Joanna:0 "Джоанна" #NT!
- ALLIANCE_CHR_Jenna:0 "Дженна" #NT!
- ALLIANCE_CHR_Jane:0 "Джейн" #NT!
- ALLIANCE_CHR_Jacqueline:0 "Жаклин" #NT!
- ALLIANCE_CHR_Imelda:0 "Имельда" #NT!
- ALLIANCE_CHR_Iris:0 "Ирис" #NT!
- ALLIANCE_CHR_Imogen:0 "Имоджен" #NT!
- ALLIANCE_CHR_Henrietta:0 "Генриетта" #NT!
- ALLIANCE_CHR_Gwendolyn:0 "Гвендолин" #NT!
- ALLIANCE_CHR_Gwen:0 "Гвен" #NT!
- ALLIANCE_CHR_Gertie:0 "Герти" #NT!
- ALLIANCE_CHR_Genevieve:0 "Женевьева" #NT!
- ALLIANCE_CHR_Fiona:0 "Фиона" #NT!
- ALLIANCE_CHR_Felicity:0 "Фелисити" #NT!
- ALLIANCE_CHR_Ethel:0 "Этель" #NT!
- ALLIANCE_CHR_Estelle:0 "Эстель" #NT!
- ALLIANCE_CHR_Ellen:0 "Эллен" #NT!
- ALLIANCE_CHR_Edwina:0 "Эдвина" #NT!
- ALLIANCE_CHR_Eileen:0 "Эйлин" #NT!
- ALLIANCE_CHR_Eleonor:0 "Элеонора" #NT!
- ALLIANCE_CHR_Edna:0 "Эдна" #NT!
- ALLIANCE_CHR_Edith:0 "Эдит" #NT!
- ALLIANCE_CHR_Drusilia:0 "Друсилия" #NT!
- ALLIANCE_CHR_Doreen:0 "Дорин" #NT!
- ALLIANCE_CHR_Dolores:0 "Долорес" #NT!
- ALLIANCE_CHR_Denise:0 "Дениз" #NT!
- ALLIANCE_CHR_Deanna:0 "Дина" #NT!
- ALLIANCE_CHR_Daphne:0 "Дафна" #NT!
- ALLIANCE_CHR_Cordelia:0 "Корделия" #NT!
- ALLIANCE_CHR_Cadence:0 "Каденс" #NT!
- ALLIANCE_CHR_Cynthia:0 "Синтия" #NT!
- ALLIANCE_CHR_Cheryl:0 "Шерил" #NT!
- ALLIANCE_CHR_Christabel:0 "Кристабель" #NT!
- ALLIANCE_CHR_Clarissa:0 "Кларисса" #NT!
- ALLIANCE_CHR_Anne:0 "Энн" #NT!
- ALLIANCE_CHR_Cecilia:0 "Сесилия" #NT!
- ALLIANCE_CHR_Charity:0 "Благотворительность" #NT!
- ALLIANCE_CHR_Cassandra:0 "Кассандра" #NT!
- ALLIANCE_CHR_Caroline:0 "Кэролайн" #NT!
- ALLIANCE_CHR_Bridget:0 "Бриджит" #NT!
- ALLIANCE_CHR_Brenda:0 "Бренда" #NT!
- ALLIANCE_CHR_Beatrice:0 "Беатрис" #NT!
- ALLIANCE_CHR_Audrey:0 "Одри" #NT!
- ALLIANCE_CHR_Angela:0 "Анджела" #NT!
- ALLIANCE_CHR_Amanda:0 "Аманда" #NT!
- ALLIANCE_CHR_Alison:0 "Элисон" #NT!
- ALLIANCE_CHR_Judith:0 "Джудит" #NT!
- ALLIANCE_CHR_Lillian:0 "Лилиан" #NT!
- ALLIANCE_CHR_Hailey:0 "Хейли" #NT!
- ALLIANCE_CHR_Chloe:0 "Хлоя" #NT!
- ALLIANCE_CHR_Brianna:0 "Брианна" #NT!
- ALLIANCE_CHR_Natalie:0 "Натали" #NT!
- ALLIANCE_CHR_Ashley:0 "Эшли" #NT!
- ALLIANCE_CHR_Brooklyn:0 "Бруклин" #NT!
- ALLIANCE_CHR_Samantha:0 "Саманта" #NT!
- ALLIANCE_CHR_Julia:0 "Юлия" #NT!
- ALLIANCE_CHR_Abigail:0 "Эбигейл" #NT!
- ALLIANCE_CHR_Alyssa:0 "Алисса" #NT!
- ALLIANCE_CHR_Addison:0 "Эддисон" #NT!
- ALLIANCE_CHR_Ruby:0 "Рубин" #NT!
- ALLIANCE_CHR_Isabella:0 "Изабелла" #NT!
- ALLIANCE_CHR_Charlotte:0 "Шарлотта" #NT!
- ALLIANCE_CHR_Amelia:0 "Амелия" #NT!
- ALLIANCE_CHR_Deborah:0 "Дебора" #NT!
- ALLIANCE_CHR_Kimberly:0 "Кимберли" #NT!
- ALLIANCE_CHR_Michelle:0 "Мишель" #NT!
- ALLIANCE_CHR_Sharon:0 "Шарон" #NT!
- ALLIANCE_CHR_Ruth:0 "Рут" #NT!
- ALLIANCE_CHR_Carol:0 "Кэрол" #NT!
- ALLIANCE_CHR_Donna:0 "Донна" #NT!
- ALLIANCE_CHR_Sandra:0 "Сандра" #NT!
- ALLIANCE_CHR_Helen:0 "Хелен" #NT!
- ALLIANCE_CHR_Nancy:0 "Нэнси" #NT!
- ALLIANCE_CHR_Lisa:0 "Лиза" #NT!
- ALLIANCE_CHR_Dorothy:0 "Дороти" #NT!
- ALLIANCE_CHR_Margaret:0 "Маргарет" #NT!
- ALLIANCE_CHR_Susan:0 "Сьюзен" #NT!
- ALLIANCE_CHR_Maria:0 "Мария" #NT!
- ALLIANCE_CHR_Jennifer:0 "Дженнифер" #NT!
- ALLIANCE_CHR_Barbara:0 "Барбара" #NT!
- ALLIANCE_CHR_Linda:0 "Линда" #NT!
- ALLIANCE_CHR_Patricia:0 "Патрисия" #NT!
- ALLIANCE_CHR_Eliza:0 "Элиза" #NT!
- ALLIANCE_CHR_Skye:0 "Скай" #NT!
- ALLIANCE_CHR_Nicole:0 "Николь" #NT!
- ALLIANCE_CHR_Kayla:0 "Кайла" #NT!
- ALLIANCE_CHR_Laura:0 "Лаура" #NT!
- ALLIANCE_CHR_Clara:0 "Клара" #NT!
- ALLIANCE_CHR_Lauren:0 "Лорен" #NT!
- ALLIANCE_CHR_Naomi:0 "Наоми" #NT!
- ALLIANCE_CHR_Gabriella:0 "Габриэлла" #NT!
- ALLIANCE_CHR_Rebecca:0 "Ребекка" #NT!
- ALLIANCE_CHR_Bethany:0 "Бетани" #NT!
- ALLIANCE_CHR_Martha:0 "Марта" #NT!
- ALLIANCE_CHR_Sarah:0 "Сара" #NT!
- ALLIANCE_CHR_Alexandra:0 "Александра" #NT!
- ALLIANCE_CHR_Eleanor:0 "Элеонора" #NT!
- ALLIANCE_CHR_Kate:0 "Катя" #NT!
- ALLIANCE_CHR_Madison:0 "Мэдисон" #NT!
- ALLIANCE_CHR_Jasmine:0 "Жасмин" #NT!
- ALLIANCE_CHR_Caitlyn:0 "Кейтлин" #NT!
- ALLIANCE_CHR_Harriet:0 "Гарриет" #NT!
- ALLIANCE_CHR_Amber:0 "Янтарь" #NT!
- ALLIANCE_CHR_Evelyn:0 "Эвелин" #NT!
- ALLIANCE_CHR_Grace:0 "Милость" #NT!
- ALLIANCE_CHR_Lucy:0 "Люси" #NT!
- ALLIANCE_CHR_Erin:0 "Эрин" #NT!
- ALLIANCE_CHR_Matilda:0 "Матильда" #NT!
- ALLIANCE_CHR_Darcy:0 "Дарси" #NT!
- ALLIANCE_CHR_Amy:0 "Эми" #NT!
- ALLIANCE_CHR_Elizabeth:0 "Элизабет" #NT!
- ALLIANCE_CHR_Megan:0 "Меган" #NT!
- ALLIANCE_CHR_Mary:0 "Мэри" #NT!
- ALLIANCE_CHR_Anna:0 "Анна" #NT!
- ALLIANCE_CHR_Sienna:0 "Сиенна" #NT!
- ALLIANCE_CHR_Phoebe:0 "Фиби" #NT!
- ALLIANCE_CHR_Eve:0 "Канун" #NT!
- ALLIANCE_CHR_Daisy:0 "Дейзи" #NT!
- ALLIANCE_CHR_Emma:0 "Эмма" #NT!
- ALLIANCE_CHR_Scarlett:0 "Скарлетт" #NT!
- ALLIANCE_CHR_Alice:0 "Алиса" #NT!
- ALLIANCE_CHR_Jessica:0 "Джессика" #NT!
- ALLIANCE_CHR_Sophie:0 "Софи" #NT!
- ALLIANCE_CHR_Emily:0 "Эмили" #NT!
- ALLIANCE_CHR_Olivia:0 "Оливия" #NT!
- ALLIANCE_CHR_Hall:0 "Зал" #NT!
- ALLIANCE_CHR_Green:0 "Зеленый" #NT!
- ALLIANCE_CHR_Roberts:0 "Робертс" #NT!
- ALLIANCE_CHR_White:0 "Белый" #NT!
- ALLIANCE_CHR_Walker:0 "Уокер" #NT!
- ALLIANCE_CHR_Evans:0 "Эванс" #NT!
- ALLIANCE_CHR_Thompson:0 "Томпсон" #NT!
- ALLIANCE_CHR_Wright:0 "Райт" #NT!
- ALLIANCE_CHR_Robinson:0 "Robinson" #NT!
- ALLIANCE_CHR_Johnson:0 "Джонсон" #NT!
- ALLIANCE_CHR_Wilson:0 "Уилсон" #NT!
- ALLIANCE_CHR_Davies:0 "Дэвис" #NT!
- ALLIANCE_CHR_Brown:0 "Коричневый" #NT!
- ALLIANCE_CHR_Taylor:0 "Тейлор" #NT!
- ALLIANCE_CHR_Williams:0 "Уильямс" #NT!
- ALLIANCE_CHR_Jones:0 "Джонс" #NT!
- ALLIANCE_CHR_Smith:0 "Смит" #NT!
- ALLIANCE_CHR_ONeill:0 "О'Нил" #NT!
- ALLIANCE_CHR_McLaughlin:0 "Маклафлин" #NT!
- ALLIANCE_CHR_Murray:0 "Мюррей" #NT!
- ALLIANCE_CHR_Moore:0 "Мур" #NT!
- ALLIANCE_CHR_Hamilton:0 "Гамильтон" #NT!
- ALLIANCE_CHR_Murphy:0 "Мерфи" #NT!
- ALLIANCE_CHR_Quinn:0 "Куинн" #NT!
- ALLIANCE_CHR_Stewart:0 "Стюарт" #NT!
- ALLIANCE_CHR_Campbell:0 "Кэмпбелл" #NT!
- ALLIANCE_CHR_Cox:0 "Кокс" #NT!
- ALLIANCE_CHR_Mitchell:0 "Митчелл" #NT!
- ALLIANCE_CHR_Mason:0 "Мейсон" #NT!
- ALLIANCE_CHR_Lewis:0 "Льюис" #NT!
- ALLIANCE_CHR_Wood:0 "Древесина" #NT!
- ALLIANCE_CHR_Moss:0 "Мох" #NT!
- ALLIANCE_CHR_Jenkins:0 "Дженкинс" #NT!
- ALLIANCE_CHR_Price:0 "Цена" #NT!
- ALLIANCE_CHR_Driscoll:0 "Дрисколл" #NT!
- ALLIANCE_CHR_Hughes:0 "Хьюз" #NT!
- ALLIANCE_CHR_Harris:0 "Харрис" #NT!
- ALLIANCE_CHR_Sanders:0 "Сандерс" #NT!
- ALLIANCE_CHR_Morrison:0 "Моррисон" #NT!
- ALLIANCE_CHR_Patterson:0 "Паттерсон" #NT!
- ALLIANCE_CHR_Watson:0 "Ватсон" #NT!
- ALLIANCE_CHR_Reid:0 "Рид" #NT!
- ALLIANCE_CHR_MacDonald:0 "Макдональд" #NT!
- ALLIANCE_CHR_Anderson:0 "Андерсон" #NT!
- ALLIANCE_CHR_Welsh:0 "валлийский" #NT!
- ALLIANCE_CHR_Webb:0 "Уэбб" #NT!
- ALLIANCE_CHR_Weaver:0 "Уивер" #NT!
- ALLIANCE_CHR_West:0 "Запад" #NT!
- ALLIANCE_CHR_Wentworth:0 "Вентворт" #NT!
- ALLIANCE_CHR_Wheeler:0 "Уилер" #NT!
- ALLIANCE_CHR_Whitley:0 "Уитли" #NT!
- ALLIANCE_CHR_Woodard:0 "Вудард" #NT!
- ALLIANCE_CHR_Worley:0 "Уорли" #NT!
- ALLIANCE_CHR_Winters:0 "Винтерс" #NT!
- ALLIANCE_CHR_Youngfellow:0 "Янгфеллоу" #NT!
- ALLIANCE_CHR_York:0 "Йорк" #NT!
- ALLIANCE_CHR_Young:0 "Молодой" #NT!
- ALLIANCE_CHR_Zimmerman:0 "Циммерман" #NT!
- ALLIANCE_CHR_Simpson:0 "Симпсон" #NT!
- ALLIANCE_CHR_Sinclair:0 "Синклер" #NT!
- ALLIANCE_CHR_Thornton:0 "Торнтон" #NT!
- ALLIANCE_CHR_Terrell:0 "Террелл" #NT!
- ALLIANCE_CHR_Sykes:0 "Сайкс" #NT!
- ALLIANCE_CHR_Swift:0 "Быстрый" #NT!
- ALLIANCE_CHR_Sweeney:0 "Суини" #NT!
- ALLIANCE_CHR_Swanson:0 "Суонсон" #NT!
- ALLIANCE_CHR_Sullivan:0 "Салливан" #NT!
- ALLIANCE_CHR_Stone:0 "Камень" #NT!
- ALLIANCE_CHR_Stevens:0 "Стивенс" #NT!
- ALLIANCE_CHR_Sterling:0 "Стерлинг" #NT!
- ALLIANCE_CHR_Steel:0 "Сталь" #NT!
- ALLIANCE_CHR_Stafford:0 "Стаффорд" #NT!
- ALLIANCE_CHR_Spencer:0 "Спенсер" #NT!
- ALLIANCE_CHR_Sparks:0 "Искры" #NT!
- ALLIANCE_CHR_Parker:0 "Паркер" #NT!
- ALLIANCE_CHR_Palmer:0 "Палмер" #NT!
- ALLIANCE_CHR_Page:0 "Страница" #NT!
- ALLIANCE_CHR_Owens:0 "Оуэнс" #NT!
- ALLIANCE_CHR_OHara:0 "O'Hara" #NT!
- ALLIANCE_CHR_ODonnell:0 "О'Доннелл" #NT!
- ALLIANCE_CHR_OConnor:0 "О'Коннор" #NT!
- ALLIANCE_CHR_Watts:0 "Вт" #NT!
- ALLIANCE_CHR_Washington:0 "Вашингтон" #NT!
- ALLIANCE_CHR_Wade:0 "Уэйд" #NT!
- ALLIANCE_CHR_Voight:0 "Войт" #NT!
- ALLIANCE_CHR_Underwood:0 "Андервуд" #NT!
- ALLIANCE_CHR_Tyler:0 "Тайлер" #NT!
- ALLIANCE_CHR_Turner:0 "Тернер" #NT!
- ALLIANCE_CHR_Tipton:0 "Типтон" #NT!
- ALLIANCE_CHR_Robbins:0 "Роббинс" #NT!
- ALLIANCE_CHR_Rivers:0 "Реки" #NT!
- ALLIANCE_CHR_Richardson:0 "Ричардсон" #NT!
- ALLIANCE_CHR_Reese:0 "Риз" #NT!
- ALLIANCE_CHR_Reaves:0 "Ривз" #NT!
- ALLIANCE_CHR_Reynolds:0 "Рейнольдс" #NT!
- ALLIANCE_CHR_Potter:0 "Поттер" #NT!
- ALLIANCE_CHR_Pitt:0 "Питт" #NT!
- ALLIANCE_CHR_Phillips:0 "Филипс" #NT!
- ALLIANCE_CHR_Pershing:0 "Першинг" #NT!
- ALLIANCE_CHR_Peters:0 "Питерс" #NT!
- ALLIANCE_CHR_Perkins:0 "Перкинс" #NT!
- ALLIANCE_CHR_Payne:0 "Пейн" #NT!
- ALLIANCE_CHR_Paxton:0 "Пакстон" #NT!
- ALLIANCE_CHR_Parson:0 "Парсон" #NT!
- ALLIANCE_CHR_Perry:0 "Перри" #NT!
- ALLIANCE_CHR_Silverman:0 "Сильверман" #NT!
- ALLIANCE_CHR_Sibbett:0 "Сиббетт" #NT!
- ALLIANCE_CHR_Flint:0 "Флинт" #NT!
- ALLIANCE_CHR_Sedgwick:0 "Седжвик" #NT!
- ALLIANCE_CHR_Scowley:0 "Скоули" #NT!
- ALLIANCE_CHR_Schneider:0 "Шнайдер" #NT!
- ALLIANCE_CHR_Saxton:0 "Сакстон" #NT!
- ALLIANCE_CHR_Savage:0 "Дикий" #NT!
- ALLIANCE_CHR_Sandler:0 "Сэндлер" #NT!
- ALLIANCE_CHR_Samuels:0 "Сэмюэлс" #NT!
- ALLIANCE_CHR_Salinger:0 "Сэлинджер" #NT!
- ALLIANCE_CHR_Roswell:0 "Розуэлл" #NT!
- ALLIANCE_CHR_Robertson:0 "Робертсон" #NT!
- ALLIANCE_CHR_McCoy:0 "Маккой" #NT!
- ALLIANCE_CHR_McSwain:0 "Максуэйн" #NT!
- ALLIANCE_CHR_McKinnon:0 "Маккиннон" #NT!
- ALLIANCE_CHR_McGillis:0 "МакГиллис" #NT!
- ALLIANCE_CHR_Michaels:0 "Майклс" #NT!
- ALLIANCE_CHR_Lowell:0 "Лоуэлл" #NT!
- ALLIANCE_CHR_Little:0 "Маленький" #NT!
- ALLIANCE_CHR_Lawson:0 "Лоусон" #NT!
- ALLIANCE_CHR_Landau:0 "Ландо" #NT!
- ALLIANCE_CHR_Kruger:0 "Крюгер" #NT!
- ALLIANCE_CHR_Snow:0 "Снег" #NT!
- ALLIANCE_CHR_Smart:0 "Умный" #NT!
- ALLIANCE_CHR_Silverstone:0 "Сильверстоун" #NT!
- ALLIANCE_CHR_McCall:0 "МакКолл" #NT!
- ALLIANCE_CHR_Mayfield:0 "Мэйфилд" #NT!
- ALLIANCE_CHR_Masterson:0 "Мастерсон" #NT!
- ALLIANCE_CHR_North:0 "Север" #NT!
- ALLIANCE_CHR_Nichols:0 "Николс" #NT!
- ALLIANCE_CHR_Newman:0 "Новичок" #NT!
- ALLIANCE_CHR_Nash:0 "Нэш" #NT!
- ALLIANCE_CHR_Morris:0 "Моррис" #NT!
- ALLIANCE_CHR_Miller:0 "Миллер" #NT!
- ALLIANCE_CHR_Lynch:0 "Линч" #NT!
- ALLIANCE_CHR_McCreary:0 "Маккрири" #NT!
- ALLIANCE_CHR_McCormick:0 "Маккормик" #NT!
- ALLIANCE_CHR_McCarthy:0 "Маккарти" #NT!
- ALLIANCE_CHR_Kennedy:0 "Кеннеди" #NT!
- ALLIANCE_CHR_Kenway:0 "Кенуэй" #NT!
- ALLIANCE_CHR_King:0 "Король" #NT!
- ALLIANCE_CHR_Kirk:0 "Кирк" #NT!
- ALLIANCE_CHR_Knight:0 "Рыцарь" #NT!
- ALLIANCE_CHR_Hyland:0 "Хайленд" #NT!
- ALLIANCE_CHR_Hutchinson:0 "Хатчинсон" #NT!
- ALLIANCE_CHR_Hood:0 "Капюшон" #NT!
- ALLIANCE_CHR_Hoffman:0 "Хоффман" #NT!
- ALLIANCE_CHR_Higgins:0 "Хиггинс" #NT!
- ALLIANCE_CHR_Holmes:0 "Холмс" #NT!
- ALLIANCE_CHR_Hendricks:0 "Хендрикс" #NT!
- ALLIANCE_CHR_Hart:0 "Харт" #NT!
- ALLIANCE_CHR_Harrington:0 "Харрингтон" #NT!
- ALLIANCE_CHR_Hansen:0 "Хансен" #NT!
- ALLIANCE_CHR_Graves:0 "Могилы" #NT!
- ALLIANCE_CHR_Goodwin:0 "Гудвин" #NT!
- ALLIANCE_CHR_Goodman:0 "Хороший человек" #NT!
- ALLIANCE_CHR_Goldstein:0 "Гольдштейн" #NT!
- ALLIANCE_CHR_Goldberg:0 "Гольдберг" #NT!
- ALLIANCE_CHR_Glover:0 "Гловер" #NT!
- ALLIANCE_CHR_Glass:0 "Стекло" #NT!
- ALLIANCE_CHR_Gilbert:0 "ГилбертЭ" #NT!
- ALLIANCE_CHR_Irwin:0 "Ирвин" #NT!
- ALLIANCE_CHR_Jefferies:0 "Джеффрис" #NT!
- ALLIANCE_CHR_Jacobs:0 "Джейкобс" #NT!
- ALLIANCE_CHR_Jennings:0 "Дженнингс" #NT!
- ALLIANCE_CHR_Nathanson:0 "Натансон" #NT!
- ALLIANCE_CHR_Kane:0 "Кейн" #NT!
- ALLIANCE_CHR_Conrad:0 "Конрад" #NT!
- ALLIANCE_CHR_Collins:0 "Коллинз" #NT!
- ALLIANCE_CHR_Cohen:0 "Коэн" #NT!
- ALLIANCE_CHR_Handler:0 "Обработчик" #NT!
- ALLIANCE_CHR_Harvey:0 "Харви" #NT!
- ALLIANCE_CHR_Holden:0 "Холден" #NT!
- ALLIANCE_CHR_Hines:0 "Хайнс" #NT!
- ALLIANCE_CHR_Hill:0 "ХиллЭ" #NT!
- ALLIANCE_CHR_Hutchins:0 "Хатчинс" #NT!
- ALLIANCE_CHR_Hoover:0 "Пылесос" #NT!
- ALLIANCE_CHR_Holloway:0 "Холлоуэй" #NT!
- ALLIANCE_CHR_Hunter:0 "Охотник" #NT!
- ALLIANCE_CHR_Halley:0 "Галлей" #NT!
- ALLIANCE_CHR_Griffin:0 "Грифон" #NT!
- ALLIANCE_CHR_Gorney:0 "Горни" #NT!
- ALLIANCE_CHR_Greenberg:0 "Гринберг" #NT!
- ALLIANCE_CHR_Gray:0 "Серый" #NT!
- ALLIANCE_CHR_Freeman:0 "Фриман" #NT!
- ALLIANCE_CHR_Fox:0 "Лиса" #NT!
- ALLIANCE_CHR_Foster:0 "Взращивать" #NT!
- ALLIANCE_CHR_Forrest:0 "Форрест" #NT!
- ALLIANCE_CHR_Fleming:0 "Флеминг" #NT!
- ALLIANCE_CHR_Fisher:0 "Фишер" #NT!
- ALLIANCE_CHR_Felton:0 "Фелтон" #NT!
- ALLIANCE_CHR_Farrell:0 "Фаррелл" #NT!
- ALLIANCE_CHR_Fields:0 "Поля" #NT!
- ALLIANCE_CHR_Curtis:0 "Кертис" #NT!
- ALLIANCE_CHR_Crosby:0 "Кросби" #NT!
- ALLIANCE_CHR_Crouch:0 "Крауч" #NT!
- ALLIANCE_CHR_Cody:0 "Коди" #NT!
- ALLIANCE_CHR_Compton:0 "Комптон" #NT!
- ALLIANCE_CHR_Conley:0 "Конли" #NT!
- ALLIANCE_CHR_Cook:0 "Готовить" #NT!
- ALLIANCE_CHR_Conroy:0 "Конрой" #NT!
- ALLIANCE_CHR_Ericson:0 "Эриксон" #NT!
- ALLIANCE_CHR_Emerson:0 "Эмерсон" #NT!
- ALLIANCE_CHR_Elliott:0 "Эллиотт" #NT!
- ALLIANCE_CHR_Edelstein:0 "Эдельштейн" #NT!
- ALLIANCE_CHR_Edwards:0 "Эдвардс" #NT!
- ALLIANCE_CHR_Easterbrook:0 "Истербрук" #NT!
- ALLIANCE_CHR_Darling:0 "Милый" #NT!
- ALLIANCE_CHR_Daniels:0 "Дэниелс" #NT!
- ALLIANCE_CHR_Gabriel:0 "Габриэль" #NT!
- ALLIANCE_CHR_Garfield:0 "Гарфилд" #NT!
- ALLIANCE_CHR_Gates:0 "Ворота" #NT!
- ALLIANCE_CHR_Garrett:0 "Гаррет" #NT!
- ALLIANCE_CHR_Gardner:0 "Гарднер" #NT!
- ALLIANCE_CHR_Futterman:0 "Футтерман" #NT!
- ALLIANCE_CHR_Booth:0 "Бут" #NT!
- ALLIANCE_CHR_Breckenridge:0 "Брекенридж" #NT!
- ALLIANCE_CHR_Brooks:0 "Брукс" #NT!
- ALLIANCE_CHR_Brewster:0 "Брюстер" #NT!
- ALLIANCE_CHR_Bassett:0 "Бассет" #NT!
- ALLIANCE_CHR_Barks:0 "Баркс" #NT!
- ALLIANCE_CHR_Banks:0 "банки" #NT!
- ALLIANCE_CHR_Bailey:0 "Бейли" #NT!
- ALLIANCE_CHR_Baker:0 "Бейкер" #NT!
- ALLIANCE_CHR_Bancroft:0 "Бэнкрофт" #NT!
- ALLIANCE_CHR_Bauer:0 "Бауэр" #NT!
- ALLIANCE_CHR_Austin:0 "Остин" #NT!
- ALLIANCE_CHR_Allen:0 "Аллен" #NT!
- ALLIANCE_CHR_Dickinson:0 "Дикинсон" #NT!
- ALLIANCE_CHR_Buckland:0 "Бакленд" #NT!
- ALLIANCE_CHR_Carpenter:0 "Плотник" #NT!
- ALLIANCE_CHR_Cartwright:0 "Картрайт" #NT!
- ALLIANCE_CHR_Bean:0 "Бин" #NT!
- ALLIANCE_CHR_Bains:0 "Бейнс" #NT!
- ALLIANCE_CHR_Bellflower:0 "Колокольчик" #NT!
- ALLIANCE_CHR_Bell:0 "Белл" #NT!
- ALLIANCE_CHR_Becker:0 "Беккер" #NT!
- ALLIANCE_CHR_Bates:0 "Бейтс" #NT!
- ALLIANCE_CHR_Bergman:0 "Бергман" #NT!
- ALLIANCE_CHR_Billings:0 "Биллингс" #NT!
- ALLIANCE_CHR_Billingsley:0 "Биллингсли" #NT!
- ALLIANCE_CHR_Sheridan:0 "Шеридан" #NT!
- ALLIANCE_CHR_Sherman:0 "Шерман" #NT!
- ALLIANCE_CHR_Bloom:0 "Цвести" #NT!
- ALLIANCE_CHR_Milton:0 "Милтон" #NT!
- ALLIANCE_CHR_Fry:0 "Жарить" #NT!
- ALLIANCE_CHR_Arnold:0 "Арнольд" #NT!
- ALLIANCE_CHR_Chapman:0 "Чепмен" #NT!
- ALLIANCE_CHR_Channing:0 "Ченнинг" #NT!
- ALLIANCE_CHR_Chase:0 "Гнаться" #NT!
- ALLIANCE_CHR_Chaffin:0 "Чаффин" #NT!
- ALLIANCE_CHR_Cavanaugh:0 "Кавано" #NT!
- ALLIANCE_CHR_Carroll:0 "Кэрролл" #NT!
- ALLIANCE_CHR_England:0 "Англия" #NT!
- ALLIANCE_CHR_French:0 "Французский" #NT!
- ALLIANCE_CHR_Butler:0 "Дворецкий" #NT!
- ALLIANCE_CHR_Bush:0 "Куст" #NT!
- ALLIANCE_CHR_Burnett:0 "Бернетт" #NT!
- ALLIANCE_CHR_Burness:0 "Бернесс" #NT!
- ALLIANCE_CHR_Houghton:0 "Хоутон" #NT!
- ALLIANCE_CHR_Hargreaves:0 "Харгривз" #NT!
- ALLIANCE_CHR_Wells:0 "Уэллс" #NT!
- ALLIANCE_CHR_Garland:0 "Гирлянда" #NT!
- ALLIANCE_CHR_Drake:0 "Дрейк" #NT!
- ALLIANCE_CHR_Baxter:0 "Бакстер" #NT!
- ALLIANCE_CHR_Dixon:0 "Диксон" #NT!
- ALLIANCE_CHR_Cursham:0 "Кершам" #NT!
- ALLIANCE_CHR_Brockbank:0 "Брокбанк" #NT!
- ALLIANCE_CHR_Ashton:0 "Эштон" #NT!
- ALLIANCE_CHR_Poole:0 "Пул" #NT!
- ALLIANCE_CHR_Mead:0 "Мед" #NT!
- ALLIANCE_CHR_Howell:0 "Хауэлл" #NT!
- ALLIANCE_CHR_Durston:0 "Дерстон" #NT!
- ALLIANCE_CHR_Sharp:0 "Острый" #NT!
- ALLIANCE_CHR_Beauclerk:0 "Боклерк" #NT!
- ALLIANCE_CHR_McMillan:0 "Макмиллан" #NT!
- ALLIANCE_CHR_Dyson:0 "Дайсон" #NT!
- ALLIANCE_CHR_Buxton:0 "Бакстон" #NT!
- ALLIANCE_CHR_Cross:0 "Крест" #NT!
- ALLIANCE_CHR_Bennett:0 "Беннет" #NT!
- ALLIANCE_CHR_Whitfield:0 "Уитфилд" #NT!
- ALLIANCE_CHR_Walters:0 "Уолтерс" #NT!
- ALLIANCE_CHR_Walden:0 "Уолден" #NT!
- ALLIANCE_CHR_Rawson:0 "Роусон" #NT!
- ALLIANCE_CHR_Kingsford:0 "Кингсфорд" #NT!
- ALLIANCE_CHR_Hurst:0 "Херст" #NT!
- ALLIANCE_CHR_Haygarth:0 "Хейгарт" #NT!
- ALLIANCE_CHR_McNiven:0 "МакНивен" #NT!
- ALLIANCE_CHR_Reeves:0 "Ривз" #NT!
- ALLIANCE_CHR_Spector:0 "Спектор" #NT!
- ALLIANCE_CHR_Garrovick:0 "Гарровик" #NT!
- ALLIANCE_CHR_Hawkins:0 "Хокинс" #NT!
- ALLIANCE_CHR_Barton:0 "Бартон" #NT!
- ALLIANCE_CHR_Whittaker:0 "Уиттакер" #NT!
- ALLIANCE_CHR_Whyting:0 "Почему" #NT!
- ALLIANCE_CHR_Ellis:0 "Эллис" #NT!
- ALLIANCE_CHR_Matthews:0 "Мэтьюз" #NT!
- ALLIANCE_CHR_Tanner:0 "Таннер" #NT!
- ALLIANCE_CHR_Ward:0 "Сторожить" #NT!
- ALLIANCE_CHR_Mundy:0 "Манди" #NT!
- ALLIANCE_CHR_Cockburn:0 "КокбернЭ" #NT!
- ALLIANCE_CHR_Allenby:0 "Алленби" #NT!
- ALLIANCE_CHR_Stokes:0 "Стоукс" #NT!
- ALLIANCE_CHR_Shaw:0 "Шоу" #NT!
- ALLIANCE_CHR_Yardley:0 "Ярдли" #NT!
- ALLIANCE_CHR_Buchanan:0 "Buchanan" #NT!
- ALLIANCE_CHR_Appleby:0 "Эпплби" #NT!
- ALLIANCE_CHR_Balfour:0 "Бальфур" #NT!
- ALLIANCE_CHR_Wilkins:0 "Уилкинс" #NT!
- ALLIANCE_CHR_Oliphant:0 "Олифант" #NT!
- ALLIANCE_CHR_Lang:0 "Ланг" #NT!
- ALLIANCE_CHR_Lockhart:0 "Локхарт" #NT!
- ALLIANCE_CHR_Fawcett:0 "Фосетт" #NT!
- ALLIANCE_CHR_Sandford:0 "Сэндфорд" #NT!
- ALLIANCE_CHR_Rowley:0 "Роули" #NT!
- ALLIANCE_CHR_Porter:0 "Портье" #NT!
- ALLIANCE_CHR_Warner:0 "Уорнер" #NT!
- ALLIANCE_CHR_Ford:0 "Форд" #NT!
- ALLIANCE_CHR_Farnsworth:0 "Фарнсворт" #NT!
- ALLIANCE_CHR_Schofield:0 "Шофилд" #NT!
- ALLIANCE_CHR_Burnside:0 "Бернсайд" #NT!
- ALLIANCE_CHR_Van_Rijn:0 "Ван Рейн" #NT!
- ALLIANCE_CHR_Van_Hoof:0 "Ван Хоф" #NT!
- ALLIANCE_CHR_Blair:0 "Блэр" #NT!
- ALLIANCE_CHR_Abbott:0 "Эбботт" #NT!
- ALLIANCE_CHR_Powell:0 "Пауэлл" #NT!
- ALLIANCE_CHR_Chamberlain:0 "Чемберлен" #NT!
- ALLIANCE_CHR_Armstrong:0 "Армстронг" #NT!
- ALLIANCE_CHR_Merchant:0 "Торговец" #NT!
- ALLIANCE_CHR_Cochrane:0 "Кокрейн" #NT!
- ALLIANCE_CHR_Casey:0 "Кейси" #NT!
- ALLIANCE_CHR_Rollins:0 "Роллинз" #NT!
- ALLIANCE_CHR_Bainbridge:0 "Бейнбридж" #NT!
- ALLIANCE_CHR_Horner:0 "Хорнер" #NT!
- ALLIANCE_CHR_Lucas:0 "Лукас" #NT!
- ALLIANCE_CHR_Pearson:0 "Пирсон" #NT!
- ALLIANCE_CHR_Houston:0 "Хьюстон" #NT!
- ALLIANCE_CHR_Pickett:0 "Пикетт" #NT!
- ALLIANCE_CHR_Archer:0 "Лучник" #NT!
- ALLIANCE_CHR_Gibbons:0 "Гиббоны" #NT!
- ALLIANCE_CHR_Polk:0 "Полк" #NT!
- ALLIANCE_CHR_Barksdale:0 "Барксдейл" #NT!
- ALLIANCE_CHR_Gibson:0 "Гибсон" #NT!
- ALLIANCE_CHR_Burns:0 "Бернс" #NT!
- ALLIANCE_CHR_Shields:0 "Щиты" #NT!
- ALLIANCE_CHR_Colbeck:0 "Колбек" #NT!
- ALLIANCE_CHR_Knox:0 "Нокс" #NT!
- ALLIANCE_CHR_Kingston:0 "Кингстон" #NT!
- ALLIANCE_CHR_Shepard:0 "Шепард" #NT!
- ALLIANCE_CHR_Harper:0 "Харпер" #NT!
- ALLIANCE_CHR_Spooner:0 "Спунер" #NT!
- ALLIANCE_CHR_Findley:0 "Финдли" #NT!
- ALLIANCE_CHR_Milligan:0 "Миллиган" #NT!
- ALLIANCE_CHR_Wickham:0 "Уикхэм" #NT!
- ALLIANCE_CHR_Muldoon:0 "Малдун" #NT!
- ALLIANCE_CHR_Bowden:0 "Боуден" #NT!
- ALLIANCE_CHR_Hicks:0 "Хикс" #NT!
- ALLIANCE_CHR_Hooks:0 "Крючки" #NT!
- ALLIANCE_CHR_Hudson:0 "Хадсон" #NT!
- ALLIANCE_CHR_Wilcox:0 "Уилкокс" #NT!
- ALLIANCE_CHR_Doggart:0 "Доггарт" #NT!
- ALLIANCE_CHR_Kingsley:0 "Кингсли" #NT!
- ALLIANCE_CHR_Hazelton:0 "Хейзелтон" #NT!
- ALLIANCE_CHR_Seabrook:0 "Сибрук" #NT!
- ALLIANCE_CHR_Longfield:0 "Лонгфилд" #NT!
- ALLIANCE_CHR_Novak:0 "Новак" #NT!
- ALLIANCE_CHR_Fowler:0 "Фаулер" #NT!
- ALLIANCE_CHR_Richter:0 "Рихтер" #NT!
- ALLIANCE_CHR_Bridges:0 "Мосты" #NT!
- ALLIANCE_CHR_Gilligan:0 "Гиллиган" #NT!
- ALLIANCE_CHR_Crutchley:0 "Кратчли" #NT!
- ALLIANCE_CHR_Burton:0 "Бертон" #NT!
- ALLIANCE_CHR_Bolander:0 "Боландер" #NT!
- ALLIANCE_CHR_Blake:0 "Блейк" #NT!
- ALLIANCE_CHR_Blackwood:0 "Черное дерево" #NT!
- ALLIANCE_CHR_Birch:0 "Береза" #NT!
- ALLIANCE_CHR_Baumgartner:0 "Баумгартнер" #NT!
- ALLIANCE_CHR_Purcell:0 "Перселл" #NT!
- ALLIANCE_CHR_Bannister:0 "Баннистер" #NT!
- ALLIANCE_CHR_Baldwin:0 "Болдуин" #NT!
- ALLIANCE_CHR_Babcock:0 "Бэбкок" #NT!
- ALLIANCE_CHR_Adams:0 "Адамс" #NT!
- ALLIANCE_CHR_Coffey:0 "Коффи" #NT!
- ALLIANCE_CHR_Jefferson:0 "Джефферсон" #NT!
- ALLIANCE_CHR_Knotts:0 "Ноттс" #NT!
- ALLIANCE_CHR_Hammond:0 "Хаммонд" #NT!
- ALLIANCE_CHR_Cameron:0 "Кэмерон" #NT!
- ALLIANCE_CHR_Featherstone:0 "Фезерстоун" #NT!
- ALLIANCE_CHR_Bixby:0 "Биксби" #NT!
- ALLIANCE_CHR_Dufresne:0 "Дюфрен" #NT!
- ALLIANCE_CHR_Cullen:0 "Каллен" #NT!
- ALLIANCE_CHR_Clancy:0 "Клэнси" #NT!
- ALLIANCE_CHR_Church:0 "Церковь" #NT!
- ALLIANCE_CHR_Charlesworth:0 "Чарльзворт" #NT!
- ALLIANCE_CHR_Carson:0 "Карсон" #NT!
- ALLIANCE_CHR_Carlyle:0 "Карлайл" #NT!
- ALLIANCE_CHR_Cairns:0 "Кэрнс" #NT!
- ALLIANCE_CHR_Burrows:0 "Норы" #NT!
- ALLIANCE_CHR_Weyland:0 "Вейланд" #NT!
- ALLIANCE_CHR_Burke:0 "Берк" #NT!
- ALLIANCE_CHR_Brannigan:0 "Бранниган" #NT!
- ALLIANCE_CHR_Brock:0 "Брок" #NT!
- ALLIANCE_CHR_Bolton:0 "Болтон" #NT!
- ALLIANCE_CHR_Kurtz:0 "Курц" #NT!
- ALLIANCE_CHR_Kinnear:0 "Киннер" #NT!
- ALLIANCE_CHR_Kellerman:0 "Келлерман" #NT!
- ALLIANCE_CHR_Keeler:0 "Киллер" #NT!
- ALLIANCE_CHR_Kearns:0 "Кернс" #NT!
- ALLIANCE_CHR_Kaiser:0 "Кайзер" #NT!
- ALLIANCE_CHR_Ingram:0 "Ингрэм" #NT!
- ALLIANCE_CHR_Holt:0 "Холт" #NT!
- ALLIANCE_CHR_Hoffmeyer:0 "Хоффмайер" #NT!
- ALLIANCE_CHR_Grimes:0 "Граймс" #NT!
- ALLIANCE_CHR_Grisdale:0 "Грисдейл" #NT!
- ALLIANCE_CHR_Haddock:0 "Пикша" #NT!
- ALLIANCE_CHR_Gorman:0 "Горман" #NT!
- ALLIANCE_CHR_Funk:0 "фанк" #NT!
- ALLIANCE_CHR_Foley:0 "Фоли" #NT!
- ALLIANCE_CHR_Ferguson:0 "Фергюсон" #NT!
- ALLIANCE_CHR_Olsen:0 "Олсен" #NT!
- ALLIANCE_CHR_Nicholson:0 "Николсон" #NT!
- ALLIANCE_CHR_Myers:0 "Майерс" #NT!
- ALLIANCE_CHR_McBain:0 "МакБейн" #NT!
- ALLIANCE_CHR_McAllister:0 "Макаллистер" #NT!
- ALLIANCE_CHR_Marsh:0 "Марш" #NT!
- ALLIANCE_CHR_Maloney:0 "Мэлони" #NT!
- ALLIANCE_CHR_Madigan:0 "Мэдиган" #NT!
- ALLIANCE_CHR_MacInnis:0 "Макиннис" #NT!
- ALLIANCE_CHR_MacNevin:0 "Макневин" #NT!
- ALLIANCE_CHR_MacKenzie:0 "Маккензи" #NT!
- ALLIANCE_CHR_Lowe:0 "Лоу" #NT!
- ALLIANCE_CHR_Lessard:0 "Лессар" #NT!
- ALLIANCE_CHR_Lankshear:0 "Ланкшир" #NT!
- ALLIANCE_CHR_Laidlaw:0 "Лейдлоу" #NT!
- ALLIANCE_CHR_Quincey:0 "Квинси" #NT!
- ALLIANCE_CHR_Ramsey:0 "Рэмси" #NT!
- ALLIANCE_CHR_Pfaffenbach:0 "Пфаффенбах" #NT!
- ALLIANCE_CHR_Penebscott:0 "Пенебскотт" #NT!
- ALLIANCE_CHR_Quackenbush:0 "Квакенбуш" #NT!
- ALLIANCE_CHR_Pritchard:0 "Притчард" #NT!
- ALLIANCE_CHR_Popovic:0 "Попович" #NT!
- ALLIANCE_CHR_Pratt:0 "Пратт" #NT!
- ALLIANCE_CHR_Prefontaine:0 "Префонтейн" #NT!
- ALLIANCE_CHR_Murdoch:0 "Мердок" #NT!
- ALLIANCE_CHR_Peckham:0 "Пекхэм" #NT!
- ALLIANCE_CHR_Peacock:0 "павлин" #NT!
- ALLIANCE_CHR_OMalley:0 "О'Мэлли" #NT!
- ALLIANCE_CHR_Stiles:0 "Стайлз" #NT!
- ALLIANCE_CHR_Stackhouse:0 "Стэкхаус" #NT!
- ALLIANCE_CHR_Stanfield:0 "Стэнфилд" #NT!
- ALLIANCE_CHR_Spurgeon:0 "Сперджен" #NT!
- ALLIANCE_CHR_Spiller:0 "Спиллер" #NT!
- ALLIANCE_CHR_Sorensen:0 "Соренсен" #NT!
- ALLIANCE_CHR_Snider:0 "Снайдер" #NT!
- ALLIANCE_CHR_Snell:0 "Снелл" #NT!
- ALLIANCE_CHR_Sloan:0 "Слоан" #NT!
- ALLIANCE_CHR_Skinner:0 "Скиннер" #NT!
- ALLIANCE_CHR_Shoebottom:0 "ботинок" #NT!
- ALLIANCE_CHR_Rolston:0 "Ролстон" #NT!
- ALLIANCE_CHR_Renaud:0 "Рено" #NT!
- ALLIANCE_CHR_Reinhart:0 "Рейнхарт" #NT!
- ALLIANCE_CHR_Reilly:0 "Рейли" #NT!
- ALLIANCE_CHR_Humphry:0 "Хамфри" #NT!
- ALLIANCE_CHR_Fredericks:0 "Фредерикс" #NT!
- ALLIANCE_CHR_Baird:0 "Бэрд" #NT!
- ALLIANCE_CHR_Biggs:0 "Биггс" #NT!
- ALLIANCE_CHR_Ballard:0 "Баллард" #NT!
- ALLIANCE_CHR_Atkins:0 "Аткинс" #NT!
- ALLIANCE_CHR_Barnes:0 "Барнс" #NT!
- ALLIANCE_CHR_MacArthur:0 "Макартур" #NT!
- ALLIANCE_CHR_Strudwick:0 "Струдвик" #NT!
- ALLIANCE_CHR_Stark:0 "Старк" #NT!
- ALLIANCE_CHR_Traynor:0 "Трейнор" #NT!
- ALLIANCE_CHR_Townsend:0 "Таунсенд" #NT!
- ALLIANCE_CHR_Taggart:0 "Таггарт" #NT!
- ALLIANCE_CHR_Sutton:0 "Саттон" #NT!
- ALLIANCE_CHR_Sutherland:0 "Сазерленд" #NT!
- ALLIANCE_CHR_Evans_Jr.:0 "Эванс мл." #NT!
- ALLIANCE_CHR_Williams_Jr.:0 "Уильямс младший" #NT!
- ALLIANCE_CHR_Smith_Jr.:0 "Смит младший" #NT!
- ALLIANCE_CHR_Tucker:0 "Такер" #NT!
- ALLIANCE_CHR_Preston:0 "Престон" #NT!
- ALLIANCE_CHR_Sutter:0 "Саттер" #NT!
- ALLIANCE_CHR_Kirby:0 "Кирби" #NT!
- ALLIANCE_CHR_Galloway:0 "Галлоуэй" #NT!
- ALLIANCE_CHR_Fletcher:0 "Флетчер" #NT!
- ALLIANCE_CHR_Finks:0 "Финкс" #NT!
- ALLIANCE_CHR_DeStefano:0 "ДеСтефано" #NT!
- ALLIANCE_CHR_Cunningham:0 "Каннингем" #NT!
- ALLIANCE_CHR_Dillard:0 "Диллард" #NT!
- ALLIANCE_CHR_Colt:0 "Кольт" #NT!
- ALLIANCE_CHR_Kowalski:0 "Ковальски" #NT!
- ALLIANCE_CHR_Trapier_III:0 "Трапьер III" #NT!
- ALLIANCE_CHR_Pemberton_II:0 "Пембертон II" #NT!
- ALLIANCE_CHR_Leadbetter_IV:0 "Ледбеттер IV" #NT!
- ALLIANCE_CHR_Barksdale_III:0 "Барксдейл III" #NT!
- ALLIANCE_CHR_Meriweather_II:0 "Меривезер II" #NT!
- ALLIANCE_CHR_Scott_Jr.:0 "Скотт младший" #NT!
- ALLIANCE_CHR_Taylor_Jr.:0 "Тейлор младший" #NT!
- ALLIANCE_CHR_Walker_Jr.:0 "Уокер младший" #NT!
- ALLIANCE_CHR_Decker:0 "Декер" #NT!
- ALLIANCE_CHR_Roykirk:0 "Ройкирк" #NT!
- ALLIANCE_CHR_Katz:0 "Кац" #NT!
- ALLIANCE_CHR_Feldman:0 "Фельдман" #NT!
- ALLIANCE_CHR_Rabinowitz:0 "Рабинович" #NT!
- ALLIANCE_CHR_Lucius:0 "Люциус" #NT!
- ALLIANCE_CHR_Maximus:0 "Максимус" #NT!
- ALLIANCE_CHR_Valerian:0 "Валериана" #NT!
- ALLIANCE_CHR_Theobald:0 "Теобальд" #NT!
- ALLIANCE_CHR_Tiberius:0 "Тиберий" #NT!
- ALLIANCE_CHR_Boris:0 "Борис" #NT!
- ALLIANCE_CHR_Vladimir:0 "Владимир" #NT!
- ALLIANCE_CHR_Valentina:0 "Валентина" #NT!
- ALLIANCE_CHR_Anastasia:0 "Анастасия" #NT!
- ALLIANCE_CHR_Svetlana:0 "Светлана" #NT!
- ALLIANCE_CHR_Fatima:0 "Фатима" #NT!
- ALLIANCE_CHR_Theodora:0 "Феодора" #NT!
- ALLIANCE_CHR_Salazar:0 "Салазар" #NT!
- ALLIANCE_CHR_Mountbatten:0 "Маунтбэттен" #NT!
- ALLIANCE_CHR_Windsor:0 "Виндзор" #NT!
- ALLIANCE_CHR_Romanov:0 "Романов" #NT!
- ALLIANCE_CHR_Habsburg:0 "Габсбург" #NT!
- ALLIANCE_CHR_Valery:0 "Валерий" #NT!
- ALLIANCE_CHR_Nikita:0 "Никита" #NT!
- ALLIANCE_CHR_Fyodor:0 "Федор" #NT!
- ALLIANCE_CHR_Pavel:0 "Павел" #NT!
- ALLIANCE_CHR_Vasily:0 "Василий" #NT!
- ALLIANCE_CHR_Mikhail:0 "Михаил" #NT!
- ALLIANCE_CHR_Igor:0 "Игорь" #NT!
- ALLIANCE_CHR_Roman:0 "Римский" #NT!
- ALLIANCE_CHR_Viktor:0 "Виктор" #NT!
- ALLIANCE_CHR_Sergei:0 "Сергей" #NT!
- ALLIANCE_CHR_Dmitri:0 "Дмитрий" #NT!
- ALLIANCE_CHR_Alexei:0 "Алексей" #NT!
- ALLIANCE_CHR_Pyotr:0 "Петр" #NT!
- ALLIANCE_CHR_Nikolai:0 "Николай" #NT!
- ALLIANCE_CHR_Ivan:0 "Иван" #NT!
- ALLIANCE_CHR_Bogdan:0 "Богдан" #NT!
- ALLIANCE_CHR_Artyom:0 "Артем" #NT!
- ALLIANCE_CHR_Miroslav:0 "Мирослав" #NT!
- ALLIANCE_CHR_Anatoli:0 "Анатолий" #NT!
- ALLIANCE_CHR_Stanislav:0 "Станислав" #NT!
- ALLIANCE_CHR_Aleksandr:0 "Александр" #NT!
- ALLIANCE_CHR_Vyacheslav:0 "Вячеслав" #NT!
- ALLIANCE_CHR_Konstantin:0 "Константин" #NT!
- ALLIANCE_CHR_Andrei:0 "Андрей" #NT!
- ALLIANCE_CHR_Oleg:0 "Олег" #NT!
- ALLIANCE_CHR_Yuri:0 "Юрий" #NT!
- ALLIANCE_CHR_Maxim:0 "Максим" #NT!
- ALLIANCE_CHR_Leonid:0 "Леонид" #NT!
- ALLIANCE_CHR_Vladislav:0 "Владислав" #NT!
- ALLIANCE_CHR_Yegor:0 "Егор" #NT!
- ALLIANCE_CHR_Ratimir:0 "Ратимир" #NT!
- ALLIANCE_CHR_Lubomir:0 "Любомир" #NT!
- ALLIANCE_CHR_Radoslav:0 "Радослав" #NT!
- ALLIANCE_CHR_Kirill:0 "Кирилл" #NT!
- ALLIANCE_CHR_Radomir:0 "Радомир" #NT!
- ALLIANCE_CHR_Jaroslav:0 "Ярослав" #NT!
- ALLIANCE_CHR_Ilya:0 "Илья" #NT!
- ALLIANCE_CHR_Branislav:0 "Бранислав" #NT!
- ALLIANCE_CHR_Elena:0 "Елена" #NT!
- ALLIANCE_CHR_Lyudmila:0 "Людмила" #NT!
- ALLIANCE_CHR_Polina:0 "Полина" #NT!
- ALLIANCE_CHR_Miroslava:0 "Мирослава" #NT!
- ALLIANCE_CHR_Galina:0 "Галина" #NT!
- ALLIANCE_CHR_Irina:0 "Ирина" #NT!
- ALLIANCE_CHR_Yekaterina:0 "Екатерина" #NT!
- ALLIANCE_CHR_Nadya:0 "Надя" #NT!
- ALLIANCE_CHR_Tatyana:0 "Татьяна" #NT!
- ALLIANCE_CHR_Oksana:0 "Оксана" #NT!
- ALLIANCE_CHR_Olga:0 "Ольга" #NT!
- ALLIANCE_CHR_Yelena:0 "Елена" #NT!
- ALLIANCE_CHR_Nadezhda:0 "Надежда" #NT!
- ALLIANCE_CHR_Vlada:0 "Влада" #NT!
- ALLIANCE_CHR_Natacha:0 "Наташа" #NT!
- ALLIANCE_CHR_Radmila:0 "Радмила" #NT!
- ALLIANCE_CHR_Ljuba:0 "Люба" #NT!
- ALLIANCE_CHR_Katya:0 "Катя" #NT!
- ALLIANCE_CHR_Galenka:0 "Галенька" #NT!
- ALLIANCE_CHR_Alya:0 "Аля" #NT!
- ALLIANCE_CHR_Arina:0 "Арина" #NT!
- ALLIANCE_CHR_Nadesja:0 "Надежда" #NT!
- ALLIANCE_CHR_Ksenia:0 "Ксения" #NT!
- ALLIANCE_CHR_Irma:0 "Ирма" #NT!
- ALLIANCE_CHR_Darya:0 "Дарья" #NT!
- ALLIANCE_CHR_Marina:0 "Марина" #NT!
- ALLIANCE_CHR_Mira:0 "Мира" #NT!
- ALLIANCE_CHR_Sonia:0 "Соня" #NT!
- ALLIANCE_CHR_Tatiana:0 "Татьяна" #NT!
- ALLIANCE_CHR_Zhirov:0 "Жиров" #NT!
- ALLIANCE_CHR_Yerzov:0 "Ерзов" #NT!
- ALLIANCE_CHR_Dudnik:0 "Дудник" #NT!
- ALLIANCE_CHR_Gryaznov:0 "Грязнов" #NT!
- ALLIANCE_CHR_Volkov:0 "Волков" #NT!
- ALLIANCE_CHR_Ulanov:0 "Уланов" #NT!
- ALLIANCE_CHR_Vasiliev:0 "Васильев" #NT!
- ALLIANCE_CHR_Kamensky:0 "Каменский" #NT!
- ALLIANCE_CHR_Ivanov:0 "Иванов" #NT!
- ALLIANCE_CHR_Shatalov:0 "Шаталов" #NT!
- ALLIANCE_CHR_Petrenko:0 "Петренко" #NT!
- ALLIANCE_CHR_Pushkov:0 "Пушков" #NT!
- ALLIANCE_CHR_Komarov:0 "Комаров" #NT!
- ALLIANCE_CHR_Fedorov:0 "Федоров" #NT!
- ALLIANCE_CHR_Grishina:0 "Гришина" #NT!
- ALLIANCE_CHR_Rychenkov:0 "Рыченков" #NT!
- ALLIANCE_CHR_Polachev:0 "Полачев" #NT!
- ALLIANCE_CHR_Ostrovsky:0 "Островский" #NT!
- ALLIANCE_CHR_Markov:0 "Марков" #NT!
- ALLIANCE_CHR_Maksimushkin:0 "Максимушкин" #NT!
- ALLIANCE_CHR_Larionov:0 "Ларионов" #NT!
- ALLIANCE_CHR_Kuzin:0 "Кузин" #NT!
- ALLIANCE_CHR_Kolosov:0 "Колосов" #NT!
- ALLIANCE_CHR_Ivannikov:0 "Иванников" #NT!
- ALLIANCE_CHR_Krutov:0 "Крутов" #NT!
- ALLIANCE_CHR_Kazakov:0 "Казаков" #NT!
- ALLIANCE_CHR_Zhivenkov:0 "Живенков" #NT!
- ALLIANCE_CHR_Alexseyev:0 "Алексеев" #NT!
- ALLIANCE_CHR_Dragomirov:0 "Драгомиров" #NT!
- ALLIANCE_CHR_Makarov:0 "Макаров" #NT!
- ALLIANCE_CHR_Lazarev:0 "Лазарев" #NT!
- ALLIANCE_CHR_Skobelev:0 "Скобелев" #NT!
- ALLIANCE_CHR_Antonov:0 "Антонов" #NT!
- ALLIANCE_CHR_Tvardovsky:0 "Твардовский" #NT!
- ALLIANCE_CHR_Titov:0 "Титов" #NT!
- ALLIANCE_CHR_Turgenev:0 "Тургенев" #NT!
- ALLIANCE_CHR_Sorokin:0 "Сорокин" #NT!
- ALLIANCE_CHR_Statnik:0 "Статник" #NT!
- ALLIANCE_CHR_Sayanovich:0 "Саянович" #NT!
- ALLIANCE_CHR_Wei:0 "Вэй" #NT!
- ALLIANCE_CHR_Tian:0 "Тиан" #NT!
- ALLIANCE_CHR_Tao:0 "Дао" #NT!
- ALLIANCE_CHR_Song:0 "Песня" #NT!
- ALLIANCE_CHR_Shi:0 "Ши" #NT!
- ALLIANCE_CHR_Qiang:0 "Цян" #NT!
- ALLIANCE_CHR_Peng:0 "Пэн" #NT!
- ALLIANCE_CHR_Ning:0 "Нин" #NT!
- ALLIANCE_CHR_Meng:0 "Мэн" #NT!
- ALLIANCE_CHR_Long:0 "Длинный" #NT!
- ALLIANCE_CHR_Liang:0 "Лян" #NT!
- ALLIANCE_CHR_Li:0 "Ли" #NT!
- ALLIANCE_CHR_Kang:0 "Кан" #NT!
- ALLIANCE_CHR_Jie:0 "Джи" #NT!
- ALLIANCE_CHR_Jian:0 "Цзянь" #NT!
- ALLIANCE_CHR_Hui:0 "Хуэй" #NT!
- ALLIANCE_CHR_Hu:0 "Ху" #NT!
- ALLIANCE_CHR_Guo:0 "Го" #NT!
- ALLIANCE_CHR_Gang:0 "Банда" #NT!
- ALLIANCE_CHR_Feng:0 "Фэн" #NT!
- ALLIANCE_CHR_Dong:0 "Донг" #NT!
- ALLIANCE_CHR_De:0 "Де" #NT!
- ALLIANCE_CHR_Cheng:0 "Ченг" #NT!
- ALLIANCE_CHR_Cai:0 "Кай" #NT!
- ALLIANCE_CHR_Bo:0 "Бо" #NT!
- ALLIANCE_CHR_Bao:0 "Бао" #NT!
- ALLIANCE_CHR_An:0 "Ан" #NT!
- ALLIANCE_CHR_Wu:0 "Ву" #NT!
- ALLIANCE_CHR_Xiong:0 "Сюн" #NT!
- ALLIANCE_CHR_Yi:0 "И" #NT!
- ALLIANCE_CHR_Yong:0 "Йонг" #NT!
- ALLIANCE_CHR_You:0 "Ты" #NT!
- ALLIANCE_CHR_Xian:0 "Сиань" #NT!
- ALLIANCE_CHR_Xia:0 "Ся" #NT!
- ALLIANCE_CHR_Wen:0 "Вэнь" #NT!
- ALLIANCE_CHR_Ting:0 "Тинг" #NT!
- ALLIANCE_CHR_Shu:0 "Шу" #NT!
- ALLIANCE_CHR_Shan:0 "Шан" #NT!
- ALLIANCE_CHR_Qing:0 "Цин" #NT!
- ALLIANCE_CHR_Qiao:0 "Цяо" #NT!
- ALLIANCE_CHR_Qian:0 "Цянь" #NT!
- ALLIANCE_CHR_Ni:0 "ни" #NT!
- ALLIANCE_CHR_Na:0 "На" #NT!
- ALLIANCE_CHR_Mei:0 "Мэй" #NT!
- ALLIANCE_CHR_Lin:0 "Лин" #NT!
- ALLIANCE_CHR_Lian:0 "Лиан" #NT!
- ALLIANCE_CHR_Lan:0 "Лан" #NT!
- ALLIANCE_CHR_Juan:0 "Хуан" #NT!
- ALLIANCE_CHR_Ju:0 "Джу" #NT!
- ALLIANCE_CHR_Jiao:0 "Цзяо" #NT!
- ALLIANCE_CHR_Huan:0 "Хуан" #NT!
- ALLIANCE_CHR_Hua:0 "Хуа" #NT!
- ALLIANCE_CHR_Hong:0 "Хонг" #NT!
- ALLIANCE_CHR_Fang:0 "Клык" #NT!
- ALLIANCE_CHR_Dan:0 "Дэн" #NT!
- ALLIANCE_CHR_Dai:0 "Дай" #NT!
- ALLIANCE_CHR_Chan:0 "Чан" #NT!
- ALLIANCE_CHR_Cui:0 "Цуй" #NT!
- ALLIANCE_CHR_Bi:0 "би" #NT!
- ALLIANCE_CHR_Ai:0 "Ай" #NT!
- ALLIANCE_CHR_Zi:0 "Зи" #NT!
- ALLIANCE_CHR_Zhu:0 "Чжу" #NT!
- ALLIANCE_CHR_Zhi:0 "Чжи" #NT!
- ALLIANCE_CHR_Zhen:0 "Жень" #NT!
- ALLIANCE_CHR_Yun:0 "Юн" #NT!
- ALLIANCE_CHR_Yuan:0 "Юань" #NT!
- ALLIANCE_CHR_Yu:0 "Ю" #NT!
- ALLIANCE_CHR_Ying:0 "Ин" #NT!
- ALLIANCE_CHR_Yan:0 "Ян" #NT!
- ALLIANCE_CHR_Xue:0 "Сюэ" #NT!
- ALLIANCE_CHR_Xiu:0 "Сю" #NT!
- ALLIANCE_CHR_Xiang:0 "Сян" #NT!
- ALLIANCE_CHR_Situ:0 "Ситу" #NT!
- ALLIANCE_CHR_Ouyang:0 "Оуян" #NT!
- ALLIANCE_CHR_Zhuge:0 "Чжугэ" #NT!
- ALLIANCE_CHR_Sima:0 "Сима" #NT!
- ALLIANCE_CHR_Pan:0 "Кастрюля" #NT!
- ALLIANCE_CHR_Kong:0 "Конг" #NT!
- ALLIANCE_CHR_Wan:0 "Ван" #NT!
- ALLIANCE_CHR_Gao:0 "Гао" #NT!
- ALLIANCE_CHR_Deng:0 "Дэн" #NT!
- ALLIANCE_CHR_He:0 "Он" #NT!
- ALLIANCE_CHR_Tan:0 "Тан" #NT!
- ALLIANCE_CHR_Shen:0 "Шен" #NT!
- ALLIANCE_CHR_Mao:0 "Мао" #NT!
- ALLIANCE_CHR_Yang:0 "Ян" #NT!
- ALLIANCE_CHR_Wang:0 "Ван" #NT!
- ALLIANCE_CHR_Xie:0 "Се" #NT!
- ALLIANCE_CHR_Xu:0 "Сюй" #NT!
- ALLIANCE_CHR_Zheng:0 "Чжэн" #NT!
- ALLIANCE_CHR_Lu:0 "Лу" #NT!
- ALLIANCE_CHR_Kuang:0 "Куанг" #NT!
- ALLIANCE_CHR_Luo:0 "Луо" #NT!
- ALLIANCE_CHR_Zhang:0 "Чжан" #NT!
- ALLIANCE_CHR_Zhao:0 "Чжао" #NT!
- ALLIANCE_CHR_Huang:0 "Хуанг" #NT!
- ALLIANCE_CHR_Rolf:0 "Рольф" #NT!
- ALLIANCE_CHR_Kurt:0 "Курт" #NT!
- ALLIANCE_CHR_Helmuth:0 "Гельмут" #NT!
- ALLIANCE_CHR_Wolfgang:0 "Вольфганг" #NT!
- ALLIANCE_CHR_Gunther:0 "Гюнтер" #NT!
- ALLIANCE_CHR_Werner:0 "Вернер" #NT!
- ALLIANCE_CHR_Hermann:0 "Германн" #NT!
- ALLIANCE_CHR_Ernst:0 "Эрнст" #NT!
- ALLIANCE_CHR_Max:0 "Макс" #NT!
- ALLIANCE_CHR_Gustav:0 "Густав" #NT!
- ALLIANCE_CHR_Hans:0 "Ганс" #NT!
- ALLIANCE_CHR_Friedrich:0 "Фридрих" #NT!
- ALLIANCE_CHR_Heinrich:0 "Генрих" #NT!
- ALLIANCE_CHR_Otto:0 "Отто" #NT!
- ALLIANCE_CHR_Wilhelm:0 "Вильгельм" #NT!
- ALLIANCE_CHR_Karl:0 "Карл" #NT!
- ALLIANCE_CHR_Erich:0 "Эрих" #NT!
- ALLIANCE_CHR_Johann:0 "Иоганн" #NT!
- ALLIANCE_CHR_Fritz:0 "Фриц" #NT!
- ALLIANCE_CHR_Lukas:0 "Лукас" #NT!
- ALLIANCE_CHR_Stefan:0 "Стефан" #NT!
- ALLIANCE_CHR_Andreas:0 "Андреас" #NT!
- ALLIANCE_CHR_Dieter:0 "Дитер" #NT!
- ALLIANCE_CHR_Jurgen:0 "Юрген" #NT!
- ALLIANCE_CHR_Uwe:0 "Уве" #NT!
- ALLIANCE_CHR_Manfred:0 "Манфред" #NT!
- ALLIANCE_CHR_Horst:0 "Горст" #NT!
- ALLIANCE_CHR_Heinz:0 "Хайнц" #NT!
- ALLIANCE_CHR_Gerhard:0 "Герхард" #NT!
- ALLIANCE_CHR_Klaus:0 "Клаус" #NT!
- ALLIANCE_CHR_Reinhard:0 "Райнхард" #NT!
- ALLIANCE_CHR_Moritz:0 "Мориц" #NT!
- ALLIANCE_CHR_Matthias:0 "Матиас" #NT!
- ALLIANCE_CHR_Ludwig:0 "Людвиг" #NT!
- ALLIANCE_CHR_Lothar:0 "Лотар" #NT!
- ALLIANCE_CHR_Konrad:0 "Конрад" #NT!
- ALLIANCE_CHR_Joachim:0 "Иоахим" #NT!
- ALLIANCE_CHR_Holger:0 "Хольгер" #NT!
- ALLIANCE_CHR_Gottfried:0 "Готфрид" #NT!
- ALLIANCE_CHR_Gerhardt:0 "Герхардт" #NT!
- ALLIANCE_CHR_Emil:0 "Эмиль" #NT!
- ALLIANCE_CHR_Axel:0 "Аксель" #NT!
- ALLIANCE_CHR_Jorg:0 "Йорг" #NT!
- ALLIANCE_CHR_Erhard:0 "Эрхард" #NT!
- ALLIANCE_CHR_Rudolf:0 "Рудольф" #NT!
- ALLIANCE_CHR_Franz:0 "Франц" #NT!
- ALLIANCE_CHR_Bruno:0 "Бруно" #NT!
- ALLIANCE_CHR_Udo:0 "Ты делаешь" #NT!
- ALLIANCE_CHR_Ulrich:0 "Ульрих" #NT!
- ALLIANCE_CHR_Sigismund:0 "Сигизмунд" #NT!
- ALLIANCE_CHR_Erika:0 "Эрика" #NT!
- ALLIANCE_CHR_Sabine:0 "Сабина" #NT!
- ALLIANCE_CHR_Heike:0 "Хайке" #NT!
- ALLIANCE_CHR_Martina:0 "Мартина" #NT!
- ALLIANCE_CHR_Birgit:0 "Биргит" #NT!
- ALLIANCE_CHR_Katrin:0 "Катрин" #NT!
- ALLIANCE_CHR_Anja:0 "Аня" #NT!
- ALLIANCE_CHR_Andrea:0 "Андреа" #NT!
- ALLIANCE_CHR_Stefanie:0 "Стефани" #NT!
- ALLIANCE_CHR_Jessika:0 "Джессика" #NT!
- ALLIANCE_CHR_Ilse:0 "Ильзе" #NT!
- ALLIANCE_CHR_Ingrid:0 "Ингрид" #NT!
- ALLIANCE_CHR_Gisela:0 "Гизела" #NT!
- ALLIANCE_CHR_Ursula:0 "Урсула" #NT!
- ALLIANCE_CHR_Helga:0 "Хельга" #NT!
- ALLIANCE_CHR_Elsa:0 "Эльза:" #NT!
- ALLIANCE_CHR_Christel:0 "Кристель" #NT!
- ALLIANCE_CHR_Angelika:0 "Анжелика" #NT!
- ALLIANCE_CHR_Marith:0 "Марит" #NT!
- ALLIANCE_CHR_Lina:0 "Лина" #NT!
- ALLIANCE_CHR_Sara:0 "Сара" #NT!
- ALLIANCE_CHR_Wibke:0 "Вибке" #NT!
- ALLIANCE_CHR_Bettina:0 "Беттина" #NT!
- ALLIANCE_CHR_Renate:0 "Рената" #NT!
- ALLIANCE_CHR_Annike:0 "Аннике" #NT!
- ALLIANCE_CHR_Silvia:0 "Сильвия" #NT!
- ALLIANCE_CHR_Claudia:0 "Клаудия" #NT!
- ALLIANCE_CHR_Katharina:0 "Катарина" #NT!
- ALLIANCE_CHR_Lena:0 "Лена" #NT!
- ALLIANCE_CHR_Anita:0 "Анита" #NT!
- ALLIANCE_CHR_Johanna:0 "Джоанна" #NT!
- ALLIANCE_CHR_Kerstin:0 "Керстин" #NT!
- ALLIANCE_CHR_Lisbeth:0 "Лисбет" #NT!
- ALLIANCE_CHR_Wilhelmina:0 "Вильгельмина" #NT!
- ALLIANCE_CHR_Gertrude:0 "Гертруда" #NT!
- ALLIANCE_CHR_Hildegard:0 "Хильдегард" #NT!
- ALLIANCE_CHR_Hilde:0 "Хильде" #NT!
- ALLIANCE_CHR_Gretchen:0 "Гретхен" #NT!
- ALLIANCE_CHR_Grasser:0 "Грассер" #NT!
- ALLIANCE_CHR_Dietrich:0 "Дитрих" #NT!
- ALLIANCE_CHR_Brill:0 "Брилл" #NT!
- ALLIANCE_CHR_Brinkmann:0 "Бринкманн" #NT!
- ALLIANCE_CHR_Hoffmann:0 "Хоффманн" #NT!
- ALLIANCE_CHR_Schulz:0 "Шульц" #NT!
- ALLIANCE_CHR_Wagner:0 "Вагнер" #NT!
- ALLIANCE_CHR_Meyer:0 "Мейер" #NT!
- ALLIANCE_CHR_Weber:0 "Вебер" #NT!
- ALLIANCE_CHR_Fischer:0 "Фишер" #NT!
- ALLIANCE_CHR_Schmidt:0 "Шмидт" #NT!
- ALLIANCE_CHR_Muller:0 "Мюллер" #NT!
- ALLIANCE_CHR_Schafer:0 "Шефер" #NT!
- ALLIANCE_CHR_Klein:0 "Клейн" #NT!
- ALLIANCE_CHR_Wolf:0 "Волк" #NT!
- ALLIANCE_CHR_Dreyer:0 "Дрейер" #NT!
- ALLIANCE_CHR_von_Falkenstein:0 "фон Фалькенштейн" #NT!
- ALLIANCE_CHR_von_Boyen:0 "фон Бойен" #NT!
- ALLIANCE_CHR_von_Halkett:0 "фон Халкетт" #NT!
- ALLIANCE_CHR_von_Wrangel:0 "фон Врангель" #NT!
- ALLIANCE_CHR_von_Fritsch:0 "фон Фрич" #NT!
- ALLIANCE_CHR_von_Gebser:0 "фон Гебсер" #NT!
- ALLIANCE_CHR_Andbert:0 "Андберт" #NT!
- ALLIANCE_CHR_Bergmeister:0 "Бергмейстер" #NT!
- ALLIANCE_CHR_Kreutz:0 "Кройц" #NT!
- ALLIANCE_CHR_Sauer:0 "Зауэр" #NT!
- ALLIANCE_CHR_Brandt:0 "Брандт" #NT!
- ALLIANCE_CHR_Ziegler:0 "Циглер" #NT!
- ALLIANCE_CHR_Baumann:0 "Бауманн" #NT!
- ALLIANCE_CHR_Schubert:0 "Шуберт" #NT!
- ALLIANCE_CHR_Keller:0 "Келлер" #NT!
- ALLIANCE_CHR_Stein:0 "Штейн" #NT!
- ALLIANCE_CHR_Kruger:0 "Крюгер" #NT!
- ALLIANCE_CHR_Schwarz:0 "Шварц" #NT!
- ALLIANCE_CHR_Braun:0 "Браун" #NT!
- ALLIANCE_CHR_Neumann:0 "Нойманн" #NT!
- ALLIANCE_CHR_Jacques:0 "Жак" #NT!
- ALLIANCE_CHR_Yves:0 "Ив" #NT!
- ALLIANCE_CHR_Claude:0 "Клод" #NT!
- ALLIANCE_CHR_Rene:0 "Рене" #NT!
- ALLIANCE_CHR_Maurice:0 "Морис" #NT!
- ALLIANCE_CHR_Jean:0 "Жан" #NT!
- ALLIANCE_CHR_Marc:0 "Марк" #NT!
- ALLIANCE_CHR_Henri:0 "Анри" #NT!
- ALLIANCE_CHR_Michel:0 "Мишель" #NT!
- ALLIANCE_CHR_Antoine:0 "Антуан" #NT!
- ALLIANCE_CHR_Hubert:0 "Хьюберт" #NT!
- ALLIANCE_CHR_Francois:0 "Франсуа" #NT!
- ALLIANCE_CHR_Marcel:0 "Марсель" #NT!
- ALLIANCE_CHR_JeanMarie:0 "Жан-Мари" #NT!
- ALLIANCE_CHR_Pierre:0 "Пьер" #NT!
- ALLIANCE_CHR_Philippe:0 "Филипп" #NT!
- ALLIANCE_CHR_JeanPaul:0 "Жан-Поль" #NT!
- ALLIANCE_CHR_Lucien:0 "Люсьен" #NT!
- ALLIANCE_CHR_JeanFrancois:0 "Жан-Франсуа" #NT!
- ALLIANCE_CHR_Mathieu:0 "Матье" #NT!
- ALLIANCE_CHR_Patrice:0 "Патрис" #NT!
- ALLIANCE_CHR_Guy:0 "Парень" #NT!
- ALLIANCE_CHR_Thierry:0 "Тьерри" #NT!
- ALLIANCE_CHR_Gaston:0 "Гастон" #NT!
- ALLIANCE_CHR_Andre:0 "Андре" #NT!
- ALLIANCE_CHR_Georges:0 "Жорж" #NT!
- ALLIANCE_CHR_Olivier:0 "Оливье" #NT!
- ALLIANCE_CHR_Hugo:0 "Хьюго" #NT!
- ALLIANCE_CHR_Sebastien:0 "Себастьен" #NT!
- ALLIANCE_CHR_Luc:0 "Люк" #NT!
- ALLIANCE_CHR_Thibault:0 "Тибо" #NT!
- ALLIANCE_CHR_Elina:0 "Элина" #NT!
- ALLIANCE_CHR_Yasmine:0 "Ясмин" #NT!
- ALLIANCE_CHR_Justine:0 "Жюстин" #NT!
- ALLIANCE_CHR_Elise:0 "Элиза" #NT!
- ALLIANCE_CHR_Nina:0 "Нина" #NT!
- ALLIANCE_CHR_Marie:0 "МариЭ" #NT!
- ALLIANCE_CHR_Jeanne:0 "Жанна" #NT!
- ALLIANCE_CHR_Clemence:0 "Клеманс" #NT!
- ALLIANCE_CHR_Juliette:0 "Джульетта" #NT!
- ALLIANCE_CHR_Camille:0 "Камилла" #NT!
- ALLIANCE_CHR_Manon:0 "Манон" #NT!
- ALLIANCE_CHR_Ines:0 "Инес" #NT!
- ALLIANCE_CHR_Celine:0 "Селин" #NT!
- ALLIANCE_CHR_Angeline:0 "Анджелина" #NT!
- ALLIANCE_CHR_Bernadette:0 "Бернадетт" #NT!
- ALLIANCE_CHR_Helena:0 "Елена" #NT!
- ALLIANCE_CHR_Veronique:0 "Вероник" #NT!
- ALLIANCE_CHR_Leila:0 "Лейла" #NT!
- ALLIANCE_CHR_Fanny:0 "Фанни" #NT!
- ALLIANCE_CHR_Clarisse:0 "Кларисса" #NT!
- ALLIANCE_CHR_Eleonore:0 "Элеонора" #NT!
- ALLIANCE_CHR_Jeanette:0 "Жанетт" #NT!
- ALLIANCE_CHR_Viviane:0 "Вивиан" #NT!
- ALLIANCE_CHR_Pauline:0 "Полина" #NT!
- ALLIANCE_CHR_Gauthier:0 "Готье" #NT!
- ALLIANCE_CHR_Bouchard:0 "Бушар" #NT!
- ALLIANCE_CHR_Gagnon:0 "Ганьон" #NT!
- ALLIANCE_CHR_Tremblay:0 "Тремблей" #NT!
- ALLIANCE_CHR_Renard:0 "Ренар" #NT!
- ALLIANCE_CHR_Laurent:0 "Лоран" #NT!
- ALLIANCE_CHR_Leclerc:0 "Леклерк" #NT!
- ALLIANCE_CHR_Dupont:0 "Дюпон" #NT!
- ALLIANCE_CHR_Lambert:0 "Ламберт" #NT!
- ALLIANCE_CHR_Moreau:0 "Моро" #NT!
- ALLIANCE_CHR_Leroy:0 "Лерой" #NT!
- ALLIANCE_CHR_Durand:0 "Дюран" #NT!
- ALLIANCE_CHR_Dubois:0 "Дюбуа" #NT!
- ALLIANCE_CHR_Paquette:0 "Пакет" #NT!
- ALLIANCE_CHR_Bergeron:0 "Бержерон" #NT!
- ALLIANCE_CHR_Jauvin:0 "Жовен" #NT!
- ALLIANCE_CHR_Duchaine:0 "Дюшен" #NT!
- ALLIANCE_CHR_Gerard:0 "Джерард" #NT!
- ALLIANCE_CHR_Deville:0 "Девиль" #NT!
- ALLIANCE_CHR_Le_Roux:0 "Ле Ру" #NT!
- ALLIANCE_CHR_Le_Gall:0 "Ле Галль" #NT!
- ALLIANCE_CHR_Hebert:0 "Эбер" #NT!
- ALLIANCE_CHR_Duval:0 "Дюваль" #NT!
- ALLIANCE_CHR_Gagne:0 "Ганье" #NT!
- ALLIANCE_CHR_Fortin:0 "Фортин" #NT!
- ALLIANCE_CHR_Lavoie:0 "Лавуа" #NT!
- ALLIANCE_CHR_Morin:0 "Морин" #NT!
- ALLIANCE_CHR_Deveraux:0 "Деверо" #NT!
- ALLIANCE_CHR_Pellissier:0 "Пелисье" #NT!
- ALLIANCE_CHR_Lebouef:0 "Лебуф" #NT!
- ALLIANCE_CHR_de_Montaignac:0 "де Монтеньяк" #NT!
- ALLIANCE_CHR_de_Castelnau:0 "де Кастельно" #NT!
- ALLIANCE_CHR_Bosquet:0 "Боскет" #NT!
- ALLIANCE_CHR_Giroud:0 "Жиру" #NT!
- ALLIANCE_CHR_Remy:0 "Реми" #NT!
- ALLIANCE_CHR_Pelletier:0 "Пеллетье" #NT!
- ALLIANCE_CHR_Yoshinobu:0 "Ёсинобу" #NT!
- ALLIANCE_CHR_Kosei:0 "Косей" #NT!
- ALLIANCE_CHR_Yushin:0 "Yushin" #NT!
- ALLIANCE_CHR_Haru:0 "Хару" #NT!
- ALLIANCE_CHR_Ryuto:0 "Ryuto" #NT!
- ALLIANCE_CHR_Tatsuki:0 "Tatsuki" #NT!
- ALLIANCE_CHR_Rikuto:0 "Rikuto" #NT!
- ALLIANCE_CHR_Takeru:0 "Takeru" #NT!
- ALLIANCE_CHR_Yuma:0 "Юма" #NT!
- ALLIANCE_CHR_Sota:0 "Сота" #NT!
- ALLIANCE_CHR_Yuuto:0 "Юто" #NT!
- ALLIANCE_CHR_Shota:0 "Шота" #NT!
- ALLIANCE_CHR_Minato:0 "Минато" #NT!
- ALLIANCE_CHR_Ren:0 "Рен" #NT!
- ALLIANCE_CHR_Tsubasa:0 "Tsubasa" #NT!
- ALLIANCE_CHR_Takumi:0 "Takumi" #NT!
- ALLIANCE_CHR_Hikaru:0 "Hikaru" #NT!
- ALLIANCE_CHR_Hiroto:0 "Хирото" #NT!
- ALLIANCE_CHR_Koichiro:0 "Коичиро" #NT!
- ALLIANCE_CHR_Kentaro:0 "Кентаро" #NT!
- ALLIANCE_CHR_Koshiro:0 "Koshiro" #NT!
- ALLIANCE_CHR_Yoshi:0 "Йоши" #NT!
- ALLIANCE_CHR_Junichi:0 "Джуничи" #NT!
- ALLIANCE_CHR_Saburo:0 "Сабуро" #NT!
- ALLIANCE_CHR_Keisuke:0 "Keisuke" #NT!
- ALLIANCE_CHR_Mitsue:0 "Mitsue" #NT!
- ALLIANCE_CHR_Yoshida:0 "Ёсида" #NT!
- ALLIANCE_CHR_Hiroshi:0 "Хироши" #NT!
- ALLIANCE_CHR_Jiro:0 "Дзиро" #NT!
- ALLIANCE_CHR_Yusuki:0 "Yusuki" #NT!
- ALLIANCE_CHR_Hiyori:0 "Хиёри" #NT!
- ALLIANCE_CHR_Ichika:0 "Ичика" #NT!
- ALLIANCE_CHR_Saki:0 "Саки" #NT!
- ALLIANCE_CHR_Hinata:0 "Хината" #NT!
- ALLIANCE_CHR_Koharu:0 "Koharu" #NT!
- ALLIANCE_CHR_Yuna:0 "Юна" #NT!
- ALLIANCE_CHR_Riko:0 "Рико" #NT!
- ALLIANCE_CHR_Honoka:0 "Хонока" #NT!
- ALLIANCE_CHR_Hina:0 "Хина" #NT!
- ALLIANCE_CHR_Yui:0 "Юи" #NT!
- ALLIANCE_CHR_Nanami:0 "Нанами" #NT!
- ALLIANCE_CHR_Rin:0 "Рин" #NT!
- ALLIANCE_CHR_Miyu:0 "Мию" #NT!
- ALLIANCE_CHR_Mihane:0 "Михане" #NT!
- ALLIANCE_CHR_Aoi:0 "Аой" #NT!
- ALLIANCE_CHR_Misaki:0 "Мисаки" #NT!
- ALLIANCE_CHR_Sakura:0 "Сакура" #NT!
- ALLIANCE_CHR_Haruna:0 "Харуна" #NT!
- ALLIANCE_CHR_Kimiko:0 "Кимико" #NT!
- ALLIANCE_CHR_Kazumi:0 "Kazumi" #NT!
- ALLIANCE_CHR_Noriko:0 "Норико" #NT!
- ALLIANCE_CHR_Aomame:0 "Aomame" #NT!
- ALLIANCE_CHR_Yume:0 "Yume" #NT!
- ALLIANCE_CHR_Himari:0 "Himari" #NT!
- ALLIANCE_CHR_Momoka:0 "Момока" #NT!
- ALLIANCE_CHR_Hana:0 "Хана" #NT!
- ALLIANCE_CHR_Kaho:0 "Кахо" #NT!
- ALLIANCE_CHR_Ayane:0 "Аяне" #NT!
- ALLIANCE_CHR_Natsuki:0 "Нацуки" #NT!
- ALLIANCE_CHR_Shiori:0 "Шиори" #NT!
- ALLIANCE_CHR_Matsumoto:0 "Matsumoto" #NT!
- ALLIANCE_CHR_Yamaguchi:0 "Ямагучи" #NT!
- ALLIANCE_CHR_Sasaki:0 "Сасаки" #NT!
- ALLIANCE_CHR_Yamada:0 "Ямада" #NT!
- ALLIANCE_CHR_Kato:0 "Като" #NT!
- ALLIANCE_CHR_Yamamoto:0 "Ямамото" #NT!
- ALLIANCE_CHR_Kobayashi:0 "Кобаяши" #NT!
- ALLIANCE_CHR_Nakamura:0 "Накамура" #NT!
- ALLIANCE_CHR_Ito:0 "Ито" #NT!
- ALLIANCE_CHR_Watanabe:0 "Ватанабэ" #NT!
- ALLIANCE_CHR_Tanaka:0 "Tanaka" #NT!
- ALLIANCE_CHR_Takahashi:0 "Такахаши" #NT!
- ALLIANCE_CHR_Suzuki:0 "Suzuki" #NT!
- ALLIANCE_CHR_Sato:0 "Сато" #NT!
- ALLIANCE_CHR_Hasegawa:0 "Hasegawa" #NT!
- ALLIANCE_CHR_Ishii:0 "Исии" #NT!
- ALLIANCE_CHR_Ogawa:0 "Огава" #NT!
- ALLIANCE_CHR_Yamashita:0 "Ямасита" #NT!
- ALLIANCE_CHR_Ishikawa:0 "Исикава" #NT!
- ALLIANCE_CHR_Hashimoto:0 "Хашимото" #NT!
- ALLIANCE_CHR_Ikeda:0 "Икеда" #NT!
- ALLIANCE_CHR_Abe:0 "Абэ" #NT!
- ALLIANCE_CHR_Mori:0 "Мори" #NT!
- ALLIANCE_CHR_Nakajima:0 "Nakajima" #NT!
- ALLIANCE_CHR_Yamazaki:0 "Ямадзаки" #NT!
- ALLIANCE_CHR_Saito:0 "Сайто" #NT!
- ALLIANCE_CHR_Hayashi:0 "Hayashi" #NT!
- ALLIANCE_CHR_Shimizu:0 "Shimizu" #NT!
- ALLIANCE_CHR_Kimura:0 "Kimura" #NT!
- ALLIANCE_CHR_Inoue:0 "Иноуэ" #NT!
- ALLIANCE_CHR_Ota:0 "Ота" #NT!
- ALLIANCE_CHR_Higuchi:0 "Higuchi" #NT!
- ALLIANCE_CHR_Amano:0 "Амано" #NT!
- ALLIANCE_CHR_Takaya:0 "Такая" #NT!
- ALLIANCE_CHR_Miura:0 "Миура" #NT!
- ALLIANCE_CHR_Okamoto:0 "Okamoto" #NT!
- ALLIANCE_CHR_Harada:0 "Харада" #NT!
- ALLIANCE_CHR_Nakagawa:0 "Накагава" #NT!
- ALLIANCE_CHR_Nishimura:0 "Нисимура" #NT!
- ALLIANCE_CHR_Murakami:0 "Мураками" #NT!
- ALLIANCE_CHR_Sakamoto:0 "Сакамото" #NT!
- ALLIANCE_CHR_Fujita:0 "Fujita" #NT!
- ALLIANCE_CHR_Okada:0 "Окада" #NT!
- ALLIANCE_CHR_Goto:0 "Идти к" #NT!
- ALLIANCE_CHR_Norinaga:0 "Norinaga" #NT!
- ALLIANCE_CHR_Hironari:0 "Hironari" #NT!
- ALLIANCE_CHR_Anaho:0 "Анахо" #NT!
- ALLIANCE_CHR_Mimatsuhiko:0 "Mimatsuhiko" #NT!
- ALLIANCE_CHR_Nekuhiko:0 "Nekuhiko" #NT!
- ALLIANCE_CHR_Teruhito:0 "Teruhito" #NT!
- ALLIANCE_CHR_Toshiko:0 "Тошико" #NT!
- ALLIANCE_CHR_Okiko:0 "Okiko" #NT!
- ALLIANCE_CHR_Takama:0 "Такама" #NT!
- ALLIANCE_CHR_Hidaka:0 "Хидака" #NT!
- ALLIANCE_CHR_Niinomi:0 "Нииноми" #NT!
- ALLIANCE_CHR_Takara:0 "Такара" #NT!
- ALLIANCE_CHR_Toyomike:0 "Toyomike" #NT!
- ALLIANCE_CHR_Nukatabe:0 "Нукатабе" #NT!
- ALLIANCE_CHR_Yamato:0 "Yamato" #NT!
- ALLIANCE_CHR_Mononobe:0 "мононобе" #NT!
- ALLIANCE_CHR_Suijin:0 "Suijin" #NT!
- ALLIANCE_CHR_Otomo:0 "Отомо" #NT!
- ALLIANCE_CHR_Sumeramikoto:0 "Sumeramikoto" #NT!
- ALLIANCE_CHR_no_Mikoto:0 "no Mikoto" #NT!
- ALLIANCE_CHR_Aarush:0 "Ааруш" #NT!
- ALLIANCE_CHR_Ritvik:0 "Ритвик" #NT!
- ALLIANCE_CHR_Kabir:0 "Кабир" #NT!
- ALLIANCE_CHR_Dhruv:0 "Друв" #NT!
- ALLIANCE_CHR_Advaith:0 "Адвайт" #NT!
- ALLIANCE_CHR_Pranav:0 "Пранав" #NT!
- ALLIANCE_CHR_Advik:0 "Адвик" #NT!
- ALLIANCE_CHR_Atharv:0 "Атхарв" #NT!
- ALLIANCE_CHR_Shaurya:0 "Шаурья" #NT!
- ALLIANCE_CHR_Ishaan:0 "Ишаан" #NT!
- ALLIANCE_CHR_Krishna:0 "Кришна" #NT!
- ALLIANCE_CHR_Arnav:0 "Арнав" #NT!
- ALLIANCE_CHR_Reyansh:0 "Рейанш" #NT!
- ALLIANCE_CHR_Arjun:0 "Арджун" #NT!
- ALLIANCE_CHR_Aditya:0 "Адитья" #NT!
- ALLIANCE_CHR_Vivaan:0 "Виваан" #NT!
- ALLIANCE_CHR_Aarav:0 "Аарав" #NT!
- ALLIANCE_CHR_Shubham:0 "Шубхам" #NT!
- ALLIANCE_CHR_Prathamesh:0 "Пратамеш" #NT!
- ALLIANCE_CHR_Neeraj:0 "Нирадж" #NT!
- ALLIANCE_CHR_Nishant:0 "Нишант" #NT!
- ALLIANCE_CHR_Rakesh:0 "Ракеш" #NT!
- ALLIANCE_CHR_Palash:0 "Палаш" #NT!
- ALLIANCE_CHR_Kumar:0 "Кумар" #NT!
- ALLIANCE_CHR_Raj:0 "Радж" #NT!
- ALLIANCE_CHR_Shyam:0 "Шьям" #NT!
- ALLIANCE_CHR_Mahesh:0 "Махеш" #NT!
- ALLIANCE_CHR_Rahul:0 "Рахул" #NT!
- ALLIANCE_CHR_Veer:0 "Вир" #NT!
- ALLIANCE_CHR_Darsh:0 "Дарш" #NT!
- ALLIANCE_CHR_Kayaan:0 "Каяан" #NT!
- ALLIANCE_CHR_Akshara:0 "Акшара" #NT!
- ALLIANCE_CHR_Anaya:0 "Анайя" #NT!
- ALLIANCE_CHR_Aarohi:0 "Аарохи" #NT!
- ALLIANCE_CHR_Riya:0 "Рия" #NT!
- ALLIANCE_CHR_Prisha:0 "Приша" #NT!
- ALLIANCE_CHR_Anvi:0 "Анви" #NT!
- ALLIANCE_CHR_Aahana:0 "Ахана" #NT!
- ALLIANCE_CHR_Ira:0 "Ира" #NT!
- ALLIANCE_CHR_Myra:0 "Майра" #NT!
- ALLIANCE_CHR_Avani:0 "Авани" #NT!
- ALLIANCE_CHR_Diya:0 "Дия" #NT!
- ALLIANCE_CHR_Navya:0 "Навья" #NT!
- ALLIANCE_CHR_Anika:0 "Аника" #NT!
- ALLIANCE_CHR_Pari:0 "Пари" #NT!
- ALLIANCE_CHR_Ananya:0 "Ананья" #NT!
- ALLIANCE_CHR_Aaradhya:0 "Аарадья" #NT!
- ALLIANCE_CHR_Aadhya:0 "Адья" #NT!
- ALLIANCE_CHR_Aanya:0 "Ааня" #NT!
- ALLIANCE_CHR_Saanvi:0 "Саанви" #NT!
- ALLIANCE_CHR_Sanjana:0 "Санджана" #NT!
- ALLIANCE_CHR_Apoorva:0 "Апурва" #NT!
- ALLIANCE_CHR_Anushri:0 "Анушри" #NT!
- ALLIANCE_CHR_Anoushka:0 "Анушка" #NT!
- ALLIANCE_CHR_Juvina:0 "Ювина" #NT!
- ALLIANCE_CHR_Shivangi:0 "Шиванги" #NT!
- ALLIANCE_CHR_Mahima:0 "Махима" #NT!
- ALLIANCE_CHR_Divya:0 "Дивья" #NT!
- ALLIANCE_CHR_Priyanka:0 "Приянка" #NT!
- ALLIANCE_CHR_Siya:0 "Сия" #NT!
- ALLIANCE_CHR_Kyra:0 "Кира" #NT!
- ALLIANCE_CHR_Shanaya:0 "Шанайя" #NT!
- ALLIANCE_CHR_Naik:0 "Наик" #NT!
- ALLIANCE_CHR_Chowta:0 "Човта" #NT!
- ALLIANCE_CHR_Upadhyay:0 "Упадхьяй" #NT!
- ALLIANCE_CHR_Poojary:0 "Пуджари" #NT!
- ALLIANCE_CHR_Bhandary:0 "Бандари" #NT!
- ALLIANCE_CHR_Bhat:0 "Бхат" #NT!
- ALLIANCE_CHR_Desmukh:0 "Десмух" #NT!
- ALLIANCE_CHR_Nayak:0 "Наяк" #NT!
- ALLIANCE_CHR_Gowda:0 "Гауда" #NT!
- ALLIANCE_CHR_Pillai:0 "Пиллаи" #NT!
- ALLIANCE_CHR_Swamy:0 "Свами" #NT!
- ALLIANCE_CHR_Acharya:0 "Ачарья" #NT!
- ALLIANCE_CHR_Prasad:0 "Прасад" #NT!
- ALLIANCE_CHR_Shastri:0 "Шастри" #NT!
- ALLIANCE_CHR_Moorthi:0 "Мурти" #NT!
- ALLIANCE_CHR_Vijay:0 "Виджай" #NT!
- ALLIANCE_CHR_Chandran:0 "Чандран" #NT!
- ALLIANCE_CHR_Sooriyaprakash:0 "Сурияпракаш" #NT!
- ALLIANCE_CHR_Sondharam:0 "Сондхарам" #NT!
- ALLIANCE_CHR_Varma:0 "Варма" #NT!
- ALLIANCE_CHR_Kutty:0 "Катти" #NT!
- ALLIANCE_CHR_Potti:0 "Потти" #NT!
- ALLIANCE_CHR_Pannikar:0 "Панникар" #NT!
- ALLIANCE_CHR_Namboodiri:0 "Намбудири" #NT!
- ALLIANCE_CHR_Sharma:0 "Шарма" #NT!
- ALLIANCE_CHR_Gupta:0 "Гупта" #NT!
- ALLIANCE_CHR_Patil:0 "Патил" #NT!
- ALLIANCE_CHR_Dodamani:0 "Додамани" #NT!
- ALLIANCE_CHR_Kulkarni:0 "Кулкарни" #NT!
- ALLIANCE_CHR_Puttappa:0 "Путтаппа" #NT!
- ALLIANCE_CHR_Venktaesan:0 "Венктэсан" #NT!
- ALLIANCE_CHR_Jose_Manuel:0 "Хосе_Мануэль" #NT!
- ALLIANCE_CHR_Jose_Antonio:0 "Хосе_Антонио" #NT!
- ALLIANCE_CHR_Julio:0 "Хулио" #NT!
- ALLIANCE_CHR_Francisco:0 "Франциско" #NT!
- ALLIANCE_CHR_Fernando:0 "Фернандо" #NT!
- ALLIANCE_CHR_Carlos:0 "Карлос" #NT!
- ALLIANCE_CHR_Alejandro:0 "Алехандро" #NT!
- ALLIANCE_CHR_Eduardo:0 "Эдуардо" #NT!
- ALLIANCE_CHR_Emilio:0 "Эмилио" #NT!
- ALLIANCE_CHR_Jose:0 "Хосе" #NT!
- ALLIANCE_CHR_Joaquin:0 "Хоакин" #NT!
- ALLIANCE_CHR_Pedro:0 "Педро" #NT!
- ALLIANCE_CHR_Luis:0 "Луис" #NT!
- ALLIANCE_CHR_Diego:0 "Диего" #NT!
- ALLIANCE_CHR_Enrique:0 "Энрике" #NT!
- ALLIANCE_CHR_Lorenzo:0 "Лоренцо" #NT!
- ALLIANCE_CHR_Alfonso:0 "Альфонсо" #NT!
- ALLIANCE_CHR_Gaspar:0 "Гаспар" #NT!
- ALLIANCE_CHR_Javier:0 "Хавьер" #NT!
- ALLIANCE_CHR_Marcelo:0 "Марсело" #NT!
- ALLIANCE_CHR_Ricardo:0 "Рикардо" #NT!
- ALLIANCE_CHR_Santiago:0 "Сантьяго" #NT!
- ALLIANCE_CHR_Raimundo:0 "Раймундо" #NT!
- ALLIANCE_CHR_Ramon:0 "Рамон" #NT!
- ALLIANCE_CHR_Miguel:0 "Мигель" #NT!
- ALLIANCE_CHR_Pablo:0 "Пабло" #NT!
- ALLIANCE_CHR_Manuel:0 "Мануэль" #NT!
- ALLIANCE_CHR_Ignacio:0 "Игнасио" #NT!
- ALLIANCE_CHR_Jose_Maria:0 "Хосе_Мария" #NT!
- ALLIANCE_CHR_Esteban:0 "Эстебан" #NT!
- ALLIANCE_CHR_Roberto:0 "Роберто" #NT!
- ALLIANCE_CHR_Sergio:0 "Серхио" #NT!
- ALLIANCE_CHR_Salvadore:0 "Сальвадор" #NT!
- ALLIANCE_CHR_Jesus:0 "Иисус" #NT!
- ALLIANCE_CHR_Guillermo:0 "Гильермо" #NT!
- ALLIANCE_CHR_Gerardo:0 "Херардо" #NT!
- ALLIANCE_CHR_Ernesto:0 "Эрнесто" #NT!
- ALLIANCE_CHR_Florencia:0 "Флоренсия" #NT!
- ALLIANCE_CHR_Fernanda:0 "Фернанда" #NT!
- ALLIANCE_CHR_Eva:0 "Ева" #NT!
- ALLIANCE_CHR_Estefania:0 "Эстефания" #NT!
- ALLIANCE_CHR_Catalina:0 "Каталина" #NT!
- ALLIANCE_CHR_Carla:0 "Карла" #NT!
- ALLIANCE_CHR_Antonia:0 "Антония" #NT!
- ALLIANCE_CHR_Alicia:0 "Алисия" #NT!
- ALLIANCE_CHR_Alejandra:0 "Алехандра" #NT!
- ALLIANCE_CHR_Isabel:0 "Изабель" #NT!
- ALLIANCE_CHR_Hortensia:0 "Гортензия" #NT!
- ALLIANCE_CHR_Daniela:0 "Даниэла" #NT!
- ALLIANCE_CHR_Mariana:0 "Мариана" #NT!
- ALLIANCE_CHR_Valeria:0 "Валерия" #NT!
- ALLIANCE_CHR_Luciana:0 "Лучиана" #NT!
- ALLIANCE_CHR_Camila:0 "Камила" #NT!
- ALLIANCE_CHR_Yolanda:0 "Иоланда" #NT!
- ALLIANCE_CHR_Sofia:0 "София" #NT!
- ALLIANCE_CHR_Paulina:0 "Паулина" #NT!
- ALLIANCE_CHR_Magdalena:0 "Магдалена" #NT!
- ALLIANCE_CHR_Lorena:0 "Лорена" #NT!
- ALLIANCE_CHR_Grizelda:0 "Гризельда" #NT!
- ALLIANCE_CHR_Gabriela:0 "Габриэла" #NT!
- ALLIANCE_CHR_Fabiana:0 "Фабиана" #NT!
- ALLIANCE_CHR_Constanza:0 "Констанца" #NT!
- ALLIANCE_CHR_Agustina:0 "Агустина" #NT!
- ALLIANCE_CHR_Renata:0 "Рената" #NT!
- ALLIANCE_CHR_Antonella:0 "Антонелла" #NT!
- ALLIANCE_CHR_Julieta:0 "Джульетта" #NT!
- ALLIANCE_CHR_Hernandez:0 "Эрнандес" #NT!
- ALLIANCE_CHR_Dominguez:0 "Домингес" #NT!
- ALLIANCE_CHR_Diaz:0 "Диас" #NT!
- ALLIANCE_CHR_Gomez:0 "Гомес" #NT!
- ALLIANCE_CHR_Alvarez:0 "Альварес" #NT!
- ALLIANCE_CHR_Gonzalez:0 "Гонсалес" #NT!
- ALLIANCE_CHR_Perez:0 "Перес" #NT!
- ALLIANCE_CHR_Lopez:0 "Лопес" #NT!
- ALLIANCE_CHR_Sanchez:0 "SanchezE" #NT!
- ALLIANCE_CHR_Fernandez:0 "Фернандес" #NT!
- ALLIANCE_CHR_Rodriguez:0 "Родригес" #NT!
- ALLIANCE_CHR_Martinez:0 "Мартинес" #NT!
- ALLIANCE_CHR_Garcia:0 "Гарсия" #NT!
- ALLIANCE_CHR_de_la_Vega:0 "де ла Вега" #NT!
- ALLIANCE_CHR_de_la_Cruz:0 "де ла Круз" #NT!
- ALLIANCE_CHR_de_la_Guardia:0 "de_la_Guardia" #NT!
- ALLIANCE_CHR_Flores:0 "Флорес" #NT!
- ALLIANCE_CHR_Esguerra:0 "Эсгерра" #NT!
- ALLIANCE_CHR_Batista:0 "Батиста" #NT!
- ALLIANCE_CHR_Alonso:0 "Алонсо" #NT!
- ALLIANCE_CHR_Aguera:0 "Агуэра" #NT!
- ALLIANCE_CHR_Ruiz:0 "Руис" #NT!
- ALLIANCE_CHR_Vasquez:0 "Васкес" #NT!
- ALLIANCE_CHR_Mendez:0 "Мендес" #NT!
- ALLIANCE_CHR_Ramirez:0 "Рамирес" #NT!
- ALLIANCE_CHR_Romero:0 "Ромеро" #NT!
- ALLIANCE_CHR_Solano:0 "Солано" #NT!
- ALLIANCE_CHR_Ortiz:0 "Ортис" #NT!
- ALLIANCE_CHR_Ortega:0 "Ортега" #NT!
- ALLIANCE_CHR_Saldana:0 "Салдана" #NT!
- ALLIANCE_CHR_Quesada:0 "Кесада" #NT!
- ALLIANCE_CHR_Torres:0 "Торрес" #NT!
- ALLIANCE_CHR_Velazco:0 "Веласко" #NT!
- ALLIANCE_CHR_Rosario:0 "Росарио" #NT!
- ALLIANCE_CHR_Riveros:0 "Риверос" #NT!
- ALLIANCE_CHR_Moralez:0 "Моралес" #NT!
- ALLIANCE_CHR_Ibanez:0 "Ибанез" #NT!
- ALLIANCE_CHR_de_Vargas:0 "де Варгас" #NT!
- ALLIANCE_CHR_Mahdi:0 "Махди" #NT!
- ALLIANCE_CHR_Malik:0 "Малик" #NT!
- ALLIANCE_CHR_Khalid:0 "Халид" #NT!
- ALLIANCE_CHR_Khalil:0 "Халил" #NT!
- ALLIANCE_CHR_Khathem:0 "Хатем" #NT!
- ALLIANCE_CHR_Kareem:0 "Карим" #NT!
- ALLIANCE_CHR_Jamal:0 "Джамал" #NT!
- ALLIANCE_CHR_Ibrahim:0 "Ибрагим" #NT!
- ALLIANCE_CHR_Hydar:0 "Хидар" #NT!
- ALLIANCE_CHR_Hassan:0 "Хасан" #NT!
- ALLIANCE_CHR_Hamza:0 "Хамза" #NT!
- ALLIANCE_CHR_Amir:0 "Амир" #NT!
- ALLIANCE_CHR_Ammar:0 "Аммар" #NT!
- ALLIANCE_CHR_Ali:0 "Али" #NT!
- ALLIANCE_CHR_Ahmed:0 "Ахмед" #NT!
- ALLIANCE_CHR_Ahmad:0 "Ахмад" #NT!
- ALLIANCE_CHR_Abed:0 "Кровать" #NT!
- ALLIANCE_CHR_Abbas:0 "Аббас" #NT!
- ALLIANCE_CHR_Abdullah:0 "Абдулла" #NT!
- ALLIANCE_CHR_Barak:0 "Барак" #NT!
- ALLIANCE_CHR_Yusuf:0 "Юсуф" #NT!
- ALLIANCE_CHR_Yasin:0 "Ясин" #NT!
- ALLIANCE_CHR_Yahir:0 "Яхир" #NT!
- ALLIANCE_CHR_Tariq:0 "Тарик" #NT!
- ALLIANCE_CHR_Samir:0 "Самир" #NT!
- ALLIANCE_CHR_Rashid:0 "Рашид" #NT!
- ALLIANCE_CHR_Rashad:0 "Рашад" #NT!
- ALLIANCE_CHR_Omar:0 "Омар" #NT!
- ALLIANCE_CHR_Nasir:0 "Насир" #NT!
- ALLIANCE_CHR_Muhammed:0 "Мухаммед" #NT!
- ALLIANCE_CHR_Muhammad:0 "Мухаммед" #NT!
- ALLIANCE_CHR_Mohammed:0 "Мохаммед" #NT!
- ALLIANCE_CHR_Mohammad:0 "Мохаммад" #NT!
- ALLIANCE_CHR_Mohamed:0 "Мохамед" #NT!
- ALLIANCE_CHR_Hussein:0 "Хусейн" #NT!
- ALLIANCE_CHR_Maryam:0 "Марьям" #NT!
- ALLIANCE_CHR_Malak:0 "Малак" #NT!
- ALLIANCE_CHR_Leen:0 "Лин" #NT!
- ALLIANCE_CHR_Layan:0 "Лаян" #NT!
- ALLIANCE_CHR_Kaliyah:0 "Калия" #NT!
- ALLIANCE_CHR_Jazmin:0 "Джазмин" #NT!
- ALLIANCE_CHR_Jaliyah:0 "Джалия" #NT!
- ALLIANCE_CHR_Jana:0 "Яна" #NT!
- ALLIANCE_CHR_Imani:0 "Имани" #NT!
- ALLIANCE_CHR_Hasti:0 "Хасти" #NT!
- ALLIANCE_CHR_Hala:0 "Хала" #NT!
- ALLIANCE_CHR_Aisha:0 "Аиша" #NT!
- ALLIANCE_CHR_Amira:0 "Амира" #NT!
- ALLIANCE_CHR_Amani:0 "Амани" #NT!
- ALLIANCE_CHR_Alma:0 "Альма" #NT!
- ALLIANCE_CHR_Aya:0 "Ая" #NT!
- ALLIANCE_CHR_Sakineh:0 "Сакине" #NT!
- ALLIANCE_CHR_Masoumeh:0 "Масуме" #NT!
- ALLIANCE_CHR_Narges:0 "Наргес" #NT!
- ALLIANCE_CHR_Mobina:0 "Мобина" #NT!
- ALLIANCE_CHR_Reihaneh:0 "Рейхане" #NT!
- ALLIANCE_CHR_Zeinab:0 "Зейнаб" #NT!
- ALLIANCE_CHR_Satayesh:0 "Сатайеш" #NT!
- ALLIANCE_CHR_Zahra:0 "Захра" #NT!
- ALLIANCE_CHR_Yesenia:0 "Есения" #NT!
- ALLIANCE_CHR_Sanaa:0 "Сана" #NT!
- ALLIANCE_CHR_Samira:0 "Самира" #NT!
- ALLIANCE_CHR_Salma:0 "Сальма" #NT!
- ALLIANCE_CHR_Noor:0 "Нур" #NT!
- ALLIANCE_CHR_Naima:0 "Найма" #NT!
- ALLIANCE_CHR_Mina:0 "Мина" #NT!
- ALLIANCE_CHR_Maritza:0 "Марица" #NT!
- ALLIANCE_CHR_alDimashqi:0 "ад-Димашки" #NT!
- ALLIANCE_CHR_alAtrash:0 "аль-Атраш" #NT!
- ALLIANCE_CHR_alAsiri:0 "аль-Асири" #NT!
- ALLIANCE_CHR_Alawi:0 "Алави" #NT!
- ALLIANCE_CHR_Akkad:0 "Аккад" #NT!
- ALLIANCE_CHR_Adwam:0 "Адвам" #NT!
- ALLIANCE_CHR_alMubarak:0 "аль-Мубарак" #NT!
- ALLIANCE_CHR_alBariqi:0 "аль-Барики" #NT!
- ALLIANCE_CHR_alAjlani:0 "аль-Аджлани" #NT!
- ALLIANCE_CHR_alAhdal:0 "аль-Ахдал" #NT!
- ALLIANCE_CHR_Abboud:0 "Аббуд" #NT!
- ALLIANCE_CHR_Barakat:0 "Баракат" #NT!
- ALLIANCE_CHR_Hamidi:0 "Хамиди" #NT!
- ALLIANCE_CHR_Jawahir:0 "Джавахир" #NT!
- ALLIANCE_CHR_Juhani:0 "Юхани" #NT!
- ALLIANCE_CHR_Nadir:0 "Надир" #NT!
- ALLIANCE_CHR_Bilal:0 "Билал" #NT!
- ALLIANCE_CHR_ElGhazali:0 "Эль-Газали" #NT!
- ALLIANCE_CHR_ElFarouk:0 "Эль-Фарук" #NT!
- ALLIANCE_CHR_Ismail:0 "Исмаил" #NT!
- ALLIANCE_CHR_Ishak:0 "Исхак" #NT!
- ALLIANCE_CHR_ElBaz:0 "Эль-Баз" #NT!
- ALLIANCE_CHR_alBishi:0 "аль-Биши" #NT!
- ALLIANCE_CHR_alHazmi:0 "аль-Хазми" #NT!
- ALLIANCE_CHR_Bakir:0 "Бакир" #NT!
- ALLIANCE_CHR_Rahimi:0 "Рахими" #NT!
- ALLIANCE_CHR_Jamshidi:0 "Джамшиди" #NT!
- ALLIANCE_CHR_Ghorbani:0 "Горбани" #NT!
- ALLIANCE_CHR_Khadem:0 "Хадем" #NT!
- ALLIANCE_CHR_Turani:0 "Турани" #NT!
- ALLIANCE_CHR_Sassani:0 "Сассани" #NT!
- ALLIANCE_CHR_Madani:0 "Мадани" #NT!
- ALLIANCE_CHR_Farrokhzad:0 "Фаррохзад" #NT!
- ALLIANCE_CHR_alQadi:0 "аль-Кади" #NT!
- ALLIANCE_CHR_Qaderi:0 "Кадери" #NT!
- ALLIANCE_CHR_Qudsi:0 "Кудси" #NT!
- ALLIANCE_CHR_Qasim:0 "Касим" #NT!
- ALLIANCE_CHR_Salman:0 "Салман" #NT!
- ALLIANCE_CHR_alSamarrai:0 "аль-Самарраи" #NT!
- ALLIANCE_CHR_alJazari:0 "аль-Джазари" #NT!
- ALLIANCE_CHR_Abdel_Nour:0 "Абдель Нур" #NT!
- ALLIANCE_CHR_Arakat:0 "Аракат" #NT!
- ALLIANCE_CHR_Bwana:0 "Бвана" #NT!
- ALLIANCE_CHR_Bakari:0 "Бакари" #NT!
- ALLIANCE_CHR_Badru:0 "Бадру" #NT!
- ALLIANCE_CHR_Azizi:0 "Азизи" #NT!
- ALLIANCE_CHR_Annan:0 "Аннан" #NT!
- ALLIANCE_CHR_Abasi:0 "Абаси" #NT!
- ALLIANCE_CHR_Zuberi:0 "Зубери" #NT!
- ALLIANCE_CHR_Tendaji:0 "Тендаджи" #NT!
- ALLIANCE_CHR_Simba:0 "Симба" #NT!
- ALLIANCE_CHR_Sefu:0 "Сефу" #NT!
- ALLIANCE_CHR_Mwenye:0 "Мвенье" #NT!
- ALLIANCE_CHR_Mosi:0 "Моси" #NT!
- ALLIANCE_CHR_Kibwe:0 "Кибве" #NT!
- ALLIANCE_CHR_Khamisi:0 "Хамиси" #NT!
- ALLIANCE_CHR_Jumaane:0 "Джумане" #NT!
- ALLIANCE_CHR_Jengo:0 "Дженго" #NT!
- ALLIANCE_CHR_Jelani:0 "Джелани" #NT!
- ALLIANCE_CHR_Imamu:0 "Имаму" #NT!
- ALLIANCE_CHR_Faraji:0 "Фараджи" #NT!
- ALLIANCE_CHR_Dikotsi:0 "Дикоци" #NT!
- ALLIANCE_CHR_Butholezwe:0 "Бутолезве" #NT!
- ALLIANCE_CHR_Bhekizizwe:0 "Бекизизве" #NT!
- ALLIANCE_CHR_Bhekithemba:0 "Бекитемба" #NT!
- ALLIANCE_CHR_Bheka:0 "Бека" #NT!
- ALLIANCE_CHR_Bambanani:0 "Бамбанани" #NT!
- ALLIANCE_CHR_Ayanda:0 "Айанда" #NT!
- ALLIANCE_CHR_Aluwanip:0 "Алуванип" #NT!
- ALLIANCE_CHR_Akani:0 "Акани" #NT!
- ALLIANCE_CHR_Jabari:0 "Джабари" #NT!
- ALLIANCE_CHR_Issa:0 "Исса" #NT!
- ALLIANCE_CHR_Idi:0 "Иди" #NT!
- ALLIANCE_CHR_Hanisi:0 "Ханиси" #NT!
- ALLIANCE_CHR_Enzi:0 "Энци" #NT!
- ALLIANCE_CHR_Chuma:0 "Чума" #NT!
- ALLIANCE_CHR_Chane:0 "Чане" #NT!
- ALLIANCE_CHR_Mareka:0 "МарекаЕ" #NT!
- ALLIANCE_CHR_Makalo:0 "Макало" #NT!
- ALLIANCE_CHR_Mahlubandile:0 "Махлубандиле" #NT!
- ALLIANCE_CHR_Lutendo:0 "Лутендо" #NT!
- ALLIANCE_CHR_Letswalo:0 "Летсвало" #NT!
- ALLIANCE_CHR_Lesebo:0 "Лесебо" #NT!
- ALLIANCE_CHR_Lentswe:0 "Ленцве" #NT!
- ALLIANCE_CHR_Kwanele:0 "Кванеле" #NT!
- ALLIANCE_CHR_Kutlwano:0 "Кутлвано" #NT!
- ALLIANCE_CHR_Khumbu:0 "Кхумбу" #NT!
- ALLIANCE_CHR_Khathu:0 "Хату" #NT!
- ALLIANCE_CHR_Kabelo:0 "Кабело" #NT!
- ALLIANCE_CHR_Humbe:0 "Хамбе" #NT!
- ALLIANCE_CHR_Hangwani:0 "хангвани" #NT!
- ALLIANCE_CHR_Esaia:0 "Эсайя" #NT!
- ALLIANCE_CHR_Dzingai:0 "Дзингай" #NT!
- ALLIANCE_CHR_Refilwe:0 "Рефилве" #NT!
- ALLIANCE_CHR_Qukeza:0 "Кукеза" #NT!
- ALLIANCE_CHR_Poloko:0 "поло" #NT!
- ALLIANCE_CHR_Phahamo:0 "Пахамо" #NT!
- ALLIANCE_CHR_Paseka:0 "Пасека" #NT!
- ALLIANCE_CHR_Oagile:0 "Оагил" #NT!
- ALLIANCE_CHR_Nthofeela:0 "Нтофила" #NT!
- ALLIANCE_CHR_Mzwamadoda:0 "Мзвамадода" #NT!
- ALLIANCE_CHR_Msizi:0 "МсизиЕ" #NT!
- ALLIANCE_CHR_Mothusi:0 "Мотуси" #NT!
- ALLIANCE_CHR_Motlalentwa:0 "Мотлалентва" #NT!
- ALLIANCE_CHR_Mosemotsane:0 "Мосемотсане" #NT!
- ALLIANCE_CHR_Molapo:0 "Молапо" #NT!
- ALLIANCE_CHR_Moeketsi:0 "Моэкетси" #NT!
- ALLIANCE_CHR_Masingita:0 "Масингита" #NT!
- ALLIANCE_CHR_Kofi:0 "Кофи" #NT!
- ALLIANCE_CHR_Mbutu:0 "Мбуту" #NT!
- ALLIANCE_CHR_Wandile:0 "Вандиль" #NT!
- ALLIANCE_CHR_Unathi:0 "Унати" #NT!
- ALLIANCE_CHR_Tshawe:0 "Тшаве" #NT!
- ALLIANCE_CHR_Tsehla:0 "Тсела" #NT!
- ALLIANCE_CHR_Tsebo:0 "Цебо" #NT!
- ALLIANCE_CHR_Thuso:0 "Тусо" #NT!
- ALLIANCE_CHR_Themba:0 "Темба" #NT!
- ALLIANCE_CHR_Thabiso:0 "Табисо" #NT!
- ALLIANCE_CHR_Teboho:0 "Тебохо" #NT!
- ALLIANCE_CHR_Sizwe:0 "Сизве" #NT!
- ALLIANCE_CHR_Sibusiso:0 "Сибусисо" #NT!
- ALLIANCE_CHR_Sekgolokhane:0 "секголохане" #NT!
- ALLIANCE_CHR_Sehlolo:0 "Сехлоло" #NT!
- ALLIANCE_CHR_Sbu:0 "С'буЭ" #NT!
- ALLIANCE_CHR_Sanele:0 "Санеле" #NT!
- ALLIANCE_CHR_Subira:0 "Субира" #NT!
- ALLIANCE_CHR_Sauda:0 "Сауда" #NT!
- ALLIANCE_CHR_Nuru:0 "Нуру" #NT!
- ALLIANCE_CHR_Nia:0 "Ниа" #NT!
- ALLIANCE_CHR_Mwanajuma:0 "Мванаджума" #NT!
- ALLIANCE_CHR_Mchumba:0 "Мчумба" #NT!
- ALLIANCE_CHR_Marjani:0 "Марджани" #NT!
- ALLIANCE_CHR_Kamaria:0 "Камария" #NT!
- ALLIANCE_CHR_Furaha:0 "Фураха" #NT!
- ALLIANCE_CHR_Eshe:0 "Эше" #NT!
- ALLIANCE_CHR_Chausiku:0 "Чаусику" #NT!
- ALLIANCE_CHR_Afiya:0 "Афия" #NT!
- ALLIANCE_CHR_Aeeshah:0 "Айша" #NT!
- ALLIANCE_CHR_Adila:0 "Адила" #NT!
- ALLIANCE_CHR_Adhra:0 "Адхра" #NT!
- ALLIANCE_CHR_Abla:0 "Абла" #NT!
- ALLIANCE_CHR_Asha:0 "Аша" #NT!
- ALLIANCE_CHR_Langalibalele:0 "Лангалибалеле" #NT!
- ALLIANCE_CHR_Koketso:0 "Кокетсо" #NT!
- ALLIANCE_CHR_Keneuwe:0 "Кенеуве" #NT!
- ALLIANCE_CHR_Kagiso:0 "Кагисо" #NT!
- ALLIANCE_CHR_Gugu:0 "Гугу" #NT!
- ALLIANCE_CHR_Fikile:0 "Фикиле" #NT!
- ALLIANCE_CHR_Edzai:0 "Эдзай" #NT!
- ALLIANCE_CHR_Dikeledi:0 "Дикеледи" #NT!
- ALLIANCE_CHR_Bongani:0 "Бонгани" #NT!
- ALLIANCE_CHR_Bokang:0 "Бокан" #NT!
- ALLIANCE_CHR_Awande:0 "Аванде" #NT!
- ALLIANCE_CHR_Anokosha:0 "Анокоша" #NT!
- ALLIANCE_CHR_Anodiwa:0 "Анодива" #NT!
- ALLIANCE_CHR_Anatswanashe:0 "Анатсванаше" #NT!
- ALLIANCE_CHR_Aizivaishe:0 "Айзивайше" #NT!
- ALLIANCE_CHR_Zuri:0 "Зури" #NT!
- ALLIANCE_CHR_Nofoto:0 "Nofoto" #NT!
- ALLIANCE_CHR_Nnyadzeni:0 "Нниадзени" #NT!
- ALLIANCE_CHR_Muambiwa:0 "Муамбива" #NT!
- ALLIANCE_CHR_Moratuoa:0 "Моратуоа" #NT!
- ALLIANCE_CHR_Mohau:0 "Мохау" #NT!
- ALLIANCE_CHR_Mncedisi:0 "Мнчедизи" #NT!
- ALLIANCE_CHR_Mmaabo:0 "Ммаабо" #NT!
- ALLIANCE_CHR_Mbali:0 "Мбали" #NT!
- ALLIANCE_CHR_Matshediso:0 "Матшедисо" #NT!
- ALLIANCE_CHR_Maletsatsi:0 "Малецаци" #NT!
- ALLIANCE_CHR_Majobo:0 "Маджобо" #NT!
- ALLIANCE_CHR_Lulama:0 "Лулама" #NT!
- ALLIANCE_CHR_Litsoanelo:0 "Лицоанело" #NT!
- ALLIANCE_CHR_Lindidwe:0 "Линдидве" #NT!
- ALLIANCE_CHR_Lerato:0 "Лерато" #NT!
- ALLIANCE_CHR_Zinhle:0 "Зингле" #NT!
- ALLIANCE_CHR_Tungu:0 "Тунгу" #NT!
- ALLIANCE_CHR_Tshanduko:0 "Чандуко" #NT!
- ALLIANCE_CHR_Thanduxolo:0 "Тандуксоло" #NT!
- ALLIANCE_CHR_Sizani:0 "Сизани" #NT!
- ALLIANCE_CHR_Sinethemba:0 "Синетемба" #NT!
- ALLIANCE_CHR_Shandu:0 "Шанду" #NT!
- ALLIANCE_CHR_Rudzani:0 "Рудзани" #NT!
- ALLIANCE_CHR_Reneilwe:0 "Ренеилве" #NT!
- ALLIANCE_CHR_Phathu:0 "Пхатху" #NT!
- ALLIANCE_CHR_Ntswaki:0 "Нтсваки" #NT!
- ALLIANCE_CHR_Ntsebo:0 "Нцебо" #NT!
- ALLIANCE_CHR_Nthati:0 "Нтати" #NT!
- ALLIANCE_CHR_Biobaku:0 "Biobaku" #NT!
- ALLIANCE_CHR_Bamgboshe:0 "Бамбоше" #NT!
- ALLIANCE_CHR_Iwu:0 "Иву" #NT!
- ALLIANCE_CHR_JomoGbomo:0 "Джомо-Гбомо" #NT!
- ALLIANCE_CHR_Ibori:0 "Ибори" #NT!
- ALLIANCE_CHR_Dimka:0 "Димка" #NT!
- ALLIANCE_CHR_Buhari:0 "Бухари" #NT!
- ALLIANCE_CHR_Babangida:0 "Бабангида" #NT!
- ALLIANCE_CHR_Okonkwo:0 "Оконкво" #NT!
- ALLIANCE_CHR_Okeke:0 "Океке" #NT!
- ALLIANCE_CHR_Onwuatuegwu:0 "Онвуатуэгву" #NT!
- ALLIANCE_CHR_Nzeogwu:0 "Нзеогву" #NT!
- ALLIANCE_CHR_Akintola:0 "Акинтола" #NT!
- ALLIANCE_CHR_Balewa:0 "Балева" #NT!
- ALLIANCE_CHR_Awolowo:0 "Аволово" #NT!
- ALLIANCE_CHR_Azikiwe:0 "Азикиве" #NT!
- ALLIANCE_CHR_Olanrewaju:0 "Оланреваю" #NT!
- ALLIANCE_CHR_Gbadamosi:0 "Гбадамоси" #NT!
- ALLIANCE_CHR_Okonjo:0 "Okonjo" #NT!
- ALLIANCE_CHR_Iweala:0 "Ивеала" #NT!
- ALLIANCE_CHR_Chukwumereije:0 "Чуквумерейе" #NT!
- ALLIANCE_CHR_Ojukwu:0 "Оджукву" #NT!
- ALLIANCE_CHR_Ironsi:0 "Иронси" #NT!
- ALLIANCE_CHR_Okadigbo:0 "Окадигбо" #NT!
- ALLIANCE_CHR_Nnamani:0 "Ннамани" #NT!
- ALLIANCE_CHR_Bankole:0 "банколе" #NT!
- ALLIANCE_CHR_Sekibo:0 "Sekibo" #NT!
- ALLIANCE_CHR_Adeyemi:0 "Адейеми" #NT!
- ALLIANCE_CHR_Akiloye:0 "Акилое" #NT!
- ALLIANCE_CHR_Akinjide:0 "Акинджиде" #NT!
- ALLIANCE_CHR_Tinibu:0 "Тинибу" #NT!
- ALLIANCE_CHR_Swanepoel:0 "Свейнпол" #NT!
- ALLIANCE_CHR_Naidoo:0 "Naidoo" #NT!
- ALLIANCE_CHR_SaroWiwa:0 "Саро-Вива" #NT!
- ALLIANCE_CHR_Gowon:0 "Говон" #NT!
- ALLIANCE_CHR_Ekwensi:0 "Эквенси" #NT!
- ALLIANCE_CHR_Mbadinuju:0 "Мбадинужу" #NT!
- ALLIANCE_CHR_Mbanefo:0 "Мбанефо" #NT!
- ALLIANCE_CHR_Onobanjo:0 "Onobanjo" #NT!
- ALLIANCE_CHR_Alakija:0 "Алакия" #NT!
- ALLIANCE_CHR_Ohakim:0 "Охаким" #NT!
- ALLIANCE_CHR_Uba:0 "Уба" #NT!
- ALLIANCE_CHR_Ngige:0 "Нгиге" #NT!
- ALLIANCE_CHR_Jakande:0 "Джаканде" #NT!
- ALLIANCE_CHR_Onyejekwe:0 "Оньеджекве" #NT!
- ALLIANCE_CHR_Oyinlola:0 "Ойинлола" #NT!
- ALLIANCE_CHR_Madaki:0 "Мадаки" #NT!
- ALLIANCE_CHR_Tshangisa:0 "Чангиса" #NT!
- ALLIANCE_CHR_Skhosana:0 "Схосана" #NT!
- ALLIANCE_CHR_Thwane:0 "Твейн" #NT!
- ALLIANCE_CHR_Nkwali:0 "Нквали" #NT!
- ALLIANCE_CHR_Ngwanya:0 "Нгванья" #NT!
- ALLIANCE_CHR_Mtakwenda:0 "Мтаквенда" #NT!
- ALLIANCE_CHR_Mkhwemte:0 "Мхвемте" #NT!
- ALLIANCE_CHR_Mbanjwa:0 "Мбанджва" #NT!
- ALLIANCE_CHR_Mambi:0 "Мамби" #NT!
- ALLIANCE_CHR_Kwayi:0 "Квай" #NT!
- ALLIANCE_CHR_Khumalo:0 "Хумало" #NT!
- ALLIANCE_CHR_Khonjwayo:0 "Хонджвайо" #NT!
- ALLIANCE_CHR_Masuku:0 "Масуку" #NT!
- ALLIANCE_CHR_Ngema:0 "Нгема" #NT!
- ALLIANCE_CHR_Ngobese:0 "нгобезе" #NT!
- ALLIANCE_CHR_Msibi:0 "Мсиби" #NT!
- ALLIANCE_CHR_Khawuta:0 "Хавута" #NT!
- ALLIANCE_CHR_Jwarha:0 "Джварха" #NT!
- ALLIANCE_CHR_Gxarha:0 "Гхарха" #NT!
- ALLIANCE_CHR_Gatyeni:0 "Гатиени" #NT!
- ALLIANCE_CHR_Dzana:0 "Дзана" #NT!
- ALLIANCE_CHR_Bhukhwana:0 "Бхухвана" #NT!
- ALLIANCE_CHR_Ndungwane:0 "Ндунгване" #NT!
- ALLIANCE_CHR_Zangwa:0 "Зангва" #NT!
- ALLIANCE_CHR_Xoko:0 "Хоко" #NT!
- ALLIANCE_CHR_Xhamela:0 "Джамела" #NT!
- ALLIANCE_CHR_Tshonyane:0 "Чоньяне" #NT!
- ALLIANCE_CHR_Franco:0 "Франко" #NT!
- ALLIANCE_CHR_Carlo:0 "Карло" #NT!
- ALLIANCE_CHR_Salvatore:0 "Сальваторе" #NT!
- ALLIANCE_CHR_Pietro:0 "Пьетро" #NT!
- ALLIANCE_CHR_Vincenzo:0 "Винченцо" #NT!
- ALLIANCE_CHR_Angelo:0 "Анджело" #NT!
- ALLIANCE_CHR_Franscesco:0 "Франческо" #NT!
- ALLIANCE_CHR_Marco:0 "Марко" #NT!
- ALLIANCE_CHR_Stefano:0 "Стефано" #NT!
- ALLIANCE_CHR_Antonio:0 "Антонио" #NT!
- ALLIANCE_CHR_Guiseppe:0 "Джузеппе" #NT!
- ALLIANCE_CHR_Giovanni:0 "Джованни" #NT!
- ALLIANCE_CHR_Luigi:0 "Луиджи" #NT!
- ALLIANCE_CHR_Mario:0 "Марио" #NT!
- ALLIANCE_CHR_Umberto:0 "Умберто" #NT!
- ALLIANCE_CHR_Silvio:0 "Сильвио" #NT!
- ALLIANCE_CHR_Gustavo:0 "Густаво" #NT!
- ALLIANCE_CHR_Enrico:0 "Энрико" #NT!
- ALLIANCE_CHR_Cesare:0 "Чезаре" #NT!
- ALLIANCE_CHR_Fabrizio:0 "Фабрицио" #NT!
- ALLIANCE_CHR_Benito:0 "Бенито" #NT!
- ALLIANCE_CHR_Alessandro:0 "Алессандро" #NT!
- ALLIANCE_CHR_Luciano:0 "Лучано" #NT!
- ALLIANCE_CHR_Giorgio:0 "Джорджио" #NT!
- ALLIANCE_CHR_Michele:0 "Мишель" #NT!
- ALLIANCE_CHR_Paulo:0 "Пауло" #NT!
- ALLIANCE_CHR_Domenico:0 "Доменико" #NT!
- ALLIANCE_CHR_Fabio:0 "Фабио" #NT!
- ALLIANCE_CHR_Tommaso:0 "Томмазо" #NT!
- ALLIANCE_CHR_Guido:0 "Гвидо" #NT!
- ALLIANCE_CHR_Alberto:0 "Альберто" #NT!
- ALLIANCE_CHR_Cristian:0 "Кристиан" #NT!
- ALLIANCE_CHR_Daniele:0 "Даниэле" #NT!
- ALLIANCE_CHR_Camillo:0 "Камилло" #NT!
- ALLIANCE_CHR_Ignazio:0 "Иньяцио" #NT!
- ALLIANCE_CHR_Matteo:0 "Маттео" #NT!
- ALLIANCE_CHR_Nicola:0 "Никола" #NT!
- ALLIANCE_CHR_Concetta:0 "Кончетта" #NT!
- ALLIANCE_CHR_Antonietta:0 "Антониетта" #NT!
- ALLIANCE_CHR_Francesca:0 "Франческа" #NT!
- ALLIANCE_CHR_Caterina:0 "Катерина" #NT!
- ALLIANCE_CHR_Carmela:0 "Кармела" #NT!
- ALLIANCE_CHR_Lucia:0 "Люсия" #NT!
- ALLIANCE_CHR_Giovanna:0 "Джованна" #NT!
- ALLIANCE_CHR_Rosa:0 "Роза" #NT!
- ALLIANCE_CHR_Guiseppina:0 "Джузеппина" #NT!
- ALLIANCE_CHR_Lorenza:0 "Лоренца" #NT!
- ALLIANCE_CHR_Gisella:0 "Гизелла" #NT!
- ALLIANCE_CHR_Stefania:0 "Стефания" #NT!
- ALLIANCE_CHR_Nicoletta:0 "Николетта" #NT!
- ALLIANCE_CHR_Orietta:0 "Ориетта" #NT!
- ALLIANCE_CHR_Arianna:0 "Арианна" #NT!
- ALLIANCE_CHR_Vittoria:0 "Виттория" #NT!
- ALLIANCE_CHR_Paola:0 "Паола" #NT!
- ALLIANCE_CHR_Franca:0 "Франка" #NT!
- ALLIANCE_CHR_Margherita:0 "Маргарита" #NT!
- ALLIANCE_CHR_Pietra:0 "Пьетра" #NT!
- ALLIANCE_CHR_Benedetta:0 "Бенедетта" #NT!
- ALLIANCE_CHR_Dina:0 "Дина" #NT!
- ALLIANCE_CHR_Lucrezia:0 "Лукреция" #NT!
- ALLIANCE_CHR_Bello:0 "Белло" #NT!
- ALLIANCE_CHR_Gallo:0 "Галло" #NT!
- ALLIANCE_CHR_Conti:0 "Конти" #NT!
- ALLIANCE_CHR_Ravelli:0 "Равелли" #NT!
- ALLIANCE_CHR_Moretti:0 "Моретти" #NT!
- ALLIANCE_CHR_Lombardi:0 "Ломбарди" #NT!
- ALLIANCE_CHR_Rizzo:0 "Риццо" #NT!
- ALLIANCE_CHR_Mancini:0 "Манчини" #NT!
- ALLIANCE_CHR_Giordano:0 "Джордано" #NT!
- ALLIANCE_CHR_Costa:0 "Коста" #NT!
- ALLIANCE_CHR_De_Luca:0 "Де Лука" #NT!
- ALLIANCE_CHR_Marino:0 "Марино" #NT!
- ALLIANCE_CHR_Ricci:0 "Риччи" #NT!
- ALLIANCE_CHR_Bianchi:0 "Бьянки" #NT!
- ALLIANCE_CHR_Ferrari:0 "Феррари" #NT!
- ALLIANCE_CHR_Russo:0 "Руссо" #NT!
- ALLIANCE_CHR_Rossi:0 "Росси" #NT!
- ALLIANCE_CHR_Pezzaglia:0 "Пеццалья" #NT!
- ALLIANCE_CHR_Valeri:0 "Валерий" #NT!
- ALLIANCE_CHR_Marcuzzi:0 "Маркуцци" #NT!
- ALLIANCE_CHR_Mambretti:0 "Мамбретти" #NT!
- ALLIANCE_CHR_Pianelli:0 "Пианелли" #NT!
- ALLIANCE_CHR_Pallavicino:0 "Паллавичино" #NT!
- ALLIANCE_CHR_Saletta:0 "Салетта" #NT!
- ALLIANCE_CHR_Garibaldi:0 "Гарибальди" #NT!
- ALLIANCE_CHR_Di_Savoia:0 "Ди Савойя" #NT!
- ALLIANCE_CHR_Di_Robilant:0 "Ди Робилант" #NT!
- ALLIANCE_CHR_Cappello:0 "Капелло" #NT!
- ALLIANCE_CHR_Badoglio:0 "Бадольо" #NT!
- ALLIANCE_CHR_Albricci:0 "Альбриччи" #NT!
- ALLIANCE_CHR_Delvecchio:0 "Дельвеккьо" #NT!
- ALLIANCE_CHR_Di_Bartolomei:0 "Ди Бартоломеи" #NT!
- ALLIANCE_CHR_Di_Chiara:0 "Ди Кьяра" #NT!
- ALLIANCE_CHR_De_Sciglio:0 "Де Шильо" #NT!
- ALLIANCE_CHR_De_Rosa:0 "Де Роса" #NT!
- ALLIANCE_CHR_DAgostino:0 "Д'Агостино" #NT!
- ALLIANCE_CHR_DAlessandro:0 "Д'Алессандро" #NT!
- ALLIANCE_CHR_Corsini:0 "Корсини" #NT!
- ALLIANCE_CHR_Antonelli:0 "Антонелли" #NT!
- ALLIANCE_CHR_Bianconelli:0 "Бьянконелли" #NT!
- ALLIANCE_CHR_Balletti:0 "Балетти" #NT!
- ALLIANCE_CHR_Quadrini:0 "Квадрини" #NT!
- ALLIANCE_CHR_Pacini:0 "Пачини" #NT!
- ALLIANCE_CHR_Olivieri:0 "Оливьери" #NT!
- ALLIANCE_CHR_Mzazitelli:0 "Мзазителли" #NT!
- ALLIANCE_CHR_Marchetti:0 "Маркетти" #NT!
- ALLIANCE_CHR_Galvani:0 "Гальвани" #NT!
- ALLIANCE_CHR_Gambadori:0 "Гамбадори" #NT!
- ALLIANCE_CHR_Fabbrini:0 "Фаббрини" #NT!
- ALLIANCE_CHR_Di_Gennaro:0 "Ди Дженнаро" #NT!
- ALLIANCE_CHR_Di_Bella:0 "Ди Белла" #NT!
- ALLIANCE_CHR_Fazio:0 "Фацио" #NT!
- ALLIANCE_CHR_DAntoni:0 "Д'Антони" #NT!
- ALLIANCE_CHR_Del_Grosso:0 "Дель Гроссо" #NT!
- name_list_btr_alliance:0 "Альянс систем" #NT!
- ALLIANCE_CHR_Mazzitelli:0 "Маццители" #NT!
+ name_list_btr_systems_alliance: "Альянс систем"
+ ALLIANCE_SHIP_: "ССВ"
+ ALLIANCE_SHIP_Restless_Sea: "Беспокойное море"
+ ALLIANCE_SHIP_Pike: "Щука"
+ ALLIANCE_SHIP_Harrier: "Лунь"
+ ALLIANCE_SHIP_Hound: "Гончая"
+ ALLIANCE_SHIP_Lark: "Жаворонок"
+ ALLIANCE_SHIP_Sparta: "Спарта"
+ ALLIANCE_SHIP_Defender: "Защитник"
+ ALLIANCE_SHIP_Artemis: "Артемида"
+ ALLIANCE_SHIP_Eagle: "Орел"
+ ALLIANCE_SHIP_Providence: "Провиденс"
+ ALLIANCE_SHIP_Avenger: "Мститель"
+ ALLIANCE_SHIP_Pluto: "Плутон"
+ ALLIANCE_SHIP_Friday: "Пятница"
+ ALLIANCE_SHIP_Harpy: "Гарпия"
+ ALLIANCE_SHIP_Sydney: "Сидней"
+ ALLIANCE_SHIP_Australia: "Австралия"
+ ALLIANCE_SHIP_San_Antonio: "Сан Антонио"
+ ALLIANCE_SHIP_Colombia: "Колумбия"
+ ALLIANCE_SHIP_Hill: "Холм"
+ ALLIANCE_SHIP_Washington: "Вашингтон"
+ ALLIANCE_SHIP_Veteran: "ветеран"
+ ALLIANCE_SHIP_Wilson: "Уилсон"
+ ALLIANCE_SHIP_Stalingrad: "Сталинград"
+ ALLIANCE_SHIP_Vienna: "Вена"
+ ALLIANCE_SHIP_Jerusalem: "Иерусалим"
+ ALLIANCE_SHIP_Actium: "Актиум"
+ ALLIANCE_SHIP_Constantinople: "Константинополь"
+ ALLIANCE_SHIP_Midway: "Мидуэй"
+ ALLIANCE_SHIP_Saratoga: "Саратога"
+ ALLIANCE_SHIP_Salamis: "Саламин"
+ ALLIANCE_SHIP_Trafalgar: "Трафальгар"
+ ALLIANCE_SHIP_Normandy: "Нормандия"
+ ALLIANCE_SHIP_Leipzig: "Лейпциг"
+ ALLIANCE_SHIP_Iwo_Jima: "Iwo Jima"
+ ALLIANCE_SHIP_Hong_Kong: "Гонконг"
+ ALLIANCE_SHIP_Hastings: "Гастингс"
+ ALLIANCE_SHIP_Ain_Jalut: "Айн Джалут"
+ ALLIANCE_SHIP_Agincourt: "Азенкур"
+ ALLIANCE_SHIP_Tannenberg: "Танненберг"
+ ALLIANCE_SHIP_Poltava: "Полтава"
+ ALLIANCE_SHIP_Adrianople: "Адрианополь"
+ ALLIANCE_SHIP_Lepanto: "Лепанто"
+ ALLIANCE_SHIP_Yarmouk: "Ярмук"
+ ALLIANCE_SHIP_Gaugamela: "Гаугамела"
+ ALLIANCE_SHIP_Gettysburg: "Геттисберг"
+ ALLIANCE_SHIP_Abraham: "Авраам"
+ ALLIANCE_SHIP_Duke_of_York: "герцог Йоркский"
+ ALLIANCE_SHIP_Plains: "Равнины"
+ ALLIANCE_SHIP_Tours: "Туры"
+ ALLIANCE_SHIP_Tenochtitlan: "Теночтитлан"
+ ALLIANCE_SHIP_Cannae: "Канны"
+ ALLIANCE_SHIP_Tsushima: "Цусима"
+ ALLIANCE_SHIP_Granada: "Гранада"
+ ALLIANCE_SHIP_Marathon: "Марафон"
+ ALLIANCE_SHIP_Marne: "Марна"
+ ALLIANCE_SHIP_Teutoburg: "Тевтобург"
+ ALLIANCE_SHIP_Jutland: "Ютландия"
+ ALLIANCE_SHIP_Hattin: "Хаттин"
+ ALLIANCE_SHIP_Ipsus: "Ипсус"
+ ALLIANCE_SHIP_Pharsalus: "Фарсал"
+ ALLIANCE_SHIP_Incheon: "Инчхон"
+ ALLIANCE_SHIP_Metauris: "Метаврид"
+ ALLIANCE_SHIP_San_Jacinto: "Сан-Хасинто"
+ ALLIANCE_SHIP_Peipus: "Пейпус"
+ ALLIANCE_SHIP_Yom_Kippur: "Йом Кипур"
+ ALLIANCE_SHIP_Austerlitz: "Аустерлиц"
+ ALLIANCE_SHIP_Lutzen: "Люцен"
+ ALLIANCE_SHIP_Borodino: "Бородино"
+ ALLIANCE_SHIP_Tet: "Тет"
+ ALLIANCE_SHIP_Dien_Bien_Phu: "Дьенбьенфу"
+ ALLIANCE_SHIP_Pearl_Harbor: "Перл Харбор"
+ ALLIANCE_SHIP_Six_Day: "Шестидневный"
+ ALLIANCE_SHIP_Megiddo: "Megiddo"
+ ALLIANCE_SHIP_Mylae: "Милэ"
+ ALLIANCE_SHIP_Koeniggraetz: "Кениггрец"
+ ALLIANCE_SHIP_Alkmaar: "Алкмар"
+ ALLIANCE_SHIP_Sekingahara: "Секингахара"
+ ALLIANCE_SHIP_Bach_Dang: "Бах Данг"
+ ALLIANCE_SHIP_Nancy: "Нэнси"
+ ALLIANCE_SHIP_Mohacs: "Мохачи"
+ ALLIANCE_SHIP_Naseby: "Нейсби"
+ ALLIANCE_SHIP_Chrysopolis: "Хризополис"
+ ALLIANCE_SHIP_Medway: "Медуэй"
+ ALLIANCE_SHIP_Leuthen: "Лойтен"
+ ALLIANCE_SHIP_Poyang: "Poyang"
+ ALLIANCE_SHIP_Navas_de_Tolosa: "Навас-де-Толоса"
+ ALLIANCE_SHIP_Nineveh: "Ниневия"
+ ALLIANCE_SHIP_Boyne: "Бойн"
+ ALLIANCE_SHIP_Valmy: "Вальми"
+ ALLIANCE_SHIP_Aegospotami: "Эгоспотами"
+ ALLIANCE_SHIP_Agnadello: "Аньяделло"
+ ALLIANCE_SHIP_Magnesia: "Магнезия"
+ ALLIANCE_SHIP_Muye: "Муйе"
+ ALLIANCE_SHIP_Carchemish: "Кархемиш"
+ ALLIANCE_SHIP_Thymbra: "Тимбра"
+ ALLIANCE_SHIP_Taraori: "Тараори"
+ ALLIANCE_SHIP_Chaeronea: "Херонея"
+ ALLIANCE_SHIP_Julu: "Джулу"
+ ALLIANCE_SHIP_Castillon: "Кастийон"
+ ALLIANCE_SHIP_Fehrbellin: "Фербеллин"
+ ALLIANCE_SHIP_Beneventum: "Беневентум"
+ ALLIANCE_SHIP_Solferino: "Сольферино"
+ ALLIANCE_SHIP_Malplaquet: "Мальплаке"
+ ALLIANCE_SHIP_Sacheon: "Сачхон"
+ ALLIANCE_SHIP_Leuctra: "Левктра"
+ ALLIANCE_SHIP_Patay: "Патай"
+ ALLIANCE_SHIP_Panipat: "Панипат"
+ ALLIANCE_SHIP_Guadalcanal: "Гуадалканал"
+ ALLIANCE_SHIP_Coral_Sea: "Коралловое море"
+ ALLIANCE_SHIP_Chichi_Jima: "Chichi Jima"
+ ALLIANCE_SHIP_Okinawa: "Окинава"
+ ALLIANCE_SHIP_Kleidon: "Клейдон"
+ ALLIANCE_SHIP_Amphipolis: "Амфиполь"
+ ALLIANCE_SHIP_Colenso: "Коленсо"
+ ALLIANCE_SHIP_Nihawand: "Нихаванд"
+ ALLIANCE_SHIP_Sentinum: "Сентинум"
+ ALLIANCE_SHIP_Isandlwana: "Исандлвана"
+ ALLIANCE_SHIP_Navarino: "Наварино"
+ ALLIANCE_SHIP_Chalons: "Шалоны"
+ ALLIANCE_SHIP_Sempach: "Земпах"
+ ALLIANCE_SHIP_Lechfeld: "Лехфельд"
+ ALLIANCE_SHIP_Boyaca: "Бояка"
+ ALLIANCE_SHIP_Tricamarum: "Трикамарум"
+ ALLIANCE_SHIP_Perugia: "Перуджа"
+ ALLIANCE_SHIP_New_Delhi: "Нью-Дели"
+ ALLIANCE_SHIP_Nairobi: "Найроби"
+ ALLIANCE_SHIP_Manila: "Манила"
+ ALLIANCE_SHIP_Madrid: "Мадрид"
+ ALLIANCE_SHIP_London: "Лондон"
+ ALLIANCE_SHIP_Jakarta: "Джакарта"
+ ALLIANCE_SHIP_Hyderabad: "Хайдарабад"
+ ALLIANCE_SHIP_Geneva: "Женева"
+ ALLIANCE_SHIP_Emden: "Эмден"
+ ALLIANCE_SHIP_Town: "Город"
+ ALLIANCE_SHIP_Cape: "мыс"
+ ALLIANCE_SHIP_Cairo: "Каир"
+ ALLIANCE_SHIP_Budapest: "Будапешт"
+ ALLIANCE_SHIP_Waterloo: "Ватерлоо"
+ ALLIANCE_SHIP_Magdeburg: "Магдебург"
+ ALLIANCE_SHIP_Hohenfriedberg: "Хоэнфридберг"
+ ALLIANCE_SHIP_Desert_Storm: "Буря в пустыне"
+ ALLIANCE_SHIP_Dhaka: "Дакка"
+ ALLIANCE_SHIP_Moscow: "Москва"
+ ALLIANCE_SHIP_Osaka: "Осака"
+ ALLIANCE_SHIP_Mumbai: "Мумбаи"
+ ALLIANCE_SHIP_Mexico_City: "Мехико"
+ ALLIANCE_SHIP_Sao_Paulo: "Сан-Паулу"
+ ALLIANCE_SHIP_Guangzhou: "Гуанчжоу"
+ ALLIANCE_SHIP_Beijing: "Пекин"
+ ALLIANCE_SHIP_Karachi: "Карачи"
+ ALLIANCE_SHIP_Seoul: "Сеул"
+ ALLIANCE_SHIP_New_York: "Нью-Йорк"
+ ALLIANCE_SHIP_Singapore: "Сингапур"
+ ALLIANCE_SHIP_Bangkok: "Бангкок"
+ ALLIANCE_SHIP_Paris: "Париж"
+ ALLIANCE_SHIP_Warsaw: "Варшава"
+ ALLIANCE_SHIP_Tokyo: "Токио"
+ ALLIANCE_SHIP_Shenyang: "Шэньян"
+ ALLIANCE_SHIP_Shanghai: "Шанхай"
+ ALLIANCE_SHIP_Bengaluru: "Бангалор"
+ ALLIANCE_SHIP_Saigon: "SaigonE"
+ ALLIANCE_SHIP_Chicago: "Чикаго"
+ ALLIANCE_SHIP_Chennai: "Ченнаи"
+ ALLIANCE_SHIP_Lahore: "Лахор"
+ ALLIANCE_SHIP_Nagoya: "Nagoya"
+ ALLIANCE_SHIP_Chengdu: "Чэнду"
+ ALLIANCE_SHIP_Lima: "Лима"
+ ALLIANCE_SHIP_Tianjin: "Тяньцзинь"
+ ALLIANCE_SHIP_Kinshasa: "Киншаса"
+ ALLIANCE_SHIP_Rio_de_Janeiro: "Рио де Жанейро"
+ ALLIANCE_SHIP_Shenzen: "Shenzen"
+ ALLIANCE_SHIP_lagos: "Лагос"
+ ALLIANCE_SHIP_Istanbul: "Стамбул"
+ ALLIANCE_SHIP_Tehran: "Тегеран"
+ ALLIANCE_SHIP_Buenos_Aires: "Буэнос айрес"
+ ALLIANCE_SHIP_Kolkata: "Калькутта"
+ ALLIANCE_SHIP_Los_Angeles: "Лос-Анджелес"
+ ALLIANCE_SHIP_Xian: "Сиань"
+ ALLIANCE_SHIP_Nanjing: "Нанкин"
+ ALLIANCE_SHIP_Dallas: "Даллас"
+ ALLIANCE_SHIP_Santiago: "Сантьяго"
+ ALLIANCE_SHIP_Toronto: "Toronto"
+ ALLIANCE_SHIP_Baghdad: "Багдад"
+ ALLIANCE_SHIP_Essen: "Эссен"
+ ALLIANCE_SHIP_Quanzhou: "Цюаньчжоу"
+ ALLIANCE_SHIP_Kuala_Lumpur: "Куала-Лумпур"
+ ALLIANCE_SHIP_Ahmedabad: "Ахмедабад"
+ ALLIANCE_SHIP_Chonquing: "Чунцин"
+ ALLIANCE_SHIP_Hangzhou: "Ханчжоу"
+ ALLIANCE_SHIP_Taipei: "Тайбэй"
+ ALLIANCE_SHIP_Wuhan: "Ухань"
+ ALLIANCE_SHIP_Johannesburg: "Йоханнесбург"
+ ALLIANCE_SHIP_Dongguan: "Дунгуань"
+ ALLIANCE_SHIP_Washington_D.C.: "Вашингтон, округ Колумбия."
+ ALLIANCE_SHIP_Zhengzhou: "Чжэнчжоу"
+ ALLIANCE_SHIP_Atlanta: "Атланта"
+ ALLIANCE_SHIP_Khartoum: "Хартум"
+ ALLIANCE_SHIP_Saint_Petersburg: "Санкт-Петербург"
+ ALLIANCE_SHIP_Suzhou: "Suzhou"
+ ALLIANCE_SHIP_Milan: "Милан"
+ ALLIANCE_SHIP_Surat: "Сурат"
+ ALLIANCE_SHIP_Philadelphia: "Филадельфия"
+ ALLIANCE_SHIP_Pune: "Пуна"
+ ALLIANCE_SHIP_Riyadh: "Эр-Рияд"
+ ALLIANCE_SHIP_Bandung: "Бандунг"
+ ALLIANCE_SHIP_Miami: "Майами"
+ ALLIANCE_SHIP_Houston: "Хьюстон"
+ ALLIANCE_SHIP_Quingdao: "Quingdao"
+ ALLIANCE_SHIP_Luanda: "Луанда"
+ ALLIANCE_SHIP_San_Francisco: "Сан-Франциско"
+ ALLIANCE_SHIP_Berlin: "Берлин"
+ ALLIANCE_SHIP_Monterrey: "Монтеррей"
+ ALLIANCE_SHIP_Accra: "Аккра"
+ ALLIANCE_SHIP_Dalian: "Далянь"
+ ALLIANCE_SHIP_Phoenix: "Феникс"
+ ALLIANCE_SHIP_Dar_es_Salaam: "Дар-эс-Салам"
+ ALLIANCE_SHIP_Kuwait: "KuwaitE"
+ ALLIANCE_SHIP_Xiamen: "Сямэнь"
+ ALLIANCE_SHIP_Boston: "Бостон"
+ ALLIANCE_SHIP_Belo_Horizonte: "Белу-Оризонти"
+ ALLIANCE_SHIP_Ankara: "Анкара"
+ ALLIANCE_SHIP_Guadalajara: "Гвадалахара"
+ ALLIANCE_SHIP_Kabul: "Кабул"
+ ALLIANCE_SHIP_Alexandria: "Александрия"
+ ALLIANCE_SHIP_Barcelona: "Барселона"
+ ALLIANCE_SHIP_Harbin: "Харбин"
+ ALLIANCE_SHIP_Surabaya: "Сурабая"
+ ALLIANCE_SHIP_Kano: "Кано"
+ ALLIANCE_SHIP_Aleppo: "Алеппо"
+ ALLIANCE_SHIP_Faisalabad: "Фейсалабад"
+ ALLIANCE_SHIP_Medellin: "Медельин"
+ ALLIANCE_SHIP_Wuxi: "Уси"
+ ALLIANCE_SHIP_Kunming: "Kunming"
+ ALLIANCE_SHIP_Changsha: "Чанша"
+ ALLIANCE_SHIP_Hefei: "Хэфэй"
+ ALLIANCE_SHIP_Detroit: "Детройт"
+ ALLIANCE_SHIP_Jeddah: "Джидда"
+ ALLIANCE_SHIP_Taiyuan: "Taiyuan"
+ ALLIANCE_SHIP_Naples: "Неаполь"
+ ALLIANCE_SHIP_Hanoi: "Ханой"
+ ALLIANCE_SHIP_Ningbo: "Нинбо"
+ ALLIANCE_SHIP_Jinan: "Цзинань"
+ ALLIANCE_SHIP_Busan: "Пусан"
+ ALLIANCE_SHIP_Rome: "Рим"
+ ALLIANCE_SHIP_Melbourne: "Мельбурн"
+ ALLIANCE_SHIP_Dubai: "Дубай"
+ ALLIANCE_SHIP_Medan: "Медан"
+ ALLIANCE_SHIP_Fuzhou: "Fuzhou"
+ ALLIANCE_SHIP_Chittagong: "Читтагонг"
+ ALLIANCE_SHIP_Lucknow: "Лакхнау"
+ ALLIANCE_SHIP_Salvador: "Сальвадор"
+ ALLIANCE_SHIP_Casablanca: "Касабланка"
+ ALLIANCE_SHIP_Seattle: "Сиэтл"
+ ALLIANCE_SHIP_Mashhad: "Мешхед"
+ ALLIANCE_SHIP_Recife: "Ресифи"
+ ALLIANCE_SHIP_Shijazhuang: "Shijazhuang"
+ ALLIANCE_SHIP_Changchun: "Чанчунь"
+ ALLIANCE_SHIP_Addis_Abeba: "Аддис-Абеба"
+ ALLIANCE_SHIP_Fortaleza: "Форталеза"
+ ALLIANCE_SHIP_Jaipur: "Джайпур"
+ ALLIANCE_SHIP_Porto_Alegre: "Порту-Алегри"
+ ALLIANCE_SHIP_Durban: "Дурбан"
+ ALLIANCE_SHIP_Changzhou: "Чанчжоу"
+ ALLIANCE_SHIP_Athens: "Афины"
+ ALLIANCE_SHIP_Dakar: "Дакар"
+ ALLIANCE_SHIP_Montreal: "Монреаль"
+ ALLIANCE_SHIP_Tai_Shan: "Tai Shan"
+ ALLIANCE_SHIP_Shasta: "Шаста"
+ ALLIANCE_SHIP_Orizaba: "Орисаба"
+ ALLIANCE_SHIP_Logan: "Логан"
+ ALLIANCE_SHIP_Kilimanjaro: "Килиманджаро"
+ ALLIANCE_SHIP_Fuji: "Фудзи"
+ ALLIANCE_SHIP_Everest: "Эверест"
+ ALLIANCE_SHIP_Elbrus: "Эльбрус"
+ ALLIANCE_SHIP_Aconcagua: "Аконкагуа"
+ ALLIANCE_SHIP_Tel_Aviv: "Тель-Авив"
+ ALLIANCE_SHIP_Sanaa: "Сана"
+ ALLIANCE_SHIP_Zhongshan: "Чжуншань"
+ ALLIANCE_SHIP_Kanpur: "Канпур"
+ ALLIANCE_SHIP_Zhangjiagang: "Чжанцзяган"
+ ALLIANCE_SHIP_San_Diego: "Сан Диего"
+ ALLIANCE_SHIP_Curitiba: "Куритиба"
+ ALLIANCE_SHIP_Izmir: "Измир"
+ ALLIANCE_SHIP_Ibadan: "Ибадан"
+ ALLIANCE_SHIP_Wenzhou: "Вэньчжоу"
+ ALLIANCE_SHIP_Masherbrum: "Машербрум"
+ ALLIANCE_SHIP_Himalchuli: "Гималчули"
+ ALLIANCE_SHIP_Gyachung_Kang: "Гьячунг Кан"
+ ALLIANCE_SHIP_Sishapangma: "Шишапангма"
+ ALLIANCE_SHIP_Broad_Peak: "Броуд Пик"
+ ALLIANCE_SHIP_Gasherbrum: "Гашербрум"
+ ALLIANCE_SHIP_Annapurna: "Аннапурна"
+ ALLIANCE_SHIP_Nanga_Parbat: "Нанга Парбат"
+ ALLIANCE_SHIP_Manaslu: "Манаслу"
+ ALLIANCE_SHIP_Dhaulagiri: "Дхаулагири"
+ ALLIANCE_SHIP_Cho_Oyu: "Cho Oyu"
+ ALLIANCE_SHIP_Makalu: "Макалу"
+ ALLIANCE_SHIP_Lhotse: "Лхоцзе"
+ ALLIANCE_SHIP_Kachenjunga: "Каченджанга"
+ ALLIANCE_SHIP_Qogir: "Когир"
+ ALLIANCE_SHIP_Austen: "Остин"
+ ALLIANCE_SHIP_Mount_Cook: "Маунт Кук"
+ ALLIANCE_SHIP_Grosslockner: "Гросслокнер"
+ ALLIANCE_SHIP_Mauna_Kea: "Мауна-Кеа"
+ ALLIANCE_SHIP_Dent_Blanche: "Дент Бланш"
+ ALLIANCE_SHIP_Rainier: "Ренье"
+ ALLIANCE_SHIP_Matterhorn: "Маттерхорн"
+ ALLIANCE_SHIP_Montblanc: "Монблан"
+ ALLIANCE_SHIP_Ruwenzori: "Ruwenzori"
+ ALLIANCE_SHIP_Ararat: "Арарат"
+ ALLIANCE_SHIP_Popocatepetl: "Попокатепетль"
+ ALLIANCE_SHIP_Vinson: "Винсон"
+ ALLIANCE_SHIP_McKinley: "МакКинли"
+ ALLIANCE_SHIP_Ojos_del_Salado: "Охос-дель-Саладо"
+ ALLIANCE_SHIP_Kamet: "Камет"
+ ALLIANCE_SHIP_Rakaposhi: "Rakaposhi"
+ ALLIANCE_SHIP_Nanda_Devi: "Нанда Деви"
+ ALLIANCE_SHIP_Piz_Bernia: "Пиц Берниа"
+ ALLIANCE_SHIP_Eiger: "Эйгер"
+ ALLIANCE_SHIP_Mauna_Loa: "Мауна-Лоа"
+ ALLIANCE_SHIP_Tajamulco: "Таджамулько"
+ ALLIANCE_SHIP_Dome_du_Gouter: "Купол Гутер"
+ ALLIANCE_SHIP_Mount_Vinson: "Маунт Винсон"
+ ALLIANCE_SHIP_Mount_Cameroon: "Гора Камерун"
+ ALLIANCE_SHIP_Mawensi: "Мавенси"
+ ALLIANCE_SHIP_Aigulle_du_Midi: "Эгюль дю Миди"
+ ALLIANCE_SHIP_Hohenzollern: "Гогенцоллерн"
+ ALLIANCE_SHIP_Ben_Nevis: "Бен-Невис"
+ ALLIANCE_SHIP_Brocken: "Брокен"
+ ALLIANCE_SHIP_Kyffhaeuser: "Кифхойзер"
+ ALLIANCE_SHIP_Zugspitze: "Цугшпитце"
+ ALLIANCE_SHIP_Vesuvius: "Везувий"
+ ALLIANCE_SHIP_Mount_Whitney: "Гора Уитни"
+ ALLIANCE_SHIP_Etna: "Этна"
+ ALLIANCE_SHIP_Gunnbjorn_Fjeld: "Гуннбьорн Фьельд"
+ ALLIANCE_SHIP_Jengish_Chokusu: "Jengish Chokusu"
+ ALLIANCE_SHIP_Klyuchevskaya: "Ключевская"
+ ALLIANCE_SHIP_Damavand: "Дамаванд"
+ ALLIANCE_SHIP_Puncak_Jaya: "Пунчак Джая"
+ ALLIANCE_SHIP_Citlaltepetl: "Читлалтепетль"
+ ALLIANCE_SHIP_Cristobal_Colon: "Кристобаль Колон"
+ ALLIANCE_SHIP_Olympus: "Олимп"
+ ALLIANCE_SHIP_Finsteraarhorn: "Финстерархорн"
+ ALLIANCE_SHIP_Mustag_Ata: "Мустаг Ата"
+ ALLIANCE_SHIP_Erebus: "Эребус"
+ ALLIANCE_SHIP_Scorpion: "Скорпион"
+ ALLIANCE_SHIP_Siren: "Сирена"
+ ALLIANCE_SHIP_Fisgard: "Фисгард"
+ ALLIANCE_SHIP_Ellinor: "Эллинор"
+ ALLIANCE_SHIP_Leonidas: "Леонидас"
+ ALLIANCE_SHIP_Watchman: "Сторож"
+ ALLIANCE_SHIP_Babylon: "Вавилон"
+ ALLIANCE_SHIP_Carmen: "Кармен"
+ ALLIANCE_SHIP_Cordelia: "Корделия"
+ ALLIANCE_SHIP_Hollyhock: "Холлихок"
+ ALLIANCE_SHIP_Fortune_Prize: "Приз удачи"
+ ALLIANCE_SHIP_Balmain: "Бальмен"
+ ALLIANCE_SHIP_Young_Lion: "Молодой лев"
+ ALLIANCE_SHIP_Ambrose: "Амвросий"
+ ALLIANCE_SHIP_Penelope: "Пенелопа"
+ ALLIANCE_SHIP_Auckland: "Окленд"
+ ALLIANCE_SHIP_Avon: "Эйвон"
+ ALLIANCE_SHIP_Vulture: "Стервятник"
+ ALLIANCE_SHIP_Spitfire: "Спитфайр"
+ ALLIANCE_SHIP_Fortune: "Удача"
+ ALLIANCE_SHIP_Tigris: "Тигр"
+ ALLIANCE_SHIP_Acasta: "Акаста"
+ ALLIANCE_SHIP_Meadow: "Луг"
+ ALLIANCE_SHIP_Aigle: "Эгль"
+ ALLIANCE_SHIP_Lobelia: "Лобелия"
+ ALLIANCE_SHIP_Glowing_Light: "Светящийся свет"
+ ALLIANCE_SHIP_Legion: "Легион"
+ ALLIANCE_SHIP_Genista: "Дрок"
+ ALLIANCE_SHIP_Ballista: "Баллиста"
+ ALLIANCE_SHIP_Hydra: "Гидра"
+ Detroit: "Детройт"
+ Kowloon: "Коулун"
+ Alamo: "Аламо"
+ Normandy: "Нормандия"
+ Berlin: "Берлин"
+ Geneva: "Женева"
+ Everest: "Эверест"
+ Kilimanjaro: "Килиманджаро"
+ ALLIANCE_xxFLEET_ORD: "$O$ Флот Альянса"
+ ALLIANCE_xxInfantry_Garrison_ORD: "$O$ Пехотный гарнизон"
+ ALLIANCE_xxMarine_Division_ORD: "$O$ Подразделение морской пехоты"
+ ALLIANCE_xxDrafted_Corps_ORD: "$O$ Собран корпус"
+ ALLIANCE_xxClone_Corps_ORD: "$O$ Корпус клонов"
+ ALLIANCE_xxVI_Stike_Corps_ORD: "$O$ Stike Corps"
+ ALLIANCE_xxVI_Defense_Corps_ORD: "$O$ Корпус обороны"
+ ALLIANCE_xxBiotic_Division_ORD: "R$O$ Биотический отдел"
+ ALLIANCE_xxXeno_Commando_Force_ORD: "$O$ Xeno Commando Force"
+ ALLIANCE_xxN7_Commando_Team_ORD: "$O$ N7 Команда коммандос"
+ ALLIANCE_CHR_Kevin: "Кевин"
+ ALLIANCE_CHR_Samuel: "Самуэль"
+ ALLIANCE_CHR_Ryan: "Райан"
+ ALLIANCE_CHR_Daniel: "Даниэль"
+ ALLIANCE_CHR_Anthony: "Энтони"
+ ALLIANCE_CHR_Matthew: "Мэтью"
+ ALLIANCE_CHR_Joseph: "Джозеф"
+ ALLIANCE_CHR_Ethan: "Итан"
+ ALLIANCE_CHR_Michael: "Майкл"
+ ALLIANCE_CHR_Joshua: "Joshua"
+ ALLIANCE_CHR_Christopher: "Кристофер"
+ ALLIANCE_CHR_Jacob: "Джейкоб"
+ ALLIANCE_CHR_William: "Уильям"
+ ALLIANCE_CHR_James: "Джеймс"
+ ALLIANCE_CHR_Adam: "Адам"
+ ALLIANCE_CHR_Peter: "Питер"
+ ALLIANCE_CHR_Brian: "Брайан"
+ ALLIANCE_CHR_John: "Джон"
+ ALLIANCE_CHR_Vernon: "Вернон"
+ ALLIANCE_CHR_Alfred: "Альфред"
+ ALLIANCE_CHR_Earl: "граф"
+ ALLIANCE_CHR_Merritt: "Меррит"
+ ALLIANCE_CHR_Louis: "Луи"
+ ALLIANCE_CHR_Charles: "Чарльз"
+ ALLIANCE_CHR_Walter: "Уолтер"
+ ALLIANCE_CHR_Wayne: "Уэйн"
+ ALLIANCE_CHR_Wyatt: "Вятт"
+ ALLIANCE_CHR_Jack: "Джек"
+ ALLIANCE_CHR_Owen: "Оуэн"
+ ALLIANCE_CHR_Gavin: "Гэвин"
+ ALLIANCE_CHR_Nicholas: "Николай"
+ ALLIANCE_CHR_Henry: "Генри"
+ ALLIANCE_CHR_Andrew: "Андрей"
+ ALLIANCE_CHR_Benjamin: "Бенджамин"
+ ALLIANCE_CHR_Carter: "Картер"
+ ALLIANCE_CHR_Logan: "Логан"
+ ALLIANCE_CHR_David: "Дэйвид"
+ ALLIANCE_CHR_Duncan: "Дункан"
+ ALLIANCE_CHR_Scott: "Скотт"
+ ALLIANCE_CHR_Marcus: "Маркус"
+ ALLIANCE_CHR_Mark: "Отметка"
+ ALLIANCE_CHR_Richard: "Ричард"
+ ALLIANCE_CHR_Jon: "Джон"
+ ALLIANCE_CHR_Stephen: "Стивен"
+ ALLIANCE_CHR_Francis: "Фрэнсис"
+ ALLIANCE_CHR_Ronald: "Рональд"
+ ALLIANCE_CHR_Hugh: "Хью"
+ ALLIANCE_CHR_Glen: "Глен"
+ ALLIANCE_CHR_Gene: "Ген"
+ ALLIANCE_CHR_Robert: "Роберт"
+ ALLIANCE_CHR_Thomas: "Томас"
+ ALLIANCE_CHR_Greg: "Грег"
+ ALLIANCE_CHR_Paul: "Павел"
+ ALLIANCE_CHR_George: "Джордж"
+ ALLIANCE_CHR_Donald: "Дональд"
+ ALLIANCE_CHR_Edward: "Эдвард"
+ ALLIANCE_CHR_Alan: "Алан"
+ ALLIANCE_CHR_Harry: "Гарри"
+ ALLIANCE_CHR_Patrick: "Патрик"
+ ALLIANCE_CHR_Lawrence: "Лоуренс"
+ ALLIANCE_CHR_Tyrone: "Тайрон"
+ ALLIANCE_CHR_Tony: "Тони"
+ ALLIANCE_CHR_Andy: "Энди"
+ ALLIANCE_CHR_Ralph: "Ральф"
+ ALLIANCE_CHR_Kenneth: "Кеннет"
+ ALLIANCE_CHR_Oliver: "Оливер"
+ ALLIANCE_CHR_Clay: "Глина"
+ ALLIANCE_CHR_Tom: "Том"
+ ALLIANCE_CHR_Steve: "Стив"
+ ALLIANCE_CHR_Lee: "Ли"
+ ALLIANCE_CHR_Clayton: "Клейтон"
+ ALLIANCE_CHR_Russell: "Рассел"
+ ALLIANCE_CHR_Howard: "Говард"
+ ALLIANCE_CHR_Keith: "Кейт"
+ ALLIANCE_CHR_Douglas: "Дуглас"
+ ALLIANCE_CHR_Fred: "Фред"
+ ALLIANCE_CHR_Raymond: "Раймонд"
+ ALLIANCE_CHR_Harold: "Гарольд"
+ ALLIANCE_CHR_Jeffrey: "Джеффри"
+ ALLIANCE_CHR_Neil: "Нил"
+ ALLIANCE_CHR_Calhoun: "Калхун"
+ ALLIANCE_CHR_Stanley: "Стэнли"
+ ALLIANCE_CHR_Cooper: "Купер"
+ ALLIANCE_CHR_Sean: "Шон"
+ ALLIANCE_CHR_Gaylord: "Гейлорд"
+ ALLIANCE_CHR_Connor: "Коннор"
+ ALLIANCE_CHR_Harrison: "Харрисон"
+ ALLIANCE_CHR_Jonathan: "Джонатан"
+ ALLIANCE_CHR_Martin: "Мартин"
+ ALLIANCE_CHR_Jason: "Джейсон"
+ ALLIANCE_CHR_Craig: "КрейгЭ"
+ ALLIANCE_CHR_Frank: "Откровенный"
+ ALLIANCE_CHR_Eugene: "Юджин"
+ ALLIANCE_CHR_Dennis: "Деннис"
+ ALLIANCE_CHR_Orson: "Орсон"
+ ALLIANCE_CHR_Marvin: "Марвин"
+ ALLIANCE_CHR_Graham: "Грэм"
+ ALLIANCE_CHR_Warren: "Уоррен"
+ ALLIANCE_CHR_Ernest: "Эрнест"
+ ALLIANCE_CHR_Ben: "Бен"
+ ALLIANCE_CHR_Mortimer: "Мортимер"
+ ALLIANCE_CHR_Duane: "Дуэйн"
+ ALLIANCE_CHR_Lloyd: "Ллойд"
+ ALLIANCE_CHR_Clarence: "Кларенс"
+ ALLIANCE_CHR_Horatio: "Горацио"
+ ALLIANCE_CHR_Norris: "Норрис"
+ ALLIANCE_CHR_Bruce: "Брюс"
+ ALLIANCE_CHR_Ken: "Кен"
+ ALLIANCE_CHR_Jesse: "Джесси"
+ ALLIANCE_CHR_Roy: "Рой"
+ ALLIANCE_CHR_Silas: "Сайлас"
+ ALLIANCE_CHR_Marshall: "Маршалл"
+ ALLIANCE_CHR_Carl: "Карл"
+ ALLIANCE_CHR_Floyd: "Флойд"
+ ALLIANCE_CHR_Randolph: "Рэндольф"
+ ALLIANCE_CHR_Seth: "Сет"
+ ALLIANCE_CHR_Irving: "Ирвинг"
+ ALLIANCE_CHR_Horace: "Гораций"
+ ALLIANCE_CHR_Jake: "Джейк"
+ ALLIANCE_CHR_Franklin: "Франклин"
+ ALLIANCE_CHR_Gerald: "Джеральд"
+ ALLIANCE_CHR_Rodney: "Родни"
+ ALLIANCE_CHR_Clyde: "Клайд"
+ ALLIANCE_CHR_Montgomery: "Монтгомери"
+ ALLIANCE_CHR_Percival: "Персиваль"
+ ALLIANCE_CHR_Arthur: "Артур"
+ ALLIANCE_CHR_Harlan: "Харлан"
+ ALLIANCE_CHR_Dwight: "Дуайт"
+ ALLIANCE_CHR_Jackson: "Джексон"
+ ALLIANCE_CHR_Derek: "Дерек"
+ ALLIANCE_CHR_Gordon: "Гордон"
+ ALLIANCE_CHR_Leonard: "Леонард"
+ ALLIANCE_CHR_Ian: "Ян"
+ ALLIANCE_CHR_Larry: "Ларри"
+ ALLIANCE_CHR_Geoffrey: "Джеффри"
+ ALLIANCE_CHR_Robin: "Робин"
+ ALLIANCE_CHR_Albert: "Альберт"
+ ALLIANCE_CHR_Eric: "Эрик"
+ ALLIANCE_CHR_Nathan: "Натан"
+ ALLIANCE_CHR_Gary: "Гэри"
+ ALLIANCE_CHR_Edmund: "Эдмунд"
+ ALLIANCE_CHR_Pierce: "Пирс"
+ ALLIANCE_CHR_Wallace: "Уоллес"
+ ALLIANCE_CHR_Timothy: "Тимоти"
+ ALLIANCE_CHR_Malcolm: "Малькольм"
+ ALLIANCE_CHR_Cliff: "Утес"
+ ALLIANCE_CHR_Brent: "Брент"
+ ALLIANCE_CHR_Jared: "Джаред"
+ ALLIANCE_CHR_Xavier: "Ксавье"
+ ALLIANCE_CHR_Clark: "Кларк"
+ ALLIANCE_CHR_Morgan: "Морган"
+ ALLIANCE_CHR_Simon: "Саймон"
+ ALLIANCE_CHR_Elliot: "Эллиот"
+ ALLIANCE_CHR_Zack: "Зак"
+ ALLIANCE_CHR_Justin: "Джастин"
+ ALLIANCE_CHR_Melvin: "Мелвин"
+ ALLIANCE_CHR_Darren: "Даррен"
+ ALLIANCE_CHR_Colin: "Колин"
+ ALLIANCE_CHR_Ross: "Росс"
+ ALLIANCE_CHR_Philip: "Филип"
+ ALLIANCE_CHR_Dean: "Дин"
+ ALLIANCE_CHR_Rupert: "Руперт"
+ ALLIANCE_CHR_Stuart: "Стюарт"
+ ALLIANCE_CHR_Bernard: "Бернар"
+ ALLIANCE_CHR_Alec: "Алек"
+ ALLIANCE_CHR_Maxwell: "Максвелл"
+ ALLIANCE_CHR_Felix: "Феликс"
+ ALLIANCE_CHR_Dudley: "Дадли"
+ ALLIANCE_CHR_Dermot: "Дермот"
+ ALLIANCE_CHR_Conan: "Конан"
+ ALLIANCE_CHR_Kieran: "Киран"
+ ALLIANCE_CHR_Basil: "Бэзил"
+ ALLIANCE_CHR_Ambrose: "Амвросий"
+ ALLIANCE_CHR_Brett: "Бретт"
+ ALLIANCE_CHR_Brendan: "Брендан"
+ ALLIANCE_CHR_Desmond: "Десмонд"
+ ALLIANCE_CHR_Adrian: "Адриан"
+ ALLIANCE_CHR_Lance: "Лэнс"
+ ALLIANCE_CHR_Travis: "Трэвис"
+ ALLIANCE_CHR_Trevor: "Тревор"
+ ALLIANCE_CHR_Emmett: "Эммет"
+ ALLIANCE_CHR_Nelson: "Нельсон"
+ ALLIANCE_CHR_Crispin: "Криспин"
+ ALLIANCE_CHR_Edgar: "Эдгар"
+ ALLIANCE_CHR_Bradley: "Брэдли"
+ ALLIANCE_CHR_Dominic: "Доминик"
+ ALLIANCE_CHR_Alexander: "Александр"
+ ALLIANCE_CHR_Nigel: "Найджел"
+ ALLIANCE_CHR_Wesley: "Уэсли"
+ ALLIANCE_CHR_Herbert: "Герберт"
+ ALLIANCE_CHR_Reginald: "Реджинальд"
+ ALLIANCE_CHR_Randall: "Рэндалл"
+ ALLIANCE_CHR_Morton: "Мортон"
+ ALLIANCE_CHR_Miles: "Мили"
+ ALLIANCE_CHR_Luke: "Люк"
+ ALLIANCE_CHR_Grant: "Грант"
+ ALLIANCE_CHR_Angus: "Ангус"
+ ALLIANCE_CHR_Vincent: "Винсент"
+ ALLIANCE_CHR_Aaron: "Аарон"
+ ALLIANCE_CHR_Sidney: "Сидни"
+ ALLIANCE_CHR_Oscar: "Оскар"
+ ALLIANCE_CHR_Finn: "Финн"
+ ALLIANCE_CHR_Chester: "Честер"
+ ALLIANCE_CHR_Kyle: "Кайл"
+ ALLIANCE_CHR_Vance: "Вэнс"
+ ALLIANCE_CHR_Sir_Andrew: "Сэр Эндрю"
+ ALLIANCE_CHR_Sir_Douglas: "сэр Дуглас"
+ ALLIANCE_CHR_Sir_Montgomery: "сэр Монтгомери"
+ ALLIANCE_CHR_Sir_Nigel: "Сэр Найджел"
+ ALLIANCE_CHR_Sir_Walter: "сэр Уолтер"
+ ALLIANCE_CHR_Sir_James: "сэр Джеймс"
+ ALLIANCE_CHR_Sir_Benjamin: "сэр Бенджамин"
+ ALLIANCE_CHR_Dirk: "Кортик"
+ ALLIANCE_CHR_Liam: "Лиам"
+ ALLIANCE_CHR_Hannah: "Ханна"
+ ALLIANCE_CHR_Honor: "Честь"
+ ALLIANCE_CHR_Jillian: "Джиллиан"
+ ALLIANCE_CHR_Sigourney: "Сигурни"
+ ALLIANCE_CHR_April: "апрель"
+ ALLIANCE_CHR_Veronica: "Вероника"
+ ALLIANCE_CHR_Jodie: "Джоди"
+ ALLIANCE_CHR_Meryl: "Мерил"
+ ALLIANCE_CHR_Penny: "Пенни"
+ ALLIANCE_CHR_Jenny: "Дженни"
+ ALLIANCE_CHR_Constance: "Констанция"
+ ALLIANCE_CHR_Molly: "Молли"
+ ALLIANCE_CHR_Jill: "Джилл"
+ ALLIANCE_CHR_Winona: "Вайнона"
+ ALLIANCE_CHR_Marion: "Марион"
+ ALLIANCE_CHR_Mercedes: "Мерседес"
+ ALLIANCE_CHR_Mallory: "Мэллори"
+ ALLIANCE_CHR_Hayden: "Хайден"
+ ALLIANCE_CHR_Carmen: "Кармен"
+ ALLIANCE_CHR_Paige: "Пейдж"
+ ALLIANCE_CHR_Heidi: "Хайди"
+ ALLIANCE_CHR_Erica: "ЭрикаЭ"
+ ALLIANCE_CHR_Lynda: "Линда"
+ ALLIANCE_CHR_Meredith: "Мередит"
+ ALLIANCE_CHR_Mona: "Мона"
+ ALLIANCE_CHR_Lydia: "Лидия"
+ ALLIANCE_CHR_Natasha: "Наташа"
+ ALLIANCE_CHR_Stephanie: "Стефани"
+ ALLIANCE_CHR_Bianca: "Бьянка"
+ ALLIANCE_CHR_Brittney: "Бритни"
+ ALLIANCE_CHR_Janice: "Дженис"
+ ALLIANCE_CHR_Holly: "Холли"
+ ALLIANCE_CHR_Bonnie: "Бонни"
+ ALLIANCE_CHR_Kelly: "Келли"
+ ALLIANCE_CHR_Jackie: "Джеки"
+ ALLIANCE_CHR_Teri: "Тери"
+ ALLIANCE_CHR_Danielle: "Даниэль"
+ ALLIANCE_CHR_Claire: "Клэр"
+ ALLIANCE_CHR_Hilary: "Хилари"
+ ALLIANCE_CHR_Willow: "Уиллоу"
+ ALLIANCE_CHR_Judy: "Джуди"
+ ALLIANCE_CHR_Tamara: "Тамара"
+ ALLIANCE_CHR_Vivica: "Вивика"
+ ALLIANCE_CHR_Miriam: "Мириам"
+ ALLIANCE_CHR_Carrie: "Кэрри"
+ ALLIANCE_CHR_Tina: "Тина"
+ ALLIANCE_CHR_Kathryn: "Кэтрин"
+ ALLIANCE_CHR_Ann: "Анна"
+ ALLIANCE_CHR_Gail: "Гейл"
+ ALLIANCE_CHR_Elle: "Эль"
+ ALLIANCE_CHR_Susie: "Сюзи"
+ ALLIANCE_CHR_Shannon: "Шеннон"
+ ALLIANCE_CHR_Kara: "Кара"
+ ALLIANCE_CHR_Elaine: "Элейн"
+ ALLIANCE_CHR_Sally: "Салли"
+ ALLIANCE_CHR_Phyllis: "Филлис"
+ ALLIANCE_CHR_Diane: "Диана"
+ ALLIANCE_CHR_Tricia: "Триша"
+ ALLIANCE_CHR_Karla: "Карла"
+ ALLIANCE_CHR_Gina: "Джина"
+ ALLIANCE_CHR_Virginia: "Вирджиния"
+ ALLIANCE_CHR_Miranda: "Миранда"
+ ALLIANCE_CHR_Rachel: "Рэйчел"
+ ALLIANCE_CHR_Mindy: "Минди"
+ ALLIANCE_CHR_Mandy: "Мэнди"
+ Frances: "Фрэнсис"
+ ALLIANCE_CHR_Shelly: "Шелли"
+ ALLIANCE_CHR_Courtney: "Кортни"
+ ALLIANCE_CHR_Julie: "Джули"
+ ALLIANCE_CHR_Doris: "Дорис"
+ ALLIANCE_CHR_Fran: "Фрэн"
+ ALLIANCE_CHR_Majel: "Маджел"
+ ALLIANCE_CHR_Tisha: "Тиша"
+ ALLIANCE_CHR_Arlene: "Арлин"
+ ALLIANCE_CHR_Candace: "Кэндис"
+ ALLIANCE_CHR_Christina: "Кристина"
+ ALLIANCE_CHR_Felicia: "Фелиция"
+ ALLIANCE_CHR_Odette: "Одетт:"
+ ALLIANCE_CHR_Kristen: "Кристен"
+ ALLIANCE_CHR_Gillian: "Джиллиан"
+ ALLIANCE_CHR_Lindsay: "Линдси"
+ ALLIANCE_CHR_Heather: "Вереск"
+ ALLIANCE_CHR_Irene: "Ирэн"
+ ALLIANCE_CHR_Monica: "Моника"
+ ALLIANCE_CHR_Adrienne: "Эдриенн"
+ ALLIANCE_CHR_Sherry: "Шерри"
+ ALLIANCE_CHR_Pamela: "Памела"
+ ALLIANCE_CHR_Joan: "Джоан"
+ ALLIANCE_CHR_Zelda: "Зельда"
+ ALLIANCE_CHR_Vera: "Вера"
+ ALLIANCE_CHR_Yvette: "Иветт"
+ ALLIANCE_CHR_Victoria: "Виктория"
+ ALLIANCE_CHR_Winifred: "Уинифред"
+ ALLIANCE_CHR_Wendy: "Венди"
+ ALLIANCE_CHR_Wanda: "Ванда"
+ ALLIANCE_CHR_Melissa: "Мелисса"
+ ALLIANCE_CHR_Vivian: "Вивиан"
+ ALLIANCE_CHR_Vanessa: "Ванесса"
+ ALLIANCE_CHR_Tiffany: "Тиффани"
+ ALLIANCE_CHR_Teresa: "Тереза"
+ ALLIANCE_CHR_Thelma: "Тельма"
+ ALLIANCE_CHR_Tabitha: "Табита"
+ ALLIANCE_CHR_Tara: "Тара"
+ ALLIANCE_CHR_Suzanne: "Сюзанна"
+ ALLIANCE_CHR_Sibyl: "Сивилла"
+ ALLIANCE_CHR_Selina: "Селина"
+ ALLIANCE_CHR_Selma: "Сельма"
+ ALLIANCE_CHR_Sabrina: "Сабрина"
+ ALLIANCE_CHR_Roxanne: "Роксана"
+ ALLIANCE_CHR_Rosemary: "Розмари"
+ ALLIANCE_CHR_Rosamund: "Розамунда"
+ ALLIANCE_CHR_Roberta: "Роберта"
+ ALLIANCE_CHR_Rita: "Рита"
+ ALLIANCE_CHR_Rhonda: "Ронда"
+ ALLIANCE_CHR_Priscilla: "Присцилла"
+ ALLIANCE_CHR_Philippa: "Филиппа"
+ ALLIANCE_CHR_Penelope: "Пенелопа"
+ ALLIANCE_CHR_Paula: "Паула"
+ ALLIANCE_CHR_Nadine: "Надин"
+ ALLIANCE_CHR_Mavis: "Мэвис"
+ ALLIANCE_CHR_Myrna: "Мирна"
+ ALLIANCE_CHR_Melanie: "Мелани"
+ ALLIANCE_CHR_Maud: "Мод"
+ ALLIANCE_CHR_Marjorie: "Марджори"
+ ALLIANCE_CHR_Marissa: "Марисса"
+ ALLIANCE_CHR_Marilyn: "Мэрилин"
+ ALLIANCE_CHR_Marcia: "Марсия"
+ ALLIANCE_CHR_Mabel: "Мейбл"
+ ALLIANCE_CHR_Lucinda: "Люсинда"
+ ALLIANCE_CHR_Lynnette: "Линнетт"
+ ALLIANCE_CHR_Louisa: "Луиза"
+ ALLIANCE_CHR_Lorna: "Лорна"
+ ALLIANCE_CHR_Loretta: "Лоретта"
+ ALLIANCE_CHR_Lois: "Лоис"
+ ALLIANCE_CHR_Leah: "Лия"
+ ALLIANCE_CHR_Kaylee: "Кейли"
+ ALLIANCE_CHR_Kierra: "Кирра"
+ ALLIANCE_CHR_Kathleen: "Кэтлин"
+ ALLIANCE_CHR_Julianne: "Джулианна"
+ ALLIANCE_CHR_Josephine: "Жозефина"
+ ALLIANCE_CHR_Joanna: "Джоанна"
+ ALLIANCE_CHR_Jenna: "Дженна"
+ ALLIANCE_CHR_Jane: "Джейн"
+ ALLIANCE_CHR_Jacqueline: "Жаклин"
+ ALLIANCE_CHR_Imelda: "Имельда"
+ ALLIANCE_CHR_Iris: "Ирис"
+ ALLIANCE_CHR_Imogen: "Имоджен"
+ ALLIANCE_CHR_Henrietta: "Генриетта"
+ ALLIANCE_CHR_Gwendolyn: "Гвендолин"
+ ALLIANCE_CHR_Gwen: "Гвен"
+ ALLIANCE_CHR_Gertie: "Герти"
+ ALLIANCE_CHR_Genevieve: "Женевьева"
+ ALLIANCE_CHR_Fiona: "Фиона"
+ ALLIANCE_CHR_Felicity: "Фелисити"
+ ALLIANCE_CHR_Ethel: "Этель"
+ ALLIANCE_CHR_Estelle: "Эстель"
+ ALLIANCE_CHR_Ellen: "Эллен"
+ ALLIANCE_CHR_Edwina: "Эдвина"
+ ALLIANCE_CHR_Eileen: "Эйлин"
+ ALLIANCE_CHR_Eleonor: "Элеонора"
+ ALLIANCE_CHR_Edna: "Эдна"
+ ALLIANCE_CHR_Edith: "Эдит"
+ ALLIANCE_CHR_Drusilia: "Друсилия"
+ ALLIANCE_CHR_Doreen: "Дорин"
+ ALLIANCE_CHR_Dolores: "Долорес"
+ ALLIANCE_CHR_Denise: "Дениз"
+ ALLIANCE_CHR_Deanna: "Дина"
+ ALLIANCE_CHR_Daphne: "Дафна"
+ ALLIANCE_CHR_Cordelia: "Корделия"
+ ALLIANCE_CHR_Cadence: "Каденс"
+ ALLIANCE_CHR_Cynthia: "Синтия"
+ ALLIANCE_CHR_Cheryl: "Шерил"
+ ALLIANCE_CHR_Christabel: "Кристабель"
+ ALLIANCE_CHR_Clarissa: "Кларисса"
+ ALLIANCE_CHR_Anne: "Энн"
+ ALLIANCE_CHR_Cecilia: "Сесилия"
+ ALLIANCE_CHR_Charity: "Благотворительность"
+ ALLIANCE_CHR_Cassandra: "Кассандра"
+ ALLIANCE_CHR_Caroline: "Кэролайн"
+ ALLIANCE_CHR_Bridget: "Бриджит"
+ ALLIANCE_CHR_Brenda: "Бренда"
+ ALLIANCE_CHR_Beatrice: "Беатрис"
+ ALLIANCE_CHR_Audrey: "Одри"
+ ALLIANCE_CHR_Angela: "Анджела"
+ ALLIANCE_CHR_Amanda: "Аманда"
+ ALLIANCE_CHR_Alison: "Элисон"
+ ALLIANCE_CHR_Judith: "Джудит"
+ ALLIANCE_CHR_Lillian: "Лилиан"
+ ALLIANCE_CHR_Hailey: "Хейли"
+ ALLIANCE_CHR_Chloe: "Хлоя"
+ ALLIANCE_CHR_Brianna: "Брианна"
+ ALLIANCE_CHR_Natalie: "Натали"
+ ALLIANCE_CHR_Ashley: "Эшли"
+ ALLIANCE_CHR_Brooklyn: "Бруклин"
+ ALLIANCE_CHR_Samantha: "Саманта"
+ ALLIANCE_CHR_Julia: "Юлия"
+ ALLIANCE_CHR_Abigail: "Эбигейл"
+ ALLIANCE_CHR_Alyssa: "Алисса"
+ ALLIANCE_CHR_Addison: "Эддисон"
+ ALLIANCE_CHR_Ruby: "Рубин"
+ ALLIANCE_CHR_Isabella: "Изабелла"
+ ALLIANCE_CHR_Charlotte: "Шарлотта"
+ ALLIANCE_CHR_Amelia: "Амелия"
+ ALLIANCE_CHR_Deborah: "Дебора"
+ ALLIANCE_CHR_Kimberly: "Кимберли"
+ ALLIANCE_CHR_Michelle: "Мишель"
+ ALLIANCE_CHR_Sharon: "Шарон"
+ ALLIANCE_CHR_Ruth: "Рут"
+ ALLIANCE_CHR_Carol: "Кэрол"
+ ALLIANCE_CHR_Donna: "Донна"
+ ALLIANCE_CHR_Sandra: "Сандра"
+ ALLIANCE_CHR_Helen: "Хелен"
+ ALLIANCE_CHR_Nancy: "Нэнси"
+ ALLIANCE_CHR_Lisa: "Лиза"
+ ALLIANCE_CHR_Dorothy: "Дороти"
+ ALLIANCE_CHR_Margaret: "Маргарет"
+ ALLIANCE_CHR_Susan: "Сьюзен"
+ ALLIANCE_CHR_Maria: "Мария"
+ ALLIANCE_CHR_Jennifer: "Дженнифер"
+ ALLIANCE_CHR_Barbara: "Барбара"
+ ALLIANCE_CHR_Linda: "Линда"
+ ALLIANCE_CHR_Patricia: "Патрисия"
+ ALLIANCE_CHR_Eliza: "Элиза"
+ ALLIANCE_CHR_Skye: "Скай"
+ ALLIANCE_CHR_Nicole: "Николь"
+ ALLIANCE_CHR_Kayla: "Кайла"
+ ALLIANCE_CHR_Laura: "Лаура"
+ ALLIANCE_CHR_Clara: "Клара"
+ ALLIANCE_CHR_Lauren: "Лорен"
+ ALLIANCE_CHR_Naomi: "Наоми"
+ ALLIANCE_CHR_Gabriella: "Габриэлла"
+ ALLIANCE_CHR_Rebecca: "Ребекка"
+ ALLIANCE_CHR_Bethany: "Бетани"
+ ALLIANCE_CHR_Martha: "Марта"
+ ALLIANCE_CHR_Sarah: "Сара"
+ ALLIANCE_CHR_Alexandra: "Александра"
+ ALLIANCE_CHR_Eleanor: "Элеонора"
+ ALLIANCE_CHR_Kate: "Катя"
+ ALLIANCE_CHR_Madison: "Мэдисон"
+ ALLIANCE_CHR_Jasmine: "Жасмин"
+ ALLIANCE_CHR_Caitlyn: "Кейтлин"
+ ALLIANCE_CHR_Harriet: "Гарриет"
+ ALLIANCE_CHR_Amber: "Янтарь"
+ ALLIANCE_CHR_Evelyn: "Эвелин"
+ ALLIANCE_CHR_Grace: "Милость"
+ ALLIANCE_CHR_Lucy: "Люси"
+ ALLIANCE_CHR_Erin: "Эрин"
+ ALLIANCE_CHR_Matilda: "Матильда"
+ ALLIANCE_CHR_Darcy: "Дарси"
+ ALLIANCE_CHR_Amy: "Эми"
+ ALLIANCE_CHR_Elizabeth: "Элизабет"
+ ALLIANCE_CHR_Megan: "Меган"
+ ALLIANCE_CHR_Mary: "Мэри"
+ ALLIANCE_CHR_Anna: "Анна"
+ ALLIANCE_CHR_Sienna: "Сиенна"
+ ALLIANCE_CHR_Phoebe: "Фиби"
+ ALLIANCE_CHR_Eve: "Канун"
+ ALLIANCE_CHR_Daisy: "Дейзи"
+ ALLIANCE_CHR_Emma: "Эмма"
+ ALLIANCE_CHR_Scarlett: "Скарлетт"
+ ALLIANCE_CHR_Alice: "Алиса"
+ ALLIANCE_CHR_Jessica: "Джессика"
+ ALLIANCE_CHR_Sophie: "Софи"
+ ALLIANCE_CHR_Emily: "Эмили"
+ ALLIANCE_CHR_Olivia: "Оливия"
+ ALLIANCE_CHR_Hall: "Зал"
+ ALLIANCE_CHR_Green: "Зеленый"
+ ALLIANCE_CHR_Roberts: "Робертс"
+ ALLIANCE_CHR_White: "Белый"
+ ALLIANCE_CHR_Walker: "Уокер"
+ ALLIANCE_CHR_Evans: "Эванс"
+ ALLIANCE_CHR_Thompson: "Томпсон"
+ ALLIANCE_CHR_Wright: "Райт"
+ ALLIANCE_CHR_Robinson: "Robinson"
+ ALLIANCE_CHR_Johnson: "Джонсон"
+ ALLIANCE_CHR_Wilson: "Уилсон"
+ ALLIANCE_CHR_Davies: "Дэвис"
+ ALLIANCE_CHR_Brown: "Коричневый"
+ ALLIANCE_CHR_Taylor: "Тейлор"
+ ALLIANCE_CHR_Williams: "Уильямс"
+ ALLIANCE_CHR_Jones: "Джонс"
+ ALLIANCE_CHR_Smith: "Смит"
+ ALLIANCE_CHR_ONeill: "О'Нил"
+ ALLIANCE_CHR_McLaughlin: "Маклафлин"
+ ALLIANCE_CHR_Murray: "Мюррей"
+ ALLIANCE_CHR_Moore: "Мур"
+ ALLIANCE_CHR_Hamilton: "Гамильтон"
+ ALLIANCE_CHR_Murphy: "Мерфи"
+ ALLIANCE_CHR_Quinn: "Куинн"
+ ALLIANCE_CHR_Stewart: "Стюарт"
+ ALLIANCE_CHR_Campbell: "Кэмпбелл"
+ ALLIANCE_CHR_Cox: "Кокс"
+ ALLIANCE_CHR_Mitchell: "Митчелл"
+ ALLIANCE_CHR_Mason: "Мейсон"
+ ALLIANCE_CHR_Lewis: "Льюис"
+ ALLIANCE_CHR_Wood: "Древесина"
+ ALLIANCE_CHR_Moss: "Мох"
+ ALLIANCE_CHR_Jenkins: "Дженкинс"
+ ALLIANCE_CHR_Price: "Цена"
+ ALLIANCE_CHR_Driscoll: "Дрисколл"
+ ALLIANCE_CHR_Hughes: "Хьюз"
+ ALLIANCE_CHR_Harris: "Харрис"
+ ALLIANCE_CHR_Sanders: "Сандерс"
+ ALLIANCE_CHR_Morrison: "Моррисон"
+ ALLIANCE_CHR_Patterson: "Паттерсон"
+ ALLIANCE_CHR_Watson: "Ватсон"
+ ALLIANCE_CHR_Reid: "Рид"
+ ALLIANCE_CHR_MacDonald: "Макдональд"
+ ALLIANCE_CHR_Anderson: "Андерсон"
+ ALLIANCE_CHR_Welsh: "валлийский"
+ ALLIANCE_CHR_Webb: "Уэбб"
+ ALLIANCE_CHR_Weaver: "Уивер"
+ ALLIANCE_CHR_West: "Запад"
+ ALLIANCE_CHR_Wentworth: "Вентворт"
+ ALLIANCE_CHR_Wheeler: "Уилер"
+ ALLIANCE_CHR_Whitley: "Уитли"
+ ALLIANCE_CHR_Woodard: "Вудард"
+ ALLIANCE_CHR_Worley: "Уорли"
+ ALLIANCE_CHR_Winters: "Винтерс"
+ ALLIANCE_CHR_Youngfellow: "Янгфеллоу"
+ ALLIANCE_CHR_York: "Йорк"
+ ALLIANCE_CHR_Young: "Молодой"
+ ALLIANCE_CHR_Zimmerman: "Циммерман"
+ ALLIANCE_CHR_Simpson: "Симпсон"
+ ALLIANCE_CHR_Sinclair: "Синклер"
+ ALLIANCE_CHR_Thornton: "Торнтон"
+ ALLIANCE_CHR_Terrell: "Террелл"
+ ALLIANCE_CHR_Sykes: "Сайкс"
+ ALLIANCE_CHR_Swift: "Быстрый"
+ ALLIANCE_CHR_Sweeney: "Суини"
+ ALLIANCE_CHR_Swanson: "Суонсон"
+ ALLIANCE_CHR_Sullivan: "Салливан"
+ ALLIANCE_CHR_Stone: "Камень"
+ ALLIANCE_CHR_Stevens: "Стивенс"
+ ALLIANCE_CHR_Sterling: "Стерлинг"
+ ALLIANCE_CHR_Steel: "Сталь"
+ ALLIANCE_CHR_Stafford: "Стаффорд"
+ ALLIANCE_CHR_Spencer: "Спенсер"
+ ALLIANCE_CHR_Sparks: "Искры"
+ ALLIANCE_CHR_Parker: "Паркер"
+ ALLIANCE_CHR_Palmer: "Палмер"
+ ALLIANCE_CHR_Page: "Страница"
+ ALLIANCE_CHR_Owens: "Оуэнс"
+ ALLIANCE_CHR_OHara: "O'Hara"
+ ALLIANCE_CHR_ODonnell: "О'Доннелл"
+ ALLIANCE_CHR_OConnor: "О'Коннор"
+ ALLIANCE_CHR_Watts: "Вт"
+ ALLIANCE_CHR_Washington: "Вашингтон"
+ ALLIANCE_CHR_Wade: "Уэйд"
+ ALLIANCE_CHR_Voight: "Войт"
+ ALLIANCE_CHR_Underwood: "Андервуд"
+ ALLIANCE_CHR_Tyler: "Тайлер"
+ ALLIANCE_CHR_Turner: "Тернер"
+ ALLIANCE_CHR_Tipton: "Типтон"
+ ALLIANCE_CHR_Robbins: "Роббинс"
+ ALLIANCE_CHR_Rivers: "Реки"
+ ALLIANCE_CHR_Richardson: "Ричардсон"
+ ALLIANCE_CHR_Reese: "Риз"
+ ALLIANCE_CHR_Reaves: "Ривз"
+ ALLIANCE_CHR_Reynolds: "Рейнольдс"
+ ALLIANCE_CHR_Potter: "Поттер"
+ ALLIANCE_CHR_Pitt: "Питт"
+ ALLIANCE_CHR_Phillips: "Филипс"
+ ALLIANCE_CHR_Pershing: "Першинг"
+ ALLIANCE_CHR_Peters: "Питерс"
+ ALLIANCE_CHR_Perkins: "Перкинс"
+ ALLIANCE_CHR_Payne: "Пейн"
+ ALLIANCE_CHR_Paxton: "Пакстон"
+ ALLIANCE_CHR_Parson: "Парсон"
+ ALLIANCE_CHR_Perry: "Перри"
+ ALLIANCE_CHR_Silverman: "Сильверман"
+ ALLIANCE_CHR_Sibbett: "Сиббетт"
+ ALLIANCE_CHR_Flint: "Флинт"
+ ALLIANCE_CHR_Sedgwick: "Седжвик"
+ ALLIANCE_CHR_Scowley: "Скоули"
+ ALLIANCE_CHR_Schneider: "Шнайдер"
+ ALLIANCE_CHR_Saxton: "Сакстон"
+ ALLIANCE_CHR_Savage: "Дикий"
+ ALLIANCE_CHR_Sandler: "Сэндлер"
+ ALLIANCE_CHR_Samuels: "Сэмюэлс"
+ ALLIANCE_CHR_Salinger: "Сэлинджер"
+ ALLIANCE_CHR_Roswell: "Розуэлл"
+ ALLIANCE_CHR_Robertson: "Робертсон"
+ ALLIANCE_CHR_McCoy: "Маккой"
+ ALLIANCE_CHR_McSwain: "Максуэйн"
+ ALLIANCE_CHR_McKinnon: "Маккиннон"
+ ALLIANCE_CHR_McGillis: "МакГиллис"
+ ALLIANCE_CHR_Michaels: "Майклс"
+ ALLIANCE_CHR_Lowell: "Лоуэлл"
+ ALLIANCE_CHR_Little: "Маленький"
+ ALLIANCE_CHR_Lawson: "Лоусон"
+ ALLIANCE_CHR_Landau: "Ландо"
+ ALLIANCE_CHR_Kruger: "Крюгер"
+ ALLIANCE_CHR_Snow: "Снег"
+ ALLIANCE_CHR_Smart: "Умный"
+ ALLIANCE_CHR_Silverstone: "Сильверстоун"
+ ALLIANCE_CHR_McCall: "МакКолл"
+ ALLIANCE_CHR_Mayfield: "Мэйфилд"
+ ALLIANCE_CHR_Masterson: "Мастерсон"
+ ALLIANCE_CHR_North: "Север"
+ ALLIANCE_CHR_Nichols: "Николс"
+ ALLIANCE_CHR_Newman: "Новичок"
+ ALLIANCE_CHR_Nash: "Нэш"
+ ALLIANCE_CHR_Morris: "Моррис"
+ ALLIANCE_CHR_Miller: "Миллер"
+ ALLIANCE_CHR_Lynch: "Линч"
+ ALLIANCE_CHR_McCreary: "Маккрири"
+ ALLIANCE_CHR_McCormick: "Маккормик"
+ ALLIANCE_CHR_McCarthy: "Маккарти"
+ ALLIANCE_CHR_Kennedy: "Кеннеди"
+ ALLIANCE_CHR_Kenway: "Кенуэй"
+ ALLIANCE_CHR_King: "Король"
+ ALLIANCE_CHR_Kirk: "Кирк"
+ ALLIANCE_CHR_Knight: "Рыцарь"
+ ALLIANCE_CHR_Hyland: "Хайленд"
+ ALLIANCE_CHR_Hutchinson: "Хатчинсон"
+ ALLIANCE_CHR_Hood: "Капюшон"
+ ALLIANCE_CHR_Hoffman: "Хоффман"
+ ALLIANCE_CHR_Higgins: "Хиггинс"
+ ALLIANCE_CHR_Holmes: "Холмс"
+ ALLIANCE_CHR_Hendricks: "Хендрикс"
+ ALLIANCE_CHR_Hart: "Харт"
+ ALLIANCE_CHR_Harrington: "Харрингтон"
+ ALLIANCE_CHR_Hansen: "Хансен"
+ ALLIANCE_CHR_Graves: "Могилы"
+ ALLIANCE_CHR_Goodwin: "Гудвин"
+ ALLIANCE_CHR_Goodman: "Хороший человек"
+ ALLIANCE_CHR_Goldstein: "Гольдштейн"
+ ALLIANCE_CHR_Goldberg: "Гольдберг"
+ ALLIANCE_CHR_Glover: "Гловер"
+ ALLIANCE_CHR_Glass: "Стекло"
+ ALLIANCE_CHR_Gilbert: "ГилбертЭ"
+ ALLIANCE_CHR_Irwin: "Ирвин"
+ ALLIANCE_CHR_Jefferies: "Джеффрис"
+ ALLIANCE_CHR_Jacobs: "Джейкобс"
+ ALLIANCE_CHR_Jennings: "Дженнингс"
+ ALLIANCE_CHR_Nathanson: "Натансон"
+ ALLIANCE_CHR_Kane: "Кейн"
+ ALLIANCE_CHR_Conrad: "Конрад"
+ ALLIANCE_CHR_Collins: "Коллинз"
+ ALLIANCE_CHR_Cohen: "Коэн"
+ ALLIANCE_CHR_Handler: "Обработчик"
+ ALLIANCE_CHR_Harvey: "Харви"
+ ALLIANCE_CHR_Holden: "Холден"
+ ALLIANCE_CHR_Hines: "Хайнс"
+ ALLIANCE_CHR_Hill: "ХиллЭ"
+ ALLIANCE_CHR_Hutchins: "Хатчинс"
+ ALLIANCE_CHR_Hoover: "Пылесос"
+ ALLIANCE_CHR_Holloway: "Холлоуэй"
+ ALLIANCE_CHR_Hunter: "Охотник"
+ ALLIANCE_CHR_Halley: "Галлей"
+ ALLIANCE_CHR_Griffin: "Грифон"
+ ALLIANCE_CHR_Gorney: "Горни"
+ ALLIANCE_CHR_Greenberg: "Гринберг"
+ ALLIANCE_CHR_Gray: "Серый"
+ ALLIANCE_CHR_Freeman: "Фриман"
+ ALLIANCE_CHR_Fox: "Лиса"
+ ALLIANCE_CHR_Foster: "Взращивать"
+ ALLIANCE_CHR_Forrest: "Форрест"
+ ALLIANCE_CHR_Fleming: "Флеминг"
+ ALLIANCE_CHR_Fisher: "Фишер"
+ ALLIANCE_CHR_Felton: "Фелтон"
+ ALLIANCE_CHR_Farrell: "Фаррелл"
+ ALLIANCE_CHR_Fields: "Поля"
+ ALLIANCE_CHR_Curtis: "Кертис"
+ ALLIANCE_CHR_Crosby: "Кросби"
+ ALLIANCE_CHR_Crouch: "Крауч"
+ ALLIANCE_CHR_Cody: "Коди"
+ ALLIANCE_CHR_Compton: "Комптон"
+ ALLIANCE_CHR_Conley: "Конли"
+ ALLIANCE_CHR_Cook: "Готовить"
+ ALLIANCE_CHR_Conroy: "Конрой"
+ ALLIANCE_CHR_Ericson: "Эриксон"
+ ALLIANCE_CHR_Emerson: "Эмерсон"
+ ALLIANCE_CHR_Elliott: "Эллиотт"
+ ALLIANCE_CHR_Edelstein: "Эдельштейн"
+ ALLIANCE_CHR_Edwards: "Эдвардс"
+ ALLIANCE_CHR_Easterbrook: "Истербрук"
+ ALLIANCE_CHR_Darling: "Милый"
+ ALLIANCE_CHR_Daniels: "Дэниелс"
+ ALLIANCE_CHR_Gabriel: "Габриэль"
+ ALLIANCE_CHR_Garfield: "Гарфилд"
+ ALLIANCE_CHR_Gates: "Ворота"
+ ALLIANCE_CHR_Garrett: "Гаррет"
+ ALLIANCE_CHR_Gardner: "Гарднер"
+ ALLIANCE_CHR_Futterman: "Футтерман"
+ ALLIANCE_CHR_Booth: "Бут"
+ ALLIANCE_CHR_Breckenridge: "Брекенридж"
+ ALLIANCE_CHR_Brooks: "Брукс"
+ ALLIANCE_CHR_Brewster: "Брюстер"
+ ALLIANCE_CHR_Bassett: "Бассет"
+ ALLIANCE_CHR_Barks: "Баркс"
+ ALLIANCE_CHR_Banks: "банки"
+ ALLIANCE_CHR_Bailey: "Бейли"
+ ALLIANCE_CHR_Baker: "Бейкер"
+ ALLIANCE_CHR_Bancroft: "Бэнкрофт"
+ ALLIANCE_CHR_Bauer: "Бауэр"
+ ALLIANCE_CHR_Austin: "Остин"
+ ALLIANCE_CHR_Allen: "Аллен"
+ ALLIANCE_CHR_Dickinson: "Дикинсон"
+ ALLIANCE_CHR_Buckland: "Бакленд"
+ ALLIANCE_CHR_Carpenter: "Плотник"
+ ALLIANCE_CHR_Cartwright: "Картрайт"
+ ALLIANCE_CHR_Bean: "Бин"
+ ALLIANCE_CHR_Bains: "Бейнс"
+ ALLIANCE_CHR_Bellflower: "Колокольчик"
+ ALLIANCE_CHR_Bell: "Белл"
+ ALLIANCE_CHR_Becker: "Беккер"
+ ALLIANCE_CHR_Bates: "Бейтс"
+ ALLIANCE_CHR_Bergman: "Бергман"
+ ALLIANCE_CHR_Billings: "Биллингс"
+ ALLIANCE_CHR_Billingsley: "Биллингсли"
+ ALLIANCE_CHR_Sheridan: "Шеридан"
+ ALLIANCE_CHR_Sherman: "Шерман"
+ ALLIANCE_CHR_Bloom: "Цвести"
+ ALLIANCE_CHR_Milton: "Милтон"
+ ALLIANCE_CHR_Fry: "Жарить"
+ ALLIANCE_CHR_Arnold: "Арнольд"
+ ALLIANCE_CHR_Chapman: "Чепмен"
+ ALLIANCE_CHR_Channing: "Ченнинг"
+ ALLIANCE_CHR_Chase: "Гнаться"
+ ALLIANCE_CHR_Chaffin: "Чаффин"
+ ALLIANCE_CHR_Cavanaugh: "Кавано"
+ ALLIANCE_CHR_Carroll: "Кэрролл"
+ ALLIANCE_CHR_England: "Англия"
+ ALLIANCE_CHR_French: "Французский"
+ ALLIANCE_CHR_Butler: "Дворецкий"
+ ALLIANCE_CHR_Bush: "Куст"
+ ALLIANCE_CHR_Burnett: "Бернетт"
+ ALLIANCE_CHR_Burness: "Бернесс"
+ ALLIANCE_CHR_Houghton: "Хоутон"
+ ALLIANCE_CHR_Hargreaves: "Харгривз"
+ ALLIANCE_CHR_Wells: "Уэллс"
+ ALLIANCE_CHR_Garland: "Гирлянда"
+ ALLIANCE_CHR_Drake: "Дрейк"
+ ALLIANCE_CHR_Baxter: "Бакстер"
+ ALLIANCE_CHR_Dixon: "Диксон"
+ ALLIANCE_CHR_Cursham: "Кершам"
+ ALLIANCE_CHR_Brockbank: "Брокбанк"
+ ALLIANCE_CHR_Ashton: "Эштон"
+ ALLIANCE_CHR_Poole: "Пул"
+ ALLIANCE_CHR_Mead: "Мед"
+ ALLIANCE_CHR_Howell: "Хауэлл"
+ ALLIANCE_CHR_Durston: "Дерстон"
+ ALLIANCE_CHR_Sharp: "Острый"
+ ALLIANCE_CHR_Beauclerk: "Боклерк"
+ ALLIANCE_CHR_McMillan: "Макмиллан"
+ ALLIANCE_CHR_Dyson: "Дайсон"
+ ALLIANCE_CHR_Buxton: "Бакстон"
+ ALLIANCE_CHR_Cross: "Крест"
+ ALLIANCE_CHR_Bennett: "Беннет"
+ ALLIANCE_CHR_Whitfield: "Уитфилд"
+ ALLIANCE_CHR_Walters: "Уолтерс"
+ ALLIANCE_CHR_Walden: "Уолден"
+ ALLIANCE_CHR_Rawson: "Роусон"
+ ALLIANCE_CHR_Kingsford: "Кингсфорд"
+ ALLIANCE_CHR_Hurst: "Херст"
+ ALLIANCE_CHR_Haygarth: "Хейгарт"
+ ALLIANCE_CHR_McNiven: "МакНивен"
+ ALLIANCE_CHR_Reeves: "Ривз"
+ ALLIANCE_CHR_Spector: "Спектор"
+ ALLIANCE_CHR_Garrovick: "Гарровик"
+ ALLIANCE_CHR_Hawkins: "Хокинс"
+ ALLIANCE_CHR_Barton: "Бартон"
+ ALLIANCE_CHR_Whittaker: "Уиттакер"
+ ALLIANCE_CHR_Whyting: "Почему"
+ ALLIANCE_CHR_Ellis: "Эллис"
+ ALLIANCE_CHR_Matthews: "Мэтьюз"
+ ALLIANCE_CHR_Tanner: "Таннер"
+ ALLIANCE_CHR_Ward: "Сторожить"
+ ALLIANCE_CHR_Mundy: "Манди"
+ ALLIANCE_CHR_Cockburn: "КокбернЭ"
+ ALLIANCE_CHR_Allenby: "Алленби"
+ ALLIANCE_CHR_Stokes: "Стоукс"
+ ALLIANCE_CHR_Shaw: "Шоу"
+ ALLIANCE_CHR_Yardley: "Ярдли"
+ ALLIANCE_CHR_Buchanan: "Buchanan"
+ ALLIANCE_CHR_Appleby: "Эпплби"
+ ALLIANCE_CHR_Balfour: "Бальфур"
+ ALLIANCE_CHR_Wilkins: "Уилкинс"
+ ALLIANCE_CHR_Oliphant: "Олифант"
+ ALLIANCE_CHR_Lang: "Ланг"
+ ALLIANCE_CHR_Lockhart: "Локхарт"
+ ALLIANCE_CHR_Fawcett: "Фосетт"
+ ALLIANCE_CHR_Sandford: "Сэндфорд"
+ ALLIANCE_CHR_Rowley: "Роули"
+ ALLIANCE_CHR_Porter: "Портье"
+ ALLIANCE_CHR_Warner: "Уорнер"
+ ALLIANCE_CHR_Ford: "Форд"
+ ALLIANCE_CHR_Farnsworth: "Фарнсворт"
+ ALLIANCE_CHR_Schofield: "Шофилд"
+ ALLIANCE_CHR_Burnside: "Бернсайд"
+ ALLIANCE_CHR_Van_Rijn: "Ван Рейн"
+ ALLIANCE_CHR_Van_Hoof: "Ван Хоф"
+ ALLIANCE_CHR_Blair: "Блэр"
+ ALLIANCE_CHR_Abbott: "Эбботт"
+ ALLIANCE_CHR_Powell: "Пауэлл"
+ ALLIANCE_CHR_Chamberlain: "Чемберлен"
+ ALLIANCE_CHR_Armstrong: "Армстронг"
+ ALLIANCE_CHR_Merchant: "Торговец"
+ ALLIANCE_CHR_Cochrane: "Кокрейн"
+ ALLIANCE_CHR_Casey: "Кейси"
+ ALLIANCE_CHR_Rollins: "Роллинз"
+ ALLIANCE_CHR_Bainbridge: "Бейнбридж"
+ ALLIANCE_CHR_Horner: "Хорнер"
+ ALLIANCE_CHR_Lucas: "Лукас"
+ ALLIANCE_CHR_Pearson: "Пирсон"
+ ALLIANCE_CHR_Houston: "Хьюстон"
+ ALLIANCE_CHR_Pickett: "Пикетт"
+ ALLIANCE_CHR_Archer: "Лучник"
+ ALLIANCE_CHR_Gibbons: "Гиббоны"
+ ALLIANCE_CHR_Polk: "Полк"
+ ALLIANCE_CHR_Barksdale: "Барксдейл"
+ ALLIANCE_CHR_Gibson: "Гибсон"
+ ALLIANCE_CHR_Burns: "Бернс"
+ ALLIANCE_CHR_Shields: "Щиты"
+ ALLIANCE_CHR_Colbeck: "Колбек"
+ ALLIANCE_CHR_Knox: "Нокс"
+ ALLIANCE_CHR_Kingston: "Кингстон"
+ ALLIANCE_CHR_Shepard: "Шепард"
+ ALLIANCE_CHR_Harper: "Харпер"
+ ALLIANCE_CHR_Spooner: "Спунер"
+ ALLIANCE_CHR_Findley: "Финдли"
+ ALLIANCE_CHR_Milligan: "Миллиган"
+ ALLIANCE_CHR_Wickham: "Уикхэм"
+ ALLIANCE_CHR_Muldoon: "Малдун"
+ ALLIANCE_CHR_Bowden: "Боуден"
+ ALLIANCE_CHR_Hicks: "Хикс"
+ ALLIANCE_CHR_Hooks: "Крючки"
+ ALLIANCE_CHR_Hudson: "Хадсон"
+ ALLIANCE_CHR_Wilcox: "Уилкокс"
+ ALLIANCE_CHR_Doggart: "Доггарт"
+ ALLIANCE_CHR_Kingsley: "Кингсли"
+ ALLIANCE_CHR_Hazelton: "Хейзелтон"
+ ALLIANCE_CHR_Seabrook: "Сибрук"
+ ALLIANCE_CHR_Longfield: "Лонгфилд"
+ ALLIANCE_CHR_Novak: "Новак"
+ ALLIANCE_CHR_Fowler: "Фаулер"
+ ALLIANCE_CHR_Richter: "Рихтер"
+ ALLIANCE_CHR_Bridges: "Мосты"
+ ALLIANCE_CHR_Gilligan: "Гиллиган"
+ ALLIANCE_CHR_Crutchley: "Кратчли"
+ ALLIANCE_CHR_Burton: "Бертон"
+ ALLIANCE_CHR_Bolander: "Боландер"
+ ALLIANCE_CHR_Blake: "Блейк"
+ ALLIANCE_CHR_Blackwood: "Черное дерево"
+ ALLIANCE_CHR_Birch: "Береза"
+ ALLIANCE_CHR_Baumgartner: "Баумгартнер"
+ ALLIANCE_CHR_Purcell: "Перселл"
+ ALLIANCE_CHR_Bannister: "Баннистер"
+ ALLIANCE_CHR_Baldwin: "Болдуин"
+ ALLIANCE_CHR_Babcock: "Бэбкок"
+ ALLIANCE_CHR_Adams: "Адамс"
+ ALLIANCE_CHR_Coffey: "Коффи"
+ ALLIANCE_CHR_Jefferson: "Джефферсон"
+ ALLIANCE_CHR_Knotts: "Ноттс"
+ ALLIANCE_CHR_Hammond: "Хаммонд"
+ ALLIANCE_CHR_Cameron: "Кэмерон"
+ ALLIANCE_CHR_Featherstone: "Фезерстоун"
+ ALLIANCE_CHR_Bixby: "Биксби"
+ ALLIANCE_CHR_Dufresne: "Дюфрен"
+ ALLIANCE_CHR_Cullen: "Каллен"
+ ALLIANCE_CHR_Clancy: "Клэнси"
+ ALLIANCE_CHR_Church: "Церковь"
+ ALLIANCE_CHR_Charlesworth: "Чарльзворт"
+ ALLIANCE_CHR_Carson: "Карсон"
+ ALLIANCE_CHR_Carlyle: "Карлайл"
+ ALLIANCE_CHR_Cairns: "Кэрнс"
+ ALLIANCE_CHR_Burrows: "Норы"
+ ALLIANCE_CHR_Weyland: "Вейланд"
+ ALLIANCE_CHR_Burke: "Берк"
+ ALLIANCE_CHR_Brannigan: "Бранниган"
+ ALLIANCE_CHR_Brock: "Брок"
+ ALLIANCE_CHR_Bolton: "Болтон"
+ ALLIANCE_CHR_Kurtz: "Курц"
+ ALLIANCE_CHR_Kinnear: "Киннер"
+ ALLIANCE_CHR_Kellerman: "Келлерман"
+ ALLIANCE_CHR_Keeler: "Киллер"
+ ALLIANCE_CHR_Kearns: "Кернс"
+ ALLIANCE_CHR_Kaiser: "Кайзер"
+ ALLIANCE_CHR_Ingram: "Ингрэм"
+ ALLIANCE_CHR_Holt: "Холт"
+ ALLIANCE_CHR_Hoffmeyer: "Хоффмайер"
+ ALLIANCE_CHR_Grimes: "Граймс"
+ ALLIANCE_CHR_Grisdale: "Грисдейл"
+ ALLIANCE_CHR_Haddock: "Пикша"
+ ALLIANCE_CHR_Gorman: "Горман"
+ ALLIANCE_CHR_Funk: "фанк"
+ ALLIANCE_CHR_Foley: "Фоли"
+ ALLIANCE_CHR_Ferguson: "Фергюсон"
+ ALLIANCE_CHR_Olsen: "Олсен"
+ ALLIANCE_CHR_Nicholson: "Николсон"
+ ALLIANCE_CHR_Myers: "Майерс"
+ ALLIANCE_CHR_McBain: "МакБейн"
+ ALLIANCE_CHR_McAllister: "Макаллистер"
+ ALLIANCE_CHR_Marsh: "Марш"
+ ALLIANCE_CHR_Maloney: "Мэлони"
+ ALLIANCE_CHR_Madigan: "Мэдиган"
+ ALLIANCE_CHR_MacInnis: "Макиннис"
+ ALLIANCE_CHR_MacNevin: "Макневин"
+ ALLIANCE_CHR_MacKenzie: "Маккензи"
+ ALLIANCE_CHR_Lowe: "Лоу"
+ ALLIANCE_CHR_Lessard: "Лессар"
+ ALLIANCE_CHR_Lankshear: "Ланкшир"
+ ALLIANCE_CHR_Laidlaw: "Лейдлоу"
+ ALLIANCE_CHR_Quincey: "Квинси"
+ ALLIANCE_CHR_Ramsey: "Рэмси"
+ ALLIANCE_CHR_Pfaffenbach: "Пфаффенбах"
+ ALLIANCE_CHR_Penebscott: "Пенебскотт"
+ ALLIANCE_CHR_Quackenbush: "Квакенбуш"
+ ALLIANCE_CHR_Pritchard: "Притчард"
+ ALLIANCE_CHR_Popovic: "Попович"
+ ALLIANCE_CHR_Pratt: "Пратт"
+ ALLIANCE_CHR_Prefontaine: "Префонтейн"
+ ALLIANCE_CHR_Murdoch: "Мердок"
+ ALLIANCE_CHR_Peckham: "Пекхэм"
+ ALLIANCE_CHR_Peacock: "павлин"
+ ALLIANCE_CHR_OMalley: "О'Мэлли"
+ ALLIANCE_CHR_Stiles: "Стайлз"
+ ALLIANCE_CHR_Stackhouse: "Стэкхаус"
+ ALLIANCE_CHR_Stanfield: "Стэнфилд"
+ ALLIANCE_CHR_Spurgeon: "Сперджен"
+ ALLIANCE_CHR_Spiller: "Спиллер"
+ ALLIANCE_CHR_Sorensen: "Соренсен"
+ ALLIANCE_CHR_Snider: "Снайдер"
+ ALLIANCE_CHR_Snell: "Снелл"
+ ALLIANCE_CHR_Sloan: "Слоан"
+ ALLIANCE_CHR_Skinner: "Скиннер"
+ ALLIANCE_CHR_Shoebottom: "ботинок"
+ ALLIANCE_CHR_Rolston: "Ролстон"
+ ALLIANCE_CHR_Renaud: "Рено"
+ ALLIANCE_CHR_Reinhart: "Рейнхарт"
+ ALLIANCE_CHR_Reilly: "Рейли"
+ ALLIANCE_CHR_Humphry: "Хамфри"
+ ALLIANCE_CHR_Fredericks: "Фредерикс"
+ ALLIANCE_CHR_Baird: "Бэрд"
+ ALLIANCE_CHR_Biggs: "Биггс"
+ ALLIANCE_CHR_Ballard: "Баллард"
+ ALLIANCE_CHR_Atkins: "Аткинс"
+ ALLIANCE_CHR_Barnes: "Барнс"
+ ALLIANCE_CHR_MacArthur: "Макартур"
+ ALLIANCE_CHR_Strudwick: "Струдвик"
+ ALLIANCE_CHR_Stark: "Старк"
+ ALLIANCE_CHR_Traynor: "Трейнор"
+ ALLIANCE_CHR_Townsend: "Таунсенд"
+ ALLIANCE_CHR_Taggart: "Таггарт"
+ ALLIANCE_CHR_Sutton: "Саттон"
+ ALLIANCE_CHR_Sutherland: "Сазерленд"
+ ALLIANCE_CHR_Evans_Jr.: "Эванс мл."
+ ALLIANCE_CHR_Williams_Jr.: "Уильямс младший"
+ ALLIANCE_CHR_Smith_Jr.: "Смит младший"
+ ALLIANCE_CHR_Tucker: "Такер"
+ ALLIANCE_CHR_Preston: "Престон"
+ ALLIANCE_CHR_Sutter: "Саттер"
+ ALLIANCE_CHR_Kirby: "Кирби"
+ ALLIANCE_CHR_Galloway: "Галлоуэй"
+ ALLIANCE_CHR_Fletcher: "Флетчер"
+ ALLIANCE_CHR_Finks: "Финкс"
+ ALLIANCE_CHR_DeStefano: "ДеСтефано"
+ ALLIANCE_CHR_Cunningham: "Каннингем"
+ ALLIANCE_CHR_Dillard: "Диллард"
+ ALLIANCE_CHR_Colt: "Кольт"
+ ALLIANCE_CHR_Kowalski: "Ковальски"
+ ALLIANCE_CHR_Trapier_III: "Трапьер III"
+ ALLIANCE_CHR_Pemberton_II: "Пембертон II"
+ ALLIANCE_CHR_Leadbetter_IV: "Ледбеттер IV"
+ ALLIANCE_CHR_Barksdale_III: "Барксдейл III"
+ ALLIANCE_CHR_Meriweather_II: "Меривезер II"
+ ALLIANCE_CHR_Scott_Jr.: "Скотт младший"
+ ALLIANCE_CHR_Taylor_Jr.: "Тейлор младший"
+ ALLIANCE_CHR_Walker_Jr.: "Уокер младший"
+ ALLIANCE_CHR_Decker: "Декер"
+ ALLIANCE_CHR_Roykirk: "Ройкирк"
+ ALLIANCE_CHR_Katz: "Кац"
+ ALLIANCE_CHR_Feldman: "Фельдман"
+ ALLIANCE_CHR_Rabinowitz: "Рабинович"
+ ALLIANCE_CHR_Lucius: "Люциус"
+ ALLIANCE_CHR_Maximus: "Максимус"
+ ALLIANCE_CHR_Valerian: "Валериана"
+ ALLIANCE_CHR_Theobald: "Теобальд"
+ ALLIANCE_CHR_Tiberius: "Тиберий"
+ ALLIANCE_CHR_Boris: "Борис"
+ ALLIANCE_CHR_Vladimir: "Владимир"
+ ALLIANCE_CHR_Valentina: "Валентина"
+ ALLIANCE_CHR_Anastasia: "Анастасия"
+ ALLIANCE_CHR_Svetlana: "Светлана"
+ ALLIANCE_CHR_Fatima: "Фатима"
+ ALLIANCE_CHR_Theodora: "Феодора"
+ ALLIANCE_CHR_Salazar: "Салазар"
+ ALLIANCE_CHR_Mountbatten: "Маунтбэттен"
+ ALLIANCE_CHR_Windsor: "Виндзор"
+ ALLIANCE_CHR_Romanov: "Романов"
+ ALLIANCE_CHR_Habsburg: "Габсбург"
+ ALLIANCE_CHR_Valery: "Валерий"
+ ALLIANCE_CHR_Nikita: "Никита"
+ ALLIANCE_CHR_Fyodor: "Федор"
+ ALLIANCE_CHR_Pavel: "Павел"
+ ALLIANCE_CHR_Vasily: "Василий"
+ ALLIANCE_CHR_Mikhail: "Михаил"
+ ALLIANCE_CHR_Igor: "Игорь"
+ ALLIANCE_CHR_Roman: "Римский"
+ ALLIANCE_CHR_Viktor: "Виктор"
+ ALLIANCE_CHR_Sergei: "Сергей"
+ ALLIANCE_CHR_Dmitri: "Дмитрий"
+ ALLIANCE_CHR_Alexei: "Алексей"
+ ALLIANCE_CHR_Pyotr: "Петр"
+ ALLIANCE_CHR_Nikolai: "Николай"
+ ALLIANCE_CHR_Ivan: "Иван"
+ ALLIANCE_CHR_Bogdan: "Богдан"
+ ALLIANCE_CHR_Artyom: "Артем"
+ ALLIANCE_CHR_Miroslav: "Мирослав"
+ ALLIANCE_CHR_Anatoli: "Анатолий"
+ ALLIANCE_CHR_Stanislav: "Станислав"
+ ALLIANCE_CHR_Aleksandr: "Александр"
+ ALLIANCE_CHR_Vyacheslav: "Вячеслав"
+ ALLIANCE_CHR_Konstantin: "Константин"
+ ALLIANCE_CHR_Andrei: "Андрей"
+ ALLIANCE_CHR_Oleg: "Олег"
+ ALLIANCE_CHR_Yuri: "Юрий"
+ ALLIANCE_CHR_Maxim: "Максим"
+ ALLIANCE_CHR_Leonid: "Леонид"
+ ALLIANCE_CHR_Vladislav: "Владислав"
+ ALLIANCE_CHR_Yegor: "Егор"
+ ALLIANCE_CHR_Ratimir: "Ратимир"
+ ALLIANCE_CHR_Lubomir: "Любомир"
+ ALLIANCE_CHR_Radoslav: "Радослав"
+ ALLIANCE_CHR_Kirill: "Кирилл"
+ ALLIANCE_CHR_Radomir: "Радомир"
+ ALLIANCE_CHR_Jaroslav: "Ярослав"
+ ALLIANCE_CHR_Ilya: "Илья"
+ ALLIANCE_CHR_Branislav: "Бранислав"
+ ALLIANCE_CHR_Elena: "Елена"
+ ALLIANCE_CHR_Lyudmila: "Людмила"
+ ALLIANCE_CHR_Polina: "Полина"
+ ALLIANCE_CHR_Miroslava: "Мирослава"
+ ALLIANCE_CHR_Galina: "Галина"
+ ALLIANCE_CHR_Irina: "Ирина"
+ ALLIANCE_CHR_Yekaterina: "Екатерина"
+ ALLIANCE_CHR_Nadya: "Надя"
+ ALLIANCE_CHR_Tatyana: "Татьяна"
+ ALLIANCE_CHR_Oksana: "Оксана"
+ ALLIANCE_CHR_Olga: "Ольга"
+ ALLIANCE_CHR_Yelena: "Елена"
+ ALLIANCE_CHR_Nadezhda: "Надежда"
+ ALLIANCE_CHR_Vlada: "Влада"
+ ALLIANCE_CHR_Natacha: "Наташа"
+ ALLIANCE_CHR_Radmila: "Радмила"
+ ALLIANCE_CHR_Ljuba: "Люба"
+ ALLIANCE_CHR_Katya: "Катя"
+ ALLIANCE_CHR_Galenka: "Галенька"
+ ALLIANCE_CHR_Alya: "Аля"
+ ALLIANCE_CHR_Arina: "Арина"
+ ALLIANCE_CHR_Nadesja: "Надежда"
+ ALLIANCE_CHR_Ksenia: "Ксения"
+ ALLIANCE_CHR_Irma: "Ирма"
+ ALLIANCE_CHR_Darya: "Дарья"
+ ALLIANCE_CHR_Marina: "Марина"
+ ALLIANCE_CHR_Mira: "Мира"
+ ALLIANCE_CHR_Sonia: "Соня"
+ ALLIANCE_CHR_Tatiana: "Татьяна"
+ ALLIANCE_CHR_Zhirov: "Жиров"
+ ALLIANCE_CHR_Yerzov: "Ерзов"
+ ALLIANCE_CHR_Dudnik: "Дудник"
+ ALLIANCE_CHR_Gryaznov: "Грязнов"
+ ALLIANCE_CHR_Volkov: "Волков"
+ ALLIANCE_CHR_Ulanov: "Уланов"
+ ALLIANCE_CHR_Vasiliev: "Васильев"
+ ALLIANCE_CHR_Kamensky: "Каменский"
+ ALLIANCE_CHR_Ivanov: "Иванов"
+ ALLIANCE_CHR_Shatalov: "Шаталов"
+ ALLIANCE_CHR_Petrenko: "Петренко"
+ ALLIANCE_CHR_Pushkov: "Пушков"
+ ALLIANCE_CHR_Komarov: "Комаров"
+ ALLIANCE_CHR_Fedorov: "Федоров"
+ ALLIANCE_CHR_Grishina: "Гришина"
+ ALLIANCE_CHR_Rychenkov: "Рыченков"
+ ALLIANCE_CHR_Polachev: "Полачев"
+ ALLIANCE_CHR_Ostrovsky: "Островский"
+ ALLIANCE_CHR_Markov: "Марков"
+ ALLIANCE_CHR_Maksimushkin: "Максимушкин"
+ ALLIANCE_CHR_Larionov: "Ларионов"
+ ALLIANCE_CHR_Kuzin: "Кузин"
+ ALLIANCE_CHR_Kolosov: "Колосов"
+ ALLIANCE_CHR_Ivannikov: "Иванников"
+ ALLIANCE_CHR_Krutov: "Крутов"
+ ALLIANCE_CHR_Kazakov: "Казаков"
+ ALLIANCE_CHR_Zhivenkov: "Живенков"
+ ALLIANCE_CHR_Alexseyev: "Алексеев"
+ ALLIANCE_CHR_Dragomirov: "Драгомиров"
+ ALLIANCE_CHR_Makarov: "Макаров"
+ ALLIANCE_CHR_Lazarev: "Лазарев"
+ ALLIANCE_CHR_Skobelev: "Скобелев"
+ ALLIANCE_CHR_Antonov: "Антонов"
+ ALLIANCE_CHR_Tvardovsky: "Твардовский"
+ ALLIANCE_CHR_Titov: "Титов"
+ ALLIANCE_CHR_Turgenev: "Тургенев"
+ ALLIANCE_CHR_Sorokin: "Сорокин"
+ ALLIANCE_CHR_Statnik: "Статник"
+ ALLIANCE_CHR_Sayanovich: "Саянович"
+ ALLIANCE_CHR_Wei: "Вэй"
+ ALLIANCE_CHR_Tian: "Тиан"
+ ALLIANCE_CHR_Tao: "Дао"
+ ALLIANCE_CHR_Song: "Песня"
+ ALLIANCE_CHR_Shi: "Ши"
+ ALLIANCE_CHR_Qiang: "Цян"
+ ALLIANCE_CHR_Peng: "Пэн"
+ ALLIANCE_CHR_Ning: "Нин"
+ ALLIANCE_CHR_Meng: "Мэн"
+ ALLIANCE_CHR_Long: "Длинный"
+ ALLIANCE_CHR_Liang: "Лян"
+ ALLIANCE_CHR_Li: "Ли"
+ ALLIANCE_CHR_Kang: "Кан"
+ ALLIANCE_CHR_Jie: "Джи"
+ ALLIANCE_CHR_Jian: "Цзянь"
+ ALLIANCE_CHR_Hui: "Хуэй"
+ ALLIANCE_CHR_Hu: "Ху"
+ ALLIANCE_CHR_Guo: "Го"
+ ALLIANCE_CHR_Gang: "Банда"
+ ALLIANCE_CHR_Feng: "Фэн"
+ ALLIANCE_CHR_Dong: "Донг"
+ ALLIANCE_CHR_De: "Де"
+ ALLIANCE_CHR_Cheng: "Ченг"
+ ALLIANCE_CHR_Cai: "Кай"
+ ALLIANCE_CHR_Bo: "Бо"
+ ALLIANCE_CHR_Bao: "Бао"
+ ALLIANCE_CHR_An: "Ан"
+ ALLIANCE_CHR_Wu: "Ву"
+ ALLIANCE_CHR_Xiong: "Сюн"
+ ALLIANCE_CHR_Yi: "И"
+ ALLIANCE_CHR_Yong: "Йонг"
+ ALLIANCE_CHR_You: "Ты"
+ ALLIANCE_CHR_Xian: "Сиань"
+ ALLIANCE_CHR_Xia: "Ся"
+ ALLIANCE_CHR_Wen: "Вэнь"
+ ALLIANCE_CHR_Ting: "Тинг"
+ ALLIANCE_CHR_Shu: "Шу"
+ ALLIANCE_CHR_Shan: "Шан"
+ ALLIANCE_CHR_Qing: "Цин"
+ ALLIANCE_CHR_Qiao: "Цяо"
+ ALLIANCE_CHR_Qian: "Цянь"
+ ALLIANCE_CHR_Ni: "ни"
+ ALLIANCE_CHR_Na: "На"
+ ALLIANCE_CHR_Mei: "Мэй"
+ ALLIANCE_CHR_Lin: "Лин"
+ ALLIANCE_CHR_Lian: "Лиан"
+ ALLIANCE_CHR_Lan: "Лан"
+ ALLIANCE_CHR_Juan: "Хуан"
+ ALLIANCE_CHR_Ju: "Джу"
+ ALLIANCE_CHR_Jiao: "Цзяо"
+ ALLIANCE_CHR_Huan: "Хуан"
+ ALLIANCE_CHR_Hua: "Хуа"
+ ALLIANCE_CHR_Hong: "Хонг"
+ ALLIANCE_CHR_Fang: "Клык"
+ ALLIANCE_CHR_Dan: "Дэн"
+ ALLIANCE_CHR_Dai: "Дай"
+ ALLIANCE_CHR_Chan: "Чан"
+ ALLIANCE_CHR_Cui: "Цуй"
+ ALLIANCE_CHR_Bi: "би"
+ ALLIANCE_CHR_Ai: "Ай"
+ ALLIANCE_CHR_Zi: "Зи"
+ ALLIANCE_CHR_Zhu: "Чжу"
+ ALLIANCE_CHR_Zhi: "Чжи"
+ ALLIANCE_CHR_Zhen: "Жень"
+ ALLIANCE_CHR_Yun: "Юн"
+ ALLIANCE_CHR_Yuan: "Юань"
+ ALLIANCE_CHR_Yu: "Ю"
+ ALLIANCE_CHR_Ying: "Ин"
+ ALLIANCE_CHR_Yan: "Ян"
+ ALLIANCE_CHR_Xue: "Сюэ"
+ ALLIANCE_CHR_Xiu: "Сю"
+ ALLIANCE_CHR_Xiang: "Сян"
+ ALLIANCE_CHR_Situ: "Ситу"
+ ALLIANCE_CHR_Ouyang: "Оуян"
+ ALLIANCE_CHR_Zhuge: "Чжугэ"
+ ALLIANCE_CHR_Sima: "Сима"
+ ALLIANCE_CHR_Pan: "Кастрюля"
+ ALLIANCE_CHR_Kong: "Конг"
+ ALLIANCE_CHR_Wan: "Ван"
+ ALLIANCE_CHR_Gao: "Гао"
+ ALLIANCE_CHR_Deng: "Дэн"
+ ALLIANCE_CHR_He: "Он"
+ ALLIANCE_CHR_Tan: "Тан"
+ ALLIANCE_CHR_Shen: "Шен"
+ ALLIANCE_CHR_Mao: "Мао"
+ ALLIANCE_CHR_Yang: "Ян"
+ ALLIANCE_CHR_Wang: "Ван"
+ ALLIANCE_CHR_Xie: "Се"
+ ALLIANCE_CHR_Xu: "Сюй"
+ ALLIANCE_CHR_Zheng: "Чжэн"
+ ALLIANCE_CHR_Lu: "Лу"
+ ALLIANCE_CHR_Kuang: "Куанг"
+ ALLIANCE_CHR_Luo: "Луо"
+ ALLIANCE_CHR_Zhang: "Чжан"
+ ALLIANCE_CHR_Zhao: "Чжао"
+ ALLIANCE_CHR_Huang: "Хуанг"
+ ALLIANCE_CHR_Rolf: "Рольф"
+ ALLIANCE_CHR_Kurt: "Курт"
+ ALLIANCE_CHR_Helmuth: "Гельмут"
+ ALLIANCE_CHR_Wolfgang: "Вольфганг"
+ ALLIANCE_CHR_Gunther: "Гюнтер"
+ ALLIANCE_CHR_Werner: "Вернер"
+ ALLIANCE_CHR_Hermann: "Германн"
+ ALLIANCE_CHR_Ernst: "Эрнст"
+ ALLIANCE_CHR_Max: "Макс"
+ ALLIANCE_CHR_Gustav: "Густав"
+ ALLIANCE_CHR_Hans: "Ганс"
+ ALLIANCE_CHR_Friedrich: "Фридрих"
+ ALLIANCE_CHR_Heinrich: "Генрих"
+ ALLIANCE_CHR_Otto: "Отто"
+ ALLIANCE_CHR_Wilhelm: "Вильгельм"
+ ALLIANCE_CHR_Karl: "Карл"
+ ALLIANCE_CHR_Erich: "Эрих"
+ ALLIANCE_CHR_Johann: "Иоганн"
+ ALLIANCE_CHR_Fritz: "Фриц"
+ ALLIANCE_CHR_Lukas: "Лукас"
+ ALLIANCE_CHR_Stefan: "Стефан"
+ ALLIANCE_CHR_Andreas: "Андреас"
+ ALLIANCE_CHR_Dieter: "Дитер"
+ ALLIANCE_CHR_Jurgen: "Юрген"
+ ALLIANCE_CHR_Uwe: "Уве"
+ ALLIANCE_CHR_Manfred: "Манфред"
+ ALLIANCE_CHR_Horst: "Горст"
+ ALLIANCE_CHR_Heinz: "Хайнц"
+ ALLIANCE_CHR_Gerhard: "Герхард"
+ ALLIANCE_CHR_Klaus: "Клаус"
+ ALLIANCE_CHR_Reinhard: "Райнхард"
+ ALLIANCE_CHR_Moritz: "Мориц"
+ ALLIANCE_CHR_Matthias: "Матиас"
+ ALLIANCE_CHR_Ludwig: "Людвиг"
+ ALLIANCE_CHR_Lothar: "Лотар"
+ ALLIANCE_CHR_Konrad: "Конрад"
+ ALLIANCE_CHR_Joachim: "Иоахим"
+ ALLIANCE_CHR_Holger: "Хольгер"
+ ALLIANCE_CHR_Gottfried: "Готфрид"
+ ALLIANCE_CHR_Gerhardt: "Герхардт"
+ ALLIANCE_CHR_Emil: "Эмиль"
+ ALLIANCE_CHR_Axel: "Аксель"
+ ALLIANCE_CHR_Jorg: "Йорг"
+ ALLIANCE_CHR_Erhard: "Эрхард"
+ ALLIANCE_CHR_Rudolf: "Рудольф"
+ ALLIANCE_CHR_Franz: "Франц"
+ ALLIANCE_CHR_Bruno: "Бруно"
+ ALLIANCE_CHR_Udo: "Ты делаешь"
+ ALLIANCE_CHR_Ulrich: "Ульрих"
+ ALLIANCE_CHR_Sigismund: "Сигизмунд"
+ ALLIANCE_CHR_Erika: "Эрика"
+ ALLIANCE_CHR_Sabine: "Сабина"
+ ALLIANCE_CHR_Heike: "Хайке"
+ ALLIANCE_CHR_Martina: "Мартина"
+ ALLIANCE_CHR_Birgit: "Биргит"
+ ALLIANCE_CHR_Katrin: "Катрин"
+ ALLIANCE_CHR_Anja: "Аня"
+ ALLIANCE_CHR_Andrea: "Андреа"
+ ALLIANCE_CHR_Stefanie: "Стефани"
+ ALLIANCE_CHR_Jessika: "Джессика"
+ ALLIANCE_CHR_Ilse: "Ильзе"
+ ALLIANCE_CHR_Ingrid: "Ингрид"
+ ALLIANCE_CHR_Gisela: "Гизела"
+ ALLIANCE_CHR_Ursula: "Урсула"
+ ALLIANCE_CHR_Helga: "Хельга"
+ ALLIANCE_CHR_Elsa: "Эльза:"
+ ALLIANCE_CHR_Christel: "Кристель"
+ ALLIANCE_CHR_Angelika: "Анжелика"
+ ALLIANCE_CHR_Marith: "Марит"
+ ALLIANCE_CHR_Lina: "Лина"
+ ALLIANCE_CHR_Sara: "Сара"
+ ALLIANCE_CHR_Wibke: "Вибке"
+ ALLIANCE_CHR_Bettina: "Беттина"
+ ALLIANCE_CHR_Renate: "Рената"
+ ALLIANCE_CHR_Annike: "Аннике"
+ ALLIANCE_CHR_Silvia: "Сильвия"
+ ALLIANCE_CHR_Claudia: "Клаудия"
+ ALLIANCE_CHR_Katharina: "Катарина"
+ ALLIANCE_CHR_Lena: "Лена"
+ ALLIANCE_CHR_Anita: "Анита"
+ ALLIANCE_CHR_Johanna: "Джоанна"
+ ALLIANCE_CHR_Kerstin: "Керстин"
+ ALLIANCE_CHR_Lisbeth: "Лисбет"
+ ALLIANCE_CHR_Wilhelmina: "Вильгельмина"
+ ALLIANCE_CHR_Gertrude: "Гертруда"
+ ALLIANCE_CHR_Hildegard: "Хильдегард"
+ ALLIANCE_CHR_Hilde: "Хильде"
+ ALLIANCE_CHR_Gretchen: "Гретхен"
+ ALLIANCE_CHR_Grasser: "Грассер"
+ ALLIANCE_CHR_Dietrich: "Дитрих"
+ ALLIANCE_CHR_Brill: "Брилл"
+ ALLIANCE_CHR_Brinkmann: "Бринкманн"
+ ALLIANCE_CHR_Hoffmann: "Хоффманн"
+ ALLIANCE_CHR_Schulz: "Шульц"
+ ALLIANCE_CHR_Wagner: "Вагнер"
+ ALLIANCE_CHR_Meyer: "Мейер"
+ ALLIANCE_CHR_Weber: "Вебер"
+ ALLIANCE_CHR_Fischer: "Фишер"
+ ALLIANCE_CHR_Schmidt: "Шмидт"
+ ALLIANCE_CHR_Muller: "Мюллер"
+ ALLIANCE_CHR_Schafer: "Шефер"
+ ALLIANCE_CHR_Klein: "Клейн"
+ ALLIANCE_CHR_Wolf: "Волк"
+ ALLIANCE_CHR_Dreyer: "Дрейер"
+ ALLIANCE_CHR_von_Falkenstein: "фон Фалькенштейн"
+ ALLIANCE_CHR_von_Boyen: "фон Бойен"
+ ALLIANCE_CHR_von_Halkett: "фон Халкетт"
+ ALLIANCE_CHR_von_Wrangel: "фон Врангель"
+ ALLIANCE_CHR_von_Fritsch: "фон Фрич"
+ ALLIANCE_CHR_von_Gebser: "фон Гебсер"
+ ALLIANCE_CHR_Andbert: "Андберт"
+ ALLIANCE_CHR_Bergmeister: "Бергмейстер"
+ ALLIANCE_CHR_Kreutz: "Кройц"
+ ALLIANCE_CHR_Sauer: "Зауэр"
+ ALLIANCE_CHR_Brandt: "Брандт"
+ ALLIANCE_CHR_Ziegler: "Циглер"
+ ALLIANCE_CHR_Baumann: "Бауманн"
+ ALLIANCE_CHR_Schubert: "Шуберт"
+ ALLIANCE_CHR_Keller: "Келлер"
+ ALLIANCE_CHR_Stein: "Штейн"
+ ALLIANCE_CHR_Schwarz: "Шварц"
+ ALLIANCE_CHR_Braun: "Браун"
+ ALLIANCE_CHR_Neumann: "Нойманн"
+ ALLIANCE_CHR_Jacques: "Жак"
+ ALLIANCE_CHR_Yves: "Ив"
+ ALLIANCE_CHR_Claude: "Клод"
+ ALLIANCE_CHR_Rene: "Рене"
+ ALLIANCE_CHR_Maurice: "Морис"
+ ALLIANCE_CHR_Jean: "Жан"
+ ALLIANCE_CHR_Marc: "Марк"
+ ALLIANCE_CHR_Henri: "Анри"
+ ALLIANCE_CHR_Michel: "Мишель"
+ ALLIANCE_CHR_Antoine: "Антуан"
+ ALLIANCE_CHR_Hubert: "Хьюберт"
+ ALLIANCE_CHR_Francois: "Франсуа"
+ ALLIANCE_CHR_Marcel: "Марсель"
+ ALLIANCE_CHR_JeanMarie: "Жан-Мари"
+ ALLIANCE_CHR_Pierre: "Пьер"
+ ALLIANCE_CHR_Philippe: "Филипп"
+ ALLIANCE_CHR_JeanPaul: "Жан-Поль"
+ ALLIANCE_CHR_Lucien: "Люсьен"
+ ALLIANCE_CHR_JeanFrancois: "Жан-Франсуа"
+ ALLIANCE_CHR_Mathieu: "Матье"
+ ALLIANCE_CHR_Patrice: "Патрис"
+ ALLIANCE_CHR_Guy: "Парень"
+ ALLIANCE_CHR_Thierry: "Тьерри"
+ ALLIANCE_CHR_Gaston: "Гастон"
+ ALLIANCE_CHR_Andre: "Андре"
+ ALLIANCE_CHR_Georges: "Жорж"
+ ALLIANCE_CHR_Olivier: "Оливье"
+ ALLIANCE_CHR_Hugo: "Хьюго"
+ ALLIANCE_CHR_Sebastien: "Себастьен"
+ ALLIANCE_CHR_Luc: "Люк"
+ ALLIANCE_CHR_Thibault: "Тибо"
+ ALLIANCE_CHR_Elina: "Элина"
+ ALLIANCE_CHR_Yasmine: "Ясмин"
+ ALLIANCE_CHR_Justine: "Жюстин"
+ ALLIANCE_CHR_Elise: "Элиза"
+ ALLIANCE_CHR_Nina: "Нина"
+ ALLIANCE_CHR_Marie: "МариЭ"
+ ALLIANCE_CHR_Jeanne: "Жанна"
+ ALLIANCE_CHR_Clemence: "Клеманс"
+ ALLIANCE_CHR_Juliette: "Джульетта"
+ ALLIANCE_CHR_Camille: "Камилла"
+ ALLIANCE_CHR_Manon: "Манон"
+ ALLIANCE_CHR_Ines: "Инес"
+ ALLIANCE_CHR_Celine: "Селин"
+ ALLIANCE_CHR_Angeline: "Анджелина"
+ ALLIANCE_CHR_Bernadette: "Бернадетт"
+ ALLIANCE_CHR_Helena: "Елена"
+ ALLIANCE_CHR_Veronique: "Вероник"
+ ALLIANCE_CHR_Leila: "Лейла"
+ ALLIANCE_CHR_Fanny: "Фанни"
+ ALLIANCE_CHR_Clarisse: "Кларисса"
+ ALLIANCE_CHR_Eleonore: "Элеонора"
+ ALLIANCE_CHR_Jeanette: "Жанетт"
+ ALLIANCE_CHR_Viviane: "Вивиан"
+ ALLIANCE_CHR_Pauline: "Полина"
+ ALLIANCE_CHR_Gauthier: "Готье"
+ ALLIANCE_CHR_Bouchard: "Бушар"
+ ALLIANCE_CHR_Gagnon: "Ганьон"
+ ALLIANCE_CHR_Tremblay: "Тремблей"
+ ALLIANCE_CHR_Renard: "Ренар"
+ ALLIANCE_CHR_Laurent: "Лоран"
+ ALLIANCE_CHR_Leclerc: "Леклерк"
+ ALLIANCE_CHR_Dupont: "Дюпон"
+ ALLIANCE_CHR_Lambert: "Ламберт"
+ ALLIANCE_CHR_Moreau: "Моро"
+ ALLIANCE_CHR_Leroy: "Лерой"
+ ALLIANCE_CHR_Durand: "Дюран"
+ ALLIANCE_CHR_Dubois: "Дюбуа"
+ ALLIANCE_CHR_Paquette: "Пакет"
+ ALLIANCE_CHR_Bergeron: "Бержерон"
+ ALLIANCE_CHR_Jauvin: "Жовен"
+ ALLIANCE_CHR_Duchaine: "Дюшен"
+ ALLIANCE_CHR_Gerard: "Джерард"
+ ALLIANCE_CHR_Deville: "Девиль"
+ ALLIANCE_CHR_Le_Roux: "Ле Ру"
+ ALLIANCE_CHR_Le_Gall: "Ле Галль"
+ ALLIANCE_CHR_Hebert: "Эбер"
+ ALLIANCE_CHR_Duval: "Дюваль"
+ ALLIANCE_CHR_Gagne: "Ганье"
+ ALLIANCE_CHR_Fortin: "Фортин"
+ ALLIANCE_CHR_Lavoie: "Лавуа"
+ ALLIANCE_CHR_Morin: "Морин"
+ ALLIANCE_CHR_Deveraux: "Деверо"
+ ALLIANCE_CHR_Pellissier: "Пелисье"
+ ALLIANCE_CHR_Lebouef: "Лебуф"
+ ALLIANCE_CHR_de_Montaignac: "де Монтеньяк"
+ ALLIANCE_CHR_de_Castelnau: "де Кастельно"
+ ALLIANCE_CHR_Bosquet: "Боскет"
+ ALLIANCE_CHR_Giroud: "Жиру"
+ ALLIANCE_CHR_Remy: "Реми"
+ ALLIANCE_CHR_Pelletier: "Пеллетье"
+ ALLIANCE_CHR_Yoshinobu: "Ёсинобу"
+ ALLIANCE_CHR_Kosei: "Косей"
+ ALLIANCE_CHR_Yushin: "Yushin"
+ ALLIANCE_CHR_Haru: "Хару"
+ ALLIANCE_CHR_Ryuto: "Ryuto"
+ ALLIANCE_CHR_Tatsuki: "Tatsuki"
+ ALLIANCE_CHR_Rikuto: "Rikuto"
+ ALLIANCE_CHR_Takeru: "Takeru"
+ ALLIANCE_CHR_Yuma: "Юма"
+ ALLIANCE_CHR_Sota: "Сота"
+ ALLIANCE_CHR_Yuuto: "Юто"
+ ALLIANCE_CHR_Shota: "Шота"
+ ALLIANCE_CHR_Minato: "Минато"
+ ALLIANCE_CHR_Ren: "Рен"
+ ALLIANCE_CHR_Tsubasa: "Tsubasa"
+ ALLIANCE_CHR_Takumi: "Takumi"
+ ALLIANCE_CHR_Hikaru: "Hikaru"
+ ALLIANCE_CHR_Hiroto: "Хирото"
+ ALLIANCE_CHR_Koichiro: "Коичиро"
+ ALLIANCE_CHR_Kentaro: "Кентаро"
+ ALLIANCE_CHR_Koshiro: "Koshiro"
+ ALLIANCE_CHR_Yoshi: "Йоши"
+ ALLIANCE_CHR_Junichi: "Джуничи"
+ ALLIANCE_CHR_Saburo: "Сабуро"
+ ALLIANCE_CHR_Keisuke: "Keisuke"
+ ALLIANCE_CHR_Mitsue: "Mitsue"
+ ALLIANCE_CHR_Yoshida: "Ёсида"
+ ALLIANCE_CHR_Hiroshi: "Хироши"
+ ALLIANCE_CHR_Jiro: "Дзиро"
+ ALLIANCE_CHR_Yusuki: "Yusuki"
+ ALLIANCE_CHR_Hiyori: "Хиёри"
+ ALLIANCE_CHR_Ichika: "Ичика"
+ ALLIANCE_CHR_Saki: "Саки"
+ ALLIANCE_CHR_Hinata: "Хината"
+ ALLIANCE_CHR_Koharu: "Koharu"
+ ALLIANCE_CHR_Yuna: "Юна"
+ ALLIANCE_CHR_Riko: "Рико"
+ ALLIANCE_CHR_Honoka: "Хонока"
+ ALLIANCE_CHR_Hina: "Хина"
+ ALLIANCE_CHR_Yui: "Юи"
+ ALLIANCE_CHR_Nanami: "Нанами"
+ ALLIANCE_CHR_Rin: "Рин"
+ ALLIANCE_CHR_Miyu: "Мию"
+ ALLIANCE_CHR_Mihane: "Михане"
+ ALLIANCE_CHR_Aoi: "Аой"
+ ALLIANCE_CHR_Misaki: "Мисаки"
+ ALLIANCE_CHR_Sakura: "Сакура"
+ ALLIANCE_CHR_Haruna: "Харуна"
+ ALLIANCE_CHR_Kimiko: "Кимико"
+ ALLIANCE_CHR_Kazumi: "Kazumi"
+ ALLIANCE_CHR_Noriko: "Норико"
+ ALLIANCE_CHR_Aomame: "Aomame"
+ ALLIANCE_CHR_Yume: "Yume"
+ ALLIANCE_CHR_Himari: "Himari"
+ ALLIANCE_CHR_Momoka: "Момока"
+ ALLIANCE_CHR_Hana: "Хана"
+ ALLIANCE_CHR_Kaho: "Кахо"
+ ALLIANCE_CHR_Ayane: "Аяне"
+ ALLIANCE_CHR_Natsuki: "Нацуки"
+ ALLIANCE_CHR_Shiori: "Шиори"
+ ALLIANCE_CHR_Matsumoto: "Matsumoto"
+ ALLIANCE_CHR_Yamaguchi: "Ямагучи"
+ ALLIANCE_CHR_Sasaki: "Сасаки"
+ ALLIANCE_CHR_Yamada: "Ямада"
+ ALLIANCE_CHR_Kato: "Като"
+ ALLIANCE_CHR_Yamamoto: "Ямамото"
+ ALLIANCE_CHR_Kobayashi: "Кобаяши"
+ ALLIANCE_CHR_Nakamura: "Накамура"
+ ALLIANCE_CHR_Ito: "Ито"
+ ALLIANCE_CHR_Watanabe: "Ватанабэ"
+ ALLIANCE_CHR_Tanaka: "Tanaka"
+ ALLIANCE_CHR_Takahashi: "Такахаши"
+ ALLIANCE_CHR_Suzuki: "Suzuki"
+ ALLIANCE_CHR_Sato: "Сато"
+ ALLIANCE_CHR_Hasegawa: "Hasegawa"
+ ALLIANCE_CHR_Ishii: "Исии"
+ ALLIANCE_CHR_Ogawa: "Огава"
+ ALLIANCE_CHR_Yamashita: "Ямасита"
+ ALLIANCE_CHR_Ishikawa: "Исикава"
+ ALLIANCE_CHR_Hashimoto: "Хашимото"
+ ALLIANCE_CHR_Ikeda: "Икеда"
+ ALLIANCE_CHR_Abe: "Абэ"
+ ALLIANCE_CHR_Mori: "Мори"
+ ALLIANCE_CHR_Nakajima: "Nakajima"
+ ALLIANCE_CHR_Yamazaki: "Ямадзаки"
+ ALLIANCE_CHR_Saito: "Сайто"
+ ALLIANCE_CHR_Hayashi: "Hayashi"
+ ALLIANCE_CHR_Shimizu: "Shimizu"
+ ALLIANCE_CHR_Kimura: "Kimura"
+ ALLIANCE_CHR_Inoue: "Иноуэ"
+ ALLIANCE_CHR_Ota: "Ота"
+ ALLIANCE_CHR_Higuchi: "Higuchi"
+ ALLIANCE_CHR_Amano: "Амано"
+ ALLIANCE_CHR_Takaya: "Такая"
+ ALLIANCE_CHR_Miura: "Миура"
+ ALLIANCE_CHR_Okamoto: "Okamoto"
+ ALLIANCE_CHR_Harada: "Харада"
+ ALLIANCE_CHR_Nakagawa: "Накагава"
+ ALLIANCE_CHR_Nishimura: "Нисимура"
+ ALLIANCE_CHR_Murakami: "Мураками"
+ ALLIANCE_CHR_Sakamoto: "Сакамото"
+ ALLIANCE_CHR_Fujita: "Fujita"
+ ALLIANCE_CHR_Okada: "Окада"
+ ALLIANCE_CHR_Goto: "Идти к"
+ ALLIANCE_CHR_Norinaga: "Norinaga"
+ ALLIANCE_CHR_Hironari: "Hironari"
+ ALLIANCE_CHR_Anaho: "Анахо"
+ ALLIANCE_CHR_Mimatsuhiko: "Mimatsuhiko"
+ ALLIANCE_CHR_Nekuhiko: "Nekuhiko"
+ ALLIANCE_CHR_Teruhito: "Teruhito"
+ ALLIANCE_CHR_Toshiko: "Тошико"
+ ALLIANCE_CHR_Okiko: "Okiko"
+ ALLIANCE_CHR_Takama: "Такама"
+ ALLIANCE_CHR_Hidaka: "Хидака"
+ ALLIANCE_CHR_Niinomi: "Нииноми"
+ ALLIANCE_CHR_Takara: "Такара"
+ ALLIANCE_CHR_Toyomike: "Toyomike"
+ ALLIANCE_CHR_Nukatabe: "Нукатабе"
+ ALLIANCE_CHR_Yamato: "Yamato"
+ ALLIANCE_CHR_Mononobe: "мононобе"
+ ALLIANCE_CHR_Suijin: "Suijin"
+ ALLIANCE_CHR_Otomo: "Отомо"
+ ALLIANCE_CHR_Sumeramikoto: "Sumeramikoto"
+ ALLIANCE_CHR_no_Mikoto: "no Mikoto"
+ ALLIANCE_CHR_Aarush: "Ааруш"
+ ALLIANCE_CHR_Ritvik: "Ритвик"
+ ALLIANCE_CHR_Kabir: "Кабир"
+ ALLIANCE_CHR_Dhruv: "Друв"
+ ALLIANCE_CHR_Advaith: "Адвайт"
+ ALLIANCE_CHR_Pranav: "Пранав"
+ ALLIANCE_CHR_Advik: "Адвик"
+ ALLIANCE_CHR_Atharv: "Атхарв"
+ ALLIANCE_CHR_Shaurya: "Шаурья"
+ ALLIANCE_CHR_Ishaan: "Ишаан"
+ ALLIANCE_CHR_Krishna: "Кришна"
+ ALLIANCE_CHR_Arnav: "Арнав"
+ ALLIANCE_CHR_Reyansh: "Рейанш"
+ ALLIANCE_CHR_Arjun: "Арджун"
+ ALLIANCE_CHR_Aditya: "Адитья"
+ ALLIANCE_CHR_Vivaan: "Виваан"
+ ALLIANCE_CHR_Aarav: "Аарав"
+ ALLIANCE_CHR_Shubham: "Шубхам"
+ ALLIANCE_CHR_Prathamesh: "Пратамеш"
+ ALLIANCE_CHR_Neeraj: "Нирадж"
+ ALLIANCE_CHR_Nishant: "Нишант"
+ ALLIANCE_CHR_Rakesh: "Ракеш"
+ ALLIANCE_CHR_Palash: "Палаш"
+ ALLIANCE_CHR_Kumar: "Кумар"
+ ALLIANCE_CHR_Raj: "Радж"
+ ALLIANCE_CHR_Shyam: "Шьям"
+ ALLIANCE_CHR_Mahesh: "Махеш"
+ ALLIANCE_CHR_Rahul: "Рахул"
+ ALLIANCE_CHR_Veer: "Вир"
+ ALLIANCE_CHR_Darsh: "Дарш"
+ ALLIANCE_CHR_Kayaan: "Каяан"
+ ALLIANCE_CHR_Akshara: "Акшара"
+ ALLIANCE_CHR_Anaya: "Анайя"
+ ALLIANCE_CHR_Aarohi: "Аарохи"
+ ALLIANCE_CHR_Riya: "Рия"
+ ALLIANCE_CHR_Prisha: "Приша"
+ ALLIANCE_CHR_Anvi: "Анви"
+ ALLIANCE_CHR_Aahana: "Ахана"
+ ALLIANCE_CHR_Ira: "Ира"
+ ALLIANCE_CHR_Myra: "Майра"
+ ALLIANCE_CHR_Avani: "Авани"
+ ALLIANCE_CHR_Diya: "Дия"
+ ALLIANCE_CHR_Navya: "Навья"
+ ALLIANCE_CHR_Anika: "Аника"
+ ALLIANCE_CHR_Pari: "Пари"
+ ALLIANCE_CHR_Ananya: "Ананья"
+ ALLIANCE_CHR_Aaradhya: "Аарадья"
+ ALLIANCE_CHR_Aadhya: "Адья"
+ ALLIANCE_CHR_Aanya: "Ааня"
+ ALLIANCE_CHR_Saanvi: "Саанви"
+ ALLIANCE_CHR_Sanjana: "Санджана"
+ ALLIANCE_CHR_Apoorva: "Апурва"
+ ALLIANCE_CHR_Anushri: "Анушри"
+ ALLIANCE_CHR_Anoushka: "Анушка"
+ ALLIANCE_CHR_Juvina: "Ювина"
+ ALLIANCE_CHR_Shivangi: "Шиванги"
+ ALLIANCE_CHR_Mahima: "Махима"
+ ALLIANCE_CHR_Divya: "Дивья"
+ ALLIANCE_CHR_Priyanka: "Приянка"
+ ALLIANCE_CHR_Siya: "Сия"
+ ALLIANCE_CHR_Kyra: "Кира"
+ ALLIANCE_CHR_Shanaya: "Шанайя"
+ ALLIANCE_CHR_Naik: "Наик"
+ ALLIANCE_CHR_Chowta: "Човта"
+ ALLIANCE_CHR_Upadhyay: "Упадхьяй"
+ ALLIANCE_CHR_Poojary: "Пуджари"
+ ALLIANCE_CHR_Bhandary: "Бандари"
+ ALLIANCE_CHR_Bhat: "Бхат"
+ ALLIANCE_CHR_Desmukh: "Десмух"
+ ALLIANCE_CHR_Nayak: "Наяк"
+ ALLIANCE_CHR_Gowda: "Гауда"
+ ALLIANCE_CHR_Pillai: "Пиллаи"
+ ALLIANCE_CHR_Swamy: "Свами"
+ ALLIANCE_CHR_Acharya: "Ачарья"
+ ALLIANCE_CHR_Prasad: "Прасад"
+ ALLIANCE_CHR_Shastri: "Шастри"
+ ALLIANCE_CHR_Moorthi: "Мурти"
+ ALLIANCE_CHR_Vijay: "Виджай"
+ ALLIANCE_CHR_Chandran: "Чандран"
+ ALLIANCE_CHR_Sooriyaprakash: "Сурияпракаш"
+ ALLIANCE_CHR_Sondharam: "Сондхарам"
+ ALLIANCE_CHR_Varma: "Варма"
+ ALLIANCE_CHR_Kutty: "Катти"
+ ALLIANCE_CHR_Potti: "Потти"
+ ALLIANCE_CHR_Pannikar: "Панникар"
+ ALLIANCE_CHR_Namboodiri: "Намбудири"
+ ALLIANCE_CHR_Sharma: "Шарма"
+ ALLIANCE_CHR_Gupta: "Гупта"
+ ALLIANCE_CHR_Patil: "Патил"
+ ALLIANCE_CHR_Dodamani: "Додамани"
+ ALLIANCE_CHR_Kulkarni: "Кулкарни"
+ ALLIANCE_CHR_Puttappa: "Путтаппа"
+ ALLIANCE_CHR_Venktaesan: "Венктэсан"
+ ALLIANCE_CHR_Jose_Manuel: "Хосе_Мануэль"
+ ALLIANCE_CHR_Jose_Antonio: "Хосе_Антонио"
+ ALLIANCE_CHR_Julio: "Хулио"
+ ALLIANCE_CHR_Francisco: "Франциско"
+ ALLIANCE_CHR_Fernando: "Фернандо"
+ ALLIANCE_CHR_Carlos: "Карлос"
+ ALLIANCE_CHR_Alejandro: "Алехандро"
+ ALLIANCE_CHR_Eduardo: "Эдуардо"
+ ALLIANCE_CHR_Emilio: "Эмилио"
+ ALLIANCE_CHR_Jose: "Хосе"
+ ALLIANCE_CHR_Joaquin: "Хоакин"
+ ALLIANCE_CHR_Pedro: "Педро"
+ ALLIANCE_CHR_Luis: "Луис"
+ ALLIANCE_CHR_Diego: "Диего"
+ ALLIANCE_CHR_Enrique: "Энрике"
+ ALLIANCE_CHR_Lorenzo: "Лоренцо"
+ ALLIANCE_CHR_Alfonso: "Альфонсо"
+ ALLIANCE_CHR_Gaspar: "Гаспар"
+ ALLIANCE_CHR_Javier: "Хавьер"
+ ALLIANCE_CHR_Marcelo: "Марсело"
+ ALLIANCE_CHR_Ricardo: "Рикардо"
+ ALLIANCE_CHR_Santiago: "Сантьяго"
+ ALLIANCE_CHR_Raimundo: "Раймундо"
+ ALLIANCE_CHR_Ramon: "Рамон"
+ ALLIANCE_CHR_Miguel: "Мигель"
+ ALLIANCE_CHR_Pablo: "Пабло"
+ ALLIANCE_CHR_Manuel: "Мануэль"
+ ALLIANCE_CHR_Ignacio: "Игнасио"
+ ALLIANCE_CHR_Jose_Maria: "Хосе_Мария"
+ ALLIANCE_CHR_Esteban: "Эстебан"
+ ALLIANCE_CHR_Roberto: "Роберто"
+ ALLIANCE_CHR_Sergio: "Серхио"
+ ALLIANCE_CHR_Salvadore: "Сальвадор"
+ ALLIANCE_CHR_Jesus: "Иисус"
+ ALLIANCE_CHR_Guillermo: "Гильермо"
+ ALLIANCE_CHR_Gerardo: "Херардо"
+ ALLIANCE_CHR_Ernesto: "Эрнесто"
+ ALLIANCE_CHR_Florencia: "Флоренсия"
+ ALLIANCE_CHR_Fernanda: "Фернанда"
+ ALLIANCE_CHR_Eva: "Ева"
+ ALLIANCE_CHR_Estefania: "Эстефания"
+ ALLIANCE_CHR_Catalina: "Каталина"
+ ALLIANCE_CHR_Carla: "Карла"
+ ALLIANCE_CHR_Antonia: "Антония"
+ ALLIANCE_CHR_Alicia: "Алисия"
+ ALLIANCE_CHR_Alejandra: "Алехандра"
+ ALLIANCE_CHR_Isabel: "Изабель"
+ ALLIANCE_CHR_Hortensia: "Гортензия"
+ ALLIANCE_CHR_Daniela: "Даниэла"
+ ALLIANCE_CHR_Mariana: "Мариана"
+ ALLIANCE_CHR_Valeria: "Валерия"
+ ALLIANCE_CHR_Luciana: "Лучиана"
+ ALLIANCE_CHR_Camila: "Камила"
+ ALLIANCE_CHR_Yolanda: "Иоланда"
+ ALLIANCE_CHR_Sofia: "София"
+ ALLIANCE_CHR_Paulina: "Паулина"
+ ALLIANCE_CHR_Magdalena: "Магдалена"
+ ALLIANCE_CHR_Lorena: "Лорена"
+ ALLIANCE_CHR_Grizelda: "Гризельда"
+ ALLIANCE_CHR_Gabriela: "Габриэла"
+ ALLIANCE_CHR_Fabiana: "Фабиана"
+ ALLIANCE_CHR_Constanza: "Констанца"
+ ALLIANCE_CHR_Agustina: "Агустина"
+ ALLIANCE_CHR_Renata: "Рената"
+ ALLIANCE_CHR_Antonella: "Антонелла"
+ ALLIANCE_CHR_Julieta: "Джульетта"
+ ALLIANCE_CHR_Hernandez: "Эрнандес"
+ ALLIANCE_CHR_Dominguez: "Домингес"
+ ALLIANCE_CHR_Diaz: "Диас"
+ ALLIANCE_CHR_Gomez: "Гомес"
+ ALLIANCE_CHR_Alvarez: "Альварес"
+ ALLIANCE_CHR_Gonzalez: "Гонсалес"
+ ALLIANCE_CHR_Perez: "Перес"
+ ALLIANCE_CHR_Lopez: "Лопес"
+ ALLIANCE_CHR_Sanchez: "SanchezE"
+ ALLIANCE_CHR_Fernandez: "Фернандес"
+ ALLIANCE_CHR_Rodriguez: "Родригес"
+ ALLIANCE_CHR_Martinez: "Мартинес"
+ ALLIANCE_CHR_Garcia: "Гарсия"
+ ALLIANCE_CHR_de_la_Vega: "де ла Вега"
+ ALLIANCE_CHR_de_la_Cruz: "де ла Круз"
+ ALLIANCE_CHR_de_la_Guardia: "de_la_Guardia"
+ ALLIANCE_CHR_Flores: "Флорес"
+ ALLIANCE_CHR_Esguerra: "Эсгерра"
+ ALLIANCE_CHR_Batista: "Батиста"
+ ALLIANCE_CHR_Alonso: "Алонсо"
+ ALLIANCE_CHR_Aguera: "Агуэра"
+ ALLIANCE_CHR_Ruiz: "Руис"
+ ALLIANCE_CHR_Vasquez: "Васкес"
+ ALLIANCE_CHR_Mendez: "Мендес"
+ ALLIANCE_CHR_Ramirez: "Рамирес"
+ ALLIANCE_CHR_Romero: "Ромеро"
+ ALLIANCE_CHR_Solano: "Солано"
+ ALLIANCE_CHR_Ortiz: "Ортис"
+ ALLIANCE_CHR_Ortega: "Ортега"
+ ALLIANCE_CHR_Saldana: "Салдана"
+ ALLIANCE_CHR_Quesada: "Кесада"
+ ALLIANCE_CHR_Torres: "Торрес"
+ ALLIANCE_CHR_Velazco: "Веласко"
+ ALLIANCE_CHR_Rosario: "Росарио"
+ ALLIANCE_CHR_Riveros: "Риверос"
+ ALLIANCE_CHR_Moralez: "Моралес"
+ ALLIANCE_CHR_Ibanez: "Ибанез"
+ ALLIANCE_CHR_de_Vargas: "де Варгас"
+ ALLIANCE_CHR_Mahdi: "Махди"
+ ALLIANCE_CHR_Malik: "Малик"
+ ALLIANCE_CHR_Khalid: "Халид"
+ ALLIANCE_CHR_Khalil: "Халил"
+ ALLIANCE_CHR_Khathem: "Хатем"
+ ALLIANCE_CHR_Kareem: "Карим"
+ ALLIANCE_CHR_Jamal: "Джамал"
+ ALLIANCE_CHR_Ibrahim: "Ибрагим"
+ ALLIANCE_CHR_Hydar: "Хидар"
+ ALLIANCE_CHR_Hassan: "Хасан"
+ ALLIANCE_CHR_Hamza: "Хамза"
+ ALLIANCE_CHR_Amir: "Амир"
+ ALLIANCE_CHR_Ammar: "Аммар"
+ ALLIANCE_CHR_Ali: "Али"
+ ALLIANCE_CHR_Ahmed: "Ахмед"
+ ALLIANCE_CHR_Ahmad: "Ахмад"
+ ALLIANCE_CHR_Abed: "Кровать"
+ ALLIANCE_CHR_Abbas: "Аббас"
+ ALLIANCE_CHR_Abdullah: "Абдулла"
+ ALLIANCE_CHR_Barak: "Барак"
+ ALLIANCE_CHR_Yusuf: "Юсуф"
+ ALLIANCE_CHR_Yasin: "Ясин"
+ ALLIANCE_CHR_Yahir: "Яхир"
+ ALLIANCE_CHR_Tariq: "Тарик"
+ ALLIANCE_CHR_Samir: "Самир"
+ ALLIANCE_CHR_Rashid: "Рашид"
+ ALLIANCE_CHR_Rashad: "Рашад"
+ ALLIANCE_CHR_Omar: "Омар"
+ ALLIANCE_CHR_Nasir: "Насир"
+ ALLIANCE_CHR_Muhammed: "Мухаммед"
+ ALLIANCE_CHR_Muhammad: "Мухаммед"
+ ALLIANCE_CHR_Mohammed: "Мохаммед"
+ ALLIANCE_CHR_Mohammad: "Мохаммад"
+ ALLIANCE_CHR_Mohamed: "Мохамед"
+ ALLIANCE_CHR_Hussein: "Хусейн"
+ ALLIANCE_CHR_Maryam: "Марьям"
+ ALLIANCE_CHR_Malak: "Малак"
+ ALLIANCE_CHR_Leen: "Лин"
+ ALLIANCE_CHR_Layan: "Лаян"
+ ALLIANCE_CHR_Kaliyah: "Калия"
+ ALLIANCE_CHR_Jazmin: "Джазмин"
+ ALLIANCE_CHR_Jaliyah: "Джалия"
+ ALLIANCE_CHR_Jana: "Яна"
+ ALLIANCE_CHR_Imani: "Имани"
+ ALLIANCE_CHR_Hasti: "Хасти"
+ ALLIANCE_CHR_Hala: "Хала"
+ ALLIANCE_CHR_Aisha: "Аиша"
+ ALLIANCE_CHR_Amira: "Амира"
+ ALLIANCE_CHR_Amani: "Амани"
+ ALLIANCE_CHR_Alma: "Альма"
+ ALLIANCE_CHR_Aya: "Ая"
+ ALLIANCE_CHR_Sakineh: "Сакине"
+ ALLIANCE_CHR_Masoumeh: "Масуме"
+ ALLIANCE_CHR_Narges: "Наргес"
+ ALLIANCE_CHR_Mobina: "Мобина"
+ ALLIANCE_CHR_Reihaneh: "Рейхане"
+ ALLIANCE_CHR_Zeinab: "Зейнаб"
+ ALLIANCE_CHR_Satayesh: "Сатайеш"
+ ALLIANCE_CHR_Zahra: "Захра"
+ ALLIANCE_CHR_Yesenia: "Есения"
+ ALLIANCE_CHR_Sanaa: "Сана"
+ ALLIANCE_CHR_Samira: "Самира"
+ ALLIANCE_CHR_Salma: "Сальма"
+ ALLIANCE_CHR_Noor: "Нур"
+ ALLIANCE_CHR_Naima: "Найма"
+ ALLIANCE_CHR_Mina: "Мина"
+ ALLIANCE_CHR_Maritza: "Марица"
+ ALLIANCE_CHR_alDimashqi: "ад-Димашки"
+ ALLIANCE_CHR_alAtrash: "аль-Атраш"
+ ALLIANCE_CHR_alAsiri: "аль-Асири"
+ ALLIANCE_CHR_Alawi: "Алави"
+ ALLIANCE_CHR_Akkad: "Аккад"
+ ALLIANCE_CHR_Adwam: "Адвам"
+ ALLIANCE_CHR_alMubarak: "аль-Мубарак"
+ ALLIANCE_CHR_alBariqi: "аль-Барики"
+ ALLIANCE_CHR_alAjlani: "аль-Аджлани"
+ ALLIANCE_CHR_alAhdal: "аль-Ахдал"
+ ALLIANCE_CHR_Abboud: "Аббуд"
+ ALLIANCE_CHR_Barakat: "Баракат"
+ ALLIANCE_CHR_Hamidi: "Хамиди"
+ ALLIANCE_CHR_Jawahir: "Джавахир"
+ ALLIANCE_CHR_Juhani: "Юхани"
+ ALLIANCE_CHR_Nadir: "Надир"
+ ALLIANCE_CHR_Bilal: "Билал"
+ ALLIANCE_CHR_ElGhazali: "Эль-Газали"
+ ALLIANCE_CHR_ElFarouk: "Эль-Фарук"
+ ALLIANCE_CHR_Ismail: "Исмаил"
+ ALLIANCE_CHR_Ishak: "Исхак"
+ ALLIANCE_CHR_ElBaz: "Эль-Баз"
+ ALLIANCE_CHR_alBishi: "аль-Биши"
+ ALLIANCE_CHR_alHazmi: "аль-Хазми"
+ ALLIANCE_CHR_Bakir: "Бакир"
+ ALLIANCE_CHR_Rahimi: "Рахими"
+ ALLIANCE_CHR_Jamshidi: "Джамшиди"
+ ALLIANCE_CHR_Ghorbani: "Горбани"
+ ALLIANCE_CHR_Khadem: "Хадем"
+ ALLIANCE_CHR_Turani: "Турани"
+ ALLIANCE_CHR_Sassani: "Сассани"
+ ALLIANCE_CHR_Madani: "Мадани"
+ ALLIANCE_CHR_Farrokhzad: "Фаррохзад"
+ ALLIANCE_CHR_alQadi: "аль-Кади"
+ ALLIANCE_CHR_Qaderi: "Кадери"
+ ALLIANCE_CHR_Qudsi: "Кудси"
+ ALLIANCE_CHR_Qasim: "Касим"
+ ALLIANCE_CHR_Salman: "Салман"
+ ALLIANCE_CHR_alSamarrai: "аль-Самарраи"
+ ALLIANCE_CHR_alJazari: "аль-Джазари"
+ ALLIANCE_CHR_Abdel_Nour: "Абдель Нур"
+ ALLIANCE_CHR_Arakat: "Аракат"
+ ALLIANCE_CHR_Bwana: "Бвана"
+ ALLIANCE_CHR_Bakari: "Бакари"
+ ALLIANCE_CHR_Badru: "Бадру"
+ ALLIANCE_CHR_Azizi: "Азизи"
+ ALLIANCE_CHR_Annan: "Аннан"
+ ALLIANCE_CHR_Abasi: "Абаси"
+ ALLIANCE_CHR_Zuberi: "Зубери"
+ ALLIANCE_CHR_Tendaji: "Тендаджи"
+ ALLIANCE_CHR_Simba: "Симба"
+ ALLIANCE_CHR_Sefu: "Сефу"
+ ALLIANCE_CHR_Mwenye: "Мвенье"
+ ALLIANCE_CHR_Mosi: "Моси"
+ ALLIANCE_CHR_Kibwe: "Кибве"
+ ALLIANCE_CHR_Khamisi: "Хамиси"
+ ALLIANCE_CHR_Jumaane: "Джумане"
+ ALLIANCE_CHR_Jengo: "Дженго"
+ ALLIANCE_CHR_Jelani: "Джелани"
+ ALLIANCE_CHR_Imamu: "Имаму"
+ ALLIANCE_CHR_Faraji: "Фараджи"
+ ALLIANCE_CHR_Dikotsi: "Дикоци"
+ ALLIANCE_CHR_Butholezwe: "Бутолезве"
+ ALLIANCE_CHR_Bhekizizwe: "Бекизизве"
+ ALLIANCE_CHR_Bhekithemba: "Бекитемба"
+ ALLIANCE_CHR_Bheka: "Бека"
+ ALLIANCE_CHR_Bambanani: "Бамбанани"
+ ALLIANCE_CHR_Ayanda: "Айанда"
+ ALLIANCE_CHR_Aluwanip: "Алуванип"
+ ALLIANCE_CHR_Akani: "Акани"
+ ALLIANCE_CHR_Jabari: "Джабари"
+ ALLIANCE_CHR_Issa: "Исса"
+ ALLIANCE_CHR_Idi: "Иди"
+ ALLIANCE_CHR_Hanisi: "Ханиси"
+ ALLIANCE_CHR_Enzi: "Энци"
+ ALLIANCE_CHR_Chuma: "Чума"
+ ALLIANCE_CHR_Chane: "Чане"
+ ALLIANCE_CHR_Mareka: "МарекаЕ"
+ ALLIANCE_CHR_Makalo: "Макало"
+ ALLIANCE_CHR_Mahlubandile: "Махлубандиле"
+ ALLIANCE_CHR_Lutendo: "Лутендо"
+ ALLIANCE_CHR_Letswalo: "Летсвало"
+ ALLIANCE_CHR_Lesebo: "Лесебо"
+ ALLIANCE_CHR_Lentswe: "Ленцве"
+ ALLIANCE_CHR_Kwanele: "Кванеле"
+ ALLIANCE_CHR_Kutlwano: "Кутлвано"
+ ALLIANCE_CHR_Khumbu: "Кхумбу"
+ ALLIANCE_CHR_Khathu: "Хату"
+ ALLIANCE_CHR_Kabelo: "Кабело"
+ ALLIANCE_CHR_Humbe: "Хамбе"
+ ALLIANCE_CHR_Hangwani: "хангвани"
+ ALLIANCE_CHR_Esaia: "Эсайя"
+ ALLIANCE_CHR_Dzingai: "Дзингай"
+ ALLIANCE_CHR_Refilwe: "Рефилве"
+ ALLIANCE_CHR_Qukeza: "Кукеза"
+ ALLIANCE_CHR_Poloko: "поло"
+ ALLIANCE_CHR_Phahamo: "Пахамо"
+ ALLIANCE_CHR_Paseka: "Пасека"
+ ALLIANCE_CHR_Oagile: "Оагил"
+ ALLIANCE_CHR_Nthofeela: "Нтофила"
+ ALLIANCE_CHR_Mzwamadoda: "Мзвамадода"
+ ALLIANCE_CHR_Msizi: "МсизиЕ"
+ ALLIANCE_CHR_Mothusi: "Мотуси"
+ ALLIANCE_CHR_Motlalentwa: "Мотлалентва"
+ ALLIANCE_CHR_Mosemotsane: "Мосемотсане"
+ ALLIANCE_CHR_Molapo: "Молапо"
+ ALLIANCE_CHR_Moeketsi: "Моэкетси"
+ ALLIANCE_CHR_Masingita: "Масингита"
+ ALLIANCE_CHR_Kofi: "Кофи"
+ ALLIANCE_CHR_Mbutu: "Мбуту"
+ ALLIANCE_CHR_Wandile: "Вандиль"
+ ALLIANCE_CHR_Unathi: "Унати"
+ ALLIANCE_CHR_Tshawe: "Тшаве"
+ ALLIANCE_CHR_Tsehla: "Тсела"
+ ALLIANCE_CHR_Tsebo: "Цебо"
+ ALLIANCE_CHR_Thuso: "Тусо"
+ ALLIANCE_CHR_Themba: "Темба"
+ ALLIANCE_CHR_Thabiso: "Табисо"
+ ALLIANCE_CHR_Teboho: "Тебохо"
+ ALLIANCE_CHR_Sizwe: "Сизве"
+ ALLIANCE_CHR_Sibusiso: "Сибусисо"
+ ALLIANCE_CHR_Sekgolokhane: "секголохане"
+ ALLIANCE_CHR_Sehlolo: "Сехлоло"
+ ALLIANCE_CHR_Sbu: "С'буЭ"
+ ALLIANCE_CHR_Sanele: "Санеле"
+ ALLIANCE_CHR_Subira: "Субира"
+ ALLIANCE_CHR_Sauda: "Сауда"
+ ALLIANCE_CHR_Nuru: "Нуру"
+ ALLIANCE_CHR_Nia: "Ниа"
+ ALLIANCE_CHR_Mwanajuma: "Мванаджума"
+ ALLIANCE_CHR_Mchumba: "Мчумба"
+ ALLIANCE_CHR_Marjani: "Марджани"
+ ALLIANCE_CHR_Kamaria: "Камария"
+ ALLIANCE_CHR_Furaha: "Фураха"
+ ALLIANCE_CHR_Eshe: "Эше"
+ ALLIANCE_CHR_Chausiku: "Чаусику"
+ ALLIANCE_CHR_Afiya: "Афия"
+ ALLIANCE_CHR_Aeeshah: "Айша"
+ ALLIANCE_CHR_Adila: "Адила"
+ ALLIANCE_CHR_Adhra: "Адхра"
+ ALLIANCE_CHR_Abla: "Абла"
+ ALLIANCE_CHR_Asha: "Аша"
+ ALLIANCE_CHR_Langalibalele: "Лангалибалеле"
+ ALLIANCE_CHR_Koketso: "Кокетсо"
+ ALLIANCE_CHR_Keneuwe: "Кенеуве"
+ ALLIANCE_CHR_Kagiso: "Кагисо"
+ ALLIANCE_CHR_Gugu: "Гугу"
+ ALLIANCE_CHR_Fikile: "Фикиле"
+ ALLIANCE_CHR_Edzai: "Эдзай"
+ ALLIANCE_CHR_Dikeledi: "Дикеледи"
+ ALLIANCE_CHR_Bongani: "Бонгани"
+ ALLIANCE_CHR_Bokang: "Бокан"
+ ALLIANCE_CHR_Awande: "Аванде"
+ ALLIANCE_CHR_Anokosha: "Анокоша"
+ ALLIANCE_CHR_Anodiwa: "Анодива"
+ ALLIANCE_CHR_Anatswanashe: "Анатсванаше"
+ ALLIANCE_CHR_Aizivaishe: "Айзивайше"
+ ALLIANCE_CHR_Zuri: "Зури"
+ ALLIANCE_CHR_Nofoto: "Nofoto"
+ ALLIANCE_CHR_Nnyadzeni: "Нниадзени"
+ ALLIANCE_CHR_Muambiwa: "Муамбива"
+ ALLIANCE_CHR_Moratuoa: "Моратуоа"
+ ALLIANCE_CHR_Mohau: "Мохау"
+ ALLIANCE_CHR_Mncedisi: "Мнчедизи"
+ ALLIANCE_CHR_Mmaabo: "Ммаабо"
+ ALLIANCE_CHR_Mbali: "Мбали"
+ ALLIANCE_CHR_Matshediso: "Матшедисо"
+ ALLIANCE_CHR_Maletsatsi: "Малецаци"
+ ALLIANCE_CHR_Majobo: "Маджобо"
+ ALLIANCE_CHR_Lulama: "Лулама"
+ ALLIANCE_CHR_Litsoanelo: "Лицоанело"
+ ALLIANCE_CHR_Lindidwe: "Линдидве"
+ ALLIANCE_CHR_Lerato: "Лерато"
+ ALLIANCE_CHR_Zinhle: "Зингле"
+ ALLIANCE_CHR_Tungu: "Тунгу"
+ ALLIANCE_CHR_Tshanduko: "Чандуко"
+ ALLIANCE_CHR_Thanduxolo: "Тандуксоло"
+ ALLIANCE_CHR_Sizani: "Сизани"
+ ALLIANCE_CHR_Sinethemba: "Синетемба"
+ ALLIANCE_CHR_Shandu: "Шанду"
+ ALLIANCE_CHR_Rudzani: "Рудзани"
+ ALLIANCE_CHR_Reneilwe: "Ренеилве"
+ ALLIANCE_CHR_Phathu: "Пхатху"
+ ALLIANCE_CHR_Ntswaki: "Нтсваки"
+ ALLIANCE_CHR_Ntsebo: "Нцебо"
+ ALLIANCE_CHR_Nthati: "Нтати"
+ ALLIANCE_CHR_Biobaku: "Biobaku"
+ ALLIANCE_CHR_Bamgboshe: "Бамбоше"
+ ALLIANCE_CHR_Iwu: "Иву"
+ ALLIANCE_CHR_JomoGbomo: "Джомо-Гбомо"
+ ALLIANCE_CHR_Ibori: "Ибори"
+ ALLIANCE_CHR_Dimka: "Димка"
+ ALLIANCE_CHR_Buhari: "Бухари"
+ ALLIANCE_CHR_Babangida: "Бабангида"
+ ALLIANCE_CHR_Okonkwo: "Оконкво"
+ ALLIANCE_CHR_Okeke: "Океке"
+ ALLIANCE_CHR_Onwuatuegwu: "Онвуатуэгву"
+ ALLIANCE_CHR_Nzeogwu: "Нзеогву"
+ ALLIANCE_CHR_Akintola: "Акинтола"
+ ALLIANCE_CHR_Balewa: "Балева"
+ ALLIANCE_CHR_Awolowo: "Аволово"
+ ALLIANCE_CHR_Azikiwe: "Азикиве"
+ ALLIANCE_CHR_Olanrewaju: "Оланреваю"
+ ALLIANCE_CHR_Gbadamosi: "Гбадамоси"
+ ALLIANCE_CHR_Okonjo: "Okonjo"
+ ALLIANCE_CHR_Iweala: "Ивеала"
+ ALLIANCE_CHR_Chukwumereije: "Чуквумерейе"
+ ALLIANCE_CHR_Ojukwu: "Оджукву"
+ ALLIANCE_CHR_Ironsi: "Иронси"
+ ALLIANCE_CHR_Okadigbo: "Окадигбо"
+ ALLIANCE_CHR_Nnamani: "Ннамани"
+ ALLIANCE_CHR_Bankole: "банколе"
+ ALLIANCE_CHR_Sekibo: "Sekibo"
+ ALLIANCE_CHR_Adeyemi: "Адейеми"
+ ALLIANCE_CHR_Akiloye: "Акилое"
+ ALLIANCE_CHR_Akinjide: "Акинджиде"
+ ALLIANCE_CHR_Tinibu: "Тинибу"
+ ALLIANCE_CHR_Swanepoel: "Свейнпол"
+ ALLIANCE_CHR_Naidoo: "Naidoo"
+ ALLIANCE_CHR_SaroWiwa: "Саро-Вива"
+ ALLIANCE_CHR_Gowon: "Говон"
+ ALLIANCE_CHR_Ekwensi: "Эквенси"
+ ALLIANCE_CHR_Mbadinuju: "Мбадинужу"
+ ALLIANCE_CHR_Mbanefo: "Мбанефо"
+ ALLIANCE_CHR_Onobanjo: "Onobanjo"
+ ALLIANCE_CHR_Alakija: "Алакия"
+ ALLIANCE_CHR_Ohakim: "Охаким"
+ ALLIANCE_CHR_Uba: "Уба"
+ ALLIANCE_CHR_Ngige: "Нгиге"
+ ALLIANCE_CHR_Jakande: "Джаканде"
+ ALLIANCE_CHR_Onyejekwe: "Оньеджекве"
+ ALLIANCE_CHR_Oyinlola: "Ойинлола"
+ ALLIANCE_CHR_Madaki: "Мадаки"
+ ALLIANCE_CHR_Tshangisa: "Чангиса"
+ ALLIANCE_CHR_Skhosana: "Схосана"
+ ALLIANCE_CHR_Thwane: "Твейн"
+ ALLIANCE_CHR_Nkwali: "Нквали"
+ ALLIANCE_CHR_Ngwanya: "Нгванья"
+ ALLIANCE_CHR_Mtakwenda: "Мтаквенда"
+ ALLIANCE_CHR_Mkhwemte: "Мхвемте"
+ ALLIANCE_CHR_Mbanjwa: "Мбанджва"
+ ALLIANCE_CHR_Mambi: "Мамби"
+ ALLIANCE_CHR_Kwayi: "Квай"
+ ALLIANCE_CHR_Khumalo: "Хумало"
+ ALLIANCE_CHR_Khonjwayo: "Хонджвайо"
+ ALLIANCE_CHR_Masuku: "Масуку"
+ ALLIANCE_CHR_Ngema: "Нгема"
+ ALLIANCE_CHR_Ngobese: "нгобезе"
+ ALLIANCE_CHR_Msibi: "Мсиби"
+ ALLIANCE_CHR_Khawuta: "Хавута"
+ ALLIANCE_CHR_Jwarha: "Джварха"
+ ALLIANCE_CHR_Gxarha: "Гхарха"
+ ALLIANCE_CHR_Gatyeni: "Гатиени"
+ ALLIANCE_CHR_Dzana: "Дзана"
+ ALLIANCE_CHR_Bhukhwana: "Бхухвана"
+ ALLIANCE_CHR_Ndungwane: "Ндунгване"
+ ALLIANCE_CHR_Zangwa: "Зангва"
+ ALLIANCE_CHR_Xoko: "Хоко"
+ ALLIANCE_CHR_Xhamela: "Джамела"
+ ALLIANCE_CHR_Tshonyane: "Чоньяне"
+ ALLIANCE_CHR_Franco: "Франко"
+ ALLIANCE_CHR_Carlo: "Карло"
+ ALLIANCE_CHR_Salvatore: "Сальваторе"
+ ALLIANCE_CHR_Pietro: "Пьетро"
+ ALLIANCE_CHR_Vincenzo: "Винченцо"
+ ALLIANCE_CHR_Angelo: "Анджело"
+ ALLIANCE_CHR_Franscesco: "Франческо"
+ ALLIANCE_CHR_Marco: "Марко"
+ ALLIANCE_CHR_Stefano: "Стефано"
+ ALLIANCE_CHR_Antonio: "Антонио"
+ ALLIANCE_CHR_Guiseppe: "Джузеппе"
+ ALLIANCE_CHR_Giovanni: "Джованни"
+ ALLIANCE_CHR_Luigi: "Луиджи"
+ ALLIANCE_CHR_Mario: "Марио"
+ ALLIANCE_CHR_Umberto: "Умберто"
+ ALLIANCE_CHR_Silvio: "Сильвио"
+ ALLIANCE_CHR_Gustavo: "Густаво"
+ ALLIANCE_CHR_Enrico: "Энрико"
+ ALLIANCE_CHR_Cesare: "Чезаре"
+ ALLIANCE_CHR_Fabrizio: "Фабрицио"
+ ALLIANCE_CHR_Benito: "Бенито"
+ ALLIANCE_CHR_Alessandro: "Алессандро"
+ ALLIANCE_CHR_Luciano: "Лучано"
+ ALLIANCE_CHR_Giorgio: "Джорджио"
+ ALLIANCE_CHR_Michele: "Мишель"
+ ALLIANCE_CHR_Paulo: "Пауло"
+ ALLIANCE_CHR_Domenico: "Доменико"
+ ALLIANCE_CHR_Fabio: "Фабио"
+ ALLIANCE_CHR_Tommaso: "Томмазо"
+ ALLIANCE_CHR_Guido: "Гвидо"
+ ALLIANCE_CHR_Alberto: "Альберто"
+ ALLIANCE_CHR_Cristian: "Кристиан"
+ ALLIANCE_CHR_Daniele: "Даниэле"
+ ALLIANCE_CHR_Camillo: "Камилло"
+ ALLIANCE_CHR_Ignazio: "Иньяцио"
+ ALLIANCE_CHR_Matteo: "Маттео"
+ ALLIANCE_CHR_Nicola: "Никола"
+ ALLIANCE_CHR_Concetta: "Кончетта"
+ ALLIANCE_CHR_Antonietta: "Антониетта"
+ ALLIANCE_CHR_Francesca: "Франческа"
+ ALLIANCE_CHR_Caterina: "Катерина"
+ ALLIANCE_CHR_Carmela: "Кармела"
+ ALLIANCE_CHR_Lucia: "Люсия"
+ ALLIANCE_CHR_Giovanna: "Джованна"
+ ALLIANCE_CHR_Rosa: "Роза"
+ ALLIANCE_CHR_Guiseppina: "Джузеппина"
+ ALLIANCE_CHR_Lorenza: "Лоренца"
+ ALLIANCE_CHR_Gisella: "Гизелла"
+ ALLIANCE_CHR_Stefania: "Стефания"
+ ALLIANCE_CHR_Nicoletta: "Николетта"
+ ALLIANCE_CHR_Orietta: "Ориетта"
+ ALLIANCE_CHR_Arianna: "Арианна"
+ ALLIANCE_CHR_Vittoria: "Виттория"
+ ALLIANCE_CHR_Paola: "Паола"
+ ALLIANCE_CHR_Franca: "Франка"
+ ALLIANCE_CHR_Margherita: "Маргарита"
+ ALLIANCE_CHR_Pietra: "Пьетра"
+ ALLIANCE_CHR_Benedetta: "Бенедетта"
+ ALLIANCE_CHR_Dina: "Дина"
+ ALLIANCE_CHR_Lucrezia: "Лукреция"
+ ALLIANCE_CHR_Bello: "Белло"
+ ALLIANCE_CHR_Gallo: "Галло"
+ ALLIANCE_CHR_Conti: "Конти"
+ ALLIANCE_CHR_Ravelli: "Равелли"
+ ALLIANCE_CHR_Moretti: "Моретти"
+ ALLIANCE_CHR_Lombardi: "Ломбарди"
+ ALLIANCE_CHR_Rizzo: "Риццо"
+ ALLIANCE_CHR_Mancini: "Манчини"
+ ALLIANCE_CHR_Giordano: "Джордано"
+ ALLIANCE_CHR_Costa: "Коста"
+ ALLIANCE_CHR_De_Luca: "Де Лука"
+ ALLIANCE_CHR_Marino: "Марино"
+ ALLIANCE_CHR_Ricci: "Риччи"
+ ALLIANCE_CHR_Bianchi: "Бьянки"
+ ALLIANCE_CHR_Ferrari: "Феррари"
+ ALLIANCE_CHR_Russo: "Руссо"
+ ALLIANCE_CHR_Rossi: "Росси"
+ ALLIANCE_CHR_Pezzaglia: "Пеццалья"
+ ALLIANCE_CHR_Valeri: "Валерий"
+ ALLIANCE_CHR_Marcuzzi: "Маркуцци"
+ ALLIANCE_CHR_Mambretti: "Мамбретти"
+ ALLIANCE_CHR_Pianelli: "Пианелли"
+ ALLIANCE_CHR_Pallavicino: "Паллавичино"
+ ALLIANCE_CHR_Saletta: "Салетта"
+ ALLIANCE_CHR_Garibaldi: "Гарибальди"
+ ALLIANCE_CHR_Di_Savoia: "Ди Савойя"
+ ALLIANCE_CHR_Di_Robilant: "Ди Робилант"
+ ALLIANCE_CHR_Cappello: "Капелло"
+ ALLIANCE_CHR_Badoglio: "Бадольо"
+ ALLIANCE_CHR_Albricci: "Альбриччи"
+ ALLIANCE_CHR_Delvecchio: "Дельвеккьо"
+ ALLIANCE_CHR_Di_Bartolomei: "Ди Бартоломеи"
+ ALLIANCE_CHR_Di_Chiara: "Ди Кьяра"
+ ALLIANCE_CHR_De_Sciglio: "Де Шильо"
+ ALLIANCE_CHR_De_Rosa: "Де Роса"
+ ALLIANCE_CHR_DAgostino: "Д'Агостино"
+ ALLIANCE_CHR_DAlessandro: "Д'Алессандро"
+ ALLIANCE_CHR_Corsini: "Корсини"
+ ALLIANCE_CHR_Antonelli: "Антонелли"
+ ALLIANCE_CHR_Bianconelli: "Бьянконелли"
+ ALLIANCE_CHR_Balletti: "Балетти"
+ ALLIANCE_CHR_Quadrini: "Квадрини"
+ ALLIANCE_CHR_Pacini: "Пачини"
+ ALLIANCE_CHR_Olivieri: "Оливьери"
+ ALLIANCE_CHR_Mzazitelli: "Мзазителли"
+ ALLIANCE_CHR_Marchetti: "Маркетти"
+ ALLIANCE_CHR_Galvani: "Гальвани"
+ ALLIANCE_CHR_Gambadori: "Гамбадори"
+ ALLIANCE_CHR_Fabbrini: "Фаббрини"
+ ALLIANCE_CHR_Di_Gennaro: "Ди Дженнаро"
+ ALLIANCE_CHR_Di_Bella: "Ди Белла"
+ ALLIANCE_CHR_Fazio: "Фацио"
+ ALLIANCE_CHR_DAntoni: "Д'Антони"
+ ALLIANCE_CHR_Del_Grosso: "Дель Гроссо"
+ name_list_btr_alliance: "Альянс систем"
+ ALLIANCE_CHR_Mazzitelli: "Маццители"

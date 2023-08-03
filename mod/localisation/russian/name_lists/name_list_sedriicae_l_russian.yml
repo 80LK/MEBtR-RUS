@@ -1,231 +1,230 @@
 ﻿l_russian:
- name_list_btr_sedriicae:0 "седрийские" #NT!
- SEDRIICAE_SHIP_HulkrabMuxi:0 "Халкраб Мукси" #NT!
- SEDRIICAE_SHIP_InklacMuxi:0 "Инлак Мукси" #NT!
- SEDRIICAE_SHIP_OpalcMuxi:0 "Опалк Мукси" #NT!
- SEDRIICAE_SHIP_XactizMuxi:0 "Xactiz Muxi" #NT!
- SEDRIICAE_SHIP_KnakMuxi:0 "Кнак Мукси" #NT!
- SEDRIICAE_SHIP_HulkrabSpectrac:0 "Халкраб Спектрак" #NT!
- SEDRIICAE_SHIP_InklacSpectrac:0 "Инлак Спектрак" #NT!
- SEDRIICAE_SHIP_OpalcSpectrac:0 "Опалк Спектрак" #NT!
- SEDRIICAE_SHIP_XactizSpectrac:0 "Ксактиз Спектрак" #NT!
- SEDRIICAE_SHIP_KnakSpectrac:0 "Кнак Спектрак" #NT!
- SEDRIICAE_SHIP_HulkrabNixpac:0 "Халкраб Никспак" #NT!
- SEDRIICAE_SHIP_InklacNixpac:0 "Инлак Никспак" #NT!
- SEDRIICAE_SHIP_OpalcNixpac:0 "Опалк Никспак" #NT!
- SEDRIICAE_SHIP_XactizNixpac:0 "Ксактиз Никпак" #NT!
- SEDRIICAE_SHIP_KnakNixpac:0 "Кнак Никпак" #NT!
- SEDRIICAE_SHIP_HulkrabTrobbjax:0 "Халкраб Троббьякс" #NT!
- SEDRIICAE_SHIP_InklacTrobbjax:0 "Инклак Троббьякс" #NT!
- SEDRIICAE_SHIP_OpalcTrobbjax:0 "Опалк Троббьякс" #NT!
- SEDRIICAE_SHIP_XactizTrobbjax:0 "Закактиз Троббьякс" #NT!
- SEDRIICAE_SHIP_KnakTrobbjax:0 "Кнак Троббьякс" #NT!
- SEDRIICAE_SHIP_HulkrabMaqtrac:0 "Халкраб Мактрак" #NT!
- SEDRIICAE_SHIP_InklacMaqtrac:0 "Инлак Мактрак" #NT!
- SEDRIICAE_SHIP_OpalcMaqtrac:0 "Опалк Мактрак" #NT!
- SEDRIICAE_SHIP_XactizMaqtrac:0 "Ксактиз Мактрак" #NT!
- SEDRIICAE_SHIP_KnakMaqtrac:0 "Кнак Мактрак" #NT!
- SEDRIICAE_SHIP_HulkrabKrabblax:0 "Халкраб Крабблакс" #NT!
- SEDRIICAE_SHIP_InklacKrabblax:0 "Инклак Крабблакс" #NT!
- SEDRIICAE_SHIP_OpalcKrabblax:0 "Опалк Крабблакс" #NT!
- SEDRIICAE_SHIP_XactizKrabblax:0 "Закактиз Крабблакс" #NT!
- SEDRIICAE_SHIP_KnakKrabblax:0 "Кнак Крабблакс" #NT!
- SEDRIICAE_SHIP_HulkrabUpcix:0 "Халкраб Апсикс" #NT!
- SEDRIICAE_SHIP_InklacUpcix:0 "Инклак Упсикс" #NT!
- SEDRIICAE_SHIP_OpalcUpcix:0 "Опалк Упсикс" #NT!
- SEDRIICAE_SHIP_XactizUpcix:0 "Xactiz Upcix" #NT!
- SEDRIICAE_SHIP_KnakUpcix:0 "Кнак Упсикс" #NT!
- SEDRIICAE_SHIP_HulkrabYbbax:0 "Халкраб Иббакс" #NT!
- SEDRIICAE_SHIP_InklacYbbax:0 "Инклак Иббакс" #NT!
- SEDRIICAE_SHIP_OpalcYbbax:0 "Опалк Иббакс" #NT!
- SEDRIICAE_SHIP_XactizYbbax:0 "Закактиз Иббакс" #NT!
- SEDRIICAE_SHIP_KnakYbbax:0 "Кнак Иббакс" #NT!
- SEDRIICAE_SHIP_HulkrabLobball:0 "Халкраб Лоббол" #NT!
- SEDRIICAE_SHIP_InklacLobball:0 "Инклак Лоббол" #NT!
- SEDRIICAE_SHIP_OpalcLobball:0 "Опалк Лоббол" #NT!
- SEDRIICAE_SHIP_XactizLobball:0 "Хаактиз Лоббол" #NT!
- SEDRIICAE_SHIP_KnakLobball:0 "Кнак Лоббол" #NT!
- SEDRIICAE_SHIP_HulkrabMezotix:0 "Халкраб Мезотикс" #NT!
- SEDRIICAE_SHIP_InklacMezotix:0 "Инлак Мезотикс" #NT!
- SEDRIICAE_SHIP_OpalcMezotix:0 "Опаловый Мезотикс" #NT!
- SEDRIICAE_SHIP_XactizMezotix:0 "Ксактиз Мезотикс" #NT!
- SEDRIICAE_SHIP_KnakMezotix:0 "Кнак Мезотикс" #NT!
- SEDRIICAE_SHIP_HulkrabPolljac:0 "Халкраб Польяк" #NT!
- SEDRIICAE_SHIP_InklacPolljac:0 "Инклак Польяк" #NT!
- SEDRIICAE_SHIP_OpalcPolljac:0 "Опалк Польяк" #NT!
- SEDRIICAE_SHIP_XactizPolljac:0 "Ксактиз Польяк" #NT!
- SEDRIICAE_SHIP_KnakPolljac:0 "Кнак Польяк" #NT!
- SEDRIICAE_SHIP_HulkrabBetklox:0 "Халкраб Бетклокс" #NT!
- SEDRIICAE_SHIP_InklacBetklox:0 "Инклак Бетклокс" #NT!
- SEDRIICAE_SHIP_OpalcBetklox:0 "Опалк Бетклокс" #NT!
- SEDRIICAE_SHIP_XactizBetklox:0 "Xactiz Betklox" #NT!
- SEDRIICAE_SHIP_KnakBetklox:0 "Кнак Бетклокс" #NT!
- SEDRIICAE_SHIP_HulkrabVicopoc:0 "Халкраб Викопок" #NT!
- SEDRIICAE_SHIP_InklacVicopoc:0 "Инклак Викопок" #NT!
- SEDRIICAE_SHIP_OpalcVicopoc:0 "Опаловый викопок" #NT!
- SEDRIICAE_SHIP_XactizVicopoc:0 "Хаактиз Викопок" #NT!
- SEDRIICAE_SHIP_KnakVicopoc:0 "Кнак Викопок" #NT!
- SEDRIICAE_SHIP_HulkrabBlatox:0 "Халкраб Блатокс" #NT!
- SEDRIICAE_SHIP_InklacBlatox:0 "Инлак Блатокс" #NT!
- SEDRIICAE_SHIP_OpalcBlatox:0 "Опалк Блатокс" #NT!
- SEDRIICAE_SHIP_XactizBlatox:0 "Закактиз Блатокс" #NT!
- SEDRIICAE_SHIP_KnakBlatox:0 "Кнак Блатокс" #NT!
- SEDRIICAE_SHIP_HulkrabDunybb:0 "Халкраб Данибб" #NT!
- SEDRIICAE_SHIP_InklacDunybb:0 "Инклак Данибб" #NT!
- SEDRIICAE_SHIP_OpalcDunybb:0 "Опалк Данибб" #NT!
- SEDRIICAE_SHIP_XactizDunybb:0 "Закактиз Данибб" #NT!
- SEDRIICAE_SHIP_KnakDunybb:0 "Кнак Данибб" #NT!
- SEDRIICAE_SHIP_HulkrabStroxtan:0 "Халкраб Строкстан" #NT!
- SEDRIICAE_SHIP_InklacStroxtan:0 "Инлак Строкстан" #NT!
- SEDRIICAE_SHIP_OpalcStroxtan:0 "Опалк Строкстан" #NT!
- SEDRIICAE_SHIP_XactizStroxtan:0 "Закактиз Строкстан" #NT!
- SEDRIICAE_SHIP_KnakStroxtan:0 "Кнак Строкстан" #NT!
- SEDRIICAE_FLEET_BaktaxHuskSquadron:0 "Бактаксская эскадрилья шелухи" #NT!
- SEDRIICAE_FLEET_KabblocHuskSquadron:0 "Кабблок Хаск Эскадрилья" #NT!
- SEDRIICAE_FLEET_VactixHuskSquadron:0 "Эскадрилья Vactix Husk" #NT!
- SEDRIICAE_FLEET_PolatricallHuskSquadron:0 "Polatricall Husk Squadron" #NT!
- SEDRIICAE_FLEET_JaktoxHuskSquadron:0 "Jaktox Husk Squadron" #NT!
- SEDRIICAE_FLEET_MekadancHuskSquadron:0 "Эскадрилья Мекаданк Хаск" #NT!
- SEDRIICAE_FLEET_LutkracHuskSquadron:0 "Эскадрилья Луткрака Хаска" #NT!
- SEDRIICAE_FLEET_PlattrycHuskSquadron:0 "Платтрик Хаск Эскадрилья" #NT!
- SEDRIICAE_FLEET_SekadexHuskSquadron:0 "Sekadex Husk Squadron" #NT!
- SEDRIICAE_PLANET_PulklacOvoc:0 "Пулклак Овок" #NT!
- SEDRIICAE_PLANET_SwakOvoc:0 "Свак Овок" #NT!
- SEDRIICAE_PLANET_XantOvoc:0 "Ксант Овок" #NT!
- SEDRIICAE_PLANET_ZuppoxOvoc:0 "Зуппокс Овок" #NT!
- SEDRIICAE_PLANET_AvlikZajkax:0 "Авлик Зайках" #NT!
- SEDRIICAE_PLANET_UtpolZajkax:0 "Утпол Зайках" #NT!
- SEDRIICAE_PLANET_ZakticZajkax:0 "Зактик Зайках" #NT!
- SEDRIICAE_PLANET_KolkexZajkax:0 "Колкекс Зайках" #NT!
- SEDRIICAE_PLANET_WekypYpacibb:0 "Wekyp Ypacibb" #NT!
- SEDRIICAE_PLANET_AklacYpacibb:0 "Аклак Ипацибб" #NT!
- SEDRIICAE_PLANET_QwilkYpacibb:0 "Квилк Ипацибб" #NT!
- SEDRIICAE_PLANET_OmaxYpacibb:0 "Омакс Ипакибб" #NT!
- SEDRIICAE_PLANET_PomicKrac:0 "Помик Крач" #NT!
- SEDRIICAE_PLANET_AnacinKrac:0 "Анацин Крак" #NT!
- SEDRIICAE_PLANET_XazibbKrac:0 "Хазибб Крач" #NT!
- SEDRIICAE_PLANET_MocKrac:0 "Мок Крак" #NT!
- SEDRIICAE_PLANET_AlloxHaxizabb:0 "Аллокс Хаксизабб" #NT!
- SEDRIICAE_PLANET_CixivHaxizabb:0 "Джихив Хаксизабб" #NT!
- SEDRIICAE_PLANET_HajpocHaxizabb:0 "Хайпок Хаксизабб" #NT!
- SEDRIICAE_PLANET_WaxopHaxizabb:0 "Ваксоп Хаксизабб" #NT!
- SEDRIICAE_PLANET_BakirixLaxtric:0 "Бакирикс Лакстрик" #NT!
- SEDRIICAE_PLANET_NobhaxLaxtric:0 "Нобхакс Лакстрик" #NT!
- SEDRIICAE_PLANET_SpectocaxLaxtric:0 "Спектокакс Лакстрик" #NT!
- SEDRIICAE_PLANET_BobbicLaxtric:0 "Боббик Лакстрик" #NT!
- SEDRIICAE_PLANET_TrabbxolTymcrix:0 "Трабксол Тимкрикс" #NT!
- SEDRIICAE_PLANET_AwixallTymcrix:0 "Авиксалл Тимкрикс" #NT!
- SEDRIICAE_PLANET_PobbnicTymcrix:0 "Поббник Тимкрикс" #NT!
- SEDRIICAE_PLANET_BuktryxTymcrix:0 "Буктрикс Тимкрикс" #NT!
- SEDRIICAE_PLANET_MoxfrocOxocodolf:0 "Моксфрок Оксодолф" #NT!
- SEDRIICAE_PLANET_HullpaxOxocodolf:0 "Халлпакс Оксодолф" #NT!
- SEDRIICAE_PLANET_RaxibbOxocodolf:0 "Раксибб Оксодолф" #NT!
- SEDRIICAE_PLANET_ZalibbacOxocodolf:0 "Залиббак Оксодолф" #NT!
- SEDRIICAE_CHR_Luk:0 "Лук" #NT!
- SEDRIICAE_CHR_Ytella:0 "Ютелла" #NT!
- SEDRIICAE_CHR_Pilax:0 "Пилакс" #NT!
- SEDRIICAE_CHR_Xybber:0 "ксиббер" #NT!
- SEDRIICAE_CHR_Inic:0 "Иник" #NT!
- SEDRIICAE_CHR_Zukir:0 "Зукир" #NT!
- SEDRIICAE_CHR_Fattic:0 "Жирный" #NT!
- SEDRIICAE_CHR_Kibin:0 "Кибин" #NT!
- SEDRIICAE_CHR_Rakex:0 "Ракекс" #NT!
- SEDRIICAE_CHR_Pallyt:0 "Паллит" #NT!
- SEDRIICAE_CHR_Frakir:0 "Фракир" #NT!
- SEDRIICAE_CHR_Cilxin:0 "Силксин" #NT!
- SEDRIICAE_CHR_Ibbac:0 "Иббак" #NT!
- SEDRIICAE_CHR_Ztykatt:0 "Зтыкат" #NT!
- SEDRIICAE_CHR_Lobbuk:0 "Лоббук" #NT!
- SEDRIICAE_CHR_Knav:0 "Кнав" #NT!
- SEDRIICAE_CHR_Klobbax:0 "Клоббакс" #NT!
- SEDRIICAE_CHR_Axan:0 "Аксан" #NT!
- SEDRIICAE_CHR_Apinix:0 "Апиникс" #NT!
- SEDRIICAE_CHR_Lop:0 "Лоп" #NT!
- SEDRIICAE_CHR_Inax:0 "Инакс" #NT!
- SEDRIICAE_CHR_Xalin:0 "Халин" #NT!
- SEDRIICAE_CHR_Unipak:0 "Унипак" #NT!
- SEDRIICAE_CHR_Bokall:0 "Бокалл" #NT!
- SEDRIICAE_CHR_Zaox:0 "Заокс" #NT!
- SEDRIICAE_CHR_Krytic:0 "Критик" #NT!
- SEDRIICAE_CHR_Xaspec:0 "Ксаспек" #NT!
- SEDRIICAE_CHR_Xumlobb:0 "Шумлобб" #NT!
- SEDRIICAE_CHR_Pokbatt:0 "Покбатт" #NT!
- SEDRIICAE_CHR_Crumklac:0 "Крумклак" #NT!
- SEDRIICAE_CHR_Polfukir:0 "Полфукир" #NT!
- SEDRIICAE_CHR_Lertrak:0 "Лертрак" #NT!
- SEDRIICAE_CHR_Ekir:0 "Экир" #NT!
- SEDRIICAE_CHR_Yprak:0 "Ыпрак" #NT!
- SEDRIICAE_CHR_Salklon:0 "Салклон" #NT!
- SEDRIICAE_CHR_Valknek:0 "Валкнек" #NT!
- SEDRIICAE_CHR_Utynik:0 "Утыник" #NT!
- SEDRIICAE_CHR_Trobhak:0 "Тробхак" #NT!
- SEDRIICAE_CHR_Xyp:0 "ксип" #NT!
- SEDRIICAE_CHR_Kabanaca:0 "Кабанака" #NT!
- SEDRIICAE_CHR_Vartinaca:0 "Вартинака" #NT!
- SEDRIICAE_CHR_Aspinaca:0 "Аспинака" #NT!
- SEDRIICAE_CHR_Ytanaca:0 "Итанака" #NT!
- SEDRIICAE_CHR_Upiverta:0 "Упиверта" #NT!
- SEDRIICAE_CHR_Xabbaverta:0 "Хаббаверта" #NT!
- SEDRIICAE_CHR_Farkiverta:0 "Фаркиверта" #NT!
- SEDRIICAE_CHR_Inaverta:0 "Инаверта" #NT!
- SEDRIICAE_CHR_Poxinirkis:0 "Поксиниркис" #NT!
- SEDRIICAE_CHR_Inaxinirkis:0 "Инаксиниркис" #NT!
- SEDRIICAE_CHR_Lobbinirkis:0 "Лоббиниркис" #NT!
- SEDRIICAE_CHR_Utinirkis:0 "Утиниркис" #NT!
- SEDRIICAE_CHR_Lopetkin:0 "Лопеткин" #NT!
- SEDRIICAE_CHR_Huketkin:0 "Хукеткин" #NT!
- SEDRIICAE_CHR_Ekbokin:0 "Экбокин" #NT!
- SEDRIICAE_CHR_Xankikin:0 "Ханкикин" #NT!
- SEDRIICAE_CHR_Crumtika:0 "Крумтика" #NT!
- SEDRIICAE_CHR_Yptika:0 "Ыптика" #NT!
- SEDRIICAE_CHR_Lobbtika:0 "Лоббтика" #NT!
- SEDRIICAE_CHR_Qatika:0 "Катика" #NT!
- SEDRIICAE_CHR_Umlatika:0 "Умлатика" #NT!
- SEDRIICAE_CHR_Pandolf:0 "Пандольф" #NT!
- SEDRIICAE_CHR_Xandolf:0 "Ксан'дольф" #NT!
- SEDRIICAE_CHR_Landolf:0 "Ландольф" #NT!
- SEDRIICAE_CHR_Xypdolf:0 "Ксип'дольф" #NT!
- SEDRIICAE_CHR_Typdolf:0 "Типдольф" #NT!
- SEDRIICAE_CHR_Cixidolf:0 "Cixi'dolf" #NT!
- SEDRIICAE_CHR_Lopdolf:0 "Лопдольф" #NT!
- SEDRIICAE_CHR_Koldolf:0 "Кольдольф" #NT!
- SEDRIICAE_CHR_Leexidanaca:0 "Лексиданака" #NT!
- SEDRIICAE_CHR_Zaapritanaca:0 "Заапританака" #NT!
- SEDRIICAE_CHR_Omaakixanaca:0 "Омаакишанака" #NT!
- SEDRIICAE_CHR_Klobbaxanaca:0 "Клоббаксанака" #NT!
-
-# Sequential name formats
- SEDRIICAE_HUSKSQUADRON:0 "$ORD$ Эскадрилья "Хаск"" #NT!
- SEDRIICAE_DEFENSIVECAST:0 "$ORD$ Защитный состав" #NT!
- SEDRIICAE_OFFENSIVECAST:0 "$ORD$ Наступательный состав" #NT!
- SEDRIICAE_SERVITUDESWARM:0 "$ORD$ Рой слуг" #NT!
- SEDRIICAE_CLONESWARM:0 "$ORD$ Рой клонов" #NT!
- SEDRIICAE_DREADSWARM:0 "$ORD$ Ужасный рой" #NT!
- SEDRIICAE_ROBOTICKS:0 "$ORD$ Робо-Тики" #NT!
- SEDRIICAE_ROBOEMPLACEMENTS:0 "$ORD$ Робоустановки" #NT!
- SEDRIICAE_SORCERERS:0 "$ORD$ Колдуны" #NT!
- SEDRIICAE_XENOCAST:0 "$ORD$ Ксенокаст" #NT!
- SEDRIICAE_BRUTES:0 "$ORD$ Бруты" #NT!
- SEDRIICAE_OCCUPATIONCAST:0 "$ORD$ Род занятий" #NT!
- SEDRIICAE_OCCUPATIONROBOTICKS:0 "$ORD$ Профессия Робо-тиксы" #NT!
- SEDRIICAE_PRIMITIVEARMY:0 "Первобытная армия $C$" #NT!
- SEDRIICAE_INDUSTRIALARMY:0 "Промышленная армия $C$" #NT!
- SEDRIICAE_POSTATOMICARMY:0 "Постантомная армия $C$" #NT!
-
-# Obsolete sequentials (for backwards compatibility)
- SEDRIICAE_xxHUSKSQUADRON_ORD:1 "$O$ Эскадрилья "Хаск"" #NT!
- SEDRIICAE_xxDEFENSIVECAST_ORD:1 "$O$ Защитный состав" #NT!
- SEDRIICAE_xxOFFENSIVECAST_ORD:1 "$O$ Наступательный состав" #NT!
- SEDRIICAE_xxSERVITUDESWARM_ORD:1 "$O$ Рой слуг" #NT!
- SEDRIICAE_xxCLONESWARM_ORD:1 "$O$ Рой клонов" #NT!
- SEDRIICAE_xxDREADSWARM_ORD:1 "$O$ Ужасный рой" #NT!
- SEDRIICAE_xxROBOTICKS_ORD:1 "$O$ Робо-Тики" #NT!
- SEDRIICAE_xxROBOEMPLACEMENTS_ORD:1 "$O$ Робоустановки" #NT!
- SEDRIICAE_xxSORCERERS_ORD:1 "$O$ Колдуны" #NT!
- SEDRIICAE_xxXENOCAST_ORD:1 "$O$ Ксенокаст" #NT!
- SEDRIICAE_xxBRUTES_ORD:1 "$O$ Бруты" #NT!
- SEDRIICAE_xxOCCUPATIONCAST_ORD:1 "$O$ Род занятий" #NT!
- SEDRIICAE_xxOCCUPATIONROBOTICKS_ORD:1 "$O$ Профессия Робо-тиксы" #NT!
- SEDRIICAE_PRIMITIVEARMYxx_SEQ:0 "Первобытная армия $C$" #NT!
- SEDRIICAE_INDUSTRIALARMYxx_SEQ:0 "Промышленная армия $C$" #NT!
- SEDRIICAE_POSTATOMICARMYxx_SEQ:0 "Постантомная армия $C$" #NT!
+ name_list_btr_forayan: "седрийские" #NT!
+ SEDRIICAE_SHIP_HulkrabMuxi: "Халкраб Мукси"
+ SEDRIICAE_SHIP_InklacMuxi: "Инлак Мукси"
+ SEDRIICAE_SHIP_OpalcMuxi: "Опалк Мукси"
+ SEDRIICAE_SHIP_XactizMuxi: "Xactiz Muxi"
+ SEDRIICAE_SHIP_KnakMuxi: "Кнак Мукси"
+ SEDRIICAE_SHIP_HulkrabSpectrac: "Халкраб Спектрак"
+ SEDRIICAE_SHIP_InklacSpectrac: "Инлак Спектрак"
+ SEDRIICAE_SHIP_OpalcSpectrac: "Опалк Спектрак"
+ SEDRIICAE_SHIP_XactizSpectrac: "Ксактиз Спектрак"
+ SEDRIICAE_SHIP_KnakSpectrac: "Кнак Спектрак"
+ SEDRIICAE_SHIP_HulkrabNixpac: "Халкраб Никспак"
+ SEDRIICAE_SHIP_InklacNixpac: "Инлак Никспак"
+ SEDRIICAE_SHIP_OpalcNixpac: "Опалк Никспак"
+ SEDRIICAE_SHIP_XactizNixpac: "Ксактиз Никпак"
+ SEDRIICAE_SHIP_KnakNixpac: "Кнак Никпак"
+ SEDRIICAE_SHIP_HulkrabTrobbjax: "Халкраб Троббьякс"
+ SEDRIICAE_SHIP_InklacTrobbjax: "Инклак Троббьякс"
+ SEDRIICAE_SHIP_OpalcTrobbjax: "Опалк Троббьякс"
+ SEDRIICAE_SHIP_XactizTrobbjax: "Закактиз Троббьякс"
+ SEDRIICAE_SHIP_KnakTrobbjax: "Кнак Троббьякс"
+ SEDRIICAE_SHIP_HulkrabMaqtrac: "Халкраб Мактрак"
+ SEDRIICAE_SHIP_InklacMaqtrac: "Инлак Мактрак"
+ SEDRIICAE_SHIP_OpalcMaqtrac: "Опалк Мактрак"
+ SEDRIICAE_SHIP_XactizMaqtrac: "Ксактиз Мактрак"
+ SEDRIICAE_SHIP_KnakMaqtrac: "Кнак Мактрак"
+ SEDRIICAE_SHIP_HulkrabKrabblax: "Халкраб Крабблакс"
+ SEDRIICAE_SHIP_InklacKrabblax: "Инклак Крабблакс"
+ SEDRIICAE_SHIP_OpalcKrabblax: "Опалк Крабблакс"
+ SEDRIICAE_SHIP_XactizKrabblax: "Закактиз Крабблакс"
+ SEDRIICAE_SHIP_KnakKrabblax: "Кнак Крабблакс"
+ SEDRIICAE_SHIP_HulkrabUpcix: "Халкраб Апсикс"
+ SEDRIICAE_SHIP_InklacUpcix: "Инклак Упсикс"
+ SEDRIICAE_SHIP_OpalcUpcix: "Опалк Упсикс"
+ SEDRIICAE_SHIP_XactizUpcix: "Xactiz Upcix"
+ SEDRIICAE_SHIP_KnakUpcix: "Кнак Упсикс"
+ SEDRIICAE_SHIP_HulkrabYbbax: "Халкраб Иббакс"
+ SEDRIICAE_SHIP_InklacYbbax: "Инклак Иббакс"
+ SEDRIICAE_SHIP_OpalcYbbax: "Опалк Иббакс"
+ SEDRIICAE_SHIP_XactizYbbax: "Закактиз Иббакс"
+ SEDRIICAE_SHIP_KnakYbbax: "Кнак Иббакс"
+ SEDRIICAE_SHIP_HulkrabLobball: "Халкраб Лоббол"
+ SEDRIICAE_SHIP_InklacLobball: "Инклак Лоббол"
+ SEDRIICAE_SHIP_OpalcLobball: "Опалк Лоббол"
+ SEDRIICAE_SHIP_XactizLobball: "Хаактиз Лоббол"
+ SEDRIICAE_SHIP_KnakLobball: "Кнак Лоббол"
+ SEDRIICAE_SHIP_HulkrabMezotix: "Халкраб Мезотикс"
+ SEDRIICAE_SHIP_InklacMezotix: "Инлак Мезотикс"
+ SEDRIICAE_SHIP_OpalcMezotix: "Опаловый Мезотикс"
+ SEDRIICAE_SHIP_XactizMezotix: "Ксактиз Мезотикс"
+ SEDRIICAE_SHIP_KnakMezotix: "Кнак Мезотикс"
+ SEDRIICAE_SHIP_HulkrabPolljac: "Халкраб Польяк"
+ SEDRIICAE_SHIP_InklacPolljac: "Инклак Польяк"
+ SEDRIICAE_SHIP_OpalcPolljac: "Опалк Польяк"
+ SEDRIICAE_SHIP_XactizPolljac: "Ксактиз Польяк"
+ SEDRIICAE_SHIP_KnakPolljac: "Кнак Польяк"
+ SEDRIICAE_SHIP_HulkrabBetklox: "Халкраб Бетклокс"
+ SEDRIICAE_SHIP_InklacBetklox: "Инклак Бетклокс"
+ SEDRIICAE_SHIP_OpalcBetklox: "Опалк Бетклокс"
+ SEDRIICAE_SHIP_XactizBetklox: "Xactiz Betklox"
+ SEDRIICAE_SHIP_KnakBetklox: "Кнак Бетклокс"
+ SEDRIICAE_SHIP_HulkrabVicopoc: "Халкраб Викопок"
+ SEDRIICAE_SHIP_InklacVicopoc: "Инклак Викопок"
+ SEDRIICAE_SHIP_OpalcVicopoc: "Опаловый викопок"
+ SEDRIICAE_SHIP_XactizVicopoc: "Хаактиз Викопок"
+ SEDRIICAE_SHIP_KnakVicopoc: "Кнак Викопок"
+ SEDRIICAE_SHIP_HulkrabBlatox: "Халкраб Блатокс"
+ SEDRIICAE_SHIP_InklacBlatox: "Инлак Блатокс"
+ SEDRIICAE_SHIP_OpalcBlatox: "Опалк Блатокс"
+ SEDRIICAE_SHIP_XactizBlatox: "Закактиз Блатокс"
+ SEDRIICAE_SHIP_KnakBlatox: "Кнак Блатокс"
+ SEDRIICAE_SHIP_HulkrabDunybb: "Халкраб Данибб"
+ SEDRIICAE_SHIP_InklacDunybb: "Инклак Данибб"
+ SEDRIICAE_SHIP_OpalcDunybb: "Опалк Данибб"
+ SEDRIICAE_SHIP_XactizDunybb: "Закактиз Данибб"
+ SEDRIICAE_SHIP_KnakDunybb: "Кнак Данибб"
+ SEDRIICAE_SHIP_HulkrabStroxtan: "Халкраб Строкстан"
+ SEDRIICAE_SHIP_InklacStroxtan: "Инлак Строкстан"
+ SEDRIICAE_SHIP_OpalcStroxtan: "Опалк Строкстан"
+ SEDRIICAE_SHIP_XactizStroxtan: "Закактиз Строкстан"
+ SEDRIICAE_SHIP_KnakStroxtan: "Кнак Строкстан"
+ SEDRIICAE_FLEET_BaktaxHuskSquadron: "Бактаксская эскадрилья шелухи"
+ SEDRIICAE_FLEET_KabblocHuskSquadron: "Кабблок Хаск Эскадрилья"
+ SEDRIICAE_FLEET_VactixHuskSquadron: "Эскадрилья Vactix Husk"
+ SEDRIICAE_FLEET_PolatricallHuskSquadron: "Polatricall Husk Squadron"
+ SEDRIICAE_FLEET_JaktoxHuskSquadron: "Jaktox Husk Squadron"
+ SEDRIICAE_FLEET_MekadancHuskSquadron: "Эскадрилья Мекаданк Хаск"
+ SEDRIICAE_FLEET_LutkracHuskSquadron: "Эскадрилья Луткрака Хаска"
+ SEDRIICAE_FLEET_PlattrycHuskSquadron: "Платтрик Хаск Эскадрилья"
+ SEDRIICAE_FLEET_SekadexHuskSquadron: "Sekadex Husk Squadron"
+ SEDRIICAE_PLANET_PulklacOvoc: "Пулклак Овок"
+ SEDRIICAE_PLANET_SwakOvoc: "Свак Овок"
+ SEDRIICAE_PLANET_XantOvoc: "Ксант Овок"
+ SEDRIICAE_PLANET_ZuppoxOvoc: "Зуппокс Овок"
+ SEDRIICAE_PLANET_AvlikZajkax: "Авлик Зайках"
+ SEDRIICAE_PLANET_UtpolZajkax: "Утпол Зайках"
+ SEDRIICAE_PLANET_ZakticZajkax: "Зактик Зайках"
+ SEDRIICAE_PLANET_KolkexZajkax: "Колкекс Зайках"
+ SEDRIICAE_PLANET_WekypYpacibb: "Wekyp Ypacibb"
+ SEDRIICAE_PLANET_AklacYpacibb: "Аклак Ипацибб"
+ SEDRIICAE_PLANET_QwilkYpacibb: "Квилк Ипацибб"
+ SEDRIICAE_PLANET_OmaxYpacibb: "Омакс Ипакибб"
+ SEDRIICAE_PLANET_PomicKrac: "Помик Крач"
+ SEDRIICAE_PLANET_AnacinKrac: "Анацин Крак"
+ SEDRIICAE_PLANET_XazibbKrac: "Хазибб Крач"
+ SEDRIICAE_PLANET_MocKrac: "Мок Крак"
+ SEDRIICAE_PLANET_AlloxHaxizabb: "Аллокс Хаксизабб"
+ SEDRIICAE_PLANET_CixivHaxizabb: "Джихив Хаксизабб"
+ SEDRIICAE_PLANET_HajpocHaxizabb: "Хайпок Хаксизабб"
+ SEDRIICAE_PLANET_WaxopHaxizabb: "Ваксоп Хаксизабб"
+ SEDRIICAE_PLANET_BakirixLaxtric: "Бакирикс Лакстрик"
+ SEDRIICAE_PLANET_NobhaxLaxtric: "Нобхакс Лакстрик"
+ SEDRIICAE_PLANET_SpectocaxLaxtric: "Спектокакс Лакстрик"
+ SEDRIICAE_PLANET_BobbicLaxtric: "Боббик Лакстрик"
+ SEDRIICAE_PLANET_TrabbxolTymcrix: "Трабксол Тимкрикс"
+ SEDRIICAE_PLANET_AwixallTymcrix: "Авиксалл Тимкрикс"
+ SEDRIICAE_PLANET_PobbnicTymcrix: "Поббник Тимкрикс"
+ SEDRIICAE_PLANET_BuktryxTymcrix: "Буктрикс Тимкрикс"
+ SEDRIICAE_PLANET_MoxfrocOxocodolf: "Моксфрок Оксодолф"
+ SEDRIICAE_PLANET_HullpaxOxocodolf: "Халлпакс Оксодолф"
+ SEDRIICAE_PLANET_RaxibbOxocodolf: "Раксибб Оксодолф"
+ SEDRIICAE_PLANET_ZalibbacOxocodolf: "Залиббак Оксодолф"
+ SEDRIICAE_CHR_Luk: "Лук"
+ SEDRIICAE_CHR_Ytella: "Ютелла"
+ SEDRIICAE_CHR_Pilax: "Пилакс"
+ SEDRIICAE_CHR_Xybber: "ксиббер"
+ SEDRIICAE_CHR_Inic: "Иник"
+ SEDRIICAE_CHR_Zukir: "Зукир"
+ SEDRIICAE_CHR_Fattic: "Жирный"
+ SEDRIICAE_CHR_Kibin: "Кибин"
+ SEDRIICAE_CHR_Rakex: "Ракекс"
+ SEDRIICAE_CHR_Pallyt: "Паллит"
+ SEDRIICAE_CHR_Frakir: "Фракир"
+ SEDRIICAE_CHR_Cilxin: "Силксин"
+ SEDRIICAE_CHR_Ibbac: "Иббак"
+ SEDRIICAE_CHR_Ztykatt: "Зтыкат"
+ SEDRIICAE_CHR_Lobbuk: "Лоббук"
+ SEDRIICAE_CHR_Knav: "Кнав"
+ SEDRIICAE_CHR_Klobbax: "Клоббакс"
+ SEDRIICAE_CHR_Axan: "Аксан"
+ SEDRIICAE_CHR_Apinix: "Апиникс"
+ SEDRIICAE_CHR_Lop: "Лоп"
+ SEDRIICAE_CHR_Inax: "Инакс"
+ SEDRIICAE_CHR_Xalin: "Халин"
+ SEDRIICAE_CHR_Unipak: "Унипак"
+ SEDRIICAE_CHR_Bokall: "Бокалл"
+ SEDRIICAE_CHR_Zaox: "Заокс"
+ SEDRIICAE_CHR_Krytic: "Критик"
+ SEDRIICAE_CHR_Xaspec: "Ксаспек"
+ SEDRIICAE_CHR_Xumlobb: "Шумлобб"
+ SEDRIICAE_CHR_Pokbatt: "Покбатт"
+ SEDRIICAE_CHR_Crumklac: "Крумклак"
+ SEDRIICAE_CHR_Polfukir: "Полфукир"
+ SEDRIICAE_CHR_Lertrak: "Лертрак"
+ SEDRIICAE_CHR_Ekir: "Экир"
+ SEDRIICAE_CHR_Yprak: "Ыпрак"
+ SEDRIICAE_CHR_Salklon: "Салклон"
+ SEDRIICAE_CHR_Valknek: "Валкнек"
+ SEDRIICAE_CHR_Utynik: "Утыник"
+ SEDRIICAE_CHR_Trobhak: "Тробхак"
+ SEDRIICAE_CHR_Xyp: "ксип"
+ SEDRIICAE_CHR_Kabanaca: "Кабанака"
+ SEDRIICAE_CHR_Vartinaca: "Вартинака"
+ SEDRIICAE_CHR_Aspinaca: "Аспинака"
+ SEDRIICAE_CHR_Ytanaca: "Итанака"
+ SEDRIICAE_CHR_Upiverta: "Упиверта"
+ SEDRIICAE_CHR_Xabbaverta: "Хаббаверта"
+ SEDRIICAE_CHR_Farkiverta: "Фаркиверта"
+ SEDRIICAE_CHR_Inaverta: "Инаверта"
+ SEDRIICAE_CHR_Poxinirkis: "Поксиниркис"
+ SEDRIICAE_CHR_Inaxinirkis: "Инаксиниркис"
+ SEDRIICAE_CHR_Lobbinirkis: "Лоббиниркис"
+ SEDRIICAE_CHR_Utinirkis: "Утиниркис"
+ SEDRIICAE_CHR_Lopetkin: "Лопеткин"
+ SEDRIICAE_CHR_Huketkin: "Хукеткин"
+ SEDRIICAE_CHR_Ekbokin: "Экбокин"
+ SEDRIICAE_CHR_Xankikin: "Ханкикин"
+ SEDRIICAE_CHR_Crumtika: "Крумтика"
+ SEDRIICAE_CHR_Yptika: "Ыптика"
+ SEDRIICAE_CHR_Lobbtika: "Лоббтика"
+ SEDRIICAE_CHR_Qatika: "Катика"
+ SEDRIICAE_CHR_Umlatika: "Умлатика"
+ SEDRIICAE_CHR_Pandolf: "Пандольф"
+ SEDRIICAE_CHR_Xandolf: "Ксан'дольф"
+ SEDRIICAE_CHR_Landolf: "Ландольф"
+ SEDRIICAE_CHR_Xypdolf: "Ксип'дольф"
+ SEDRIICAE_CHR_Typdolf: "Типдольф"
+ SEDRIICAE_CHR_Cixidolf: "Cixi'dolf"
+ SEDRIICAE_CHR_Lopdolf: "Лопдольф"
+ SEDRIICAE_CHR_Koldolf: "Кольдольф"
+ SEDRIICAE_CHR_Leexidanaca: "Лексиданака"
+ SEDRIICAE_CHR_Zaapritanaca: "Заапританака"
+ SEDRIICAE_CHR_Omaakixanaca: "Омаакишанака"
+ SEDRIICAE_CHR_Klobbaxanaca: "Клоббаксанака"
+  
+ # Sequential name formats 
+ SEDRIICAE_HUSKSQUADRON: "$ORD$ Эскадрилья "Хаск""
+ SEDRIICAE_DEFENSIVECAST: "$ORD$ Защитный состав"
+ SEDRIICAE_OFFENSIVECAST: "$ORD$ Наступательный состав"
+ SEDRIICAE_SERVITUDESWARM: "$ORD$ Рой слуг"
+ SEDRIICAE_CLONESWARM: "$ORD$ Рой клонов"
+ SEDRIICAE_DREADSWARM: "$ORD$ Ужасный рой"
+ SEDRIICAE_ROBOTICKS: "$ORD$ Робо-Тики"
+ SEDRIICAE_ROBOEMPLACEMENTS: "$ORD$ Робоустановки"
+ SEDRIICAE_SORCERERS: "$ORD$ Колдуны"
+ SEDRIICAE_XENOCAST: "$ORD$ Ксенокаст"
+ SEDRIICAE_BRUTES: "$ORD$ Бруты"
+ SEDRIICAE_OCCUPATIONCAST: "$ORD$ Род занятий"
+ SEDRIICAE_OCCUPATIONROBOTICKS: "$ORD$ Профессия Робо-тиксы"
+ SEDRIICAE_PRIMITIVEARMY: "Первобытная армия $C$"
+ SEDRIICAE_INDUSTRIALARMY: "Промышленная армия $C$"
+ SEDRIICAE_POSTATOMICARMY: "Постантомная армия $C$"
+ # Obsolete sequentials (for backwards compatibility) 
+ SEDRIICAE_xxHUSKSQUADRON_ORD: "$O$ Эскадрилья "Хаск""
+ SEDRIICAE_xxDEFENSIVECAST_ORD: "$O$ Защитный состав"
+ SEDRIICAE_xxOFFENSIVECAST_ORD: "$O$ Наступательный состав"
+ SEDRIICAE_xxSERVITUDESWARM_ORD: "$O$ Рой слуг"
+ SEDRIICAE_xxCLONESWARM_ORD: "$O$ Рой клонов"
+ SEDRIICAE_xxDREADSWARM_ORD: "$O$ Ужасный рой"
+ SEDRIICAE_xxROBOTICKS_ORD: "$O$ Робо-Тики"
+ SEDRIICAE_xxROBOEMPLACEMENTS_ORD: "$O$ Робоустановки"
+ SEDRIICAE_xxSORCERERS_ORD: "$O$ Колдуны"
+ SEDRIICAE_xxXENOCAST_ORD: "$O$ Ксенокаст"
+ SEDRIICAE_xxBRUTES_ORD: "$O$ Бруты"
+ SEDRIICAE_xxOCCUPATIONCAST_ORD: "$O$ Род занятий"
+ SEDRIICAE_xxOCCUPATIONROBOTICKS_ORD: "$O$ Профессия Робо-тиксы"
+ SEDRIICAE_PRIMITIVEARMYxx_SEQ: "Первобытная армия $C$"
+ SEDRIICAE_INDUSTRIALARMYxx_SEQ: "Промышленная армия $C$"
+ SEDRIICAE_POSTATOMICARMYxx_SEQ: "Постантомная армия $C$"

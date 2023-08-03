@@ -1,166 +1,166 @@
 ﻿l_russian:
- name_list_btr_hanar:0 "Ханар" #NT!
- HANAR_SHIP_:0 ""
- HANAR_SHIP_Faazkringrik:0 "Фаазкрингрик" #NT!
- HANAR_SHIP_Dirdrun:0 "Дирдрун" #NT!
- HANAR_SHIP_Diivko:0 "Диивко" #NT!
- HANAR_SHIP_Diillahshul:0 "Дииллахшул" #NT!
- HANAR_SHIP_Diibrodheyv:0 "Дийбродейв" #NT!
- HANAR_SHIP_Daankrentspaan:0 "Даанкрентспаан" #NT!
- HANAR_SHIP_Bromsov:0 "Бромсов" #NT!
- HANAR_SHIP_Bromdahlein:0 "Бромдалейн" #NT!
- HANAR_SHIP_Brodnusleh:0 "Броднуслех" #NT!
- HANAR_SHIP_Bokoddaal:0 "Бокоддал" #NT!
- HANAR_SHIP_Bahekqeth:0 "Бахеккет" #NT!
- HANAR_SHIP_Ausduulmey:0 "Аусдуулмей" #NT!
- HANAR_SHIP_Aluntkest:0 "Алунткест" #NT!
- HANAR_SHIP_Junkaalgein:0 "Юнкаальгейн" #NT!
- HANAR_SHIP_Jotkestgruth:0 "Йоткестгрут" #NT!
- HANAR_SHIP_Jotheyvrath:0 "Джотейврат" #NT!
- HANAR_SHIP_Jeraakiiz:0 "Джераакииз" #NT!
- HANAR_SHIP_Hunfel:0 "Хунфель" #NT!
- HANAR_SHIP_Hetdurrel:0 "Хетдуррель" #NT!
- HANAR_SHIP_Gutzaamaav:0 "Гуцаамав" #NT!
- HANAR_SHIP_Grouvpeyt:0 "Гроувпейт" #NT!
- HANAR_SHIP_Gronsuumlok:0 "Гронсу'умлок" #NT!
- HANAR_SHIP_Grindmungolz:0 "Гриндмунгольц" #NT!
- HANAR_SHIP_Golzzindkrein:0 "Гольциндкрейн" #NT!
- HANAR_SHIP_Gehwinwen:0 "Гехвинвен" #NT!
- HANAR_SHIP_Frinzeimgraag:0 "Фринцаймграаг" #NT!
- HANAR_SHIP_Nilyahus:0 "Нильяхус" #NT!
- HANAR_SHIP_Niizah:0 "Нииза" #NT!
- HANAR_SHIP_Naanthurdraal:0 "Наантудраал" #NT!
- HANAR_SHIP_Muzduuldreh:0 "Музду'улдре" #NT!
- HANAR_SHIP_Mulamvum:0 "Муламвум" #NT!
- HANAR_SHIP_Luftfrinsik:0 "Люфтфринсик" #NT!
- HANAR_SHIP_Lotmuzgrik:0 "Лотмузгрик" #NT!
- HANAR_SHIP_Laatwinnaak:0 "Лаатвиннаак" #NT!
- HANAR_SHIP_Kriidfiikleh:0 "Крийдфиклех" #NT!
- HANAR_SHIP_Krifreldrey:0 "Крифрелдри" #NT!
- HANAR_SHIP_Krennisbii:0 "Креннисбии" #NT!
- HANAR_SHIP_Krehkest:0 "Крекест" #NT!
- HANAR_SHIP_Krahbrom:0 "Крабром" #NT!
- HANAR_SHIP_Keysul:0 "Кейсул" #NT!
- HANAR_SHIP_Unyolxjer:0 "Уньолкшер" #NT!
- HANAR_SHIP_Tilshulslen:0 "Тильшульслен" #NT!
- HANAR_SHIP_Thurheimom:0 "Турхеймом" #NT!
- HANAR_SHIP_Strunwahlkiim:0 "Струнвалкиим" #NT!
- HANAR_SHIP_Sahkrifnis:0 "Сахкрифнис" #NT!
- HANAR_SHIP_Rudeinkrah:0 "Рудейнкра" #NT!
- HANAR_SHIP_Roruthtum:0 "Роруттум" #NT!
- HANAR_SHIP_Riidraalgolt:0 "Риидраальголт" #NT!
- HANAR_SHIP_Premdrogmon:0 "Премдрогмон" #NT!
- HANAR_SHIP_Peluvdiin:0 "Пелувдин" #NT!
- HANAR_SHIP_Pelbeynviing:0 "Пелбейнвиинг" #NT!
- HANAR_SHIP_Paazsul:0 "Паазсул" #NT!
- HANAR_SHIP_Okaazkey:0 "Окаазкей" #NT!
- HANAR_SHIP_Niskoorgolt:0 "Нискооргольт" #NT!
- HANAR_SHIP_Zoktumhaal:0 "Зоктумхаал" #NT!
- HANAR_SHIP_Zeimzaamvaal:0 "Займзаамвааль" #NT!
- HANAR_SHIP_Vulrahkaan:0 "Вулрахкан" #NT!
- HANAR_SHIP_Volbrit:0 "Волбрит" #NT!
- HANAR_SHIP_Vedsil:0 "Ведсил" #NT!
- HANAR_SHIP_Vaalrathgut:0 "Ваалратгут" #NT!
- HANAR_xxHanar_Navy_ORD:0 "$O$ Ханарский флот" #NT!
- HANAR_xxHanar_Defence_Force_ORD:0 "$O$ Силы обороны" #NT!
- HANAR_xxHanar_Task_Force_ORD:0 "$O$ Оперативная группа" #NT!
- HANAR_xxAllied_Operatives_ORD:0 "$O$ Союзные оперативники" #NT!
- HANAR_xxHanar_Military_Force_ORD:0 "$O$ Ханарские военные силы" #NT!
- HANAR_xxHanar_Tech_ORD:0 "$O$ Ханар Тех" #NT!
- HANAR_xxHanar_Tech_Drones_ORD:0 "$O$ Ханарские технические дроны" #NT!
- HANAR_xxBiotic_Division_ORD:0 "$O$ Биотический отдел" #NT!
- HANAR_xxBioWarfare_Division_ORD:0 "$O$ Отдел биологической войны" #NT!
- HANAR_xxBioEngineered_Squadron_ORD:0 "$O$ Биоинженерный отряд" #NT!
- HANAR_CHR_Zunnahsu:0 "Зуннасу" #NT!
- HANAR_CHR_Zaannilgraan:0 "Зааннилграан" #NT!
- HANAR_CHR_Yuvonkahaak:0 "Ювонкахаак" #NT!
- HANAR_CHR_Vulnaxunt:0 "Вулнаксант" #NT!
- HANAR_CHR_Viikliivfun:0 "Viikliivfun" #NT!
- HANAR_CHR_Vahkestek:0 "Вахкестек" #NT!
- HANAR_CHR_Vaazfus:0 "Ваазфус" #NT!
- HANAR_CHR_Vaatbahqah:0 "Ваатбака" #NT!
- HANAR_CHR_Tubokluft:0 "Тубоклуфт" #NT!
- HANAR_CHR_Toorrotdrun:0 "Торротрун" #NT!
- HANAR_CHR_Toorloksuum:0 "Торлоксуум" #NT!
- HANAR_CHR_Thaarnontfaas:0 "Таарнонтфаас" #NT!
- HANAR_CHR_Thaarndaanoth:0 "Таарндаанот" #NT!
- HANAR_CHR_Strunsotkrif:0 "Струнсоткриф" #NT!
- HANAR_CHR_Sotbahdez:0 "Сотбахдез" #NT!
- HANAR_CHR_Saanfelsah:0 "Саанфельса" #NT!
- HANAR_CHR_Rotdov:0 "Ротдов" #NT!
- HANAR_CHR_Rokaalsik:0 "Рокаалсик" #NT!
- HANAR_CHR_Reinfrongruth:0 "Рейнфронгрут" #NT!
- HANAR_CHR_Praalfrulsik:0 "Праальфрулсик" #NT!
- HANAR_CHR_Paarvithjul:0 "Парвитхул" #NT!
- HANAR_CHR_Othuvpaak:0 "Отувпаак" #NT!
- HANAR_CHR_Okaazmunkren:0 "Окаазмункрен" #NT!
- HANAR_CHR_Nosruthfo:0 "Носрутфо" #NT!
- HANAR_CHR_Nokpaalmah:0 "Нокпалмах" #NT!
- HANAR_CHR_Niswahldaal:0 "Нисвальдал" #NT!
- HANAR_CHR_Niinmultil:0 "Ниинмультил" #NT!
- HANAR_CHR_Neyhaal:0 "Нейхаал" #NT!
- HANAR_CHR_Nehkaankest:0 "Нехкаанкест" #NT!
- HANAR_CHR_Naxyolxmid:0 "Наксиолксмид" #NT!
- HANAR_CHR_Naxvaaz:0 "Наксвааз" #NT!
- HANAR_CHR_Nahlzaam:0 "Налзаам" #NT!
- HANAR_CHR_Lospaan:0 "Лоспаан" #NT!
- HANAR_CHR_Leinlaan:0 "Лайнлан" #NT!
- HANAR_CHR_Kriidwiintuz:0 "Крийдвинтуз" #NT!
- HANAR_CHR_Krasrekkiir:0 "Красреккир" #NT!
- HANAR_CHR_Koljudkrah:0 "Колюдкра" #NT!
- HANAR_CHR_Kiimfeimsos:0 "Киимфаймсос" #NT!
- HANAR_CHR_Kestwuthkaan:0 "Кествуткаан" #NT!
- HANAR_CHR_Kelriikkod:0 "Келриккод" #NT!
- HANAR_CHR_Keinspaangaan:0 "Кейнспаангаан" #NT!
- HANAR_CHR_Kaazluft:0 "Каазлуфт" #NT!
- HANAR_CHR_Kaazbeyndur:0 "Каазбейндур" #NT!
- HANAR_CHR_Joorgrahsah:0 "Джурграса" #NT!
- HANAR_CHR_Jerloklaan:0 "Джерлоклаан" #NT!
- HANAR_CHR_Hunkaalaak:0 "Хункаалаак" #NT!
- HANAR_CHR_Honneh:0 "Хонне" #NT!
- HANAR_CHR_Hindsulnah:0 "Хиндсулна" #NT!
- HANAR_CHR_Griktum:0 "Гриктум" #NT!
- HANAR_CHR_Goltjerkrent:0 "Гольтьеркрент" #NT!
- HANAR_CHR_Geinluftvah:0 "Гейнлуфтва" #NT!
- HANAR_CHR_Funyah:0 "Фунья" #NT!
- HANAR_CHR_Feynbritokaaz:0 "Фейнбритоказ" #NT!
- HANAR_CHR_Feimwuldag:0 "Феймвулдаг" #NT!
- HANAR_CHR_Dwiinvoddov:0 "Двиинводдов" #NT!
- HANAR_CHR_Dutiidsos:0 "Дутидсос" #NT!
- HANAR_CHR_Du'ulqahkiin:0 "Ду'улкахкин" #NT!
- HANAR_CHR_Draalvulkrif:0 "Драалвулькриф" #NT!
- HANAR_CHR_Diisulgut:0 "Дийсулгут" #NT!
- HANAR_CHR_Diiljudnaak:0 "Дийлюднаак" #NT!
- HANAR_CHR_Dezzaam:0 "Деззаам" #NT!
- HANAR_CHR_Deinlirdir:0 "Дейнлирдир" #NT!
- HANAR_CHR_Dahshaannaan:0 "Дахшааннаан" #NT!
- HANAR_CHR_Daankiim:0 "Даанкиим" #NT!
- HANAR_CHR_Daalrathgeh:0 "Даалратгех" #NT!
- HANAR_CHR_Beinlozol:0 "Бейнлозол" #NT!
- HANAR_CHR_Auskrinney:0 "Оскринни" #NT!
- HANAR_CHR_Aavviingfrin:0 "Аввиингфрин" #NT!
- HANAR_CHR_Aarsaan:0 "Арсаан" #NT!
- HANAR_CHR_Aakgrahiiz:0 "Акграхииз" #NT!
- HANAR_CHR_Wahlbriiriik:0 "Валбрийрик" #NT!
- HANAR_CHR_Ulsos:0 "Ульсос" #NT!
- HANAR_CHR_Rulsildrem:0 "Рулсилдрем" #NT!
- HANAR_CHR_Rokkrahzul:0 "Роккразул" #NT!
- HANAR_CHR_Reindaar:0 "Рейндаар" #NT!
- HANAR_CHR_Premsil:0 "Премсил" #NT!
- HANAR_CHR_Olnokpraal:0 "Олнокпраал" #NT!
- HANAR_CHR_Nahlnidgolt:0 "Нальнидголт" #NT!
- HANAR_CHR_Lotdu'uldur:0 "Лотду'улдур" #NT!
- HANAR_CHR_Lahninvaaz:0 "Ланинвааз" #NT!
- HANAR_CHR_Klovbeynbrii:0 "Кловбейнбрий" #NT!
- HANAR_CHR_Iizgronbron:0 "Изгронброн" #NT!
- HANAR_CHR_Heyvvodbrom:0 "Хейвводбром" #NT!
- HANAR_CHR_Grongol:0 "гронгол" #NT!
- HANAR_CHR_Daaldrembah:0 "Даальдремба" #NT!
- HANAR_CHR_Biipraalzind:0 "Бийпраалзинд" #NT!
- HANAR_CHR_Bahaaznis:0 "Бахаазни" #NT!
- HANAR_CHR_Agfiiksik:0 "Агфииксик" #NT!
- HANAR_CHR_Aalgaafvaat:0 "Алгаафваат" #NT!
- HANAR_CHR_Zymandis:0 "Займандис" #NT!
- HANAR_CHR_Opold:0 "Опольд" #NT!
- HANAR_CHR_Delanynder:0 "Деланиндер" #NT!
- HANAR_CHR_Blasto:0 "Бласто" #NT!
+ name_list_btr_hanar: "Ханар"
+ HANAR_SHIP_: 
+ HANAR_SHIP_Faazkringrik: "Фаазкрингрик"
+ HANAR_SHIP_Dirdrun: "Дирдрун"
+ HANAR_SHIP_Diivko: "Диивко"
+ HANAR_SHIP_Diillahshul: "Дииллахшул"
+ HANAR_SHIP_Diibrodheyv: "Дийбродейв"
+ HANAR_SHIP_Daankrentspaan: "Даанкрентспаан"
+ HANAR_SHIP_Bromsov: "Бромсов"
+ HANAR_SHIP_Bromdahlein: "Бромдалейн"
+ HANAR_SHIP_Brodnusleh: "Броднуслех"
+ HANAR_SHIP_Bokoddaal: "Бокоддал"
+ HANAR_SHIP_Bahekqeth: "Бахеккет"
+ HANAR_SHIP_Ausduulmey: "Аусдуулмей"
+ HANAR_SHIP_Aluntkest: "Алунткест"
+ HANAR_SHIP_Junkaalgein: "Юнкаальгейн"
+ HANAR_SHIP_Jotkestgruth: "Йоткестгрут"
+ HANAR_SHIP_Jotheyvrath: "Джотейврат"
+ HANAR_SHIP_Jeraakiiz: "Джераакииз"
+ HANAR_SHIP_Hunfel: "Хунфель"
+ HANAR_SHIP_Hetdurrel: "Хетдуррель"
+ HANAR_SHIP_Gutzaamaav: "Гуцаамав"
+ HANAR_SHIP_Grouvpeyt: "Гроувпейт"
+ HANAR_SHIP_Gronsuumlok: "Гронсу'умлок"
+ HANAR_SHIP_Grindmungolz: "Гриндмунгольц"
+ HANAR_SHIP_Golzzindkrein: "Гольциндкрейн"
+ HANAR_SHIP_Gehwinwen: "Гехвинвен"
+ HANAR_SHIP_Frinzeimgraag: "Фринцаймграаг"
+ HANAR_SHIP_Nilyahus: "Нильяхус"
+ HANAR_SHIP_Niizah: "Нииза"
+ HANAR_SHIP_Naanthurdraal: "Наантудраал"
+ HANAR_SHIP_Muzduuldreh: "Музду'улдре"
+ HANAR_SHIP_Mulamvum: "Муламвум"
+ HANAR_SHIP_Luftfrinsik: "Люфтфринсик"
+ HANAR_SHIP_Lotmuzgrik: "Лотмузгрик"
+ HANAR_SHIP_Laatwinnaak: "Лаатвиннаак"
+ HANAR_SHIP_Kriidfiikleh: "Крийдфиклех"
+ HANAR_SHIP_Krifreldrey: "Крифрелдри"
+ HANAR_SHIP_Krennisbii: "Креннисбии"
+ HANAR_SHIP_Krehkest: "Крекест"
+ HANAR_SHIP_Krahbrom: "Крабром"
+ HANAR_SHIP_Keysul: "Кейсул"
+ HANAR_SHIP_Unyolxjer: "Уньолкшер"
+ HANAR_SHIP_Tilshulslen: "Тильшульслен"
+ HANAR_SHIP_Thurheimom: "Турхеймом"
+ HANAR_SHIP_Strunwahlkiim: "Струнвалкиим"
+ HANAR_SHIP_Sahkrifnis: "Сахкрифнис"
+ HANAR_SHIP_Rudeinkrah: "Рудейнкра"
+ HANAR_SHIP_Roruthtum: "Роруттум"
+ HANAR_SHIP_Riidraalgolt: "Риидраальголт"
+ HANAR_SHIP_Premdrogmon: "Премдрогмон"
+ HANAR_SHIP_Peluvdiin: "Пелувдин"
+ HANAR_SHIP_Pelbeynviing: "Пелбейнвиинг"
+ HANAR_SHIP_Paazsul: "Паазсул"
+ HANAR_SHIP_Okaazkey: "Окаазкей"
+ HANAR_SHIP_Niskoorgolt: "Нискооргольт"
+ HANAR_SHIP_Zoktumhaal: "Зоктумхаал"
+ HANAR_SHIP_Zeimzaamvaal: "Займзаамвааль"
+ HANAR_SHIP_Vulrahkaan: "Вулрахкан"
+ HANAR_SHIP_Volbrit: "Волбрит"
+ HANAR_SHIP_Vedsil: "Ведсил"
+ HANAR_SHIP_Vaalrathgut: "Ваалратгут"
+ HANAR_xxHanar_Navy_ORD: "$O$ Ханарский флот"
+ HANAR_xxHanar_Defence_Force_ORD: "$O$ Силы обороны"
+ HANAR_xxHanar_Task_Force_ORD: "$O$ Оперативная группа"
+ HANAR_xxAllied_Operatives_ORD: "$O$ Союзные оперативники"
+ HANAR_xxHanar_Military_Force_ORD: "$O$ Ханарские военные силы"
+ HANAR_xxHanar_Tech_ORD: "$O$ Ханар Тех"
+ HANAR_xxHanar_Tech_Drones_ORD: "$O$ Ханарские технические дроны"
+ HANAR_xxBiotic_Division_ORD: "$O$ Биотический отдел"
+ HANAR_xxBioWarfare_Division_ORD: "$O$ Отдел биологической войны"
+ HANAR_xxBioEngineered_Squadron_ORD: "$O$ Биоинженерный отряд"
+ HANAR_CHR_Zunnahsu: "Зуннасу"
+ HANAR_CHR_Zaannilgraan: "Зааннилграан"
+ HANAR_CHR_Yuvonkahaak: "Ювонкахаак"
+ HANAR_CHR_Vulnaxunt: "Вулнаксант"
+ HANAR_CHR_Viikliivfun: "Viikliivfun"
+ HANAR_CHR_Vahkestek: "Вахкестек"
+ HANAR_CHR_Vaazfus: "Ваазфус"
+ HANAR_CHR_Vaatbahqah: "Ваатбака"
+ HANAR_CHR_Tubokluft: "Тубоклуфт"
+ HANAR_CHR_Toorrotdrun: "Торротрун"
+ HANAR_CHR_Toorloksuum: "Торлоксуум"
+ HANAR_CHR_Thaarnontfaas: "Таарнонтфаас"
+ HANAR_CHR_Thaarndaanoth: "Таарндаанот"
+ HANAR_CHR_Strunsotkrif: "Струнсоткриф"
+ HANAR_CHR_Sotbahdez: "Сотбахдез"
+ HANAR_CHR_Saanfelsah: "Саанфельса"
+ HANAR_CHR_Rotdov: "Ротдов"
+ HANAR_CHR_Rokaalsik: "Рокаалсик"
+ HANAR_CHR_Reinfrongruth: "Рейнфронгрут"
+ HANAR_CHR_Praalfrulsik: "Праальфрулсик"
+ HANAR_CHR_Paarvithjul: "Парвитхул"
+ HANAR_CHR_Othuvpaak: "Отувпаак"
+ HANAR_CHR_Okaazmunkren: "Окаазмункрен"
+ HANAR_CHR_Nosruthfo: "Носрутфо"
+ HANAR_CHR_Nokpaalmah: "Нокпалмах"
+ HANAR_CHR_Niswahldaal: "Нисвальдал"
+ HANAR_CHR_Niinmultil: "Ниинмультил"
+ HANAR_CHR_Neyhaal: "Нейхаал"
+ HANAR_CHR_Nehkaankest: "Нехкаанкест"
+ HANAR_CHR_Naxyolxmid: "Наксиолксмид"
+ HANAR_CHR_Naxvaaz: "Наксвааз"
+ HANAR_CHR_Nahlzaam: "Налзаам"
+ HANAR_CHR_Lospaan: "Лоспаан"
+ HANAR_CHR_Leinlaan: "Лайнлан"
+ HANAR_CHR_Kriidwiintuz: "Крийдвинтуз"
+ HANAR_CHR_Krasrekkiir: "Красреккир"
+ HANAR_CHR_Koljudkrah: "Колюдкра"
+ HANAR_CHR_Kiimfeimsos: "Киимфаймсос"
+ HANAR_CHR_Kestwuthkaan: "Кествуткаан"
+ HANAR_CHR_Kelriikkod: "Келриккод"
+ HANAR_CHR_Keinspaangaan: "Кейнспаангаан"
+ HANAR_CHR_Kaazluft: "Каазлуфт"
+ HANAR_CHR_Kaazbeyndur: "Каазбейндур"
+ HANAR_CHR_Joorgrahsah: "Джурграса"
+ HANAR_CHR_Jerloklaan: "Джерлоклаан"
+ HANAR_CHR_Hunkaalaak: "Хункаалаак"
+ HANAR_CHR_Honneh: "Хонне"
+ HANAR_CHR_Hindsulnah: "Хиндсулна"
+ HANAR_CHR_Griktum: "Гриктум"
+ HANAR_CHR_Goltjerkrent: "Гольтьеркрент"
+ HANAR_CHR_Geinluftvah: "Гейнлуфтва"
+ HANAR_CHR_Funyah: "Фунья"
+ HANAR_CHR_Feynbritokaaz: "Фейнбритоказ"
+ HANAR_CHR_Feimwuldag: "Феймвулдаг"
+ HANAR_CHR_Dwiinvoddov: "Двиинводдов"
+ HANAR_CHR_Dutiidsos: "Дутидсос"
+ HANAR_CHR_Du'ulqahkiin: "Ду'улкахкин"
+ HANAR_CHR_Draalvulkrif: "Драалвулькриф"
+ HANAR_CHR_Diisulgut: "Дийсулгут"
+ HANAR_CHR_Diiljudnaak: "Дийлюднаак"
+ HANAR_CHR_Dezzaam: "Деззаам"
+ HANAR_CHR_Deinlirdir: "Дейнлирдир"
+ HANAR_CHR_Dahshaannaan: "Дахшааннаан"
+ HANAR_CHR_Daankiim: "Даанкиим"
+ HANAR_CHR_Daalrathgeh: "Даалратгех"
+ HANAR_CHR_Beinlozol: "Бейнлозол"
+ HANAR_CHR_Auskrinney: "Оскринни"
+ HANAR_CHR_Aavviingfrin: "Аввиингфрин"
+ HANAR_CHR_Aarsaan: "Арсаан"
+ HANAR_CHR_Aakgrahiiz: "Акграхииз"
+ HANAR_CHR_Wahlbriiriik: "Валбрийрик"
+ HANAR_CHR_Ulsos: "Ульсос"
+ HANAR_CHR_Rulsildrem: "Рулсилдрем"
+ HANAR_CHR_Rokkrahzul: "Роккразул"
+ HANAR_CHR_Reindaar: "Рейндаар"
+ HANAR_CHR_Premsil: "Премсил"
+ HANAR_CHR_Olnokpraal: "Олнокпраал"
+ HANAR_CHR_Nahlnidgolt: "Нальнидголт"
+ HANAR_CHR_Lotdu'uldur: "Лотду'улдур"
+ HANAR_CHR_Lahninvaaz: "Ланинвааз"
+ HANAR_CHR_Klovbeynbrii: "Кловбейнбрий"
+ HANAR_CHR_Iizgronbron: "Изгронброн"
+ HANAR_CHR_Heyvvodbrom: "Хейвводбром"
+ HANAR_CHR_Grongol: "гронгол"
+ HANAR_CHR_Daaldrembah: "Даальдремба"
+ HANAR_CHR_Biipraalzind: "Бийпраалзинд"
+ HANAR_CHR_Bahaaznis: "Бахаазни"
+ HANAR_CHR_Agfiiksik: "Агфииксик"
+ HANAR_CHR_Aalgaafvaat: "Алгаафваат"
+ HANAR_CHR_Zymandis: "Займандис"
+ HANAR_CHR_Opold: "Опольд"
+ HANAR_CHR_Delanynder: "Деланиндер"
+ HANAR_CHR_Blasto: "Бласто"

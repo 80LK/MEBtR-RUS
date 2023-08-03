@@ -1,468 +1,468 @@
 ﻿l_russian:
- name_list_btr_cerberus:0 "Цербер" #NT!
- CERBERUS_SHIP_Doolittle:0 "Дулиттл" #NT!
- CERBERUS_SHIP_Gato:0 "Гато" #NT!
- CERBERUS_SHIP_Balao:0 "Балао" #NT!
- CERBERUS_SHIP_Sealion:0 "Морской лев" #NT!
- CERBERUS_SHIP_O'Hare:0 "O'Hare" #NT!
- CERBERUS_SHIP_McCampbell:0 "МакКэмпбелл" #NT!
- CERBERUS_SHIP_Yeager:0 "Йегер" #NT!
- CERBERUS_SHIP_Litvyak:0 "Литвяк" #NT!
- CERBERUS_SHIP_Caldwell:0 "Колдуэлл" #NT!
- CERBERUS_SHIP_MacLachlan:0 "Маклахлан" #NT!
- CERBERUS_SHIP_Skalski:0 "Скальский" #NT!
- CERBERUS_SHIP_Molders:0 "Формовщики" #NT!
- CERBERUS_SHIP_Iwamoto:0 "Iwamoto" #NT!
- CERBERUS_SHIP_Shinohara:0 "Shinohara" #NT!
- CERBERUS_SHIP_Mitralexis:0 "Митралексис" #NT!
- CERBERUS_SHIP_Clostermann:0 "Клостерманн" #NT!
- CERBERUS_SHIP_Thach:0 "Тач" #NT!
- CERBERUS_SHIP_Cheetah:0 "Гепард" #NT!
- CERBERUS_SHIP_Camel:0 "Верблюд" #NT!
- CERBERUS_SHIP_Buzzard:0 "Канюк" #NT!
- CERBERUS_SHIP_Bulldog:0 "Бульдог" #NT!
- CERBERUS_SHIP_Buffalo:0 "Баффало" #NT!
- CERBERUS_SHIP_Bloodhound:0 "Бладхаунд" #NT!
- CERBERUS_SHIP_Beagle:0 "бигль" #NT!
- CERBERUS_SHIP_Bass:0 "Бас" #NT!
- CERBERUS_SHIP_Badger:0 "барсук" #NT!
- CERBERUS_SHIP_Asp:0 "Аспид" #NT!
- CERBERUS_SHIP_Armadillo:0 "Броненосец" #NT!
- CERBERUS_SHIP_Antelope:0 "антилопа" #NT!
- CERBERUS_SHIP_Anaconda:0 "Анаконда" #NT!
- CERBERUS_SHIP_Alligator:0 "Аллигатор" #NT!
- CERBERUS_SHIP_Albatross:0 "Альбатрос" #NT!
- CERBERUS_SHIP_Adder:0 "Сумматор" #NT!
- CERBERUS_SHIP_Accentor:0 "Акцентир" #NT!
- CERBERUS_SHIP_Aardvark:0 "Трубкозуб" #NT!
- CERBERUS_SHIP_Hawk:0 "Ястреб" #NT!
- CERBERUS_SHIP_Haddock:0 "Пикша" #NT!
- CERBERUS_SHIP_Greyhound:0 "борзая" #NT!
- CERBERUS_SHIP_Wolf:0 "Волк" #NT!
- CERBERUS_SHIP_Grey:0 "Серый" #NT!
- CERBERUS_SHIP_Glowworm:0 "Светлячок" #NT!
- CERBERUS_SHIP_Gazelle:0 "Газель" #NT!
- CERBERUS_SHIP_Fox:0 "Лиса" #NT!
- CERBERUS_SHIP_Firefly:0 "Светляк" #NT!
- CERBERUS_SHIP_Ferret:0 "Хорек" #NT!
- CERBERUS_SHIP_Falcon:0 "Сокол" #NT!
- CERBERUS_SHIP_Elephant:0 "Слон" #NT!
- CERBERUS_SHIP_Eagle:0 "Орел" #NT!
- CERBERUS_SHIP_Dromedary:0 "Верблюд" #NT!
- CERBERUS_SHIP_Dragonfly:0 "Стрекоза" #NT!
- CERBERUS_SHIP_Dolphin:0 "Дельфин" #NT!
- CERBERUS_SHIP_Dingo:0 "Динго" #NT!
- CERBERUS_SHIP_Coyote:0 "Койот" #NT!
- CERBERUS_SHIP_Cobra:0 "Кобра" #NT!
- CERBERUS_SHIP_Orca:0 "косатка" #NT!
- CERBERUS_SHIP_Ocelot:0 "Оцелот" #NT!
- CERBERUS_SHIP_Nighthawk:0 "ночной ястреб" #NT!
- CERBERUS_SHIP_Narwhal:0 "Нарвал" #NT!
- CERBERUS_SHIP_Mosquito:0 "комар" #NT!
- CERBERUS_SHIP_Mongoose:0 "Мангуста" #NT!
- CERBERUS_SHIP_Minx:0 "шалунья" #NT!
- CERBERUS_SHIP_Lynx:0 "Рысь" #NT!
- CERBERUS_SHIP_Lizard:0 "Ящерица" #NT!
- CERBERUS_SHIP_Lion:0 "Лев" #NT!
- CERBERUS_SHIP_Leopard:0 "Леопард" #NT!
- CERBERUS_SHIP_Ladybird:0 "Божья коровка" #NT!
- CERBERUS_SHIP_King_Fish:0 "Королевская рыба" #NT!
- CERBERUS_SHIP_King_Cobra:0 "Королевская кобра" #NT!
- CERBERUS_SHIP_Kestrel:0 "Пустельга" #NT!
- CERBERUS_SHIP_Kangaroo:0 "Кенгуру" #NT!
- CERBERUS_SHIP_Jaguar:0 "Ягуар" #NT!
- CERBERUS_SHIP_Jackdaw:0 "Галка" #NT!
- CERBERUS_SHIP_Jackal:0 "Шакал" #NT!
- CERBERUS_SHIP_Shrike:0 "Сорокопут" #NT!
- CERBERUS_SHIP_Shark:0 "Акула" #NT!
- CERBERUS_SHIP_Scorpion:0 "Скорпион" #NT!
- CERBERUS_SHIP_Sardine:0 "Сардина" #NT!
- CERBERUS_SHIP_Salamander:0 "Саламандра" #NT!
- CERBERUS_SHIP_Raven:0 "Ворон" #NT!
- CERBERUS_SHIP_Rattlesnake:0 "гремучая змея" #NT!
- CERBERUS_SHIP_Python:0 "Питон" #NT!
- CERBERUS_SHIP_Puma:0 "пума" #NT!
- CERBERUS_SHIP_Porcupine:0 "Дикобраз" #NT!
- CERBERUS_SHIP_Polecat:0 "Хорек" #NT!
- CERBERUS_SHIP_Platypus:0 "Утконос" #NT!
- CERBERUS_SHIP_Petrel:0 "Буревестник" #NT!
- CERBERUS_SHIP_Penguin:0 "Пингвин" #NT!
- CERBERUS_SHIP_Pelican:0 "Пеликан" #NT!
- CERBERUS_SHIP_Peacock:0 "павлин" #NT!
- CERBERUS_SHIP_Panther:0 "Пантера" #NT!
- CERBERUS_SHIP_Osprey:0 "Скопа" #NT!
- CERBERUS_SHIP_Dervish:0 "Дервиш" #NT!
- CERBERUS_SHIP_Cossack:0 "казак" #NT!
- CERBERUS_SHIP_Aztec:0 "ацтек" #NT!
- CERBERUS_SHIP_Apache:0 "Апачи" #NT!
- CERBERUS_SHIP_Wolverine:0 "Росомаха" #NT!
- CERBERUS_SHIP_Walrus:0 "Морж" #NT!
- CERBERUS_SHIP_Vulture:0 "Стервятник" #NT!
- CERBERUS_SHIP_Tiger:0 "Тигр" #NT!
- CERBERUS_SHIP_Tapir:0 "Тапир" #NT!
- CERBERUS_SHIP_Swordfish:0 "рыба-меч" #NT!
- CERBERUS_SHIP_Sturgeon:0 "Осетр" #NT!
- CERBERUS_SHIP_Stork:0 "Аист" #NT!
- CERBERUS_SHIP_Stingray:0 "морской скат" #NT!
- CERBERUS_SHIP_Starfish:0 "морская звезда" #NT!
- CERBERUS_SHIP_Spider:0 "Паук" #NT!
- CERBERUS_SHIP_Sparrow:0 "Воробей" #NT!
- CERBERUS_SHIP_Skylark:0 "Жаворонок" #NT!
- CERBERUS_SHIP_Tomoe_Gozen:0 "Tomoe Gozen" #NT!
- CERBERUS_SHIP_Harrier:0 "Лунь" #NT!
- CERBERUS_SHIP_Soyuz:0 "Союз" #NT!
- CERBERUS_SHIP_Akula:0 "Акула" #NT!
- CERBERUS_SHIP_Akshay:0 "Акшай" #NT!
- CERBERUS_SHIP_Abhay:0 "Абхай" #NT!
- CERBERUS_SHIP_Zulu:0 "Зулу" #NT!
- CERBERUS_SHIP_Viking:0 "Викинг" #NT!
- CERBERUS_SHIP_Tomahawk:0 "Томагавк" #NT!
- CERBERUS_SHIP_Sultan:0 "Султан" #NT!
- CERBERUS_SHIP_Sphinx:0 "Сфинкс" #NT!
- CERBERUS_SHIP_Saracen:0 "Сарацин" #NT!
- CERBERUS_SHIP_Patrician:0 "Патриций" #NT!
- CERBERUS_SHIP_Parthian:0 "парфянин" #NT!
- CERBERUS_SHIP_Papillon:0 "Папийон" #NT!
- CERBERUS_SHIP_Matador:0 "Матадор" #NT!
- CERBERUS_SHIP_Janissary:0 "Янычар" #NT!
- CERBERUS_SHIP_Highlander:0 "Горец" #NT!
- CERBERUS_SHIP_Druid:0 "Друид" #NT!
- CERBERUS_SHIP_Acorn:0 "Желудь" #NT!
- CERBERUS_SHIP_Jiangkun:0 "Jiangkun" #NT!
- CERBERUS_SHIP_Wulong:0 "Wulong" #NT!
- CERBERUS_SHIP_Meihong:0 "Meihong" #NT!
- CERBERUS_SHIP_Taizhao:0 "Taizhao" #NT!
- CERBERUS_SHIP_Zhengsheng:0 "Чжэншэн" #NT!
- CERBERUS_SHIP_Guangxing:0 "Guangxing" #NT!
- CERBERUS_SHIP_Qiuxing:0 "Quixing" #NT!
- CERBERUS_SHIP_Chaoyang:0 "Чаоян" #NT!
- CERBERUS_SHIP_Taiyang:0 "Taiyang" #NT!
- CERBERUS_SHIP_Yinghao:0 "Yinghao" #NT!
- CERBERUS_SHIP_Yongcheng:0 "Юнчэн" #NT!
- CERBERUS_SHIP_Hailong:0 "Хайлун" #NT!
- CERBERUS_SHIP_Haifeng:0 "Хайфэн" #NT!
- CERBERUS_SHIP_Datong:0 "Датун" #NT!
- CERBERUS_SHIP_Yangwei:0 "Yangwei" #NT!
- CERBERUS_SHIP_Garuda:0 "Гаруда" #NT!
- CERBERUS_SHIP_Boyington:0 "Бойингтон" #NT!
- CERBERUS_SHIP_Richthofen:0 "Рихтгофен" #NT!
- CERBERUS_SHIP_Crazy_Horse:0 "Бешеная лошадь" #NT!
- CERBERUS_SHIP_Rodger_Young:0 "Роджер Янг" #NT!
- CERBERUS_SHIP_Soobrazitelny:0 "Сообразительный" #NT!
- CERBERUS_SHIP_Steregushchiy:0 "Стерегущий" #NT!
- CERBERUS_SHIP_Doblestnyi:0 "Доблестный" #NT!
- CERBERUS_SHIP_John_Paul_Jones:0 "Джон Пол Джонс" #NT!
- CERBERUS_SHIP_Rickenbacker:0 "Рикенбакер" #NT!
- CERBERUS_SHIP_Mongol:0 "монгол" #NT!
- CERBERUS_SHIP_Pharaoh:0 "фараон" #NT!
- CERBERUS_SHIP_Musketeer:0 "Мушкетер" #NT!
- CERBERUS_SHIP_Bong:0 "бонг" #NT!
- CERBERUS_SHIP_Van_Lierde:0 "Ван Лиерде" #NT!
- CERBERUS_SHIP_Cantacuzino:0 "Кантакузино" #NT!
- CERBERUS_SHIP_Kozhedub:0 "Кожедуб" #NT!
- CERBERUS_SHIP_Shestakov:0 "Шестаков" #NT!
- CERBERUS_SHIP_Sakai:0 "Сакаи" #NT!
- CERBERUS_SHIP_Nishizawa:0 "Nishizawa" #NT!
- CERBERUS_SHIP_Juutilainen:0 "Юутилайнен" #NT!
- CERBERUS_SHIP_Hartmann:0 "Хартманн" #NT!
- CERBERUS_SHIP_Baracca:0 "Баракка" #NT!
- CERBERUS_SHIP_Brumowski:0 "Брумовски" #NT!
- CERBERUS_SHIP_Coppens:0 "Коппенс" #NT!
- CERBERUS_SHIP_Kazakov:0 "Казаков" #NT!
- CERBERUS_SHIP_Bishop:0 "епископ" #NT!
- CERBERUS_SHIP_Mannock:0 "Маннок" #NT!
- CERBERUS_SHIP_Fonck:0 "Фонк" #NT!
- CERBERUS_SHIP_Indus:0 "Инд" #NT!
- CERBERUS_SHIP_Yukon:0 "Юкон" #NT!
- CERBERUS_SHIP_Mississippi:0 "Миссисипи" #NT!
- CERBERUS_SHIP_Yangtze:0 "Янцзы" #NT!
- CERBERUS_SHIP_Rubicon:0 "Рубикон" #NT!
- CERBERUS_SHIP_Grande:0 "Гранде" #NT!
- CERBERUS_SHIP_Rio:0 "Рио" #NT!
- CERBERUS_SHIP_Mekong:0 "Меконг" #NT!
- CERBERUS_SHIP_Jordan:0 "Иордания" #NT!
- CERBERUS_SHIP_Ganges:0 "Ганг" #NT!
- CERBERUS_SHIP_Colorado:0 "Колорадо" #NT!
- CERBERUS_SHIP_Volga:0 "Волга" #NT!
- CERBERUS_SHIP_Africa:0 "Африка" #NT!
- CERBERUS_SHIP_India:0 "Индия" #NT!
- CERBERUS_SHIP_Danube:0 "Дунай" #NT!
- CERBERUS_SHIP_Amazon:0 "Амазонка" #NT!
- CERBERUS_SHIP_Adriatic:0 "Адриатика" #NT!
- CERBERUS_SHIP_Atlantic:0 "Атлантика" #NT!
- CERBERUS_SHIP_Pacific:0 "Тихий океан" #NT!
- CERBERUS_SHIP_Calcutta:0 "Калькутта" #NT!
- CERBERUS_SHIP_Cairo:0 "Каир" #NT!
- CERBERUS_SHIP_Aires:0 "Буэнос айрес" #NT!
- CERBERUS_SHIP_Budapest:0 "Будапешт" #NT!
- CERBERUS_SHIP_Hyderabad:0 "Хайдарабад" #NT!
- CERBERUS_SHIP_Boston:0 "Бостон" #NT!
- CERBERUS_SHIP_Bombay:0 "Бомбей" #NT!
- CERBERUS_SHIP_Berlin:0 "Берлин" #NT!
- CERBERUS_SHIP_Belfast:0 "Белфаст" #NT!
- CERBERUS_SHIP_Beijing:0 "Пекин" #NT!
- CERBERUS_SHIP_Barcelona:0 "Барселона" #NT!
- CERBERUS_SHIP_Bangkok:0 "Бангкок" #NT!
- CERBERUS_SHIP_Baltimore:0 "Балтимор" #NT!
- CERBERUS_SHIP_Baghdad:0 "Багдад" #NT!
- CERBERUS_SHIP_Atlanta:0 "Атланта" #NT!
- CERBERUS_SHIP_Athens:0 "Афины" #NT!
- CERBERUS_SHIP_Austin:0 "Остин" #NT!
- CERBERUS_SHIP_Amsterdam:0 "Амстердам" #NT!
- CERBERUS_SHIP_Shenandoah:0 "Шенандоа" #NT!
- CERBERUS_SHIP_Orinoco:0 "Ориноко" #NT!
- CERBERUS_SHIP_Susquehanna:0 "Саскуэханна" #NT!
- CERBERUS_SHIP_Potomac:0 "Потомак" #NT!
- CERBERUS_SHIP_Merrimack:0 "Мерримак" #NT!
- CERBERUS_SHIP_Bengal:0 "Бенгалия" #NT!
- CERBERUS_SHIP_Sahara:0 "Сахара" #NT!
- CERBERUS_SHIP_Tigris:0 "Тигр" #NT!
- CERBERUS_SHIP_Rhine:0 "Рейн" #NT!
- CERBERUS_SHIP_Hong_Kong:0 "Гонконг" #NT!
- CERBERUS_SHIP_Helsinki:0 "Хельсинки" #NT!
- CERBERUS_SHIP_Havana:0 "Гавана" #NT!
- CERBERUS_SHIP_Hanoi:0 "Ханой" #NT!
- CERBERUS_SHIP_Guangzhou:0 "Гуанчжоу" #NT!
- CERBERUS_SHIP_Glasgow:0 "Глазго" #NT!
- CERBERUS_SHIP_Gibraltar:0 "Гибралтар" #NT!
- CERBERUS_SHIP_Edinburgh:0 "Эдинбург" #NT!
- CERBERUS_SHIP_Dublin:0 "Дублин" #NT!
- CERBERUS_SHIP_Dubai:0 "Дубай" #NT!
- CERBERUS_SHIP_Detroit:0 "Детройт" #NT!
- CERBERUS_SHIP_Salaam:0 "Салам" #NT!
- CERBERUS_SHIP_es:0 "Кадис" #NT!
- CERBERUS_SHIP_Dar:0 "Дар-эс-Салам" #NT!
- CERBERUS_SHIP_Damascus:0 "Дамаск" #NT!
- CERBERUS_SHIP_Copenhagen:0 "Копенгаген" #NT!
- CERBERUS_SHIP_Chicago:0 "Чикаго" #NT!
- CERBERUS_SHIP_Town:0 "Кейптаун" #NT!
- CERBERUS_SHIP_Oslo:0 "Осло" #NT!
- CERBERUS_SHIP_Osaka:0 "Осака" #NT!
- CERBERUS_SHIP_Novgorod:0 "Новгород" #NT!
- CERBERUS_SHIP_New_Orleans:0 "Жители Нового Орлеана" #NT!
- CERBERUS_SHIP_New_York:0 "Нью-Йорк" #NT!
- CERBERUS_SHIP_Mumbai:0 "Мумбаи" #NT!
- CERBERUS_SHIP_Moscow:0 "Москва" #NT!
- CERBERUS_SHIP_Minsk:0 "Минск" #NT!
- CERBERUS_SHIP_Manila:0 "Манила" #NT!
- CERBERUS_SHIP_Madrid:0 "Мадрид" #NT!
- CERBERUS_SHIP_Los_Angeles:0 "Лос-Анджелес" #NT!
- CERBERUS_SHIP_London:0 "Лондон" #NT!
- CERBERUS_SHIP_Kiev:0 "Киев" #NT!
- CERBERUS_SHIP_Johannesburg:0 "Йоханнесбург" #NT!
- CERBERUS_SHIP_Jerusalem:0 "Иерусалим" #NT!
- CERBERUS_SHIP_Jakarta:0 "Джакарта" #NT!
- CERBERUS_SHIP_Istanbul:0 "Стамбул" #NT!
- CERBERUS_SHIP_Houston:0 "Хьюстон" #NT!
- CERBERUS_SHIP_Tokyo:0 "Токио" #NT!
- CERBERUS_SHIP_Stockholm:0 "Стокгольм" #NT!
- CERBERUS_SHIP_St._Louis:0 "Сент-Луис" #NT!
- CERBERUS_SHIP_Singapore:0 "Сингапур" #NT!
- CERBERUS_SHIP_Shanghai:0 "Шанхай" #NT!
- CERBERUS_SHIP_Sevastopol:0 "Севастополь" #NT!
- CERBERUS_SHIP_Seoul:0 "Сеул" #NT!
- CERBERUS_SHIP_Seattle:0 "Сиэтл" #NT!
- CERBERUS_SHIP_Sarajevo:0 "Сараево" #NT!
- CERBERUS_SHIP_Sao_Paulo:0 "Сан-Паулу" #NT!
- CERBERUS_SHIP_San_Francisco:0 "Сан-Франциско" #NT!
- CERBERUS_SHIP_Rotterdam:0 "Роттердам" #NT!
- CERBERUS_SHIP_Rome:0 "Рим" #NT!
- CERBERUS_SHIP_Rio_de_Janeiro:0 "Рио де Жанейро" #NT!
- CERBERUS_SHIP_Prague:0 "Прага" #NT!
- CERBERUS_SHIP_Paris:0 "Париж" #NT!
- CERBERUS_SHIP_Birmingham:0 "Бирмингем" #NT!
- CERBERUS_SHIP_Montreal:0 "Монреаль" #NT!
- CERBERUS_SHIP_Mogadishu:0 "Могадишо" #NT!
- CERBERUS_SHIP_Venice:0 "Венеция" #NT!
- CERBERUS_SHIP_Casablanca:0 "Касабланка" #NT!
- CERBERUS_SHIP_Smolensk:0 "Смоленск" #NT!
- CERBERUS_SHIP_Nairobi:0 "Найроби" #NT!
- CERBERUS_SHIP_Munchen:0 "Мюнхен" #NT!
- CERBERUS_SHIP_Mexico_City:0 "Мексика" #NT!
- CERBERUS_SHIP_Brisbane:0 "Брисбен" #NT!
- CERBERUS_SHIP_Sydney:0 "Синдей" #NT!
- CERBERUS_SHIP_Warsaw:0 "Варшава" #NT!
- CERBERUS_SHIP_Vladivostok:0 "Владивосток" #NT!
- CERBERUS_SHIP_Vienna:0 "Вена" #NT!
- CERBERUS_SHIP_Vancouver:0 "Ванкувер" #NT!
- CERBERUS_SHIP_Toronto:0 "Toronto" #NT!
- CERBERUS_SHIP_Denver:0 "Денвер" #NT!
- CERBERUS_SHIP_Dallas:0 "Даллас" #NT!
- CERBERUS_SHIP_Exeter:0 "Эксетер" #NT!
- CERBERUS_SHIP_Florence:0 "Флоренция" #NT!
- CERBERUS_SHIP_Quebec:0 "Квебек" #NT!
- CERBERUS_SHIP_Tehran:0 "Тегеран" #NT!
- CERBERUS_SHIP_Tripoli:0 "Триполи" #NT!
- CERBERUS_SHIP_Brussels:0 "Брюссель" #NT!
- CERBERUS_SHIP_Marseille:0 "Марсель" #NT!
- CERBERUS_SHIP_Belgrade:0 "Белград" #NT!
- CERBERUS_SHIP_Frankfurt:0 "Франкфурт" #NT!
- CERBERUS_SHIP_St._Petersburg:0 "Санкт-Петербург" #NT!
- CERBERUS_SHIP_Volgograd:0 "Волгоград" #NT!
- CERBERUS_SHIP_Kyoto:0 "Киото" #NT!
- CERBERUS_SHIP_Kabul:0 "Кабул" #NT!
- CERBERUS_SHIP_Manchester:0 "Манчестер" #NT!
- CERBERUS_SHIP_Liverpool:0 "Ливерпуль" #NT!
- CERBERUS_SHIP_Lisbon:0 "Лиссабон" #NT!
- CERBERUS_SHIP_Miami:0 "Майами" #NT!
- CERBERUS_SHIP_Philadelphia:0 "Филадельфия" #NT!
- CERBERUS_SHIP_Pittsburgh:0 "Питтисбург" #NT!
- CERBERUS_SHIP_Yokohama:0 "Yokohama" #NT!
- CERBERUS_SHIP_Shaoxing:0 "Шаосин" #NT!
- CERBERUS_SHIP_Hangzhou:0 "HХанчжоу" #NT!
- CERBERUS_SHIP_Chengdu:0 "Чэнду" #NT!
- CERBERUS_SHIP_Bogota:0 "Богота" #NT!
- CERBERUS_SHIP_Montevideo:0 "Монтевидео" #NT!
- CERBERUS_SHIP_Santiago:0 "Сантьяго" #NT!
- CERBERUS_SHIP_Brazzaville:0 "Браззавиль" #NT!
- CERBERUS_SHIP_Algiers:0 "Алжир" #NT!
- CERBERUS_SHIP_Ottawa:0 "Оттава" #NT!
- CERBERUS_SHIP_Calgary:0 "Калгари" #NT!
- CERBERUS_SHIP_Melbourne:0 "Мельбурн" #NT!
- CERBERUS_SHIP_Lagos:0 "Лагос" #NT!
- CERBERUS_SHIP_Delhi:0 "Дели" #NT!
- CERBERUS_SHIP_Zurich:0 "Цюрих" #NT!
- CERBERUS_SHIP_Karachi:0 "Карачи" #NT!
- CERBERUS_SHIP_Islamabad:0 "Исламабад" #NT!
- CERBERUS_SHIP_Tapei:0 "Тапеи" #NT!
- CERBERUS_SHIP_Kathmandu:0 "Катманду" #NT!
- CERBERUS_SHIP_Beirut:0 "Бейрут" #NT!
- CERBERUS_SHIP_Ankara:0 "Анкара" #NT!
- CERBERUS_SHIP_Abu_Dhabi:0 "Абу Даби" #NT!
- CERBERUS_SHIP_Kuala_Lumpur:0 "Куала-Лумпур" #NT!
- CERBERUS_SHIP_Surabaya:0 "Сурабая" #NT!
- CERBERUS_SHIP_Milan:0 "Милан" #NT!
- CERBERUS_SHIP_Minneapolis:0 "Миннеаполис" #NT!
- CERBERUS_SHIP_Indianapolis:0 "Индианаполис" #NT!
- CERBERUS_SHIP_Phoenix:0 "Феникс" #NT!
- CERBERUS_SHIP_Bremen:0 "Бремен" #NT!
- CERBERUS_SHIP_Hamburg:0 "Гамбург" #NT!
- CERBERUS_SHIP_Edmonton:0 "Эдмонтон" #NT!
- CERBERUS_SHIP_Tallinn:0 "Таллинн" #NT!
- CERBERUS_SHIP_Vilnius:0 "Вильнюс" #NT!
- CERBERUS_SHIP_Krakow:0 "Краков" #NT!
- CERBERUS_SHIP_Valencia:0 "Валенсия" #NT!
- CERBERUS_SHIP_Riga:0 "Рига" #NT!
- CERBERUS_SHIP_Riyadh:0 "Эр-Рияд" #NT!
- CERBERUS_SHIP_Tunis:0 "Тунис" #NT!
- CERBERUS_SHIP_Bratislava:0 "Братислава" #NT!
- CERBERUS_SHIP_Lyon:0 "Лион" #NT!
- CERBERUS_SHIP_Gothenburg:0 "Гетебург" #NT!
- CERBERUS_SHIP_Geneva:0 "Женева" #NT!
- CERBERUS_SHIP_Bucharest:0 "Бухарест" #NT!
- CERBERUS_SHIP_Luxembourg:0 "Люксембург" #NT!
- CERBERUS_SHIP_Lima:0 "Лима" #NT!
- CERBERUS_SHIP_Tel_Aviv:0 "Тель-Авив" #NT!
- CERBERUS_SHIP_Dusseldorf:0 "Дюссельдорф" #NT!
- CERBERUS_SHIP_Bangalore:0 "Бангалор" #NT!
- CERBERUS_SHIP_Saladin:0 "Саладин" #NT!
- CERBERUS_SHIP_Washington:0 "Вашингтон" #NT!
- CERBERUS_SHIP_Hannibal:0 "Ганнибал" #NT!
- CERBERUS_SHIP_Belisarius:0 "Велизарий" #NT!
- CERBERUS_SHIP_Alexander:0 "Александр" #NT!
- CERBERUS_SHIP_Agrippa:0 "Агриппа" #NT!
- CERBERUS_SHIP_Excalibur:0 "Экскалибур" #NT!
- CERBERUS_SHIP_Bellerophon:0 "Беллерофонт" #NT!
- CERBERUS_SHIP_Ajax:0 "Аякс" #NT!
- CERBERUS_SHIP_Apollo:0 "Аполлон" #NT!
- CERBERUS_SHIP_Atlas:0 "Атлас" #NT!
- CERBERUS_SHIP_Icarus:0 "Икар" #NT!
- CERBERUS_SHIP_Hercules:0 "Геракл" #NT!
- CERBERUS_SHIP_Nelson:0 "Нельсон" #NT!
- CERBERUS_SHIP_Xerxes:0 "Ксеркс" #NT!
- CERBERUS_SHIP_Xenophon:0 "Ксенофонт" #NT!
- CERBERUS_SHIP_Ulysses:0 "Улисс" #NT!
- CERBERUS_SHIP_Trondheim:0 "Тронхейм" #NT!
- CERBERUS_SHIP_Tijuana:0 "Тихуана" #NT!
- CERBERUS_SHIP_Charlemagne:0 "Карл Великий" #NT!
- CERBERUS_SHIP_Akira:0 "Акира" #NT!
- CERBERUS_SHIP_Pharsalus:0 "Фарсал" #NT!
- CERBERUS_SHIP_Granicus:0 "Граникус" #NT!
- CERBERUS_SHIP_Waterloo:0 "Ватерлоо" #NT!
- CERBERUS_SHIP_Verdun:0 "Верден" #NT!
- CERBERUS_SHIP_Valley_Forge:0 "Вэлли Фордж" #NT!
- CERBERUS_SHIP_Tsushima:0 "Цусима" #NT!
- CERBERUS_SHIP_Trafalgar:0 "Трафальгар" #NT!
- CERBERUS_SHIP_Jutland:0 "Ютландия" #NT!
- CERBERUS_SHIP_Gettysburg:0 "БГеттисберг" #NT!
- CERBERUS_SHIP_Austerlitz:0 "Аустерлиц" #NT!
- CERBERUS_SHIP_Agincourt:0 "Азенкур" #NT!
- CERBERUS_SHIP_Actium:0 "Актиум" #NT!
- CERBERUS_SHIP_Yamato:0 "Yamato" #NT!
- CERBERUS_SHIP_Bismarck:0 "Бисмарк" #NT!
- CERBERUS_SHIP_Monitor:0 "Монитор" #NT!
- CERBERUS_SHIP_Valiant:0 "Доблестный" #NT!
- CERBERUS_SHIP_Chivalrous:0 "Рыцарский" #NT!
- CERBERUS_SHIP_Indefatigable:0 "Неутомимый" #NT!
- CERBERUS_SHIP_Formidable:0 "Грозный" #NT!
- CERBERUS_SHIP_Excelsior:0 "Эксельсиор" #NT!
- CERBERUS_SHIP_Endeavor:0 "Стараться" #NT!
- CERBERUS_SHIP_Dauntless:0 "Бесстрашный" #NT!
- CERBERUS_SHIP_Courage:0 "Храбрость" #NT!
- CERBERUS_SHIP_Victory:0 "Победа" #NT!
- CERBERUS_SHIP_Warspite:0 "Варспайт" #NT!
- CERBERUS_SHIP_Musashi:0 "Мусаси" #NT!
- CERBERUS_SHIP_Potemkin:0 "Потемкин" #NT!
- CERBERUS_SHIP_Hood:0 "Робин Гуд" #NT!
- CERBERUS_SHIP_Black_Prince:0 "Черный принц" #NT!
- CERBERUS_SHIP_Ark_Royal:0 "Арк Ройал" #NT!
- CERBERUS_SHIP_Hornet:0 "Шершень" #NT!
- CERBERUS_SHIP_Wasp:0 "Оса" #NT!
- CERBERUS_SHIP_Hermes:0 "Гермес" #NT!
- CERBERUS_SHIP_Coral_Sea:0 "Коралловое море" #NT!
- CERBERUS_SHIP_Yorktown:0 "Йорктаун" #NT!
- CERBERUS_SHIP_Saratoga:0 "Саратога" #NT!
- CERBERUS_SHIP_Midway:0 "Мидуэй" #NT!
- CERBERUS_SHIP_Lexington:0 "Лексингтон" #NT!
- CERBERUS_SHIP_Yamamoto:0 "Ямамото" #NT!
- CERBERUS_SHIP_Fortitude:0 "Стойкость" #NT!
- CERBERUS_SHIP_Resolute:0 "Решительный" #NT!
- CERBERUS_SHIP_Vigilant:0 "бдительный" #NT!
- CERBERUS_SHIP_Endurance:0 "Выносливость" #NT!
- CERBERUS_SHIP_Defender:0 "Защитник" #NT!
- CERBERUS_SHIP_Bulwark:0 "переборка" #NT!
- CERBERUS_SHIP_Galaxy:0 "Галактика" #NT!
- CERBERUS_SHIP_Defiant:0 "дерзкий" #NT!
- CERBERUS_SHIP_Concord:0 "Конкорд" #NT!
- CERBERUS_SHIP_Century:0 "Века" #NT!
- CERBERUS_SHIP_Aquila:0 "Аквила" #NT!
- CERBERUS_SHIP_Andromeda:0 "Андромеда" #NT!
- CERBERUS_SHIP_Ranger:0 "Рейнджер" #NT!
- CERBERUS_SHIP_Constitution:0 "Конституция" #NT!
- CERBERUS_SHIP_Constellation:0 "Созвездие" #NT!
- CERBERUS_SHIP_Enterprise:0 "Предприятие" #NT!
- CERBERUS_SHIP_Invincible:0 "непобедимый" #NT!
- CERBERUS_SHIP_Intrepid:0 "Бесстрашный" #NT!
- CERBERUS_SHIP_Illustrious:0 "прославленный" #NT!
- CERBERUS_SHIP_Kaga:0 "Кага" #NT!
- CERBERUS_SHIP_Akagi:0 "Акаги" #NT!
- CERBERUS_SHIP_Essex:0 "Эссекс" #NT!
- CERBERUS_SHIP_Pegasus:0 "Пегас" #NT!
- CERBERUS_SHIP_Reliant:0 "Уверенный" #NT!
- CERBERUS_SHIP_Providence:0 "Провиденс" #NT!
- CERBERUS_SHIP_Orion:0 "Орион" #NT!
- CERBERUS_SHIP_Odyssey:0 "Одиссея" #NT!
- CERBERUS_FLEET_The_Millenial_Fleet:0 "Тысячелетний флот" #NT!
- CERBERUS_FLEET_The_Musketeer_Fleet:0 "Мушкетерский флот" #NT!
- CERBERUS_FLEET_The_Tercio_Fleet:0 "Флот Терсио" #NT!
- CERBERUS_FLEET_The_Arquebusier_Fleet:0 "Аркебузирский флот" #NT!
- CERBERUS_FLEET_The_Gendarme_Fleet:0 "Жандармский флот" #NT!
- CERBERUS_FLEET_The_Landsknechte_Fleet:0 "Ландскнехтский флот" #NT!
- CERBERUS_FLEET_The_Lancer_Fleet:0 "Уланский флот" #NT!
- CERBERUS_FLEET_The_Cavalry_Fleet:0 "Кавалерийский флот" #NT!
- CERBERUS_FLEET_The_Archer_Fleet:0 "Флот лучников" #NT!
- CERBERUS_FLEET_The_Knight_Fleet:0 "Рыцарский флот" #NT!
- CERBERUS_FLEET_The_Immortal_Fleet:0 "Бессмертный флот" #NT!
- CERBERUS_FLEET_The_Centurion_Fleet:0 "Флот Центуриона" #NT!
- CERBERUS_FLEET_The_Phalanx_Fleet:0 "Флот Фаланги" #NT!
- CERBERUS_FLEET_The_Hoplite_Fleet:0 "Флот гоплитов" #NT!
- CERBERUS_xxFleet_ORD:0 "$O$ Флот Цербера" #NT!
- CERBERUS_xxRiot_Troopers_ORD:0 "$O$ Омоновцы" #NT!
- CERBERUS_xxAssault_Troopers_ORD:0 "$O$ Штурмовики" #NT!
- CERBERUS_xxShock_Troopers_ORD:0 "$O$ Штурмовики" #NT!
- CERBERUS_xxClone_Troopers_ORD:0 "$O$ Клоны-солдаты" #NT!
- CERBERUS_xxOgre_Mechs_ORD:0 "$O$ Огрские роботы" #NT!
- CERBERUS_xxOrcus_Mechs_ORD:0 "$O$ Мехи Orcus" #NT!
- CERBERUS_xxPhantom_Strike_Force_ORD:0 "$O$ Флот Phantom Strike" #NT!
- CERBERUS_xxExperimantal_BioWeapons_ORD:0 "$O$ Экспериментальное биологическое оружие" #NT!
- CERBERUS_xxDragoon_Strike_Force_ORD:0 "$O$ Ударная группа драгун" #NT!
+ name_list_btr_cerberus: "Цербер"
+ CERBERUS_SHIP_Doolittle: "Дулиттл"
+ CERBERUS_SHIP_Gato: "Гато"
+ CERBERUS_SHIP_Balao: "Балао"
+ CERBERUS_SHIP_Sealion: "Морской лев"
+ CERBERUS_SHIP_O'Hare: "O'Hare"
+ CERBERUS_SHIP_McCampbell: "МакКэмпбелл"
+ CERBERUS_SHIP_Yeager: "Йегер"
+ CERBERUS_SHIP_Litvyak: "Литвяк"
+ CERBERUS_SHIP_Caldwell: "Колдуэлл"
+ CERBERUS_SHIP_MacLachlan: "Маклахлан"
+ CERBERUS_SHIP_Skalski: "Скальский"
+ CERBERUS_SHIP_Molders: "Формовщики"
+ CERBERUS_SHIP_Iwamoto: "Iwamoto"
+ CERBERUS_SHIP_Shinohara: "Shinohara"
+ CERBERUS_SHIP_Mitralexis: "Митралексис"
+ CERBERUS_SHIP_Clostermann: "Клостерманн"
+ CERBERUS_SHIP_Thach: "Тач"
+ CERBERUS_SHIP_Cheetah: "Гепард"
+ CERBERUS_SHIP_Camel: "Верблюд"
+ CERBERUS_SHIP_Buzzard: "Канюк"
+ CERBERUS_SHIP_Bulldog: "Бульдог"
+ CERBERUS_SHIP_Buffalo: "Баффало"
+ CERBERUS_SHIP_Bloodhound: "Бладхаунд"
+ CERBERUS_SHIP_Beagle: "бигль"
+ CERBERUS_SHIP_Bass: "Бас"
+ CERBERUS_SHIP_Badger: "барсук"
+ CERBERUS_SHIP_Asp: "Аспид"
+ CERBERUS_SHIP_Armadillo: "Броненосец"
+ CERBERUS_SHIP_Antelope: "антилопа"
+ CERBERUS_SHIP_Anaconda: "Анаконда"
+ CERBERUS_SHIP_Alligator: "Аллигатор"
+ CERBERUS_SHIP_Albatross: "Альбатрос"
+ CERBERUS_SHIP_Adder: "Сумматор"
+ CERBERUS_SHIP_Accentor: "Акцентир"
+ CERBERUS_SHIP_Aardvark: "Трубкозуб"
+ CERBERUS_SHIP_Hawk: "Ястреб"
+ CERBERUS_SHIP_Haddock: "Пикша"
+ CERBERUS_SHIP_Greyhound: "борзая"
+ CERBERUS_SHIP_Wolf: "Волк"
+ CERBERUS_SHIP_Grey: "Серый"
+ CERBERUS_SHIP_Glowworm: "Светлячок"
+ CERBERUS_SHIP_Gazelle: "Газель"
+ CERBERUS_SHIP_Fox: "Лиса"
+ CERBERUS_SHIP_Firefly: "Светляк"
+ CERBERUS_SHIP_Ferret: "Хорек"
+ CERBERUS_SHIP_Falcon: "Сокол"
+ CERBERUS_SHIP_Elephant: "Слон"
+ CERBERUS_SHIP_Eagle: "Орел"
+ CERBERUS_SHIP_Dromedary: "Верблюд"
+ CERBERUS_SHIP_Dragonfly: "Стрекоза"
+ CERBERUS_SHIP_Dolphin: "Дельфин"
+ CERBERUS_SHIP_Dingo: "Динго"
+ CERBERUS_SHIP_Coyote: "Койот"
+ CERBERUS_SHIP_Cobra: "Кобра"
+ CERBERUS_SHIP_Orca: "косатка"
+ CERBERUS_SHIP_Ocelot: "Оцелот"
+ CERBERUS_SHIP_Nighthawk: "ночной ястреб"
+ CERBERUS_SHIP_Narwhal: "Нарвал"
+ CERBERUS_SHIP_Mosquito: "комар"
+ CERBERUS_SHIP_Mongoose: "Мангуста"
+ CERBERUS_SHIP_Minx: "шалунья"
+ CERBERUS_SHIP_Lynx: "Рысь"
+ CERBERUS_SHIP_Lizard: "Ящерица"
+ CERBERUS_SHIP_Lion: "Лев"
+ CERBERUS_SHIP_Leopard: "Леопард"
+ CERBERUS_SHIP_Ladybird: "Божья коровка"
+ CERBERUS_SHIP_King_Fish: "Королевская рыба"
+ CERBERUS_SHIP_King_Cobra: "Королевская кобра"
+ CERBERUS_SHIP_Kestrel: "Пустельга"
+ CERBERUS_SHIP_Kangaroo: "Кенгуру"
+ CERBERUS_SHIP_Jaguar: "Ягуар"
+ CERBERUS_SHIP_Jackdaw: "Галка"
+ CERBERUS_SHIP_Jackal: "Шакал"
+ CERBERUS_SHIP_Shrike: "Сорокопут"
+ CERBERUS_SHIP_Shark: "Акула"
+ CERBERUS_SHIP_Scorpion: "Скорпион"
+ CERBERUS_SHIP_Sardine: "Сардина"
+ CERBERUS_SHIP_Salamander: "Саламандра"
+ CERBERUS_SHIP_Raven: "Ворон"
+ CERBERUS_SHIP_Rattlesnake: "гремучая змея"
+ CERBERUS_SHIP_Python: "Питон"
+ CERBERUS_SHIP_Puma: "пума"
+ CERBERUS_SHIP_Porcupine: "Дикобраз"
+ CERBERUS_SHIP_Polecat: "Хорек"
+ CERBERUS_SHIP_Platypus: "Утконос"
+ CERBERUS_SHIP_Petrel: "Буревестник"
+ CERBERUS_SHIP_Penguin: "Пингвин"
+ CERBERUS_SHIP_Pelican: "Пеликан"
+ CERBERUS_SHIP_Peacock: "павлин"
+ CERBERUS_SHIP_Panther: "Пантера"
+ CERBERUS_SHIP_Osprey: "Скопа"
+ CERBERUS_SHIP_Dervish: "Дервиш"
+ CERBERUS_SHIP_Cossack: "казак"
+ CERBERUS_SHIP_Aztec: "ацтек"
+ CERBERUS_SHIP_Apache: "Апачи"
+ CERBERUS_SHIP_Wolverine: "Росомаха"
+ CERBERUS_SHIP_Walrus: "Морж"
+ CERBERUS_SHIP_Vulture: "Стервятник"
+ CERBERUS_SHIP_Tiger: "Тигр"
+ CERBERUS_SHIP_Tapir: "Тапир"
+ CERBERUS_SHIP_Swordfish: "рыба-меч"
+ CERBERUS_SHIP_Sturgeon: "Осетр"
+ CERBERUS_SHIP_Stork: "Аист"
+ CERBERUS_SHIP_Stingray: "морской скат"
+ CERBERUS_SHIP_Starfish: "морская звезда"
+ CERBERUS_SHIP_Spider: "Паук"
+ CERBERUS_SHIP_Sparrow: "Воробей"
+ CERBERUS_SHIP_Skylark: "Жаворонок"
+ CERBERUS_SHIP_Tomoe_Gozen: "Tomoe Gozen"
+ CERBERUS_SHIP_Harrier: "Лунь"
+ CERBERUS_SHIP_Soyuz: "Союз"
+ CERBERUS_SHIP_Akula: "Акула"
+ CERBERUS_SHIP_Akshay: "Акшай"
+ CERBERUS_SHIP_Abhay: "Абхай"
+ CERBERUS_SHIP_Zulu: "Зулу"
+ CERBERUS_SHIP_Viking: "Викинг"
+ CERBERUS_SHIP_Tomahawk: "Томагавк"
+ CERBERUS_SHIP_Sultan: "Султан"
+ CERBERUS_SHIP_Sphinx: "Сфинкс"
+ CERBERUS_SHIP_Saracen: "Сарацин"
+ CERBERUS_SHIP_Patrician: "Патриций"
+ CERBERUS_SHIP_Parthian: "парфянин"
+ CERBERUS_SHIP_Papillon: "Папийон"
+ CERBERUS_SHIP_Matador: "Матадор"
+ CERBERUS_SHIP_Janissary: "Янычар"
+ CERBERUS_SHIP_Highlander: "Горец"
+ CERBERUS_SHIP_Druid: "Друид"
+ CERBERUS_SHIP_Acorn: "Желудь"
+ CERBERUS_SHIP_Jiangkun: "Jiangkun"
+ CERBERUS_SHIP_Wulong: "Wulong"
+ CERBERUS_SHIP_Meihong: "Meihong"
+ CERBERUS_SHIP_Taizhao: "Taizhao"
+ CERBERUS_SHIP_Zhengsheng: "Чжэншэн"
+ CERBERUS_SHIP_Guangxing: "Guangxing"
+ CERBERUS_SHIP_Qiuxing: "Quixing"
+ CERBERUS_SHIP_Chaoyang: "Чаоян"
+ CERBERUS_SHIP_Taiyang: "Taiyang"
+ CERBERUS_SHIP_Yinghao: "Yinghao"
+ CERBERUS_SHIP_Yongcheng: "Юнчэн"
+ CERBERUS_SHIP_Hailong: "Хайлун"
+ CERBERUS_SHIP_Haifeng: "Хайфэн"
+ CERBERUS_SHIP_Datong: "Датун"
+ CERBERUS_SHIP_Yangwei: "Yangwei"
+ CERBERUS_SHIP_Garuda: "Гаруда"
+ CERBERUS_SHIP_Boyington: "Бойингтон"
+ CERBERUS_SHIP_Richthofen: "Рихтгофен"
+ CERBERUS_SHIP_Crazy_Horse: "Бешеная лошадь"
+ CERBERUS_SHIP_Rodger_Young: "Роджер Янг"
+ CERBERUS_SHIP_Soobrazitelny: "Сообразительный"
+ CERBERUS_SHIP_Steregushchiy: "Стерегущий"
+ CERBERUS_SHIP_Doblestnyi: "Доблестный"
+ CERBERUS_SHIP_John_Paul_Jones: "Джон Пол Джонс"
+ CERBERUS_SHIP_Rickenbacker: "Рикенбакер"
+ CERBERUS_SHIP_Mongol: "монгол"
+ CERBERUS_SHIP_Pharaoh: "фараон"
+ CERBERUS_SHIP_Musketeer: "Мушкетер"
+ CERBERUS_SHIP_Bong: "бонг"
+ CERBERUS_SHIP_Van_Lierde: "Ван Лиерде"
+ CERBERUS_SHIP_Cantacuzino: "Кантакузино"
+ CERBERUS_SHIP_Kozhedub: "Кожедуб"
+ CERBERUS_SHIP_Shestakov: "Шестаков"
+ CERBERUS_SHIP_Sakai: "Сакаи"
+ CERBERUS_SHIP_Nishizawa: "Nishizawa"
+ CERBERUS_SHIP_Juutilainen: "Юутилайнен"
+ CERBERUS_SHIP_Hartmann: "Хартманн"
+ CERBERUS_SHIP_Baracca: "Баракка"
+ CERBERUS_SHIP_Brumowski: "Брумовски"
+ CERBERUS_SHIP_Coppens: "Коппенс"
+ CERBERUS_SHIP_Kazakov: "Казаков"
+ CERBERUS_SHIP_Bishop: "епископ"
+ CERBERUS_SHIP_Mannock: "Маннок"
+ CERBERUS_SHIP_Fonck: "Фонк"
+ CERBERUS_SHIP_Indus: "Инд"
+ CERBERUS_SHIP_Yukon: "Юкон"
+ CERBERUS_SHIP_Mississippi: "Миссисипи"
+ CERBERUS_SHIP_Yangtze: "Янцзы"
+ CERBERUS_SHIP_Rubicon: "Рубикон"
+ CERBERUS_SHIP_Grande: "Гранде"
+ CERBERUS_SHIP_Rio: "Рио"
+ CERBERUS_SHIP_Mekong: "Меконг"
+ CERBERUS_SHIP_Jordan: "Иордания"
+ CERBERUS_SHIP_Ganges: "Ганг"
+ CERBERUS_SHIP_Colorado: "Колорадо"
+ CERBERUS_SHIP_Volga: "Волга"
+ CERBERUS_SHIP_Africa: "Африка"
+ CERBERUS_SHIP_India: "Индия"
+ CERBERUS_SHIP_Danube: "Дунай"
+ CERBERUS_SHIP_Amazon: "Амазонка"
+ CERBERUS_SHIP_Adriatic: "Адриатика"
+ CERBERUS_SHIP_Atlantic: "Атлантика"
+ CERBERUS_SHIP_Pacific: "Тихий океан"
+ CERBERUS_SHIP_Calcutta: "Калькутта"
+ CERBERUS_SHIP_Cairo: "Каир"
+ CERBERUS_SHIP_Aires: "Буэнос айрес"
+ CERBERUS_SHIP_Budapest: "Будапешт"
+ CERBERUS_SHIP_Hyderabad: "Хайдарабад"
+ CERBERUS_SHIP_Boston: "Бостон"
+ CERBERUS_SHIP_Bombay: "Бомбей"
+ CERBERUS_SHIP_Berlin: "Берлин"
+ CERBERUS_SHIP_Belfast: "Белфаст"
+ CERBERUS_SHIP_Beijing: "Пекин"
+ CERBERUS_SHIP_Barcelona: "Барселона"
+ CERBERUS_SHIP_Bangkok: "Бангкок"
+ CERBERUS_SHIP_Baltimore: "Балтимор"
+ CERBERUS_SHIP_Baghdad: "Багдад"
+ CERBERUS_SHIP_Atlanta: "Атланта"
+ CERBERUS_SHIP_Athens: "Афины"
+ CERBERUS_SHIP_Austin: "Остин"
+ CERBERUS_SHIP_Amsterdam: "Амстердам"
+ CERBERUS_SHIP_Shenandoah: "Шенандоа"
+ CERBERUS_SHIP_Orinoco: "Ориноко"
+ CERBERUS_SHIP_Susquehanna: "Саскуэханна"
+ CERBERUS_SHIP_Potomac: "Потомак"
+ CERBERUS_SHIP_Merrimack: "Мерримак"
+ CERBERUS_SHIP_Bengal: "Бенгалия"
+ CERBERUS_SHIP_Sahara: "Сахара"
+ CERBERUS_SHIP_Tigris: "Тигр"
+ CERBERUS_SHIP_Rhine: "Рейн"
+ CERBERUS_SHIP_Hong_Kong: "Гонконг"
+ CERBERUS_SHIP_Helsinki: "Хельсинки"
+ CERBERUS_SHIP_Havana: "Гавана"
+ CERBERUS_SHIP_Hanoi: "Ханой"
+ CERBERUS_SHIP_Guangzhou: "Гуанчжоу"
+ CERBERUS_SHIP_Glasgow: "Глазго"
+ CERBERUS_SHIP_Gibraltar: "Гибралтар"
+ CERBERUS_SHIP_Edinburgh: "Эдинбург"
+ CERBERUS_SHIP_Dublin: "Дублин"
+ CERBERUS_SHIP_Dubai: "Дубай"
+ CERBERUS_SHIP_Detroit: "Детройт"
+ CERBERUS_SHIP_Salaam: "Салам"
+ CERBERUS_SHIP_es: "Кадис"
+ CERBERUS_SHIP_Dar: "Дар-эс-Салам"
+ CERBERUS_SHIP_Damascus: "Дамаск"
+ CERBERUS_SHIP_Copenhagen: "Копенгаген"
+ CERBERUS_SHIP_Chicago: "Чикаго"
+ CERBERUS_SHIP_Town: "Кейптаун"
+ CERBERUS_SHIP_Oslo: "Осло"
+ CERBERUS_SHIP_Osaka: "Осака"
+ CERBERUS_SHIP_Novgorod: "Новгород"
+ CERBERUS_SHIP_New_Orleans: "Жители Нового Орлеана"
+ CERBERUS_SHIP_New_York: "Нью-Йорк"
+ CERBERUS_SHIP_Mumbai: "Мумбаи"
+ CERBERUS_SHIP_Moscow: "Москва"
+ CERBERUS_SHIP_Minsk: "Минск"
+ CERBERUS_SHIP_Manila: "Манила"
+ CERBERUS_SHIP_Madrid: "Мадрид"
+ CERBERUS_SHIP_Los_Angeles: "Лос-Анджелес"
+ CERBERUS_SHIP_London: "Лондон"
+ CERBERUS_SHIP_Kiev: "Киев"
+ CERBERUS_SHIP_Johannesburg: "Йоханнесбург"
+ CERBERUS_SHIP_Jerusalem: "Иерусалим"
+ CERBERUS_SHIP_Jakarta: "Джакарта"
+ CERBERUS_SHIP_Istanbul: "Стамбул"
+ CERBERUS_SHIP_Houston: "Хьюстон"
+ CERBERUS_SHIP_Tokyo: "Токио"
+ CERBERUS_SHIP_Stockholm: "Стокгольм"
+ CERBERUS_SHIP_St._Louis: "Сент-Луис"
+ CERBERUS_SHIP_Singapore: "Сингапур"
+ CERBERUS_SHIP_Shanghai: "Шанхай"
+ CERBERUS_SHIP_Sevastopol: "Севастополь"
+ CERBERUS_SHIP_Seoul: "Сеул"
+ CERBERUS_SHIP_Seattle: "Сиэтл"
+ CERBERUS_SHIP_Sarajevo: "Сараево"
+ CERBERUS_SHIP_Sao_Paulo: "Сан-Паулу"
+ CERBERUS_SHIP_San_Francisco: "Сан-Франциско"
+ CERBERUS_SHIP_Rotterdam: "Роттердам"
+ CERBERUS_SHIP_Rome: "Рим"
+ CERBERUS_SHIP_Rio_de_Janeiro: "Рио де Жанейро"
+ CERBERUS_SHIP_Prague: "Прага"
+ CERBERUS_SHIP_Paris: "Париж"
+ CERBERUS_SHIP_Birmingham: "Бирмингем"
+ CERBERUS_SHIP_Montreal: "Монреаль"
+ CERBERUS_SHIP_Mogadishu: "Могадишо"
+ CERBERUS_SHIP_Venice: "Венеция"
+ CERBERUS_SHIP_Casablanca: "Касабланка"
+ CERBERUS_SHIP_Smolensk: "Смоленск"
+ CERBERUS_SHIP_Nairobi: "Найроби"
+ CERBERUS_SHIP_Munchen: "Мюнхен"
+ CERBERUS_SHIP_Mexico_City: "Мексика"
+ CERBERUS_SHIP_Brisbane: "Брисбен"
+ CERBERUS_SHIP_Sydney: "Синдей"
+ CERBERUS_SHIP_Warsaw: "Варшава"
+ CERBERUS_SHIP_Vladivostok: "Владивосток"
+ CERBERUS_SHIP_Vienna: "Вена"
+ CERBERUS_SHIP_Vancouver: "Ванкувер"
+ CERBERUS_SHIP_Toronto: "Toronto"
+ CERBERUS_SHIP_Denver: "Денвер"
+ CERBERUS_SHIP_Dallas: "Даллас"
+ CERBERUS_SHIP_Exeter: "Эксетер"
+ CERBERUS_SHIP_Florence: "Флоренция"
+ CERBERUS_SHIP_Quebec: "Квебек"
+ CERBERUS_SHIP_Tehran: "Тегеран"
+ CERBERUS_SHIP_Tripoli: "Триполи"
+ CERBERUS_SHIP_Brussels: "Брюссель"
+ CERBERUS_SHIP_Marseille: "Марсель"
+ CERBERUS_SHIP_Belgrade: "Белград"
+ CERBERUS_SHIP_Frankfurt: "Франкфурт"
+ CERBERUS_SHIP_St._Petersburg: "Санкт-Петербург"
+ CERBERUS_SHIP_Volgograd: "Волгоград"
+ CERBERUS_SHIP_Kyoto: "Киото"
+ CERBERUS_SHIP_Kabul: "Кабул"
+ CERBERUS_SHIP_Manchester: "Манчестер"
+ CERBERUS_SHIP_Liverpool: "Ливерпуль"
+ CERBERUS_SHIP_Lisbon: "Лиссабон"
+ CERBERUS_SHIP_Miami: "Майами"
+ CERBERUS_SHIP_Philadelphia: "Филадельфия"
+ CERBERUS_SHIP_Pittsburgh: "Питтисбург"
+ CERBERUS_SHIP_Yokohama: "Yokohama"
+ CERBERUS_SHIP_Shaoxing: "Шаосин"
+ CERBERUS_SHIP_Hangzhou: "HХанчжоу"
+ CERBERUS_SHIP_Chengdu: "Чэнду"
+ CERBERUS_SHIP_Bogota: "Богота"
+ CERBERUS_SHIP_Montevideo: "Монтевидео"
+ CERBERUS_SHIP_Santiago: "Сантьяго"
+ CERBERUS_SHIP_Brazzaville: "Браззавиль"
+ CERBERUS_SHIP_Algiers: "Алжир"
+ CERBERUS_SHIP_Ottawa: "Оттава"
+ CERBERUS_SHIP_Calgary: "Калгари"
+ CERBERUS_SHIP_Melbourne: "Мельбурн"
+ CERBERUS_SHIP_Lagos: "Лагос"
+ CERBERUS_SHIP_Delhi: "Дели"
+ CERBERUS_SHIP_Zurich: "Цюрих"
+ CERBERUS_SHIP_Karachi: "Карачи"
+ CERBERUS_SHIP_Islamabad: "Исламабад"
+ CERBERUS_SHIP_Tapei: "Тапеи"
+ CERBERUS_SHIP_Kathmandu: "Катманду"
+ CERBERUS_SHIP_Beirut: "Бейрут"
+ CERBERUS_SHIP_Ankara: "Анкара"
+ CERBERUS_SHIP_Abu_Dhabi: "Абу Даби"
+ CERBERUS_SHIP_Kuala_Lumpur: "Куала-Лумпур"
+ CERBERUS_SHIP_Surabaya: "Сурабая"
+ CERBERUS_SHIP_Milan: "Милан"
+ CERBERUS_SHIP_Minneapolis: "Миннеаполис"
+ CERBERUS_SHIP_Indianapolis: "Индианаполис"
+ CERBERUS_SHIP_Phoenix: "Феникс"
+ CERBERUS_SHIP_Bremen: "Бремен"
+ CERBERUS_SHIP_Hamburg: "Гамбург"
+ CERBERUS_SHIP_Edmonton: "Эдмонтон"
+ CERBERUS_SHIP_Tallinn: "Таллинн"
+ CERBERUS_SHIP_Vilnius: "Вильнюс"
+ CERBERUS_SHIP_Krakow: "Краков"
+ CERBERUS_SHIP_Valencia: "Валенсия"
+ CERBERUS_SHIP_Riga: "Рига"
+ CERBERUS_SHIP_Riyadh: "Эр-Рияд"
+ CERBERUS_SHIP_Tunis: "Тунис"
+ CERBERUS_SHIP_Bratislava: "Братислава"
+ CERBERUS_SHIP_Lyon: "Лион"
+ CERBERUS_SHIP_Gothenburg: "Гетебург"
+ CERBERUS_SHIP_Geneva: "Женева"
+ CERBERUS_SHIP_Bucharest: "Бухарест"
+ CERBERUS_SHIP_Luxembourg: "Люксембург"
+ CERBERUS_SHIP_Lima: "Лима"
+ CERBERUS_SHIP_Tel_Aviv: "Тель-Авив"
+ CERBERUS_SHIP_Dusseldorf: "Дюссельдорф"
+ CERBERUS_SHIP_Bangalore: "Бангалор"
+ CERBERUS_SHIP_Saladin: "Саладин"
+ CERBERUS_SHIP_Washington: "Вашингтон"
+ CERBERUS_SHIP_Hannibal: "Ганнибал"
+ CERBERUS_SHIP_Belisarius: "Велизарий"
+ CERBERUS_SHIP_Alexander: "Александр"
+ CERBERUS_SHIP_Agrippa: "Агриппа"
+ CERBERUS_SHIP_Excalibur: "Экскалибур"
+ CERBERUS_SHIP_Bellerophon: "Беллерофонт"
+ CERBERUS_SHIP_Ajax: "Аякс"
+ CERBERUS_SHIP_Apollo: "Аполлон"
+ CERBERUS_SHIP_Atlas: "Атлас"
+ CERBERUS_SHIP_Icarus: "Икар"
+ CERBERUS_SHIP_Hercules: "Геракл"
+ CERBERUS_SHIP_Nelson: "Нельсон"
+ CERBERUS_SHIP_Xerxes: "Ксеркс"
+ CERBERUS_SHIP_Xenophon: "Ксенофонт"
+ CERBERUS_SHIP_Ulysses: "Улисс"
+ CERBERUS_SHIP_Trondheim: "Тронхейм"
+ CERBERUS_SHIP_Tijuana: "Тихуана"
+ CERBERUS_SHIP_Charlemagne: "Карл Великий"
+ CERBERUS_SHIP_Akira: "Акира"
+ CERBERUS_SHIP_Pharsalus: "Фарсал"
+ CERBERUS_SHIP_Granicus: "Граникус"
+ CERBERUS_SHIP_Waterloo: "Ватерлоо"
+ CERBERUS_SHIP_Verdun: "Верден"
+ CERBERUS_SHIP_Valley_Forge: "Вэлли Фордж"
+ CERBERUS_SHIP_Tsushima: "Цусима"
+ CERBERUS_SHIP_Trafalgar: "Трафальгар"
+ CERBERUS_SHIP_Jutland: "Ютландия"
+ CERBERUS_SHIP_Gettysburg: "БГеттисберг"
+ CERBERUS_SHIP_Austerlitz: "Аустерлиц"
+ CERBERUS_SHIP_Agincourt: "Азенкур"
+ CERBERUS_SHIP_Actium: "Актиум"
+ CERBERUS_SHIP_Yamato: "Yamato"
+ CERBERUS_SHIP_Bismarck: "Бисмарк"
+ CERBERUS_SHIP_Monitor: "Монитор"
+ CERBERUS_SHIP_Valiant: "Доблестный"
+ CERBERUS_SHIP_Chivalrous: "Рыцарский"
+ CERBERUS_SHIP_Indefatigable: "Неутомимый"
+ CERBERUS_SHIP_Formidable: "Грозный"
+ CERBERUS_SHIP_Excelsior: "Эксельсиор"
+ CERBERUS_SHIP_Endeavor: "Стараться"
+ CERBERUS_SHIP_Dauntless: "Бесстрашный"
+ CERBERUS_SHIP_Courage: "Храбрость"
+ CERBERUS_SHIP_Victory: "Победа"
+ CERBERUS_SHIP_Warspite: "Варспайт"
+ CERBERUS_SHIP_Musashi: "Мусаси"
+ CERBERUS_SHIP_Potemkin: "Потемкин"
+ CERBERUS_SHIP_Hood: "Робин Гуд"
+ CERBERUS_SHIP_Black_Prince: "Черный принц"
+ CERBERUS_SHIP_Ark_Royal: "Арк Ройал"
+ CERBERUS_SHIP_Hornet: "Шершень"
+ CERBERUS_SHIP_Wasp: "Оса"
+ CERBERUS_SHIP_Hermes: "Гермес"
+ CERBERUS_SHIP_Coral_Sea: "Коралловое море"
+ CERBERUS_SHIP_Yorktown: "Йорктаун"
+ CERBERUS_SHIP_Saratoga: "Саратога"
+ CERBERUS_SHIP_Midway: "Мидуэй"
+ CERBERUS_SHIP_Lexington: "Лексингтон"
+ CERBERUS_SHIP_Yamamoto: "Ямамото"
+ CERBERUS_SHIP_Fortitude: "Стойкость"
+ CERBERUS_SHIP_Resolute: "Решительный"
+ CERBERUS_SHIP_Vigilant: "бдительный"
+ CERBERUS_SHIP_Endurance: "Выносливость"
+ CERBERUS_SHIP_Defender: "Защитник"
+ CERBERUS_SHIP_Bulwark: "переборка"
+ CERBERUS_SHIP_Galaxy: "Галактика"
+ CERBERUS_SHIP_Defiant: "дерзкий"
+ CERBERUS_SHIP_Concord: "Конкорд"
+ CERBERUS_SHIP_Century: "Века"
+ CERBERUS_SHIP_Aquila: "Аквила"
+ CERBERUS_SHIP_Andromeda: "Андромеда"
+ CERBERUS_SHIP_Ranger: "Рейнджер"
+ CERBERUS_SHIP_Constitution: "Конституция"
+ CERBERUS_SHIP_Constellation: "Созвездие"
+ CERBERUS_SHIP_Enterprise: "Предприятие"
+ CERBERUS_SHIP_Invincible: "непобедимый"
+ CERBERUS_SHIP_Intrepid: "Бесстрашный"
+ CERBERUS_SHIP_Illustrious: "прославленный"
+ CERBERUS_SHIP_Kaga: "Кага"
+ CERBERUS_SHIP_Akagi: "Акаги"
+ CERBERUS_SHIP_Essex: "Эссекс"
+ CERBERUS_SHIP_Pegasus: "Пегас"
+ CERBERUS_SHIP_Reliant: "Уверенный"
+ CERBERUS_SHIP_Providence: "Провиденс"
+ CERBERUS_SHIP_Orion: "Орион"
+ CERBERUS_SHIP_Odyssey: "Одиссея"
+ CERBERUS_FLEET_The_Millenial_Fleet: "Тысячелетний флот"
+ CERBERUS_FLEET_The_Musketeer_Fleet: "Мушкетерский флот"
+ CERBERUS_FLEET_The_Tercio_Fleet: "Флот Терсио"
+ CERBERUS_FLEET_The_Arquebusier_Fleet: "Аркебузирский флот"
+ CERBERUS_FLEET_The_Gendarme_Fleet: "Жандармский флот"
+ CERBERUS_FLEET_The_Landsknechte_Fleet: "Ландскнехтский флот"
+ CERBERUS_FLEET_The_Lancer_Fleet: "Уланский флот"
+ CERBERUS_FLEET_The_Cavalry_Fleet: "Кавалерийский флот"
+ CERBERUS_FLEET_The_Archer_Fleet: "Флот лучников"
+ CERBERUS_FLEET_The_Knight_Fleet: "Рыцарский флот"
+ CERBERUS_FLEET_The_Immortal_Fleet: "Бессмертный флот"
+ CERBERUS_FLEET_The_Centurion_Fleet: "Флот Центуриона"
+ CERBERUS_FLEET_The_Phalanx_Fleet: "Флот Фаланги"
+ CERBERUS_FLEET_The_Hoplite_Fleet: "Флот гоплитов"
+ CERBERUS_xxFleet_ORD: "$O$ Флот Цербера"
+ CERBERUS_xxRiot_Troopers_ORD: "$O$ Омоновцы"
+ CERBERUS_xxAssault_Troopers_ORD: "$O$ Штурмовики"
+ CERBERUS_xxShock_Troopers_ORD: "$O$ Штурмовики"
+ CERBERUS_xxClone_Troopers_ORD: "$O$ Клоны-солдаты"
+ CERBERUS_xxOgre_Mechs_ORD: "$O$ Огрские роботы"
+ CERBERUS_xxOrcus_Mechs_ORD: "$O$ Мехи Orcus"
+ CERBERUS_xxPhantom_Strike_Force_ORD: "$O$ Флот Phantom Strike"
+ CERBERUS_xxExperimantal_BioWeapons_ORD: "$O$ Экспериментальное биологическое оружие"
+ CERBERUS_xxDragoon_Strike_Force_ORD: "$O$ Ударная группа драгун"

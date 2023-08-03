@@ -1,351 +1,351 @@
 ﻿l_russian:
- name_list_btr_geth:0 "гет" #NT!
- GETH_SHIP_Subunit_A012:0 "Субъединица А-012" #NT!
- GETH_SHIP_Subunit_A011:0 "Субъединица А-011" #NT!
- GETH_SHIP_Subunit_A010:0 "Субъединица А-010" #NT!
- GETH_SHIP_Subunit_A009:0 "Субъединица А-009" #NT!
- GETH_SHIP_Subunit_A008:0 "Субъединица А-008" #NT!
- GETH_SHIP_Subunit_A007:0 "Субъединица А-007" #NT!
- GETH_SHIP_Subunit_A006:0 "Субъединица А-006" #NT!
- GETH_SHIP_Subunit_A005:0 "Субъединица А-005" #NT!
- GETH_SHIP_Subunit_A004:0 "Субъединица А-004" #NT!
- GETH_SHIP_Subunit_A003:0 "Субъединица А-003" #NT!
- GETH_SHIP_Subunit_A002:0 "Субъединица А-002" #NT!
- GETH_SHIP_Subunit_A001:0 "Субъединица А-001" #NT!
- GETH_SHIP_Subunit_A024:0 "Субъединица А-024" #NT!
- GETH_SHIP_Subunit_A023:0 "Субъединица А-023" #NT!
- GETH_SHIP_Subunit_A022:0 "Субъединица А-022" #NT!
- GETH_SHIP_Subunit_A021:0 "Субъединица А-021" #NT!
- GETH_SHIP_Subunit_A020:0 "Субъединица А-020" #NT!
- GETH_SHIP_Subunit_A019:0 "Субъединица А-019" #NT!
- GETH_SHIP_Subunit_A018:0 "Субъединица А-018" #NT!
- GETH_SHIP_Subunit_A017:0 "Субъединица А-017" #NT!
- GETH_SHIP_Subunit_A016:0 "Субъединица А-016" #NT!
- GETH_SHIP_Subunit_A015:0 "Субъединица А-015" #NT!
- GETH_SHIP_Subunit_A014:0 "Субъединица А-014" #NT!
- GETH_SHIP_Subunit_A013:0 "Субъединица А-013" #NT!
- GETH_SHIP_Subunit_A036:0 "Субъединица А-036" #NT!
- GETH_SHIP_Subunit_A035:0 "Субъединица А-035" #NT!
- GETH_SHIP_Subunit_A034:0 "Субъединица А-034" #NT!
- GETH_SHIP_Subunit_A033:0 "Субъединица А-033" #NT!
- GETH_SHIP_Subunit_A032:0 "Субъединица А-032" #NT!
- GETH_SHIP_Subunit_A031:0 "Субъединица А-031" #NT!
- GETH_SHIP_Subunit_A030:0 "Субъединица А-030" #NT!
- GETH_SHIP_Subunit_A029:0 "Субъединица А-029" #NT!
- GETH_SHIP_Subunit_A028:0 "Субъединица А-028" #NT!
- GETH_SHIP_Subunit_A027:0 "Субъединица А-027" #NT!
- GETH_SHIP_Subunit_A026:0 "Субъединица А-026" #NT!
- GETH_SHIP_Subunit_A025:0 "Субъединица А-025" #NT!
- GETH_SHIP_Subunit_A048:0 "Субъединица А-048" #NT!
- GETH_SHIP_Subunit_A047:0 "Субъединица А-047" #NT!
- GETH_SHIP_Subunit_A046:0 "Субъединица А-046" #NT!
- GETH_SHIP_Subunit_A045:0 "Субъединица А-045" #NT!
- GETH_SHIP_Subunit_A044:0 "Субъединица А-044" #NT!
- GETH_SHIP_Subunit_A043:0 "Субъединица А-043" #NT!
- GETH_SHIP_Subunit_A042:0 "Субъединица А-042" #NT!
- GETH_SHIP_Subunit_A041:0 "Субъединица А-041" #NT!
- GETH_SHIP_Subunit_A040:0 "Субъединица А-040" #NT!
- GETH_SHIP_Subunit_A039:0 "Субъединица А-039" #NT!
- GETH_SHIP_Subunit_A038:0 "Субъединица А-038" #NT!
- GETH_SHIP_Subunit_A037:0 "Субъединица А-037" #NT!
- GETH_SHIP_Subunit_A060:0 "Субъединица А-060" #NT!
- GETH_SHIP_Subunit_A059:0 "Субъединица А-059" #NT!
- GETH_SHIP_Subunit_A058:0 "Субъединица А-058" #NT!
- GETH_SHIP_Subunit_A057:0 "Субъединица А-057" #NT!
- GETH_SHIP_Subunit_A056:0 "Субъединица А-056" #NT!
- GETH_SHIP_Subunit_A055:0 "Субъединица А-055" #NT!
- GETH_SHIP_Subunit_A054:0 "Субъединица А-054" #NT!
- GETH_SHIP_Subunit_A053:0 "Субъединица А-053" #NT!
- GETH_SHIP_Subunit_A052:0 "Субъединица А-052" #NT!
- GETH_SHIP_Subunit_A051:0 "Субъединица А-051" #NT!
- GETH_SHIP_Subunit_A050:0 "Субъединица А-050" #NT!
- GETH_SHIP_Subunit_A049:0 "Субъединица А-049" #NT!
- GETH_SHIP_Subunit_A072:0 "Субъединица А-072" #NT!
- GETH_SHIP_Subunit_A071:0 "Субъединица А-071" #NT!
- GETH_SHIP_Subunit_A070:0 "Субъединица А-070" #NT!
- GETH_SHIP_Subunit_A069:0 "Субъединица А-069" #NT!
- GETH_SHIP_Subunit_A068:0 "Субъединица А-068" #NT!
- GETH_SHIP_Subunit_A067:0 "Подразделение А-067" #NT!
- GETH_SHIP_Subunit_A066:0 "Субъединица А-066" #NT!
- GETH_SHIP_Subunit_A065:0 "Субъединица А-065" #NT!
- GETH_SHIP_Subunit_A064:0 "Субъединица А-064" #NT!
- GETH_SHIP_Subunit_A063:0 "Субъединица А-063" #NT!
- GETH_SHIP_Subunit_A062:0 "Субъединица А-062" #NT!
- GETH_SHIP_Subunit_A061:0 "Субъединица А-061" #NT!
- GETH_SHIP_Subunit_A084:0 "Подразделение А-084" #NT!
- GETH_SHIP_Subunit_A083:0 "Субъединица А-083" #NT!
- GETH_SHIP_Subunit_A082:0 "Субъединица А-082" #NT!
- GETH_SHIP_Subunit_A081:0 "Субъединица А-081" #NT!
- GETH_SHIP_Subunit_A080:0 "Субъединица А-080" #NT!
- GETH_SHIP_Subunit_A079:0 "в/ч А-079" #NT!
- GETH_SHIP_Subunit_A078:0 "Субъединица А-078" #NT!
- GETH_SHIP_Subunit_A077:0 "в/ч А-077" #NT!
- GETH_SHIP_Subunit_A076:0 "в/ч А-076" #NT!
- GETH_SHIP_Subunit_A075:0 "Подразделение А-075" #NT!
- GETH_SHIP_Subunit_A074:0 "Подразделение А-074" #NT!
- GETH_SHIP_Subunit_A073:0 "Субъединица А-073" #NT!
- GETH_SHIP_Subunit_A096:0 "Подразделение А-096" #NT!
- GETH_SHIP_Subunit_A095:0 "Субъединица А-095" #NT!
- GETH_SHIP_Subunit_A094:0 "Подразделение А-094" #NT!
- GETH_SHIP_Subunit_A093:0 "Субъединица А-093" #NT!
- GETH_SHIP_Subunit_A092:0 "Подразделение А-092" #NT!
- GETH_SHIP_Subunit_A091:0 "Субъединица А-091" #NT!
- GETH_SHIP_Subunit_A090:0 "Субъединица А-090" #NT!
- GETH_SHIP_Subunit_A089:0 "В/ч А-089" #NT!
- GETH_SHIP_Subunit_A088:0 "Субъединица А-088" #NT!
- GETH_SHIP_Subunit_A087:0 "Субъединица А-087" #NT!
- GETH_SHIP_Subunit_A086:0 "Субъединица А-086" #NT!
- GETH_SHIP_Subunit_A085:0 "Подразделение А-085" #NT!
- GETH_SHIP_Subunit_A108:0 "Подразделение А-108" #NT!
- GETH_SHIP_Subunit_A107:0 "Подразделение А-107" #NT!
- GETH_SHIP_Subunit_A106:0 "Подразделение А-106" #NT!
- GETH_SHIP_Subunit_A105:0 "Подразделение А-105" #NT!
- GETH_SHIP_Subunit_A104:0 "Подразделение А-104" #NT!
- GETH_SHIP_Subunit_A103:0 "Подразделение А-103" #NT!
- GETH_SHIP_Subunit_A102:0 "Подразделение А-102" #NT!
- GETH_SHIP_Subunit_A101:0 "Подразделение А-101" #NT!
- GETH_SHIP_Subunit_A100:0 "Подразделение А-100" #NT!
- GETH_SHIP_Subunit_A099:0 "Подразделение А-099" #NT!
- GETH_SHIP_Subunit_A098:0 "Субъединица А-098" #NT!
- GETH_SHIP_Subunit_A097:0 "Подразделение А-097" #NT!
- GETH_SHIP_Subunit_A120:0 "Подразделение А-120" #NT!
- GETH_SHIP_Subunit_A119:0 "Подразделение А-119" #NT!
- GETH_SHIP_Subunit_A118:0 "Подразделение А-118" #NT!
- GETH_SHIP_Subunit_A117:0 "Подразделение А-117" #NT!
- GETH_SHIP_Subunit_A116:0 "Подразделение А-116" #NT!
- GETH_SHIP_Subunit_A115:0 "Подразделение А-115" #NT!
- GETH_SHIP_Subunit_A114:0 "Подразделение А-114" #NT!
- GETH_SHIP_Subunit_A113:0 "Подразделение А-113" #NT!
- GETH_SHIP_Subunit_A112:0 "Подразделение А-112" #NT!
- GETH_SHIP_Subunit_A111:0 "Подразделение А-111" #NT!
- GETH_SHIP_Subunit_A110:0 "Подразделение А-110" #NT!
- GETH_SHIP_Subunit_A109:0 "Подразделение А-109" #NT!
- GETH_SHIP_Subunit_A132:0 "Подразделение А-132" #NT!
- GETH_SHIP_Subunit_A131:0 "Подразделение А-131" #NT!
- GETH_SHIP_Subunit_A130:0 "Подразделение А-130" #NT!
- GETH_SHIP_Subunit_A129:0 "Подразделение А-129" #NT!
- GETH_SHIP_Subunit_A128:0 "Подразделение А-128" #NT!
- GETH_SHIP_Subunit_A127:0 "Подразделение А-127" #NT!
- GETH_SHIP_Subunit_A126:0 "Подразделение А-126" #NT!
- GETH_SHIP_Subunit_A125:0 "Подразделение А-125" #NT!
- GETH_SHIP_Subunit_A124:0 "Подразделение А-124" #NT!
- GETH_SHIP_Subunit_A123:0 "Подразделение А-123" #NT!
- GETH_SHIP_Subunit_A122:0 "Подразделение А-122" #NT!
- GETH_SHIP_Subunit_A121:0 "Подразделение А-121" #NT!
- GETH_SHIP_Subunit_A144:0 "Подразделение А-144" #NT!
- GETH_SHIP_Subunit_A143:0 "Подразделение А-143" #NT!
- GETH_SHIP_Subunit_A142:0 "Подразделение А-142" #NT!
- GETH_SHIP_Subunit_A141:0 "Подразделение А-141" #NT!
- GETH_SHIP_Subunit_A140:0 "Подразделение А-140" #NT!
- GETH_SHIP_Subunit_A139:0 "Подразделение А-139" #NT!
- GETH_SHIP_Subunit_A138:0 "Подразделение А-138" #NT!
- GETH_SHIP_Subunit_A137:0 "Подразделение А-137" #NT!
- GETH_SHIP_Subunit_A136:0 "Подразделение А-136" #NT!
- GETH_SHIP_Subunit_A135:0 "Подразделение А-135" #NT!
- GETH_SHIP_Subunit_A134:0 "Подразделение А-134" #NT!
- GETH_SHIP_Subunit_A133:0 "Подразделение А-133" #NT!
- GETH_SHIP_Subunit_A156:0 "Подразделение А-156" #NT!
- GETH_SHIP_Subunit_A155:0 "Подразделение А-155" #NT!
- GETH_SHIP_Subunit_A154:0 "Подразделение А-154" #NT!
- GETH_SHIP_Subunit_A153:0 "Подразделение А-153" #NT!
- GETH_SHIP_Subunit_A152:0 "Подразделение А-152" #NT!
- GETH_SHIP_Subunit_A151:0 "Подразделение А-151" #NT!
- GETH_SHIP_Subunit_A150:0 "Подразделение А-150" #NT!
- GETH_SHIP_Subunit_A149:0 "Подразделение А-149" #NT!
- GETH_SHIP_Subunit_A148:0 "Подразделение А-148" #NT!
- GETH_SHIP_Subunit_A147:0 "Подразделение А-147" #NT!
- GETH_SHIP_Subunit_A146:0 "Подразделение А-146" #NT!
- GETH_SHIP_Subunit_A145:0 "Подразделение А-145" #NT!
- GETH_SHIP_Subunit_A168:0 "Подразделение А-168" #NT!
- GETH_SHIP_Subunit_A167:0 "Подразделение А-167" #NT!
- GETH_SHIP_Subunit_A166:0 "Подразделение А-166" #NT!
- GETH_SHIP_Subunit_A165:0 "Подразделение А-165" #NT!
- GETH_SHIP_Subunit_A164:0 "Подразделение А-164" #NT!
- GETH_SHIP_Subunit_A163:0 "Подразделение А-163" #NT!
- GETH_SHIP_Subunit_A162:0 "Подразделение А-162" #NT!
- GETH_SHIP_Subunit_A161:0 "Подразделение А-161" #NT!
- GETH_SHIP_Subunit_A160:0 "Подразделение А-160" #NT!
- GETH_SHIP_Subunit_A159:0 "Подразделение А-159" #NT!
- GETH_SHIP_Subunit_A158:0 "Подразделение А-158" #NT!
- GETH_SHIP_Subunit_A157:0 "Подразделение А-157" #NT!
- GETH_SHIP_Subunit_A180:0 "Подразделение А-180" #NT!
- GETH_SHIP_Subunit_A179:0 "Подразделение А-179" #NT!
- GETH_SHIP_Subunit_A178:0 "Подразделение А-178" #NT!
- GETH_SHIP_Subunit_A177:0 "Подразделение А-177" #NT!
- GETH_SHIP_Subunit_A176:0 "Подразделение А-176" #NT!
- GETH_SHIP_Subunit_A175:0 "Подразделение А-175" #NT!
- GETH_SHIP_Subunit_A174:0 "Подразделение А-174" #NT!
- GETH_SHIP_Subunit_A173:0 "Подразделение А-173" #NT!
- GETH_SHIP_Subunit_A172:0 "Подразделение А-172" #NT!
- GETH_SHIP_Subunit_A171:0 "Подразделение А-171" #NT!
- GETH_SHIP_Subunit_A170:0 "Подразделение А-170" #NT!
- GETH_SHIP_Subunit_A169:0 "Подразделение А-169" #NT!
- GETH_SHIP_Subunit_A192:0 "Подразделение А-192" #NT!
- GETH_SHIP_Subunit_A191:0 "Подразделение А-191" #NT!
- GETH_SHIP_Subunit_A190:0 "Подразделение А-190" #NT!
- GETH_SHIP_Subunit_A189:0 "Подразделение А-189" #NT!
- GETH_SHIP_Subunit_A188:0 "Подразделение А-188" #NT!
- GETH_SHIP_Subunit_A187:0 "Подразделение А-187" #NT!
- GETH_SHIP_Subunit_A186:0 "Подразделение А-186" #NT!
- GETH_SHIP_Subunit_A185:0 "Подразделение А-185" #NT!
- GETH_SHIP_Subunit_A184:0 "Подразделение А-184" #NT!
- GETH_SHIP_Subunit_A183:0 "Подразделение А-183" #NT!
- GETH_SHIP_Subunit_A182:0 "Подразделение А-182" #NT!
- GETH_SHIP_Subunit_A181:0 "Подразделение А-181" #NT!
- GETH_SHIP_Subunit_A204:0 "Подразделение А-204" #NT!
- GETH_SHIP_Subunit_A203:0 "Подразделение А-203" #NT!
- GETH_SHIP_Subunit_A202:0 "Подразделение А-202" #NT!
- GETH_SHIP_Subunit_A201:0 "Подразделение А-201" #NT!
- GETH_SHIP_Subunit_A200:0 "Подразделение А-200" #NT!
- GETH_SHIP_Subunit_A199:0 "Подразделение А-199" #NT!
- GETH_SHIP_Subunit_A198:0 "Подразделение А-198" #NT!
- GETH_SHIP_Subunit_A197:0 "Подразделение А-197" #NT!
- GETH_SHIP_Subunit_A196:0 "Подразделение А-196" #NT!
- GETH_SHIP_Subunit_A195:0 "Подразделение А-195" #NT!
- GETH_SHIP_Subunit_A194:0 "Подразделение А-194" #NT!
- GETH_SHIP_Subunit_A193:0 "Подразделение А-193" #NT!
- GETH_SHIP_Subunit_A216:0 "Подразделение А-216" #NT!
- GETH_SHIP_Subunit_A215:0 "Подразделение А-215" #NT!
- GETH_SHIP_Subunit_A214:0 "Подразделение А-214" #NT!
- GETH_SHIP_Subunit_A213:0 "Подразделение А-213" #NT!
- GETH_SHIP_Subunit_A212:0 "Подразделение А-212" #NT!
- GETH_SHIP_Subunit_A211:0 "Подразделение А-211" #NT!
- GETH_SHIP_Subunit_A210:0 "Подразделение А-210" #NT!
- GETH_SHIP_Subunit_A209:0 "Подразделение А-209" #NT!
- GETH_SHIP_Subunit_A208:0 "Подразделение А-208" #NT!
- GETH_SHIP_Subunit_A207:0 "Подразделение А-207" #NT!
- GETH_SHIP_Subunit_A206:0 "Подразделение А-206" #NT!
- GETH_SHIP_Subunit_A205:0 "Подразделение А-205" #NT!
- GETH_SHIP_Subunit_A228:0 "Подразделение А-228" #NT!
- GETH_SHIP_Subunit_A227:0 "Подразделение А-227" #NT!
- GETH_SHIP_Subunit_A226:0 "Подразделение А-226" #NT!
- GETH_SHIP_Subunit_A225:0 "Подразделение А-225" #NT!
- GETH_SHIP_Subunit_A224:0 "Подразделение А-224" #NT!
- GETH_SHIP_Subunit_A223:0 "Подразделение А-223" #NT!
- GETH_SHIP_Subunit_A222:0 "Подразделение А-222" #NT!
- GETH_SHIP_Subunit_A221:0 "Подразделение А-221" #NT!
- GETH_SHIP_Subunit_A220:0 "Подразделение А-220" #NT!
- GETH_SHIP_Subunit_A219:0 "Подразделение А-219" #NT!
- GETH_SHIP_Subunit_A218:0 "Подразделение А-218" #NT!
- GETH_SHIP_Subunit_A217:0 "Подразделение А-217" #NT!
- GETH_SHIP_Subunit_A240:0 "Подразделение А-240" #NT!
- GETH_SHIP_Subunit_A239:0 "Подразделение А-239" #NT!
- GETH_SHIP_Subunit_A238:0 "Подразделение А-238" #NT!
- GETH_SHIP_Subunit_A237:0 "Подразделение А-237" #NT!
- GETH_SHIP_Subunit_A236:0 "Подразделение А-236" #NT!
- GETH_SHIP_Subunit_A235:0 "Подразделение А-235" #NT!
- GETH_SHIP_Subunit_A234:0 "Подразделение А-234" #NT!
- GETH_SHIP_Subunit_A233:0 "Подразделение А-233" #NT!
- GETH_SHIP_Subunit_A232:0 "Подразделение А-232" #NT!
- GETH_SHIP_Subunit_A231:0 "Подразделение А-231" #NT!
- GETH_SHIP_Subunit_A230:0 "Подразделение А-230" #NT!
- GETH_SHIP_Subunit_A229:0 "Подразделение А-229" #NT!
- GETH_SHIP_Subunit_A252:0 "Подразделение А-252" #NT!
- GETH_SHIP_Subunit_A251:0 "Подразделение А-251" #NT!
- GETH_SHIP_Subunit_A250:0 "Подразделение А-250" #NT!
- GETH_SHIP_Subunit_A249:0 "Подразделение А-249" #NT!
- GETH_SHIP_Subunit_A248:0 "Подразделение А-248" #NT!
- GETH_SHIP_Subunit_A247:0 "Подразделение А-247" #NT!
- GETH_SHIP_Subunit_A246:0 "Подразделение А-246" #NT!
- GETH_SHIP_Subunit_A245:0 "Подразделение А-245" #NT!
- GETH_SHIP_Subunit_A244:0 "Подразделение А-244" #NT!
- GETH_SHIP_Subunit_A243:0 "Подразделение А-243" #NT!
- GETH_SHIP_Subunit_A242:0 "Подразделение А-242" #NT!
- GETH_SHIP_Subunit_A241:0 "Подразделение А-241" #NT!
- GETH_SHIP_Subunit_A264:0 "Подразделение А-264" #NT!
- GETH_SHIP_Subunit_A263:0 "Подразделение А-263" #NT!
- GETH_SHIP_Subunit_A262:0 "Подразделение А-262" #NT!
- GETH_SHIP_Subunit_A261:0 "Подразделение А-261" #NT!
- GETH_SHIP_Subunit_A260:0 "Подразделение А-260" #NT!
- GETH_SHIP_Subunit_A259:0 "Подразделение А-259" #NT!
- GETH_SHIP_Subunit_A258:0 "Подразделение А-258" #NT!
- GETH_SHIP_Subunit_A257:0 "Подразделение А-257" #NT!
- GETH_SHIP_Subunit_A256:0 "Подразделение А-256" #NT!
- GETH_SHIP_Subunit_A255:0 "Подразделение А-255" #NT!
- GETH_SHIP_Subunit_A254:0 "Подразделение А-254" #NT!
- GETH_SHIP_Subunit_A253:0 "Подразделение А-253" #NT!
- GETH_SHIP_Subunit_A276:0 "Подразделение А-276" #NT!
- GETH_SHIP_Subunit_A275:0 "Подразделение А-275" #NT!
- GETH_SHIP_Subunit_A274:0 "Подразделение А-274" #NT!
- GETH_SHIP_Subunit_A273:0 "Подразделение А-273" #NT!
- GETH_SHIP_Subunit_A272:0 "Подразделение А-272" #NT!
- GETH_SHIP_Subunit_A271:0 "Подразделение А-271" #NT!
- GETH_SHIP_Subunit_A270:0 "Подразделение А-270" #NT!
- GETH_SHIP_Subunit_A269:0 "Подразделение А-269" #NT!
- GETH_SHIP_Subunit_A268:0 "Подразделение А-268" #NT!
- GETH_SHIP_Subunit_A267:0 "Подразделение А-267" #NT!
- GETH_SHIP_Subunit_A266:0 "Подразделение А-266" #NT!
- GETH_SHIP_Subunit_A265:0 "Подразделение А-265" #NT!
- GETH_SHIP_Subunit_A288:0 "Подразделение А-288" #NT!
- GETH_SHIP_Subunit_A287:0 "Подразделение А-287" #NT!
- GETH_SHIP_Subunit_A286:0 "Подразделение А-286" #NT!
- GETH_SHIP_Subunit_A285:0 "Подразделение А-285" #NT!
- GETH_SHIP_Subunit_A284:0 "Подразделение А-284" #NT!
- GETH_SHIP_Subunit_A283:0 "Подразделение А-283" #NT!
- GETH_SHIP_Subunit_A282:0 "Подразделение А-282" #NT!
- GETH_SHIP_Subunit_A281:0 "Подразделение А-281" #NT!
- GETH_SHIP_Subunit_A280:0 "Подразделение А-280" #NT!
- GETH_SHIP_Subunit_A279:0 "Подразделение А-279" #NT!
- GETH_SHIP_Subunit_A278:0 "Подразделение А-278" #NT!
- GETH_SHIP_Subunit_A277:0 "Подразделение А-277" #NT!
- GETH_SHIP_Subunit_A300:0 "Подразделение А-300" #NT!
- GETH_SHIP_Subunit_A299:0 "Подразделение А-299" #NT!
- GETH_SHIP_Subunit_A298:0 "Подразделение А-298" #NT!
- GETH_SHIP_Subunit_A297:0 "Подразделение А-297" #NT!
- GETH_SHIP_Subunit_A296:0 "Подразделение А-296" #NT!
- GETH_SHIP_Subunit_A295:0 "Подразделение А-295" #NT!
- GETH_SHIP_Subunit_A294:0 "Подразделение А-294" #NT!
- GETH_SHIP_Subunit_A293:0 "Подразделение А-293" #NT!
- GETH_SHIP_Subunit_A292:0 "Подразделение А-292" #NT!
- GETH_SHIP_Subunit_A291:0 "Подразделение А-291" #NT!
- GETH_SHIP_Subunit_A290:0 "Подразделение А-290" #NT!
- GETH_SHIP_Subunit_A289:0 "Подразделение А-289" #NT!
- GETH_xxAutonomous_Cluster_ORD:0 "$O$ Автономный кластер" #NT!
- GETH_xxDefense_Units_ORD:0 "$O$ Отряды обороны" #NT!
- GETH_xxAssault_Units_ORD:0 "$O$ Штурмовые отряды" #NT!
- GETH_xxHeretics_Units_ORD:0 "$O$ Отряды еретиков" #NT!
- GETH_xxClass_VI_Units_ORD:0 "$O$ Устройства класса VI" #NT!
- GETH_xxJuggernaut_Units_ORD:0 "$O$ Джаггернауты" #NT!
- GETH_xxAdept_Units_ORD:0 "$O$ Умелые подразделения" #NT!
- GETH_xxNeoOrganic_Unit_ORD:0 "$O$ Неоорганический блок" #NT!
- GETH_xxHybrid_Units_ORD:0 "$O$ Гибридные единицы" #NT!
- GETH_CHR_Unit_J14:0 "Блок J-14" #NT!
- GETH_CHR_Unit_1557:0 "Блок 15/57" #NT!
- GETH_CHR_Unit_LFA5:0 "Блок МАФ-5" #NT!
- GETH_CHR_Unit_441:0 "Блок 44/1" #NT!
- GETH_CHR_Unit_V13:0 "Блок V13" #NT!
- GETH_CHR_Unit_XI130:0 "Блок XI-130" #NT!
- GETH_CHR_Unit_Q12:0 "Блок Q-12" #NT!
- GETH_CHR_Unit_19G:0 "Блок 19-Г" #NT!
- GETH_CHR_Unit_P2XR0:0 "Блок P2-XR0" #NT!
- GETH_CHR_Unit_MZ34:0 "Установка МЗ-34" #NT!
- GETH_CHR_Unit_XR2:0 "Блок XR-2" #NT!
- GETH_CHR_Unit_48B:0 "Блок 48Б" #NT!
- GETH_CHR_Unit_541:0 "Блок 54.1" #NT!
- GETH_CHR_Unit_542:0 "Блок 54.2" #NT!
- GETH_CHR_Unit_M84:0 "Установка М8-4" #NT!
- GETH_CHR_Unit_388F:0 "Блок 388-Ф" #NT!
- GETH_CHR_Unit_Alpha2:0 "Отряд Альфа-2" #NT!
- GETH_CHR_Unit_0009X:0 "Отряд 0009-Х" #NT!
- GETH_CHR_Unit_KT5:0 "Установка КТ-5" #NT!
- GETH_CHR_Unit_OR004:0 "Блок ОР-004" #NT!
- GETH_CHR_Unit_M1D:0 "Блок М1Д" #NT!
- GETH_CHR_Unit_S0B:0 "Блок S0B" #NT!
- GETH_CHR_Unit_S09B:0 "Блок С09-Б" #NT!
- GETH_CHR_Unit_PDX1:0 "Блок ПДХ-1" #NT!
- GETH_CHR_Unit_U89:0 "Отряд Ю-89" #NT!
- GETH_CHR_Unit_IX1442:0 "Блок IX-1442" #NT!
- GETH_CHR_Unit_L8P9:0 "Блок L8P9" #NT!
- GETH_CHR_Unit_HK48:0 "Блок НК-48" #NT!
- GETH_CHR_Unit_VK12:0 "Установка ВК-12" #NT!
- GETH_CHR_Unit_FR9:0 "Установка ФР-9" #NT!
- GETH_CHR_Unit_899:0 "Блок 8-99" #NT!
- GETH_CHR_Unit_3838:0 "Блок 38-38" #NT!
- GETH_CHR_Unit_M4L:0 "Блок М4-Л" #NT!
- GETH_CHR_Unit_YT8:0 "Блок ЮТ-8" #NT!
- GETH_CHR_Unit_Sigma:0 "Единица Сигма" #NT!
- GETH_CHR_Unit_Kappa_5:0 "Блок Каппа 5" #NT!
- GETH_CHR_Unit_BX4:0 "Блок БХ-4" #NT!
- GETH_CHR_Unit_142:0 "Блок 14/2" #NT!
- GETH_CHR_Unit_TLY68:0 "Блок ТЛИ-68" #NT!
- GETH_CHR_Unit_F19:0 "Блок Ф-19" #NT!
+ name_list_btr_geth: "гет"
+ GETH_SHIP_Subunit_A012: "Субъединица А-012"
+ GETH_SHIP_Subunit_A011: "Субъединица А-011"
+ GETH_SHIP_Subunit_A010: "Субъединица А-010"
+ GETH_SHIP_Subunit_A009: "Субъединица А-009"
+ GETH_SHIP_Subunit_A008: "Субъединица А-008"
+ GETH_SHIP_Subunit_A007: "Субъединица А-007"
+ GETH_SHIP_Subunit_A006: "Субъединица А-006"
+ GETH_SHIP_Subunit_A005: "Субъединица А-005"
+ GETH_SHIP_Subunit_A004: "Субъединица А-004"
+ GETH_SHIP_Subunit_A003: "Субъединица А-003"
+ GETH_SHIP_Subunit_A002: "Субъединица А-002"
+ GETH_SHIP_Subunit_A001: "Субъединица А-001"
+ GETH_SHIP_Subunit_A024: "Субъединица А-024"
+ GETH_SHIP_Subunit_A023: "Субъединица А-023"
+ GETH_SHIP_Subunit_A022: "Субъединица А-022"
+ GETH_SHIP_Subunit_A021: "Субъединица А-021"
+ GETH_SHIP_Subunit_A020: "Субъединица А-020"
+ GETH_SHIP_Subunit_A019: "Субъединица А-019"
+ GETH_SHIP_Subunit_A018: "Субъединица А-018"
+ GETH_SHIP_Subunit_A017: "Субъединица А-017"
+ GETH_SHIP_Subunit_A016: "Субъединица А-016"
+ GETH_SHIP_Subunit_A015: "Субъединица А-015"
+ GETH_SHIP_Subunit_A014: "Субъединица А-014"
+ GETH_SHIP_Subunit_A013: "Субъединица А-013"
+ GETH_SHIP_Subunit_A036: "Субъединица А-036"
+ GETH_SHIP_Subunit_A035: "Субъединица А-035"
+ GETH_SHIP_Subunit_A034: "Субъединица А-034"
+ GETH_SHIP_Subunit_A033: "Субъединица А-033"
+ GETH_SHIP_Subunit_A032: "Субъединица А-032"
+ GETH_SHIP_Subunit_A031: "Субъединица А-031"
+ GETH_SHIP_Subunit_A030: "Субъединица А-030"
+ GETH_SHIP_Subunit_A029: "Субъединица А-029"
+ GETH_SHIP_Subunit_A028: "Субъединица А-028"
+ GETH_SHIP_Subunit_A027: "Субъединица А-027"
+ GETH_SHIP_Subunit_A026: "Субъединица А-026"
+ GETH_SHIP_Subunit_A025: "Субъединица А-025"
+ GETH_SHIP_Subunit_A048: "Субъединица А-048"
+ GETH_SHIP_Subunit_A047: "Субъединица А-047"
+ GETH_SHIP_Subunit_A046: "Субъединица А-046"
+ GETH_SHIP_Subunit_A045: "Субъединица А-045"
+ GETH_SHIP_Subunit_A044: "Субъединица А-044"
+ GETH_SHIP_Subunit_A043: "Субъединица А-043"
+ GETH_SHIP_Subunit_A042: "Субъединица А-042"
+ GETH_SHIP_Subunit_A041: "Субъединица А-041"
+ GETH_SHIP_Subunit_A040: "Субъединица А-040"
+ GETH_SHIP_Subunit_A039: "Субъединица А-039"
+ GETH_SHIP_Subunit_A038: "Субъединица А-038"
+ GETH_SHIP_Subunit_A037: "Субъединица А-037"
+ GETH_SHIP_Subunit_A060: "Субъединица А-060"
+ GETH_SHIP_Subunit_A059: "Субъединица А-059"
+ GETH_SHIP_Subunit_A058: "Субъединица А-058"
+ GETH_SHIP_Subunit_A057: "Субъединица А-057"
+ GETH_SHIP_Subunit_A056: "Субъединица А-056"
+ GETH_SHIP_Subunit_A055: "Субъединица А-055"
+ GETH_SHIP_Subunit_A054: "Субъединица А-054"
+ GETH_SHIP_Subunit_A053: "Субъединица А-053"
+ GETH_SHIP_Subunit_A052: "Субъединица А-052"
+ GETH_SHIP_Subunit_A051: "Субъединица А-051"
+ GETH_SHIP_Subunit_A050: "Субъединица А-050"
+ GETH_SHIP_Subunit_A049: "Субъединица А-049"
+ GETH_SHIP_Subunit_A072: "Субъединица А-072"
+ GETH_SHIP_Subunit_A071: "Субъединица А-071"
+ GETH_SHIP_Subunit_A070: "Субъединица А-070"
+ GETH_SHIP_Subunit_A069: "Субъединица А-069"
+ GETH_SHIP_Subunit_A068: "Субъединица А-068"
+ GETH_SHIP_Subunit_A067: "Подразделение А-067"
+ GETH_SHIP_Subunit_A066: "Субъединица А-066"
+ GETH_SHIP_Subunit_A065: "Субъединица А-065"
+ GETH_SHIP_Subunit_A064: "Субъединица А-064"
+ GETH_SHIP_Subunit_A063: "Субъединица А-063"
+ GETH_SHIP_Subunit_A062: "Субъединица А-062"
+ GETH_SHIP_Subunit_A061: "Субъединица А-061"
+ GETH_SHIP_Subunit_A084: "Подразделение А-084"
+ GETH_SHIP_Subunit_A083: "Субъединица А-083"
+ GETH_SHIP_Subunit_A082: "Субъединица А-082"
+ GETH_SHIP_Subunit_A081: "Субъединица А-081"
+ GETH_SHIP_Subunit_A080: "Субъединица А-080"
+ GETH_SHIP_Subunit_A079: "в/ч А-079"
+ GETH_SHIP_Subunit_A078: "Субъединица А-078"
+ GETH_SHIP_Subunit_A077: "в/ч А-077"
+ GETH_SHIP_Subunit_A076: "в/ч А-076"
+ GETH_SHIP_Subunit_A075: "Подразделение А-075"
+ GETH_SHIP_Subunit_A074: "Подразделение А-074"
+ GETH_SHIP_Subunit_A073: "Субъединица А-073"
+ GETH_SHIP_Subunit_A096: "Подразделение А-096"
+ GETH_SHIP_Subunit_A095: "Субъединица А-095"
+ GETH_SHIP_Subunit_A094: "Подразделение А-094"
+ GETH_SHIP_Subunit_A093: "Субъединица А-093"
+ GETH_SHIP_Subunit_A092: "Подразделение А-092"
+ GETH_SHIP_Subunit_A091: "Субъединица А-091"
+ GETH_SHIP_Subunit_A090: "Субъединица А-090"
+ GETH_SHIP_Subunit_A089: "В/ч А-089"
+ GETH_SHIP_Subunit_A088: "Субъединица А-088"
+ GETH_SHIP_Subunit_A087: "Субъединица А-087"
+ GETH_SHIP_Subunit_A086: "Субъединица А-086"
+ GETH_SHIP_Subunit_A085: "Подразделение А-085"
+ GETH_SHIP_Subunit_A108: "Подразделение А-108"
+ GETH_SHIP_Subunit_A107: "Подразделение А-107"
+ GETH_SHIP_Subunit_A106: "Подразделение А-106"
+ GETH_SHIP_Subunit_A105: "Подразделение А-105"
+ GETH_SHIP_Subunit_A104: "Подразделение А-104"
+ GETH_SHIP_Subunit_A103: "Подразделение А-103"
+ GETH_SHIP_Subunit_A102: "Подразделение А-102"
+ GETH_SHIP_Subunit_A101: "Подразделение А-101"
+ GETH_SHIP_Subunit_A100: "Подразделение А-100"
+ GETH_SHIP_Subunit_A099: "Подразделение А-099"
+ GETH_SHIP_Subunit_A098: "Субъединица А-098"
+ GETH_SHIP_Subunit_A097: "Подразделение А-097"
+ GETH_SHIP_Subunit_A120: "Подразделение А-120"
+ GETH_SHIP_Subunit_A119: "Подразделение А-119"
+ GETH_SHIP_Subunit_A118: "Подразделение А-118"
+ GETH_SHIP_Subunit_A117: "Подразделение А-117"
+ GETH_SHIP_Subunit_A116: "Подразделение А-116"
+ GETH_SHIP_Subunit_A115: "Подразделение А-115"
+ GETH_SHIP_Subunit_A114: "Подразделение А-114"
+ GETH_SHIP_Subunit_A113: "Подразделение А-113"
+ GETH_SHIP_Subunit_A112: "Подразделение А-112"
+ GETH_SHIP_Subunit_A111: "Подразделение А-111"
+ GETH_SHIP_Subunit_A110: "Подразделение А-110"
+ GETH_SHIP_Subunit_A109: "Подразделение А-109"
+ GETH_SHIP_Subunit_A132: "Подразделение А-132"
+ GETH_SHIP_Subunit_A131: "Подразделение А-131"
+ GETH_SHIP_Subunit_A130: "Подразделение А-130"
+ GETH_SHIP_Subunit_A129: "Подразделение А-129"
+ GETH_SHIP_Subunit_A128: "Подразделение А-128"
+ GETH_SHIP_Subunit_A127: "Подразделение А-127"
+ GETH_SHIP_Subunit_A126: "Подразделение А-126"
+ GETH_SHIP_Subunit_A125: "Подразделение А-125"
+ GETH_SHIP_Subunit_A124: "Подразделение А-124"
+ GETH_SHIP_Subunit_A123: "Подразделение А-123"
+ GETH_SHIP_Subunit_A122: "Подразделение А-122"
+ GETH_SHIP_Subunit_A121: "Подразделение А-121"
+ GETH_SHIP_Subunit_A144: "Подразделение А-144"
+ GETH_SHIP_Subunit_A143: "Подразделение А-143"
+ GETH_SHIP_Subunit_A142: "Подразделение А-142"
+ GETH_SHIP_Subunit_A141: "Подразделение А-141"
+ GETH_SHIP_Subunit_A140: "Подразделение А-140"
+ GETH_SHIP_Subunit_A139: "Подразделение А-139"
+ GETH_SHIP_Subunit_A138: "Подразделение А-138"
+ GETH_SHIP_Subunit_A137: "Подразделение А-137"
+ GETH_SHIP_Subunit_A136: "Подразделение А-136"
+ GETH_SHIP_Subunit_A135: "Подразделение А-135"
+ GETH_SHIP_Subunit_A134: "Подразделение А-134"
+ GETH_SHIP_Subunit_A133: "Подразделение А-133"
+ GETH_SHIP_Subunit_A156: "Подразделение А-156"
+ GETH_SHIP_Subunit_A155: "Подразделение А-155"
+ GETH_SHIP_Subunit_A154: "Подразделение А-154"
+ GETH_SHIP_Subunit_A153: "Подразделение А-153"
+ GETH_SHIP_Subunit_A152: "Подразделение А-152"
+ GETH_SHIP_Subunit_A151: "Подразделение А-151"
+ GETH_SHIP_Subunit_A150: "Подразделение А-150"
+ GETH_SHIP_Subunit_A149: "Подразделение А-149"
+ GETH_SHIP_Subunit_A148: "Подразделение А-148"
+ GETH_SHIP_Subunit_A147: "Подразделение А-147"
+ GETH_SHIP_Subunit_A146: "Подразделение А-146"
+ GETH_SHIP_Subunit_A145: "Подразделение А-145"
+ GETH_SHIP_Subunit_A168: "Подразделение А-168"
+ GETH_SHIP_Subunit_A167: "Подразделение А-167"
+ GETH_SHIP_Subunit_A166: "Подразделение А-166"
+ GETH_SHIP_Subunit_A165: "Подразделение А-165"
+ GETH_SHIP_Subunit_A164: "Подразделение А-164"
+ GETH_SHIP_Subunit_A163: "Подразделение А-163"
+ GETH_SHIP_Subunit_A162: "Подразделение А-162"
+ GETH_SHIP_Subunit_A161: "Подразделение А-161"
+ GETH_SHIP_Subunit_A160: "Подразделение А-160"
+ GETH_SHIP_Subunit_A159: "Подразделение А-159"
+ GETH_SHIP_Subunit_A158: "Подразделение А-158"
+ GETH_SHIP_Subunit_A157: "Подразделение А-157"
+ GETH_SHIP_Subunit_A180: "Подразделение А-180"
+ GETH_SHIP_Subunit_A179: "Подразделение А-179"
+ GETH_SHIP_Subunit_A178: "Подразделение А-178"
+ GETH_SHIP_Subunit_A177: "Подразделение А-177"
+ GETH_SHIP_Subunit_A176: "Подразделение А-176"
+ GETH_SHIP_Subunit_A175: "Подразделение А-175"
+ GETH_SHIP_Subunit_A174: "Подразделение А-174"
+ GETH_SHIP_Subunit_A173: "Подразделение А-173"
+ GETH_SHIP_Subunit_A172: "Подразделение А-172"
+ GETH_SHIP_Subunit_A171: "Подразделение А-171"
+ GETH_SHIP_Subunit_A170: "Подразделение А-170"
+ GETH_SHIP_Subunit_A169: "Подразделение А-169"
+ GETH_SHIP_Subunit_A192: "Подразделение А-192"
+ GETH_SHIP_Subunit_A191: "Подразделение А-191"
+ GETH_SHIP_Subunit_A190: "Подразделение А-190"
+ GETH_SHIP_Subunit_A189: "Подразделение А-189"
+ GETH_SHIP_Subunit_A188: "Подразделение А-188"
+ GETH_SHIP_Subunit_A187: "Подразделение А-187"
+ GETH_SHIP_Subunit_A186: "Подразделение А-186"
+ GETH_SHIP_Subunit_A185: "Подразделение А-185"
+ GETH_SHIP_Subunit_A184: "Подразделение А-184"
+ GETH_SHIP_Subunit_A183: "Подразделение А-183"
+ GETH_SHIP_Subunit_A182: "Подразделение А-182"
+ GETH_SHIP_Subunit_A181: "Подразделение А-181"
+ GETH_SHIP_Subunit_A204: "Подразделение А-204"
+ GETH_SHIP_Subunit_A203: "Подразделение А-203"
+ GETH_SHIP_Subunit_A202: "Подразделение А-202"
+ GETH_SHIP_Subunit_A201: "Подразделение А-201"
+ GETH_SHIP_Subunit_A200: "Подразделение А-200"
+ GETH_SHIP_Subunit_A199: "Подразделение А-199"
+ GETH_SHIP_Subunit_A198: "Подразделение А-198"
+ GETH_SHIP_Subunit_A197: "Подразделение А-197"
+ GETH_SHIP_Subunit_A196: "Подразделение А-196"
+ GETH_SHIP_Subunit_A195: "Подразделение А-195"
+ GETH_SHIP_Subunit_A194: "Подразделение А-194"
+ GETH_SHIP_Subunit_A193: "Подразделение А-193"
+ GETH_SHIP_Subunit_A216: "Подразделение А-216"
+ GETH_SHIP_Subunit_A215: "Подразделение А-215"
+ GETH_SHIP_Subunit_A214: "Подразделение А-214"
+ GETH_SHIP_Subunit_A213: "Подразделение А-213"
+ GETH_SHIP_Subunit_A212: "Подразделение А-212"
+ GETH_SHIP_Subunit_A211: "Подразделение А-211"
+ GETH_SHIP_Subunit_A210: "Подразделение А-210"
+ GETH_SHIP_Subunit_A209: "Подразделение А-209"
+ GETH_SHIP_Subunit_A208: "Подразделение А-208"
+ GETH_SHIP_Subunit_A207: "Подразделение А-207"
+ GETH_SHIP_Subunit_A206: "Подразделение А-206"
+ GETH_SHIP_Subunit_A205: "Подразделение А-205"
+ GETH_SHIP_Subunit_A228: "Подразделение А-228"
+ GETH_SHIP_Subunit_A227: "Подразделение А-227"
+ GETH_SHIP_Subunit_A226: "Подразделение А-226"
+ GETH_SHIP_Subunit_A225: "Подразделение А-225"
+ GETH_SHIP_Subunit_A224: "Подразделение А-224"
+ GETH_SHIP_Subunit_A223: "Подразделение А-223"
+ GETH_SHIP_Subunit_A222: "Подразделение А-222"
+ GETH_SHIP_Subunit_A221: "Подразделение А-221"
+ GETH_SHIP_Subunit_A220: "Подразделение А-220"
+ GETH_SHIP_Subunit_A219: "Подразделение А-219"
+ GETH_SHIP_Subunit_A218: "Подразделение А-218"
+ GETH_SHIP_Subunit_A217: "Подразделение А-217"
+ GETH_SHIP_Subunit_A240: "Подразделение А-240"
+ GETH_SHIP_Subunit_A239: "Подразделение А-239"
+ GETH_SHIP_Subunit_A238: "Подразделение А-238"
+ GETH_SHIP_Subunit_A237: "Подразделение А-237"
+ GETH_SHIP_Subunit_A236: "Подразделение А-236"
+ GETH_SHIP_Subunit_A235: "Подразделение А-235"
+ GETH_SHIP_Subunit_A234: "Подразделение А-234"
+ GETH_SHIP_Subunit_A233: "Подразделение А-233"
+ GETH_SHIP_Subunit_A232: "Подразделение А-232"
+ GETH_SHIP_Subunit_A231: "Подразделение А-231"
+ GETH_SHIP_Subunit_A230: "Подразделение А-230"
+ GETH_SHIP_Subunit_A229: "Подразделение А-229"
+ GETH_SHIP_Subunit_A252: "Подразделение А-252"
+ GETH_SHIP_Subunit_A251: "Подразделение А-251"
+ GETH_SHIP_Subunit_A250: "Подразделение А-250"
+ GETH_SHIP_Subunit_A249: "Подразделение А-249"
+ GETH_SHIP_Subunit_A248: "Подразделение А-248"
+ GETH_SHIP_Subunit_A247: "Подразделение А-247"
+ GETH_SHIP_Subunit_A246: "Подразделение А-246"
+ GETH_SHIP_Subunit_A245: "Подразделение А-245"
+ GETH_SHIP_Subunit_A244: "Подразделение А-244"
+ GETH_SHIP_Subunit_A243: "Подразделение А-243"
+ GETH_SHIP_Subunit_A242: "Подразделение А-242"
+ GETH_SHIP_Subunit_A241: "Подразделение А-241"
+ GETH_SHIP_Subunit_A264: "Подразделение А-264"
+ GETH_SHIP_Subunit_A263: "Подразделение А-263"
+ GETH_SHIP_Subunit_A262: "Подразделение А-262"
+ GETH_SHIP_Subunit_A261: "Подразделение А-261"
+ GETH_SHIP_Subunit_A260: "Подразделение А-260"
+ GETH_SHIP_Subunit_A259: "Подразделение А-259"
+ GETH_SHIP_Subunit_A258: "Подразделение А-258"
+ GETH_SHIP_Subunit_A257: "Подразделение А-257"
+ GETH_SHIP_Subunit_A256: "Подразделение А-256"
+ GETH_SHIP_Subunit_A255: "Подразделение А-255"
+ GETH_SHIP_Subunit_A254: "Подразделение А-254"
+ GETH_SHIP_Subunit_A253: "Подразделение А-253"
+ GETH_SHIP_Subunit_A276: "Подразделение А-276"
+ GETH_SHIP_Subunit_A275: "Подразделение А-275"
+ GETH_SHIP_Subunit_A274: "Подразделение А-274"
+ GETH_SHIP_Subunit_A273: "Подразделение А-273"
+ GETH_SHIP_Subunit_A272: "Подразделение А-272"
+ GETH_SHIP_Subunit_A271: "Подразделение А-271"
+ GETH_SHIP_Subunit_A270: "Подразделение А-270"
+ GETH_SHIP_Subunit_A269: "Подразделение А-269"
+ GETH_SHIP_Subunit_A268: "Подразделение А-268"
+ GETH_SHIP_Subunit_A267: "Подразделение А-267"
+ GETH_SHIP_Subunit_A266: "Подразделение А-266"
+ GETH_SHIP_Subunit_A265: "Подразделение А-265"
+ GETH_SHIP_Subunit_A288: "Подразделение А-288"
+ GETH_SHIP_Subunit_A287: "Подразделение А-287"
+ GETH_SHIP_Subunit_A286: "Подразделение А-286"
+ GETH_SHIP_Subunit_A285: "Подразделение А-285"
+ GETH_SHIP_Subunit_A284: "Подразделение А-284"
+ GETH_SHIP_Subunit_A283: "Подразделение А-283"
+ GETH_SHIP_Subunit_A282: "Подразделение А-282"
+ GETH_SHIP_Subunit_A281: "Подразделение А-281"
+ GETH_SHIP_Subunit_A280: "Подразделение А-280"
+ GETH_SHIP_Subunit_A279: "Подразделение А-279"
+ GETH_SHIP_Subunit_A278: "Подразделение А-278"
+ GETH_SHIP_Subunit_A277: "Подразделение А-277"
+ GETH_SHIP_Subunit_A300: "Подразделение А-300"
+ GETH_SHIP_Subunit_A299: "Подразделение А-299"
+ GETH_SHIP_Subunit_A298: "Подразделение А-298"
+ GETH_SHIP_Subunit_A297: "Подразделение А-297"
+ GETH_SHIP_Subunit_A296: "Подразделение А-296"
+ GETH_SHIP_Subunit_A295: "Подразделение А-295"
+ GETH_SHIP_Subunit_A294: "Подразделение А-294"
+ GETH_SHIP_Subunit_A293: "Подразделение А-293"
+ GETH_SHIP_Subunit_A292: "Подразделение А-292"
+ GETH_SHIP_Subunit_A291: "Подразделение А-291"
+ GETH_SHIP_Subunit_A290: "Подразделение А-290"
+ GETH_SHIP_Subunit_A289: "Подразделение А-289"
+ GETH_xxAutonomous_Cluster_ORD: "$O$ Автономный кластер"
+ GETH_xxDefense_Units_ORD: "$O$ Отряды обороны"
+ GETH_xxAssault_Units_ORD: "$O$ Штурмовые отряды"
+ GETH_xxHeretics_Units_ORD: "$O$ Отряды еретиков"
+ GETH_xxClass_VI_Units_ORD: "$O$ Устройства класса VI"
+ GETH_xxJuggernaut_Units_ORD: "$O$ Джаггернауты"
+ GETH_xxAdept_Units_ORD: "$O$ Умелые подразделения"
+ GETH_xxNeoOrganic_Unit_ORD: "$O$ Неоорганический блок"
+ GETH_xxHybrid_Units_ORD: "$O$ Гибридные единицы"
+ GETH_CHR_Unit_J14: "Блок J-14"
+ GETH_CHR_Unit_1557: "Блок 15/57"
+ GETH_CHR_Unit_LFA5: "Блок МАФ-5"
+ GETH_CHR_Unit_441: "Блок 44/1"
+ GETH_CHR_Unit_V13: "Блок V13"
+ GETH_CHR_Unit_XI130: "Блок XI-130"
+ GETH_CHR_Unit_Q12: "Блок Q-12"
+ GETH_CHR_Unit_19G: "Блок 19-Г"
+ GETH_CHR_Unit_P2XR0: "Блок P2-XR0"
+ GETH_CHR_Unit_MZ34: "Установка МЗ-34"
+ GETH_CHR_Unit_XR2: "Блок XR-2"
+ GETH_CHR_Unit_48B: "Блок 48Б"
+ GETH_CHR_Unit_541: "Блок 54.1"
+ GETH_CHR_Unit_542: "Блок 54.2"
+ GETH_CHR_Unit_M84: "Установка М8-4"
+ GETH_CHR_Unit_388F: "Блок 388-Ф"
+ GETH_CHR_Unit_Alpha2: "Отряд Альфа-2"
+ GETH_CHR_Unit_0009X: "Отряд 0009-Х"
+ GETH_CHR_Unit_KT5: "Установка КТ-5"
+ GETH_CHR_Unit_OR004: "Блок ОР-004"
+ GETH_CHR_Unit_M1D: "Блок М1Д"
+ GETH_CHR_Unit_S0B: "Блок S0B"
+ GETH_CHR_Unit_S09B: "Блок С09-Б"
+ GETH_CHR_Unit_PDX1: "Блок ПДХ-1"
+ GETH_CHR_Unit_U89: "Отряд Ю-89"
+ GETH_CHR_Unit_IX1442: "Блок IX-1442"
+ GETH_CHR_Unit_L8P9: "Блок L8P9"
+ GETH_CHR_Unit_HK48: "Блок НК-48"
+ GETH_CHR_Unit_VK12: "Установка ВК-12"
+ GETH_CHR_Unit_FR9: "Установка ФР-9"
+ GETH_CHR_Unit_899: "Блок 8-99"
+ GETH_CHR_Unit_3838: "Блок 38-38"
+ GETH_CHR_Unit_M4L: "Блок М4-Л"
+ GETH_CHR_Unit_YT8: "Блок ЮТ-8"
+ GETH_CHR_Unit_Sigma: "Единица Сигма"
+ GETH_CHR_Unit_Kappa_5: "Блок Каппа 5"
+ GETH_CHR_Unit_BX4: "Блок БХ-4"
+ GETH_CHR_Unit_142: "Блок 14/2"
+ GETH_CHR_Unit_TLY68: "Блок ТЛИ-68"
+ GETH_CHR_Unit_F19: "Блок Ф-19"

@@ -1,850 +1,850 @@
 ﻿l_russian:
-
- name_list_btr_asari:0 "Асари" #NT!
- ASARI_SHIP_Coniava:0 "Коньява" #NT!
- ASARI_SHIP_Varren:0 "Варрен" #NT!
- ASARI_SHIP_Calatellae:0 "Калателлы" #NT!
- ASARI_SHIP_Glaenthphea:0 "Глаэнтфея" #NT!
- ASARI_SHIP_Makeari:0 "Makeari" #NT!
- ASARI_SHIP_Gena:0 "Гена" #NT!
- ASARI_SHIP_Janute:0 "Янут" #NT!
- ASARI_SHIP_Tenurron:0 "Тенуррон" #NT!
- ASARI_SHIP_Monarch:0 "монарх" #NT!
- ASARI_SHIP_Elbrus:0 "Эльбрус" #NT!
- ASARI_SHIP_Azedes:0 "Азедес" #NT!
- ASARI_SHIP_Ledayma:0 "Ледайма" #NT!
- ASARI_SHIP_Naucihin:0 "Научихин" #NT!
- ASARI_SHIP_Matoyma:0 "Матойма" #NT!
- ASARI_SHIP_Lynira:0 "Линира" #NT!
- ASARI_SHIP_Jeyx:0 "Джейкс" #NT!
- ASARI_SHIP_Kynus:0 "Кинус" #NT!
- ASARI_SHIP_Keska:0 "Кеска" #NT!
- ASARI_SHIP_Sashirah:0 "Сашира" #NT!
- ASARI_SHIP_Sais:0 "Саис" #NT!
- ASARI_SHIP_Hellikse:0 "Хелликсе" #NT!
- ASARI_SHIP_Makemi:0 "Макеми" #NT!
- ASARI_SHIP_Noreenley:0 "Норинли" #NT!
- ASARI_SHIP_Ditriari:0 "Дитриари" #NT!
- ASARI_SHIP_Salezi:0 "Салези" #NT!
- ASARI_SHIP_Muari:0 "Муари" #NT!
- ASARI_SHIP_Morrihin:0 "Моррихин" #NT!
- ASARI_SHIP_Viissnea:0 "Вийснеа" #NT!
- ASARI_SHIP_Nyxiir:0 "Никсир" #NT!
- ASARI_SHIP_Atrueri:0 "Атруэри" #NT!
- ASARI_SHIP_Alissna:0 "Алисна" #NT!
- ASARI_SHIP_RiPhiphea:0 "Рифифея" #NT!
- ASARI_SHIP_Tevessly:0 "Тевесли" #NT!
- ASARI_SHIP_Mido:0 "Мидо" #NT!
- ASARI_SHIP_D'Rotora:0 "Д'Ротора" #NT!
- ASARI_SHIP_Zenrada:0 "Zenrada" #NT!
- ASARI_SHIP_Kashana:0 "Кашана" #NT!
- ASARI_SHIP_T'Raos:0 "Т'Раос" #NT!
- ASARI_SHIP_Geluno:0 "Гелуно" #NT!
- ASARI_SHIP_M'Kyaci:0 "М'Кьячи" #NT!
- ASARI_SHIP_Nugaes:0 "Нугаес" #NT!
- ASARI_SHIP_Caliara:0 "Калиара" #NT!
- ASARI_SHIP_Samme:0 "Самме" #NT!
- ASARI_SHIP_Myraix:0 "Мирикс" #NT!
- ASARI_SHIP_Emakirae:0 "Эмакира" #NT!
- ASARI_SHIP_Myrerthia:0 "мирертия" #NT!
- ASARI_SHIP_M'Cryze:0 "М'Крайз" #NT!
- ASARI_SHIP_Levo:0 "Лево" #NT!
- ASARI_SHIP_Liburo:0 "Либуро" #NT!
- ASARI_SHIP_Imelslea:0 "Имелсли" #NT!
- ASARI_SHIP_Calena:0 "Калена" #NT!
- ASARI_SHIP_Diavah:0 "Диава" #NT!
- ASARI_SHIP_Maijin:0 "Майджин" #NT!
- ASARI_SHIP_Treezu:0 "Тризу" #NT!
- ASARI_SHIP_Vitire:0 "Витир" #NT!
- ASARI_SHIP_Erthyny:0 "Эртини" #NT!
- ASARI_SHIP_Vethase:0 "Ветасе" #NT!
- ASARI_SHIP_Ditrifi:0 "Дитрифи" #NT!
- ASARI_SHIP_Isucnea:0 "Изукнея" #NT!
- ASARI_SHIP_Thanis:0 "Танис" #NT!
- ASARI_SHIP_Luakiis:0 "Луакиис" #NT!
- ASARI_SHIP_TSosava:0 "Цосава" #NT!
- ASARI_SHIP_Zeess:0 "Зесс" #NT!
- ASARI_SHIP_Giosne:0 "Джосне" #NT!
- ASARI_SHIP_Shaucsa:0 "Шауца" #NT!
- ASARI_SHIP_Isunda:0 "Исунда" #NT!
- ASARI_SHIP_Lere:0 "Лере" #NT!
- ASARI_SHIP_Elucthea:0 "Элуктея" #NT!
- ASARI_SHIP_Luollnea:0 "Луоллнеа" #NT!
- ASARI_SHIP_VTilas:0 "ВТилас" #NT!
- ASARI_SHIP_Myrali:0 "Мирали" #NT!
- ASARI_SHIP_Diezira:0 "Диезира" #NT!
- ASARI_SHIP_Averi:0 "Авери" #NT!
- ASARI_SHIP_Mereli:0 "Мерели" #NT!
- ASARI_SHIP_Kaenthus:0 "Кентус" #NT!
- ASARI_SHIP_Sedeburo:0 "Sedeburo" #NT!
- ASARI_SHIP_Priovahin:0 "Приовахин" #NT!
- ASARI_SHIP_Aekaux:0 "Эко" #NT!
- ASARI_SHIP_Tirequa:0 "Тирекуа" #NT!
- ASARI_SHIP_Imiztea:0 "Имизтея" #NT!
- ASARI_SHIP_Iallise:0 "Яллисе" #NT!
- ASARI_SHIP_Myrizsy:0 "Миризы" #NT!
- ASARI_SHIP_Ateza:0 "Атеза" #NT!
- ASARI_SHIP_Prieseta:0 "Присета" #NT!
- ASARI_SHIP_Driria:0 "Дририя" #NT!
- ASARI_SHIP_Kafinnea:0 "Кафиннеа" #NT!
- ASARI_SHIP_Banshees_Wail:0 "Вой банши" #NT!
- ASARI_SHIP_Alankla:0 "Аланкла" #NT!
- ASARI_SHIP_Sisters_Aid:0 "Помощь сестер" #NT!
- ASARI_SHIP_Secana:0 "Секана" #NT!
- ASARI_SHIP_Leapnai:0 "Леапнаи" #NT!
- ASARI_SHIP_Atane:0 "Атане" #NT!
- ASARI_SHIP_Sebane:0 "Себане" #NT!
- ASARI_SHIP_Eleclae:0 "Элекла" #NT!
- ASARI_SHIP_Satanna:0 "Сатанна" #NT!
- ASARI_SHIP_Lipera:0 "Липера" #NT!
- ASARI_SHIP_Malvaes:0 "Мальве" #NT!
- ASARI_SHIP_Oseros:0 "Осерос" #NT!
- ASARI_SHIP_Kiels:0 "Кильс" #NT!
- ASARI_SHIP_Ceana:0 "Сеана" #NT!
- ASARI_SHIP_Wisteria:0 "Глициния" #NT!
- ASARI_SHIP_Palatinate:0 "Пфальц" #NT!
- ASARI_SHIP_Celeste:0 "Селеста" #NT!
- ASARI_SHIP_Tiny_Blue_Sun:0 "Крошечное голубое солнце" #NT!
- ASARI_SHIP_Dream_of_Chalkhos:0 "Сон о Чалхосе" #NT!
- ASARI_SHIP_Dream_of_Selvos:0 "Мечта о Селвосе" #NT!
- ASARI_SHIP_Little_Armali:0 "Маленький Армали" #NT!
- ASARI_SHIP_Azure_Wing:0 "Лазурное Крыло" #NT!
- ASARI_SHIP_Genedraga:0 "Генедрага" #NT!
- ASARI_SHIP_Viixnia:0 "Viixnia" #NT!
- ASARI_SHIP_Nasezimea:0 "Насезимеа" #NT!
- ASARI_SHIP_Benumna:0 "Бенумна" #NT!
- ASARI_SHIP_Salezisa:0 "Салезиса" #NT!
- ASARI_SHIP_Sasosus:0 "Сасос" #NT!
- ASARI_SHIP_Jeniraya:0 "Дженирая" #NT!
- ASARI_SHIP_Usovaka:0 "Усовака" #NT!
- ASARI_SHIP_Ameka:0 "Амека" #NT!
- ASARI_SHIP_Nirestthia:0 "Нирестия" #NT!
- ASARI_SHIP_Phoucivi:0 "Фукиви" #NT!
- ASARI_SHIP_Falassa:0 "Фаласса" #NT!
- ASARI_SHIP_Linarne:0 "Линарне" #NT!
- ASARI_SHIP_Zenyrly:0 "Зенырлы" #NT!
- ASARI_SHIP_Miyadri:0 "Миядри" #NT!
- ASARI_SHIP_Diekasha:0 "Diekasha" #NT!
- ASARI_SHIP_Dainaphia:0 "Дайнафия" #NT!
- ASARI_SHIP_Saseezley:0 "Сасизли" #NT!
- ASARI_SHIP_Miryxany:0 "Мириксани" #NT!
- ASARI_SHIP_Carev:0 "Царев" #NT!
- ASARI_SHIP_Raeltia:0 "Раэльтия" #NT!
- ASARI_SHIP_Kyus:0 "Кюс" #NT!
- ASARI_SHIP_Amizra:0 "Амизра" #NT!
- ASARI_SHIP_Selao:0 "Селао" #NT!
- ASARI_SHIP_Vonor:0 "Вонор" #NT!
- ASARI_SHIP_Iessaara:0 "Иессаара" #NT!
- ASARI_SHIP_Jaedraa:0 "Джаэдраа" #NT!
- ASARI_SHIP_Cheelo:0 "Чило" #NT!
- ASARI_SHIP_Moeennea:0 "Моэннеа" #NT!
- ASARI_SHIP_Aieste:0 "Айесте" #NT!
- ASARI_SHIP_Zenyr:0 "Зенир" #NT!
- ASARI_SHIP_Nofreya:0 "Нофрейя" #NT!
- ASARI_SHIP_Lainthia:0 "Лаинтия" #NT!
- ASARI_SHIP_Ellimea:0 "Эллимея" #NT!
- ASARI_SHIP_Desperilla:0 "Десперилла" #NT!
- ASARI_SHIP_Naclaslite:0 "Накласлит" #NT!
- ASARI_SHIP_Lipassima:0 "Липассима" #NT!
- ASARI_SHIP_Somarnille:0 "Сомарниль" #NT!
- ASARI_SHIP_Boalasma:0 "Боаласма" #NT!
- ASARI_SHIP_Clairmananda:0 "Клэрмананда" #NT!
- ASARI_SHIP_Sadaganna:0 "Садаганна" #NT!
- ASARI_SHIP_Feelpanar:0 "Филпанар" #NT!
- ASARI_SHIP_Caranna:0 "Каранна" #NT!
- ASARI_SHIP_Vaktyr:0 "Вактырь" #NT!
- ASARI_SHIP_Smiling_Matron:0 "Улыбающаяся Матрона" #NT!
- ASARI_SHIP_Sting:0 "Стинг" #NT!
- ASARI_SHIP_Lavender:0 "лаванда" #NT!
- ASARI_SHIP_Flight_of_Indigo:0 "Полет Индиго" #NT!
- ASARI_SHIP_Little_Wing:0 "Little Wing" #NT!
- ASARI_SHIP_Hyetianas_Vigilance:0 "Бдительность Хиетианы" #NT!
- ASARI_SHIP_Tevuras_Hope:0 "Надежда Тевуры" #NT!
- ASARI_SHIP_Thorn_of_Illium:0 "Шип Иллиума" #NT!
- ASARI_SHIP_Valeesse:0 "Валесс" #NT!
- ASARI_SHIP_Niavasa:0 "Ниаваса" #NT!
- ASARI_SHIP_Kysan:0 "Кысан" #NT!
- ASARI_SHIP_Luosphea:0 "Луосфея" #NT!
- ASARI_SHIP_Nososte:0 "Нососте" #NT!
- ASARI_SHIP_Asixne:0 "Асиксне" #NT!
- ASARI_SHIP_Normona:0 "Нормона" #NT!
- ASARI_SHIP_Kasko:0 "Каско" #NT!
- ASARI_SHIP_Nasyata:0 "Насьята" #NT!
- ASARI_SHIP_Jishaze:0 "Jishaze" #NT!
- ASARI_SHIP_Ishyxe:0 "Ишикс" #NT!
- ASARI_SHIP_Testhyya:0 "Тестхия" #NT!
- ASARI_SHIP_Riunha:0 "Riunha" #NT!
- ASARI_SHIP_Cheinais:0 "Шене" #NT!
- ASARI_SHIP_Moelnea:0 "Моэлнеа" #NT!
- ASARI_SHIP_Makeran:0 "Макеран" #NT!
- ASARI_SHIP_Samels:0 "Самелс" #NT!
- ASARI_SHIP_Janinus:0 "Янинус" #NT!
- ASARI_SHIP_Josanya:0 "Джосанья" #NT!
- ASARI_SHIP_Shimmering_Wind:0 "Мерцающий ветер" #NT!
- ASARI_SHIP_Vollodean:0 "Воллодейский" #NT!
- ASARI_SHIP_Damparan:0 "Дампаран" #NT!
- ASARI_SHIP_Errataen:0 "Эрратаен" #NT!
- ASARI_SHIP_Diplutasse:0 "Диплутассе" #NT!
- ASARI_SHIP_Elimerre:0 "Элимерра" #NT!
- ASARI_SHIP_Doslacania:0 "Дослакания" #NT!
- ASARI_SHIP_Marcaranta:0 "Маркаранта" #NT!
- ASARI_SHIP_Sorodomo:0 "Сородомо" #NT!
- ASARI_SHIP_Delcarana:0 "Делькарана" #NT!
- ASARI_SHIP_Desserima:0 "Desserima" #NT!
- ASARI_SHIP_Cybaen:0 "Кибаен" #NT!
- ASARI_SHIP_Thasus:0 "Тасус" #NT!
- ASARI_SHIP_Saeri:0 "Саери" #NT!
- ASARI_SHIP_Purple_Mist:0 "Фиолетовый туман" #NT!
- ASARI_SHIP_Maiden_Voyage:0 "Первый рейс" #NT!
- ASARI_SHIP_Zaffre_Trail:0 "Зафре Трейл" #NT!
- ASARI_SHIP_Iris_Moon:0 "Ирис Мун" #NT!
- ASARI_SHIP_Cyones_Bastion:0 "Бастион Сионы" #NT!
- ASARI_SHIP_Sister_of_Zesmeni:0 "Сестра Зесмены" #NT!
- ASARI_SHIP_Wing_of_Agessia:0 "Крыло Агессии" #NT!
- ASARI_SHIP_Esayna:0 "Эсайна" #NT!
- ASARI_SHIP_Arithnia:0 "Аритния" #NT!
- ASARI_SHIP_Atrula:0 "Атрула" #NT!
- ASARI_SHIP_Dantiyma:0 "Дантийма" #NT!
- ASARI_SHIP_Sulfinka:0 "Сульфинка" #NT!
- ASARI_SHIP_Gelarse:0 "Геларсе" #NT!
- ASARI_SHIP_Veyezsy:0 "Вейезы" #NT!
- ASARI_SHIP_Ashrizea:0 "Ашризея" #NT!
- ASARI_SHIP_Nyiss:0 "Нисс" #NT!
- ASARI_SHIP_Eaulnia:0 "Юлия" #NT!
- ASARI_SHIP_Usanzia:0 "Усанзия" #NT!
- ASARI_SHIP_Jalthase:0 "Джалтасе" #NT!
- ASARI_SHIP_Bei:0 "Бей" #NT!
- ASARI_SHIP_Liifea:0 "Лифея" #NT!
- ASARI_SHIP_Iessaix:0 "Иессикс" #NT!
- ASARI_SHIP_Thanirev:0 "Танирев" #NT!
- ASARI_SHIP_Halanysy:0 "Халанысы" #NT!
- ASARI_SHIP_Januava:0 "Януава" #NT!
- ASARI_SHIP_Kielsze:0 "Кельше" #NT!
- ASARI_SHIP_Ushizus:0 "Ушизус" #NT!
- ASARI_SHIP_Telyxphea:0 "Теликфея" #NT!
- ASARI_SHIP_Lyneesthia:0 "Линестия" #NT!
- ASARI_SHIP_Eshlersa:0 "Эшлерса" #NT!
- ASARI_SHIP_Ceryphia:0 "Церифия" #NT!
- ASARI_SHIP_Seayya:0 "Сейя" #NT!
- ASARI_SHIP_Aiestzia:0 "Айестия" #NT!
- ASARI_SHIP_Eaanalea:0 "Эааналея" #NT!
- ASARI_SHIP_Myxifete:0 "Миксифета" #NT!
- ASARI_SHIP_Shisi:0 "Шиси" #NT!
- ASARI_SHIP_Naslike:0 "Наслике" #NT!
- ASARI_SHIP_Cethyse:0 "Цетис" #NT!
- ASARI_SHIP_Seunshi:0 "Сынши" #NT!
- ASARI_SHIP_Kilitea:0 "Килитея" #NT!
- ASARI_SHIP_Ahlatania:0 "Ахлатания" #NT!
- ASARI_SHIP_Kydri:0 "Кидри" #NT!
- ASARI_SHIP_Lysixux:0 "Лизиксукс" #NT!
- ASARI_SHIP_Calira:0 "Калира" #NT!
- ASARI_SHIP_Iallilas:0 "Яллилас" #NT!
- ASARI_SHIP_Myrarix:0 "мирарикс" #NT!
- ASARI_SHIP_Sashdazea:0 "Сашдазея" #NT!
- ASARI_SHIP_Rililsha:0 "Рилилша" #NT!
- ASARI_SHIP_Numyrse:0 "Нумырсе" #NT!
- ASARI_SHIP_Sarekane:0 "Сарекане" #NT!
- ASARI_SHIP_Keliylea:0 "Келийлеа" #NT!
- ASARI_SHIP_Selixha:0 "Селикса" #NT!
- ASARI_SHIP_Shieseus:0 "Шизеус" #NT!
- ASARI_SHIP_Ishtharae:0 "Иштхары" #NT!
- ASARI_SHIP_Eshlita:0 "Эшлита" #NT!
- ASARI_SHIP_Benezia:0 "Бенезия" #NT!
- ASARI_SHIP_Maeolpan_TElechi:0 "Маэолпан Телечи" #NT!
- ASARI_SHIP_Dlipaeli:0 "Длипаэли" #NT!
- ASARI_SHIP_Tassaranka:0 "Тассаранка" #NT!
- ASARI_SHIP_Deliclarme:0 "Деликварм" #NT!
- ASARI_SHIP_Daeglarimman_Tsu:0 "Дэгларимман Цу" #NT!
- ASARI_SHIP_Borosmora_T'Echeti:0 "Боросмора Т'Эчети" #NT!
- ASARI_SHIP_Clormoro:0 "Клорморо" #NT!
- ASARI_SHIP_Milla_TAsana:0 "Милла Т'Асана" #NT!
- ASARI_SHIP_Ardat_Yakshis_Kiss:0 "Ардат Якшис Поцелуй" #NT!
- ASARI_SHIP_Sovereigns_Warning:0 "Предупреждение Суверена" #NT!
- ASARI_SHIP_Harbingers_Wrath:0 "Гнев Предвестника" #NT!
- ASARI_SHIP_Matriarchs_Sacrifice:0 "Жертвоприношение матриархов" #NT!
- ASARI_SHIP_Matriarchs_Wish:0 "желание матриархов" #NT!
- ASARI_SHIP_Goddess_Flail:0 "Богиня Цеп" #NT!
- ASARI_SHIP_Keeki_TBetai:0 "Keeki T'Betai" #NT!
- ASARI_SHIP_Perfection_Dominant:0 "Совершенство Доминант" #NT!
- ASARI_SHIP_Miracle_Infinity:0 "Чудо Бесконечности" #NT!
- ASARI_SHIP_Eternity_Immaculate:0 "Вечность Непорочная" #NT!
- ASARI_SHIP_Future_Transcendent:0 "Будущее Трансцендентное" #NT!
- ASARI_SHIP_Majesty_Sublime:0 "Величество Возвышенное" #NT!
- ASARI_SHIP_Destiny_Ascension:0 "Судьба Вознесения" #NT!
- ASARI_SHIP_Awakening_Symphony:0 "Пробуждение Симфония" #NT!
- ASARI_SHIP_Omniscient_Infinite:0 "Всеведущий Бесконечный" #NT!
- ASARI_SHIP_Millennium_Dawn:0 "Рассвет тысячелетия" #NT!
- ASARI_SHIP_Eternity_Vigilance:0 "Вечная бдительность" #NT!
- ASARI_SHIP_Halcyon_Promise:0 "Безмятежное обещание" #NT!
- ASARI_SHIP_Sallizea:0 "Саллизеа" #NT!
- ASARI_SHIP_Seis:0 "Сейс" #NT!
- ASARI_SHIP_Nyelsthea:0 "Нильстея" #NT!
- ASARI_SHIP_Melyt:0 "Мелит" #NT!
- ASARI_SHIP_Chaoraley:0 "Чаоралей" #NT!
- ASARI_SHIP_Drisir:0 "Дрисир" #NT!
- ASARI_SHIP_Emetu:0 "Эмету" #NT!
- ASARI_SHIP_Rava:0 "Рава" #NT!
- ASARI_SHIP_Lysithus:0 "Лизиф" #NT!
- ASARI_SHIP_Callamaen:0 "Калламаен" #NT!
- ASARI_SHIP_Laevamimu:0 "Лаевамиму" #NT!
- ASARI_SHIP_Illapan:0 "Иллапан" #NT!
- ASARI_SHIP_Elicara_Mululina:0 "Эликара Мулулина" #NT!
- ASARI_SHIP_Cerulean_Star:0 "Лазурная звезда" #NT!
- ASARI_SHIP_Isasa:0 "Исаса" #NT!
- ASARI_SHIP_Lysollta:0 "Лизолта" #NT!
- ASARI_SHIP_Dantivo:0 "Дантиво" #NT!
- ASARI_SHIP_Isli:0 "Исли" #NT!
- ASARI_SHIP_Talorata:0 "Талората" #NT!
- ASARI_SHIP_Athame:0 "Атам" #NT!
- ASARI_SHIP_Illiumithea:0 "Иллиумитея" #NT!
- ASARI_SHIP_Distant_Hope:0 "Далекая надежда" #NT!
- ASARI_SHIP_Lil_Sister:0 "маленькая сестра" #NT!
- ASARI_SHIP_Fhealcantae:0 "Фхилканте" #NT!
- ASARI_SHIP_Ula_Snakla:0 "Ула Снакла" #NT!
- ASARI_SHIP_Elinominol:0 "Элиноминол" #NT!
- ASARI_SHIP_Matrons_Chance:0 "Шанс Матроны" #NT!
- ASARI_SHIP_Zamallaet:0 "Замаллает" #NT!
- ASARI_SHIP_Murali:0 "Мурали" #NT!
- ASARI_SHIP_Siyxe:0 "Сийкс" #NT!
- ASARI_SHIP_Tesina:0 "Тесина" #NT!
- ASARI_SHIP_MTaeri:0 "МТаэри" #NT!
- ASARI_SHIP_Shiife:0 "Шифе" #NT!
- ASARI_SHIP_Rilesee:0 "Рилези" #NT!
- ASARI_SHIP_VCrilis:0 "ВКрилис" #NT!
- ASARI_SHIP_Falyxethea:0 "Фаликсетея" #NT!
- ASARI_SHIP_Diburo:0 "Дибуро" #NT!
- ASARI_SHIP_Kiises:0 "Кийсес" #NT!
- ASARI_SHIP_Arterev:0 "Артерев" #NT!
- ASARI_SHIP_Myirania:0 "Myirania" #NT!
- ASARI_SHIP_Niryrus:0 "Нирирус" #NT!
- ASARI_SHIP_Myvo:0 "Мыво" #NT!
- ASARI_SHIP_Xaesux:0 "Ксесукс" #NT!
- ASARI_SHIP_Zeeezthia:0 "Зизтия" #NT!
- ASARI_SHIP_Ceees:0 "Сеис" #NT!
- ASARI_SHIP_Lisissmia:0 "Лиссемия" #NT!
- ASARI_SHIP_Kilikmey:0 "Киликмей" #NT!
- ASARI_SHIP_IshYaa:0 "ИшЯа" #NT!
- ASARI_SHIP_Kesthyze:0 "Кестиз" #NT!
- ASARI_SHIP_LinLinia:0 "LinLinia" #NT!
- ASARI_SHIP_Gaqua:0 "Гакуа" #NT!
- ASARI_SHIP_Nyira:0 "Ниира" #NT!
- ASARI_SHIP_Pralyt:0 "Пралит" #NT!
- ASARI_SHIP_Iroraux:0 "Ироро" #NT!
- ASARI_SHIP_Seyma:0 "Сейма" #NT!
- ASARI_SHIP_Revinatea:0 "Ревинатея" #NT!
- ASARI_SHIP_KinSha:0 "КинШа" #NT!
- ASARI_SHIP_Raci:0 "Раси" #NT!
- ASARI_SHIP_Unayly:0 "Унайлы" #NT!
- ASARI_SHIP_Sanariir:0 "Санариир" #NT!
- ASARI_SHIP_Priiaga:0 "Прияга" #NT!
- ASARI_SHIP_Ateava:0 "Атеава" #NT!
- ASARI_SHIP_Dayrtia:0 "Дайртия" #NT!
- ASARI_SHIP_Nisenth:0 "Низент" #NT!
- ASARI_SHIP_Norrinia:0 "Норриния" #NT!
- ASARI_SHIP_Atenus:0 "Атенус" #NT!
- ASARI_SHIP_Unraux:0 "Унро" #NT!
- ASARI_SHIP_Irlik:0 "Ирлик" #NT!
- ASARI_SHIP_Atezea:0 "Атезия" #NT!
- ASARI_SHIP_Asey:0 "Асей" #NT!
- ASARI_SHIP_Estharae:0 "Эстары" #NT!
- ASARI_SHIP_Janniran:0 "Джанниран" #NT!
- ASARI_SHIP_Lucedrasha:0 "Лучедраша" #NT!
- ASARI_SHIP_Surime:0 "Surime" #NT!
- ASARI_SHIP_Letilse:0 "Летилсе" #NT!
- ASARI_SHIP_Nulekaha:0 "Нулекаха" #NT!
- ASARI_SHIP_Iessaze:0 "Иессазе" #NT!
- ASARI_SHIP_Daliala:0 "Далиала" #NT!
- ASARI_SHIP_Arshase:0 "Аршас" #NT!
- ASARI_SHIP_Salmo:0 "Салмо" #NT!
- ASARI_SHIP_Seyellshi:0 "Сейеллши" #NT!
- ASARI_SHIP_Gaor:0 "Гаор" #NT!
- ASARI_SHIP_Aniyux:0 "Aniyux" #NT!
- ASARI_SHIP_Tevorly:0 "Теворлы" #NT!
- ASARI_SHIP_Iessaor:0 "Иессаор" #NT!
- ASARI_SHIP_Diessse:0 "Диссе" #NT!
- ASARI_SHIP_Sedeeri:0 "Седери" #NT!
- ASARI_SHIP_Geninphia:0 "Генинфия" #NT!
- ASARI_SHIP_Liseesrae:0 "Liseesrae" #NT!
- ASARI_SHIP_Helili:0 "Хелили" #NT!
- ASARI_SHIP_Salyxaa:0 "Саликсаа" #NT!
- ASARI_SHIP_Eminaya:0 "Эминая" #NT!
- ASARI_SHIP_Atruve:0 "Атруве" #NT!
- ASARI_SHIP_Salitho:0 "Салито" #NT!
- ASARI_SHIP_Elezme:0 "Элезме" #NT!
- ASARI_SHIP_Tevmetia:0 "Тевметия" #NT!
- ASARI_SHIP_Chaumhin:0 "Чаумхин" #NT!
- ASARI_SHIP_Kysi:0 "Кыси" #NT!
- ASARI_SHIP_Telithmia:0 "Телитмия" #NT!
- ASARI_SHIP_Lenoramey:0 "Ленорами" #NT!
- ASARI_SHIP_Ionessa:0 "Ионесса" #NT!
- ASARI_FLEET_Shimmering:0 "Мерцающий" #NT!
- ASARI_FLEET_Pleechian_Fleet:0 "Плечианский флот" #NT!
- ASARI_FLEET_Gladampal_Fleet:0 "Гладампальский флот" #NT!
- ASARI_FLEET_Ypmadanr_Fleet:0 "Ипмаданский флот" #NT!
- ASARI_FLEET_Altlantar_Fleet:0 "Альтлантарский флот" #NT!
- ASARI_FLEET_Dark_Zapphire_Fleet:0 "Темный заапфировый флот" #NT!
- ASARI_FLEET_Eaucphia_Fleet:0 "Эвкфийский флот" #NT!
- ASARI_FLEET_Ceithmey_Fleet:0 "Кейтми Флот" #NT!
- ASARI_FLEET_Dantinis_Fleet:0 "Флот Дантиниса" #NT!
- ASARI_FLEET_Lueynea_Fleet:0 "Луейнский флот" #NT!
- ASARI_FLEET_Letuntia_Fleet:0 "Флот Летунции" #NT!
- ASARI_FLEET_Varren_Fleet:0 "Варрен Флит" #NT!
- ASARI_FLEET_Banshee_Fleet:0 "Банши флот" #NT!
- ASARI_FLEET_Tariraka_Fleet:0 "Флот Тарирака" #NT!
- ASARI_FLEET_Esesttea_Fleet:0 "Эсесттеа Флот" #NT!
- ASARI_FLEET_Shiell_Fleet:0 "Шил Флит" #NT!
- ASARI_FLEET_Eshfines_Fleet:0 "Эшфинский флот" #NT!
- ASARI_FLEET_Siorne_Fleet:0 "Сиорн Флит" #NT!
- ASARI_FLEET_Shiiao_Fleet:0 "Флот Шияо" #NT!
- ASARI_FLEET_Ceriphia_Fleet:0 "Церифийский флот" #NT!
- ASARI_xxFLEET_ORD:0 "$O$ Fleet_ORD" #NT!
- ASARI_xxHuntress_Garrison_ORD:0 "$O$ Охотница_Гарнизон_ORD" #NT!
- ASARI_xxCommando_Squad_ORD:0 "$O$ Commando_Squad_ORD" #NT!
- ASARI_xxIndentured_Vanguard_ORD:0 "$O$ Indentured_Vanguard_ORD" #NT!
- ASARI_xxThorian_Synthesis_ORD:0 "$O$ Ториан_Синтез_ORD" #NT!
- ASARI_xxVI_Assault_Mechs_ORD:0 "$O$ VI_Assault_Mechs_ORD" #NT!
- ASARI_xxVI_Security_Mechs_ORD:0 "$O$ VI_Security_Mechs_ORD" #NT!
- ASARI_xxAscendants_ORD:0 "$O$ Восходящие_ORD" #NT!
- ASARI_xxBanshee_Project_ORD:0 "$O$ Банши_Проект_ORD" #NT!
- ASARI_xxBlack_Widows_ORD:0 "$O$ Black_Widows_ORD" #NT!
- ASARI_CHR_Tela:0 "Тела" #NT!
- ASARI_CHR_Liara:0 "Лиара" #NT!
- ASARI_CHR_Nassana:0 "Нассана" #NT!
- ASARI_CHR_Lymea:0 "Лаймея" #NT!
- ASARI_CHR_Kesithta:0 "Кеситта" #NT!
- ASARI_CHR_Chailha:0 "Чайла" #NT!
- ASARI_CHR_Pheiyus:0 "Фейюс" #NT!
- ASARI_CHR_Moenia:0 "Моения" #NT!
- ASARI_CHR_Veyraze:0 "Вейразе" #NT!
- ASARI_CHR_Noneme:0 "Нонеме" #NT!
- ASARI_CHR_Maarika:0 "Маарика" #NT!
- ASARI_CHR_Moyna:0 "Мойна" #NT!
- ASARI_CHR_Lidanya:0 "Лиданья" #NT!
- ASARI_CHR_Benezia:0 "Бенезия" #NT!
- ASARI_CHR_Ellia:0 "Эллия" #NT!
- ASARI_CHR_Aria:0 "Ария" #NT!
- ASARI_CHR_Beessa:0 "Бесса" #NT!
- ASARI_CHR_Morinth:0 "Моринт" #NT!
- ASARI_CHR_Shaira:0 "Шайра" #NT!
- ASARI_CHR_Suesa:0 "Суэза" #NT!
- ASARI_CHR_Horite:0 "Хорит" #NT!
- ASARI_CHR_Lidakinia:0 "Лидакиния" #NT!
- ASARI_CHR_Gelanytea:0 "Геланитея" #NT!
- ASARI_CHR_Beunia:0 "Беуния" #NT!
- ASARI_CHR_Arizka:0 "Аризона" #NT!
- ASARI_CHR_Liezi:0 "Liezi" #NT!
- ASARI_CHR_Teunny:0 "Тонни" #NT!
- ASARI_CHR_Elyaphea:0 "Элиафея" #NT!
- ASARI_CHR_Rilyshi:0 "Рилыши" #NT!
- ASARI_CHR_Riulla:0 "Рилыши" #NT!
- ASARI_CHR_Falyna:0 "Фалина" #NT!
- ASARI_CHR_Liria:0 "Лирия" #NT!
- ASARI_CHR_Elana:0 "Элана" #NT!
- ASARI_CHR_Alria:0 "Альрия" #NT!
- ASARI_CHR_Raria:0 "Рария" #NT!
- ASARI_CHR_Raana:0 "Раана" #NT!
- ASARI_CHR_Irvos:0 "Ирвос" #NT!
- ASARI_CHR_Ishta:0 "Ишта" #NT!
- ASARI_CHR_Irlia:0 "Ирлия" #NT!
- ASARI_CHR_Eldata:0 "Эльдата" #NT!
- ASARI_CHR_Lymucily:0 "лимуцилы" #NT!
- ASARI_CHR_Teilvi:0 "Тейлви" #NT!
- ASARI_CHR_Kelorair:0 "Келорайр" #NT!
- ASARI_CHR_Lidiramey:0 "Лидирамей" #NT!
- ASARI_CHR_Aethyta:0 "Этита" #NT!
- ASARI_CHR_Samara:0 "Самара" #NT!
- ASARI_CHR_Ceyxe:0 "Сейкс" #NT!
- ASARI_CHR_Falere:0 "Фалере" #NT!
- ASARI_CHR_Arana:0 "Арана" #NT!
- ASARI_CHR_Elria:0 "Элрия" #NT!
- ASARI_CHR_Arlis:0 "Арлис" #NT!
- ASARI_CHR_Favos:0 "Избранное" #NT!
- ASARI_CHR_Faria:0 "Фариа" #NT!
- ASARI_CHR_Daana:0 "Даана" #NT!
- ASARI_CHR_Alenia:0 "Аления" #NT!
- ASARI_CHR_Daria:0 "Дарья" #NT!
- ASARI_CHR_Rylyna:0 "Рылина" #NT!
- ASARI_CHR_Liessa:0 "Лиесса" #NT!
- ASARI_CHR_Bezia:0 "Безия" #NT!
- ASARI_CHR_Belyna:0 "Белина" #NT!
- ASARI_CHR_Alvos:0 "Альвос" #NT!
- ASARI_CHR_Nilyna:0 "Нилина" #NT!
- ASARI_CHR_Irlyna:0 "Ирлина" #NT!
- ASARI_CHR_Dayna:0 "Дайна" #NT!
- ASARI_CHR_Raava:0 "Раава" #NT!
- ASARI_CHR_Saphyria:0 "Раава" #NT!
- ASARI_CHR_Moria:0 "Мория" #NT!
- ASARI_CHR_Ralia:0 "Ралия" #NT!
- ASARI_CHR_Raessa:0 "Раесса" #NT!
- ASARI_CHR_Ella:0 "Элла" #NT!
- ASARI_CHR_Dalia:0 "Далия" #NT!
- ASARI_CHR_Liyna:0 "Лийна" #NT!
- ASARI_CHR_Alla:0 "Алла" #NT!
- ASARI_CHR_Ryzia:0 "Рызия" #NT!
- ASARI_CHR_Allia:0 "Аллия" #NT!
- ASARI_CHR_Irenia:0 "Irenia" #NT!
- ASARI_CHR_Beria:0 "Берия" #NT!
- ASARI_CHR_Faana:0 "Фаана" #NT!
- ASARI_CHR_Ryvos:0 "Ривос" #NT!
- ASARI_CHR_Allyna:0 "Аллина" #NT!
- ASARI_CHR_Glari:0 "Глари" #NT!
- ASARI_CHR_Careena:0 "Карина" #NT!
- ASARI_CHR_Letiratia:0 "Летиратия" #NT!
- ASARI_CHR_Cheinaphia:0 "Чинафия" #NT!
- ASARI_CHR_Mielsnea:0 "Мильснеа" #NT!
- ASARI_CHR_Aian:0 "Аян" #NT!
- ASARI_CHR_Rield:0 "Риелд" #NT!
- ASARI_CHR_Vonedrane:0 "Вонедран" #NT!
- ASARI_CHR_Asellis:0 "Аселлис" #NT!
- ASARI_CHR_Anerae:0 "Anerae" #NT!
- ASARI_CHR_Valixra:0 "Валиксра" #NT!
- ASARI_CHR_Seleseta:0 "Селесета" #NT!
- ASARI_CHR_Nuleldsy:0 "Нулелдсы" #NT!
- ASARI_CHR_Kashthate:0 "Каштхатэ" #NT!
- ASARI_CHR_Moisha:0 "Мойша" #NT!
- ASARI_CHR_Noreezis:0 "Норизис" #NT!
- ASARI_CHR_Nyxthao:0 "Никтао" #NT!
- ASARI_CHR_Siollhin:0 "Сиоллхин" #NT!
- ASARI_CHR_Maymo:0 "Мэймо" #NT!
- ASARI_CHR_Arrany:0 "Аррани" #NT!
- ASARI_CHR_Valorah:0 "Валора" #NT!
- ASARI_CHR_Mirass:0 "Мирасс" #NT!
- ASARI_CHR_Diovamia:0 "Диовамия" #NT!
- ASARI_CHR_Beollphia:0 "Беллфия" #NT!
- ASARI_CHR_Janithma:0 "Джанитма" #NT!
- ASARI_CHR_Xanonea:0 "Ксанонея" #NT!
- ASARI_CHR_Gieezna:0 "Гиезна" #NT!
- ASARI_CHR_Eriznea:0 "Эризнеа" #NT!
- ASARI_CHR_Zeezh:0 "Зиз" #NT!
- ASARI_CHR_Halesephea:0 "Халесефея" #NT!
- ASARI_CHR_Helell:0 "Хелелл" #NT!
- ASARI_CHR_Holisska:0 "Голисска" #NT!
- ASARI_CHR_Benixte:0 "Беникст" #NT!
- ASARI_CHR_Umulmia:0 "Умульмия" #NT!
- ASARI_CHR_Aierma:0 "Aierma" #NT!
- ASARI_CHR_Diollya:0 "Диолля" #NT!
- ASARI_CHR_Revelme:0 "Ревельме" #NT!
- ASARI_CHR_Seintea:0 "Сейнтеа" #NT!
- ASARI_CHR_Numerma:0 "Нумерма" #NT!
- ASARI_CHR_Sashyrny:0 "Саширный" #NT!
- ASARI_CHR_Laariux:0 "Лариукс" #NT!
- ASARI_CHR_Ushrashi:0 "Ушраши" #NT!
- ASARI_CHR_Kashissu:0 "Kashissu" #NT!
- ASARI_CHR_Veyneme:0 "Вейнеме" #NT!
- ASARI_CHR_Dayxeis:0 "Дайксейс" #NT!
- ASARI_CHR_Giarmia:0 "Джармиа" #NT!
- ASARI_CHR_Laiania:0 "Лайания" #NT!
- ASARI_CHR_Denania:0 "Денания" #NT!
- ASARI_CHR_Silikme:0 "Силикме" #NT!
- ASARI_CHR_Jalritea:0 "Джалритея" #NT!
- ASARI_CHR_Seyarly:0 "Сейарли" #NT!
- ASARI_CHR_Varatia:0 "Варатья" #NT!
- ASARI_CHR_Nosthyh:0 "Ностых" #NT!
- ASARI_CHR_Ranlita:0 "Ранлита" #NT!
- ASARI_CHR_Gelorao:0 "Gelorao" #NT!
- ASARI_CHR_Hekoa:0 "Хекоа" #NT!
- ASARI_CHR_Chaeldthia:0 "Халдтия" #NT!
- ASARI_CHR_Geeka:0 "Гика" #NT!
- ASARI_CHR_Seyucny:0 "Сеючный" #NT!
- ASARI_CHR_Kaliss:0 "Калисс" #NT!
- ASARI_CHR_Keslithia:0 "Кеслития" #NT!
- ASARI_CHR_Raari:0 "Раари" #NT!
- ASARI_CHR_Ushakina:0 "Ушакина" #NT!
- ASARI_CHR_Zeestse:0 "Зеестсе" #NT!
- ASARI_CHR_Lysakida:0 "Лисакида" #NT!
- ASARI_CHR_Helies:0 "Он лжет" #NT!
- ASARI_CHR_Nasyr:0 "Насыр" #NT!
- ASARI_CHR_Eaansha:0 "Эаанша" #NT!
- ASARI_CHR_Selollphia:0 "Селолфия" #NT!
- ASARI_CHR_Shiunta:0 "Shiunta" #NT!
- ASARI_CHR_Pelessaria:0 "Пелессария" #NT!
- ASARI_CHR_Nasraphea:0 "Насрафея" #NT!
- ASARI_CHR_Immeux:0 "Иммё" #NT!
- ASARI_CHR_Lerilia:0 "Лерилия" #NT!
- ASARI_CHR_Sheass:0 "Шиас" #NT!
- ASARI_CHR_Leirmia:0 "Лейрмия" #NT!
- ASARI_CHR_Lidkothea:0 "Лидкотея" #NT!
- ASARI_CHR_Lysayvi:0 "Лысайви" #NT!
- ASARI_CHR_Sasharie:0 "Сашари" #NT!
- ASARI_CHR_Glaanyga:0 "Гланыга" #NT!
- ASARI_CHR_Eriany:0 "Эриани" #NT!
- ASARI_CHR_Luucize:0 "Люцизе" #NT!
- ASARI_CHR_Hiucihin:0 "Хиучихин" #NT!
- ASARI_CHR_Keellka:0 "Келлка" #NT!
- ASARI_CHR_Nyiss:0 "Нисс" #NT!
- ASARI_CHR_Liifea:0 "Лифея" #NT!
- ASARI_CHR_Tarith:0 "Тарит" #NT!
- ASARI_CHR_Lidey:0 "Лидей" #NT!
- ASARI_CHR_Zelestta:0 "Зелеста" #NT!
- ASARI_CHR_Nyxifsy:0 "Никифси" #NT!
- ASARI_CHR_Phayxena:0 "Файксена" #NT!
- ASARI_CHR_Ishyxe:0 "Ишикс" #NT!
- ASARI_CHR_Cheinais:0 "Шене" #NT!
- ASARI_CHR_Testhyya:0 "Тестхия" #NT!
- ASARI_CHR_Linarne:0 "Линарне" #NT!
- ASARI_CHR_Nirestthia:0 "Нирестия" #NT!
- ASARI_CHR_Salezisa:0 "Салезиса" #NT!
- ASARI_CHR_Ishinathea:0 "Ишинатея" #NT!
- ASARI_CHR_Sueziux:0 "Суэзю" #NT!
- ASARI_CHR_Kinana:0 "Кинана" #NT!
- ASARI_CHR_Aarya:0 "Арья" #NT!
- ASARI_CHR_Aiucithia:0 "Аюкифия" #NT!
- ASARI_CHR_Nisfinzea:0 "Нисфинзея" #NT!
- ASARI_CHR_Numarvsha:0 "Нумарвша" #NT!
- ASARI_CHR_Alissha:0 "Alissha" #NT!
- ASARI_CHR_Lisliphea:0 "Лислифея" #NT!
- ASARI_CHR_Elucthea:0 "Элуктея" #NT!
- ASARI_CHR_Nietsa:0 "Ница" #NT!
- ASARI_CHR_Ashenth:0 "Эшент" #NT!
- ASARI_CHR_Ashrizea:0 "Ашризея" #NT!
- ASARI_CHR_Aalya:0 "Алия" #NT!
- ASARI_CHR_Lisme:0 "Лисме" #NT!
- ASARI_CHR_Seylertia:0 "Сейлертия" #NT!
- ASARI_CHR_Falirya:0 "Фалирия" #NT!
- ASARI_CHR_Lucyxthia:0 "Люцикстия" #NT!
- ASARI_CHR_Sarra:0 "Сарра" #NT!
- ASARI_CHR_Lymithda:0 "Лимитда" #NT!
- ASARI_CHR_Shalira:0 "Шалира" #NT!
- ASARI_CHR_Visenthlea:0 "Визентлея" #NT!
- ASARI_CHR_Esheesmia:0 "Эшисмия" #NT!
- ASARI_CHR_Teisse:0 "Тейсс" #NT!
- ASARI_CHR_Voneesthea:0 "Вонеестея" #NT!
- ASARI_CHR_Saliysha:0 "Салийша" #NT!
- ASARI_CHR_Viartea:0 "Виартеа" #NT!
- ASARI_CHR_Eshilphea:0 "Эшилфея" #NT!
- ASARI_CHR_Chaintia:0 "Чайнтия" #NT!
- ASARI_CHR_Enine:0 "Энине" #NT!
- ASARI_CHR_Kaelya:0 "Каэля" #NT!
- ASARI_CHR_Lyiss:0 "Лисс" #NT!
- ASARI_CHR_Erlyse:0 "Эрлиз" #NT!
- ASARI_CHR_Limryis:0 "Лимрис" #NT!
- ASARI_CHR_Pheeymea:0 "Фимеа" #NT!
- ASARI_CHR_Lynormea:0 "Линормея" #NT!
- ASARI_CHR_Nyedralea:0 "Ньедралеа" #NT!
- ASARI_CHR_Nisiysha:0 "Нисийша" #NT!
- ASARI_CHR_Faliyha:0 "Фалия" #NT!
- ASARI_CHR_Esifee:0 "Эсифи" #NT!
- ASARI_CHR_Umi:0 "Уми" #NT!
- ASARI_CHR_Liselle:0 "Лизель" #NT!
- ASARI_CHR_Rana:0 "Рана" #NT!
- ASARI_CHR_Irissa:0 "Ирисса" #NT!
- ASARI_CHR_Shiala:0 "Шиала" #NT!
- ASARI_CHR_Dahlia:0 "георгин" #NT!
- ASARI_CHR_Aleena:0 "Алена" #NT!
- ASARI_CHR_Nyrih:0 "Нырих" #NT!
- ASARI_CHR_Nyara:0 "Ньяра" #NT!
- ASARI_CHR_Karya:0 "Карья" #NT!
- ASARI_CHR_Sameyna:0 "Самейна" #NT!
- ASARI_CHR_Ceellya:0 "Целлия" #NT!
- ASARI_CHR_Lininya:0 "Лининья" #NT!
- ASARI_CHR_Sheakizia:0 "Шеакизия" #NT!
- ASARI_CHR_Moriyshi:0 "Moriyshi" #NT!
- ASARI_CHR_Ceanylia:0 "Сеанилия" #NT!
- ASARI_CHR_Tethys:0 "Тетис" #NT!
- ASARI_CHR_Ishara:0 "Ишара" #NT!
- ASARI_CHR_Vederia:0 "Ведерия" #NT!
- ASARI_CHR_Sarissa:0 "Сарисса" #NT!
- ASARI_CHR_Wasea:0 "Васеа" #NT!
- ASARI_CHR_Enyala:0 "Эньяла" #NT!
- ASARI_CHR_Nyxeris:0 "Никсерис" #NT!
- ASARI_CHR_Dilinaga:0 "Дилинага" #NT!
- ASARI_CHR_Batha:0 "Бата" #NT!
- ASARI_CHR_Mallene:0 "Маллен" #NT!
- ASARI_CHR_Aeian:0 "Эиан" #NT!
- ASARI_CHR_Treeya:0 "Трия" #NT!
- ASARI_CHR_Rila:0 "Рила" #NT!
- ASARI_CHR_Alestia:0 "Алестия" #NT!
- ASARI_CHR_Tristana:0 "Тристана" #NT!
- ASARI_CHR_Jona:0 "Йона" #NT!
- ASARI_CHR_Leynomi:0 "Лейноми" #NT!
- ASARI_CHR_Lexi:0 "Лекси" #NT!
- ASARI_CHR_Anaya:0 "Анайя" #NT!
- ASARI_CHR_Deleia:0 "Делея" #NT!
- ASARI_CHR_Nelyna:0 "Нелина" #NT!
- ASARI_CHR_Kalinda:0 "Калинда" #NT!
- ASARI_CHR_Hermia:0 "Гермия" #NT!
- ASARI_CHR_Elnora:0 "Эльнора" #NT!
- ASARI_CHR_Ereba:0 "Эреба" #NT!
- ASARI_CHR_Erinya:0 "Эринья" #NT!
- ASARI_CHR_Kurin:0 "Курин" #NT!
- ASARI_CHR_Kian:0 "Киан" #NT!
- ASARI_CHR_Rialla:0 "Риалла" #NT!
- ASARI_CHR_Valenza:0 "Валенца" #NT!
- ASARI_CHR_Kalia:0 "Калия" #NT!
- ASARI_CHR_Janae:0 "Джанаэ" #NT!
- ASARI_CHR_Nisira:0 "Нисира" #NT!
- ASARI_CHR_Phora:0 "Фора" #NT!
- ASARI_CHR_Corlisi:0 "Corlisi" #NT!
- ASARI_CHR_Dantius:0 "Дантиус" #NT!
- ASARI_CHR_Regos:0 "Регос" #NT!
- ASARI_CHR_Nyxasia:0 "Никсасия" #NT!
- ASARI_CHR_Selura:0 "Селура" #NT!
- ASARI_CHR_Axura:0 "Аксура" #NT!
- ASARI_CHR_Veya:0 "Вейя" #NT!
- ASARI_CHR_TLyria:0 "TLyria" #NT!
- ASARI_CHR_Sheya:0 "Шейя" #NT!
- ASARI_CHR_Axyria:0 "Аксирия" #NT!
- ASARI_CHR_Iremi:0 "Иреми" #NT!
- ASARI_CHR_Sheuss:0 "Шейсс" #NT!
- ASARI_CHR_Stoni:0 "Стони" #NT!
- ASARI_CHR_TLura:0 "TLura" #NT!
- ASARI_CHR_Vasir:0 "Васир" #NT!
- ASARI_CHR_TSoni:0 "Цони" #NT!
- ASARI_CHR_TLoak:0 "TLoak" #NT!
- ASARI_CHR_Ralas:0 "Ралас" #NT!
- ASARI_CHR_BSayle:0 "BSayle" #NT!
- ASARI_CHR_Stani:0 "Стани" #NT!
- ASARI_CHR_Veuss:0 "Веус" #NT!
- ASARI_CHR_Teya:0 "Тея" #NT!
- ASARI_CHR_Banni:0 "Банни" #NT!
- ASARI_CHR_Ressi:0 "Ресси" #NT!
- ASARI_CHR_TSani:0 "Цани" #NT!
- ASARI_CHR_Thessi:0 "Тесси" #NT!
- ASARI_CHR_Shessi:0 "Шесси" #NT!
- ASARI_CHR_TSelvos:0 "Целвос" #NT!
- ASARI_CHR_Nyxessi:0 "Никсесси" #NT!
- ASARI_CHR_Axasia:0 "Аксасия" #NT!
- ASARI_CHR_Selemi:0 "Селеми" #NT!
- ASARI_CHR_Thori:0 "Тори" #NT!
- ASARI_CHR_Jannutora:0 "Jannutora" #NT!
- ASARI_CHR_Daliqua:0 "Даликва" #NT!
- ASARI_CHR_Linnadhiel:0 "Линнадиэль" #NT!
- ASARI_CHR_Shiana:0 "Шиана" #NT!
- ASARI_CHR_DYsera:0 "ДЮсера" #NT!
- ASARI_CHR_DLinaala:0 "DLинаала" #NT!
- ASARI_CHR_Ieora:0 "Иеора" #NT!
- ASARI_CHR_Heis:0 "Он" #NT!
- ASARI_CHR_Jannishi:0 "Jannishi" #NT!
- ASARI_CHR_TDaria:0 "ТДарья" #NT!
- ASARI_CHR_DLinari:0 "DЛинари" #NT!
- ASARI_CHR_Artelis:0 "Артелис" #NT!
- ASARI_CHR_TErsan:0 "Терсан" #NT!
- ASARI_CHR_Velvos:0 "Вельвос" #NT!
- ASARI_CHR_Iallirus:0 "Яллирус" #NT!
- ASARI_CHR_DVeios:0 "DVeios" #NT!
- ASARI_CHR_DNanis:0 "ДНанис" #NT!
- ASARI_CHR_Aveos:0 "Авео" #NT!
- ASARI_CHR_Calese:0 "Калезе" #NT!
- ASARI_CHR_TKevus:0 "ТКевус" #NT!
- ASARI_CHR_Thanorix:0 "Танорикс" #NT!
- ASARI_CHR_Mozea:0 "Мозея" #NT!
- ASARI_CHR_Calido:0 "Калидо" #NT!
- ASARI_CHR_Lijin:0 "Lijin" #NT!
- ASARI_CHR_VMoava:0 "ВМоава" #NT!
- ASARI_CHR_DVeeri:0 "ДВери" #NT!
- ASARI_CHR_MCrylis:0 "Макрилис" #NT!
- ASARI_CHR_TErra:0 "Терра" #NT!
- ASARI_CHR_VMoari:0 "ВМоари" #NT!
- ASARI_CHR_Kysava:0 "Кисава" #NT!
- ASARI_CHR_Sesi:0 "Сеси" #NT!
- ASARI_CHR_Pesalis:0 "Песалис" #NT!
- ASARI_CHR_Beyma:0 "Бейма" #NT!
- ASARI_CHR_Ievo:0 "Иево" #NT!
- ASARI_CHR_Leius:0 "Лейус" #NT!
- ASARI_CHR_DKyve:0 "ДКиве" #NT!
- ASARI_CHR_TDalis:0 "Тдалис" #NT!
- ASARI_CHR_TKefi:0 "ТКефи" #NT!
- ASARI_CHR_Edaburo:0 "Edaburo" #NT!
- ASARI_CHR_TVeius:0 "ТВейус" #NT!
- ASARI_CHR_Januci:0 "Джануци" #NT!
- ASARI_CHR_Murala:0 "Мурала" #NT!
- ASARI_CHR_Maifi:0 "Майфи" #NT!
- ASARI_CHR_Thanoni:0 "Танони" #NT!
- ASARI_CHR_Leyne:0 "Лейн" #NT!
- ASARI_CHR_Skaro:0 "Скаро" #NT!
- ASARI_CHR_Corliara:0 "Корлиара" #NT!
- ASARI_CHR_MJadri:0 "МДжадри" #NT!
- ASARI_CHR_Atelas:0 "Ателас" #NT!
- ASARI_CHR_Jannici:0 "Янничи" #NT!
- ASARI_CHR_Nosava:0 "Носава" #NT!
- ASARI_CHR_Shiora:0 "Shiora" #NT!
- ASARI_CHR_VNaari:0 "ВНаари" #NT!
- ASARI_CHR_MTaus:0 "МТаус" #NT!
- ASARI_CHR_TDoburo:0 "TDoburo" #NT!
- ASARI_CHR_TZejin:0 "ТЗеджин" #NT!
- ASARI_CHR_TSaqua:0 "ТСакуа" #NT!
- ASARI_CHR_TZeala:0 "TZeala" #NT!
- ASARI_CHR_Hetis:0 "Хетис" #NT!
- ASARI_CHR_Conijin:0 "Кониджин" #NT!
- ASARI_CHR_Sederos:0 "Седерос" #NT!
- ASARI_CHR_Conius:0 "Кониус" #NT!
- ASARI_CHR_MJaala:0 "Мьяала" #NT!
- ASARI_CHR_DLanus:0 "ДЛанус" #NT!
- ASARI_CHR_Murix:0 "Мурикс" #NT!
- ASARI_CHR_Thaius:0 "Тайус" #NT!
- ASARI_CHR_Sarev:0 "Сарев" #NT!
- ASARI_CHR_MTato:0 "Мтато" #NT!
- ASARI_CHR_Besir:0 "Бесир" #NT!
- ASARI_CHR_Vaana:0 "Ваана" #NT!
- ASARI_CHR_Mereva:0 "Мерева" #NT!
- ASARI_CHR_MLoyma:0 "МЛойма" #NT!
- ASARI_CHR_Minus:0 "Минус" #NT!
- ASARI_CHR_MJarev:0 "МЯрев" #NT!
- ASARI_CHR_Corlisus:0 "Корлис" #NT!
- ASARI_CHR_Pesaeri:0 "Пезаэри" #NT!
- ASARI_CHR_Caliara:0 "Калиара" #NT!
- ASARI_CHR_Heliis:0 "Хелиис" #NT!
- ASARI_CHR_DCorina:0 "Корина" #NT!
- ASARI_CHR_Corlisir:0 "Корлисир" #NT!
- ASARI_CHR_DKyala:0 "ДКьяла" #NT!
- ASARI_CHR_TLorus:0 "ТЛорус" #NT!
- ASARI_CHR_TScafi:0 "TScafi" #NT!
- ASARI_CHR_MKyarus:0 "МКярус" #NT!
- ASARI_CHR_Mainus:0 "Майнус" #NT!
- ASARI_CHR_DAala:0 "ДАала" #NT!
- ASARI_CHR_Caliala:0 "Калиала" #NT!
- ASARI_CHR_Myrazea:0 "Миразия" #NT!
- ASARI_CHR_Caleci:0 "Калечи" #NT!
- ASARI_CHR_Ateava:0 "Атеава" #NT!
- ASARI_CHR_Lius:0 "Люс" #NT!
- ASARI_CHR_DLinaros:0 "Линарос" #NT!
- ASARI_CHR_TVeza:0 "ТВеза" #NT!
- ASARI_CHR_TSari:0 "Цари" #NT!
- ASARI_CHR_TDoza:0 "ТДоза" #NT!
- ASARI_CHR_TSose:0 "TSose" #NT!
- ASARI_CHR_MDotis:0 "МДотис" #NT!
- ASARI_CHR_TRaozea:0 "ТРаозея" #NT!
- ASARI_CHR_TKeli:0 "ТКели" #NT!
- ASARI_CHR_Arteli:0 "Артели" #NT!
- ASARI_CHR_Vate:0 "Вейт" #NT!
- ASARI_CHR_Iessaus:0 "Исаус" #NT!
- ASARI_CHR_DVedo:0 "ДВедо" #NT!
- ASARI_CHR_DLaeri:0 "ДЛаери" #NT!
- ASARI_CHR_TScasan:0 "ТСкасан" #NT!
- ASARI_CHR_DLinaqua:0 "DLinaqua" #NT!
- ASARI_CHR_TNaora:0 "ТНаора" #NT!
- ASARI_CHR_TEssan:0 "Тэссан" #NT!
- ASARI_CHR_Vanis:0 "Ванис" #NT!
- ASARI_CHR_DAsi:0 "ДАси" #NT!
- ASARI_CHR_Liro:0 "Лиро" #NT!
- ASARI_CHR_Tloci:0 "Тлочи" #NT!
- ASARI_CHR_DAlas:0 "Далас" #NT!
- ASARI_CHR_TDove:0 "TDove" #NT!
- ASARI_CHR_TDosava:0 "ТДосава" #NT!
- ASARI_CHR_Artesir:0 "Артезир" #NT!
- ASARI_CHR_TNeli:0 "Т.Нели" #NT!
- ASARI_CHR_MLodri:0 "МЛодри" #NT!
- ASARI_CHR_Losir:0 "Лосир" #NT!
- ASARI_CHR_Sesava:0 "Сесава" #NT!
- ASARI_CHR_Sara:0 "Сара" #NT!
- ASARI_CHR_Difi:0 "Дифи" #NT!
- ASARI_CHR_TSova:0 "Цова" #NT!
- ASARI_CHR_TReve:0 "ТРив" #NT!
- ASARI_CHR_Louros:0 "Лурос" #NT!
- ASARI_CHR_Damali:0 "Дамали" #NT!
- ASARI_CHR_Theris:0 "Терис" #NT!
- ASARI_CHR_Calis:0 "Калис" #NT!
- ASARI_CHR_Thanoptis:0 "Таноптис" #NT!
- ASARI_CHR_TGoni:0 "ТГони" #NT!
- ASARI_CHR_Nuwani:0 "Нувани" #NT!
- ASARI_CHR_Sederis:0 "Седерис" #NT!
- ASARI_CHR_Iallis:0 "Яллис" #NT!
- ASARI_CHR_VCriria:0 "VCriria" #NT!
- ASARI_CHR_TErtis:0 "Тертис" #NT!
- ASARI_CHR_TRasi:0 "ТРАси" #NT!
- ASARI_CHR_DBieara:0 "ДБиара" #NT!
- ASARI_CHR_Shila:0 "Шила" #NT!
- ASARI_CHR_Henon:0 "Энон" #NT!
- ASARI_CHR_Aridana:0 "Aridana" #NT!
- ASARI_CHR_TPerro:0 "ТПерро" #NT!
- ASARI_CHR_Sanassi:0 "Санасси" #NT!
+  
+ name_list_btr_asari: "Асари"
+ ASARI_SHIP_Coniava: "Коньява"
+ ASARI_SHIP_Varren: "Варрен"
+ ASARI_SHIP_Calatellae: "Калателлы"
+ ASARI_SHIP_Glaenthphea: "Глаэнтфея"
+ ASARI_SHIP_Makeari: "Makeari"
+ ASARI_SHIP_Gena: "Гена"
+ ASARI_SHIP_Janute: "Янут"
+ ASARI_SHIP_Tenurron: "Тенуррон"
+ ASARI_SHIP_Monarch: "монарх"
+ ASARI_SHIP_Elbrus: "Эльбрус"
+ ASARI_SHIP_Azedes: "Азедес"
+ ASARI_SHIP_Ledayma: "Ледайма"
+ ASARI_SHIP_Naucihin: "Научихин"
+ ASARI_SHIP_Matoyma: "Матойма"
+ ASARI_SHIP_Lynira: "Линира"
+ ASARI_SHIP_Jeyx: "Джейкс"
+ ASARI_SHIP_Kynus: "Кинус"
+ ASARI_SHIP_Keska: "Кеска"
+ ASARI_SHIP_Sashirah: "Сашира"
+ ASARI_SHIP_Sais: "Саис"
+ ASARI_SHIP_Hellikse: "Хелликсе"
+ ASARI_SHIP_Makemi: "Макеми"
+ ASARI_SHIP_Noreenley: "Норинли"
+ ASARI_SHIP_Ditriari: "Дитриари"
+ ASARI_SHIP_Salezi: "Салези"
+ ASARI_SHIP_Muari: "Муари"
+ ASARI_SHIP_Morrihin: "Моррихин"
+ ASARI_SHIP_Viissnea: "Вийснеа"
+ ASARI_SHIP_Nyxiir: "Никсир"
+ ASARI_SHIP_Atrueri: "Атруэри"
+ ASARI_SHIP_Alissna: "Алисна"
+ ASARI_SHIP_RiPhiphea: "Рифифея"
+ ASARI_SHIP_Tevessly: "Тевесли"
+ ASARI_SHIP_Mido: "Мидо"
+ ASARI_SHIP_D'Rotora: "Д'Ротора"
+ ASARI_SHIP_Zenrada: "Zenrada"
+ ASARI_SHIP_Kashana: "Кашана"
+ ASARI_SHIP_T'Raos: "Т'Раос"
+ ASARI_SHIP_Geluno: "Гелуно"
+ ASARI_SHIP_M'Kyaci: "М'Кьячи"
+ ASARI_SHIP_Nugaes: "Нугаес"
+ ASARI_SHIP_Caliara: "Калиара"
+ ASARI_SHIP_Samme: "Самме"
+ ASARI_SHIP_Myraix: "Мирикс"
+ ASARI_SHIP_Emakirae: "Эмакира"
+ ASARI_SHIP_Myrerthia: "мирертия"
+ ASARI_SHIP_M'Cryze: "М'Крайз"
+ ASARI_SHIP_Levo: "Лево"
+ ASARI_SHIP_Liburo: "Либуро"
+ ASARI_SHIP_Imelslea: "Имелсли"
+ ASARI_SHIP_Calena: "Калена"
+ ASARI_SHIP_Diavah: "Диава"
+ ASARI_SHIP_Maijin: "Майджин"
+ ASARI_SHIP_Treezu: "Тризу"
+ ASARI_SHIP_Vitire: "Витир"
+ ASARI_SHIP_Erthyny: "Эртини"
+ ASARI_SHIP_Vethase: "Ветасе"
+ ASARI_SHIP_Ditrifi: "Дитрифи"
+ ASARI_SHIP_Isucnea: "Изукнея"
+ ASARI_SHIP_Thanis: "Танис"
+ ASARI_SHIP_Luakiis: "Луакиис"
+ ASARI_SHIP_TSosava: "Цосава"
+ ASARI_SHIP_Zeess: "Зесс"
+ ASARI_SHIP_Giosne: "Джосне"
+ ASARI_SHIP_Shaucsa: "Шауца"
+ ASARI_SHIP_Isunda: "Исунда"
+ ASARI_SHIP_Lere: "Лере"
+ ASARI_SHIP_Elucthea: "Элуктея"
+ ASARI_SHIP_Luollnea: "Луоллнеа"
+ ASARI_SHIP_VTilas: "ВТилас"
+ ASARI_SHIP_Myrali: "Мирали"
+ ASARI_SHIP_Diezira: "Диезира"
+ ASARI_SHIP_Averi: "Авери"
+ ASARI_SHIP_Mereli: "Мерели"
+ ASARI_SHIP_Kaenthus: "Кентус"
+ ASARI_SHIP_Sedeburo: "Sedeburo"
+ ASARI_SHIP_Priovahin: "Приовахин"
+ ASARI_SHIP_Aekaux: "Эко"
+ ASARI_SHIP_Tirequa: "Тирекуа"
+ ASARI_SHIP_Imiztea: "Имизтея"
+ ASARI_SHIP_Iallise: "Яллисе"
+ ASARI_SHIP_Myrizsy: "Миризы"
+ ASARI_SHIP_Ateza: "Атеза"
+ ASARI_SHIP_Prieseta: "Присета"
+ ASARI_SHIP_Driria: "Дририя"
+ ASARI_SHIP_Kafinnea: "Кафиннеа"
+ ASARI_SHIP_Banshees_Wail: "Вой банши"
+ ASARI_SHIP_Alankla: "Аланкла"
+ ASARI_SHIP_Sisters_Aid: "Помощь сестер"
+ ASARI_SHIP_Secana: "Секана"
+ ASARI_SHIP_Leapnai: "Леапнаи"
+ ASARI_SHIP_Atane: "Атане"
+ ASARI_SHIP_Sebane: "Себане"
+ ASARI_SHIP_Eleclae: "Элекла"
+ ASARI_SHIP_Satanna: "Сатанна"
+ ASARI_SHIP_Lipera: "Липера"
+ ASARI_SHIP_Malvaes: "Мальве"
+ ASARI_SHIP_Oseros: "Осерос"
+ ASARI_SHIP_Kiels: "Кильс"
+ ASARI_SHIP_Ceana: "Сеана"
+ ASARI_SHIP_Wisteria: "Глициния"
+ ASARI_SHIP_Palatinate: "Пфальц"
+ ASARI_SHIP_Celeste: "Селеста"
+ ASARI_SHIP_Tiny_Blue_Sun: "Крошечное голубое солнце"
+ ASARI_SHIP_Dream_of_Chalkhos: "Сон о Чалхосе"
+ ASARI_SHIP_Dream_of_Selvos: "Мечта о Селвосе"
+ ASARI_SHIP_Little_Armali: "Маленький Армали"
+ ASARI_SHIP_Azure_Wing: "Лазурное Крыло"
+ ASARI_SHIP_Genedraga: "Генедрага"
+ ASARI_SHIP_Viixnia: "Viixnia"
+ ASARI_SHIP_Nasezimea: "Насезимеа"
+ ASARI_SHIP_Benumna: "Бенумна"
+ ASARI_SHIP_Salezisa: "Салезиса"
+ ASARI_SHIP_Sasosus: "Сасос"
+ ASARI_SHIP_Jeniraya: "Дженирая"
+ ASARI_SHIP_Usovaka: "Усовака"
+ ASARI_SHIP_Ameka: "Амека"
+ ASARI_SHIP_Nirestthia: "Нирестия"
+ ASARI_SHIP_Phoucivi: "Фукиви"
+ ASARI_SHIP_Falassa: "Фаласса"
+ ASARI_SHIP_Linarne: "Линарне"
+ ASARI_SHIP_Zenyrly: "Зенырлы"
+ ASARI_SHIP_Miyadri: "Миядри"
+ ASARI_SHIP_Diekasha: "Diekasha"
+ ASARI_SHIP_Dainaphia: "Дайнафия"
+ ASARI_SHIP_Saseezley: "Сасизли"
+ ASARI_SHIP_Miryxany: "Мириксани"
+ ASARI_SHIP_Carev: "Царев"
+ ASARI_SHIP_Raeltia: "Раэльтия"
+ ASARI_SHIP_Kyus: "Кюс"
+ ASARI_SHIP_Amizra: "Амизра"
+ ASARI_SHIP_Selao: "Селао"
+ ASARI_SHIP_Vonor: "Вонор"
+ ASARI_SHIP_Iessaara: "Иессаара"
+ ASARI_SHIP_Jaedraa: "Джаэдраа"
+ ASARI_SHIP_Cheelo: "Чило"
+ ASARI_SHIP_Moeennea: "Моэннеа"
+ ASARI_SHIP_Aieste: "Айесте"
+ ASARI_SHIP_Zenyr: "Зенир"
+ ASARI_SHIP_Nofreya: "Нофрейя"
+ ASARI_SHIP_Lainthia: "Лаинтия"
+ ASARI_SHIP_Ellimea: "Эллимея"
+ ASARI_SHIP_Desperilla: "Десперилла"
+ ASARI_SHIP_Naclaslite: "Накласлит"
+ ASARI_SHIP_Lipassima: "Липассима"
+ ASARI_SHIP_Somarnille: "Сомарниль"
+ ASARI_SHIP_Boalasma: "Боаласма"
+ ASARI_SHIP_Clairmananda: "Клэрмананда"
+ ASARI_SHIP_Sadaganna: "Садаганна"
+ ASARI_SHIP_Feelpanar: "Филпанар"
+ ASARI_SHIP_Caranna: "Каранна"
+ ASARI_SHIP_Vaktyr: "Вактырь"
+ ASARI_SHIP_Smiling_Matron: "Улыбающаяся Матрона"
+ ASARI_SHIP_Sting: "Стинг"
+ ASARI_SHIP_Lavender: "лаванда"
+ ASARI_SHIP_Flight_of_Indigo: "Полет Индиго"
+ ASARI_SHIP_Little_Wing: "Little Wing"
+ ASARI_SHIP_Hyetianas_Vigilance: "Бдительность Хиетианы"
+ ASARI_SHIP_Tevuras_Hope: "Надежда Тевуры"
+ ASARI_SHIP_Thorn_of_Illium: "Шип Иллиума"
+ ASARI_SHIP_Valeesse: "Валесс"
+ ASARI_SHIP_Niavasa: "Ниаваса"
+ ASARI_SHIP_Kysan: "Кысан"
+ ASARI_SHIP_Luosphea: "Луосфея"
+ ASARI_SHIP_Nososte: "Нососте"
+ ASARI_SHIP_Asixne: "Асиксне"
+ ASARI_SHIP_Normona: "Нормона"
+ ASARI_SHIP_Kasko: "Каско"
+ ASARI_SHIP_Nasyata: "Насьята"
+ ASARI_SHIP_Jishaze: "Jishaze"
+ ASARI_SHIP_Ishyxe: "Ишикс"
+ ASARI_SHIP_Testhyya: "Тестхия"
+ ASARI_SHIP_Riunha: "Riunha"
+ ASARI_SHIP_Cheinais: "Шене"
+ ASARI_SHIP_Moelnea: "Моэлнеа"
+ ASARI_SHIP_Makeran: "Макеран"
+ ASARI_SHIP_Samels: "Самелс"
+ ASARI_SHIP_Janinus: "Янинус"
+ ASARI_SHIP_Josanya: "Джосанья"
+ ASARI_SHIP_Shimmering_Wind: "Мерцающий ветер"
+ ASARI_SHIP_Vollodean: "Воллодейский"
+ ASARI_SHIP_Damparan: "Дампаран"
+ ASARI_SHIP_Errataen: "Эрратаен"
+ ASARI_SHIP_Diplutasse: "Диплутассе"
+ ASARI_SHIP_Elimerre: "Элимерра"
+ ASARI_SHIP_Doslacania: "Дослакания"
+ ASARI_SHIP_Marcaranta: "Маркаранта"
+ ASARI_SHIP_Sorodomo: "Сородомо"
+ ASARI_SHIP_Delcarana: "Делькарана"
+ ASARI_SHIP_Desserima: "Desserima"
+ ASARI_SHIP_Cybaen: "Кибаен"
+ ASARI_SHIP_Thasus: "Тасус"
+ ASARI_SHIP_Saeri: "Саери"
+ ASARI_SHIP_Purple_Mist: "Фиолетовый туман"
+ ASARI_SHIP_Maiden_Voyage: "Первый рейс"
+ ASARI_SHIP_Zaffre_Trail: "Зафре Трейл"
+ ASARI_SHIP_Iris_Moon: "Ирис Мун"
+ ASARI_SHIP_Cyones_Bastion: "Бастион Сионы"
+ ASARI_SHIP_Sister_of_Zesmeni: "Сестра Зесмены"
+ ASARI_SHIP_Wing_of_Agessia: "Крыло Агессии"
+ ASARI_SHIP_Esayna: "Эсайна"
+ ASARI_SHIP_Arithnia: "Аритния"
+ ASARI_SHIP_Atrula: "Атрула"
+ ASARI_SHIP_Dantiyma: "Дантийма"
+ ASARI_SHIP_Sulfinka: "Сульфинка"
+ ASARI_SHIP_Gelarse: "Геларсе"
+ ASARI_SHIP_Veyezsy: "Вейезы"
+ ASARI_SHIP_Ashrizea: "Ашризея"
+ ASARI_SHIP_Nyiss: "Нисс"
+ ASARI_SHIP_Eaulnia: "Юлия"
+ ASARI_SHIP_Usanzia: "Усанзия"
+ ASARI_SHIP_Jalthase: "Джалтасе"
+ ASARI_SHIP_Bei: "Бей"
+ ASARI_SHIP_Liifea: "Лифея"
+ ASARI_SHIP_Iessaix: "Иессикс"
+ ASARI_SHIP_Thanirev: "Танирев"
+ ASARI_SHIP_Halanysy: "Халанысы"
+ ASARI_SHIP_Januava: "Януава"
+ ASARI_SHIP_Kielsze: "Кельше"
+ ASARI_SHIP_Ushizus: "Ушизус"
+ ASARI_SHIP_Telyxphea: "Теликфея"
+ ASARI_SHIP_Lyneesthia: "Линестия"
+ ASARI_SHIP_Eshlersa: "Эшлерса"
+ ASARI_SHIP_Ceryphia: "Церифия"
+ ASARI_SHIP_Seayya: "Сейя"
+ ASARI_SHIP_Aiestzia: "Айестия"
+ ASARI_SHIP_Eaanalea: "Эааналея"
+ ASARI_SHIP_Myxifete: "Миксифета"
+ ASARI_SHIP_Shisi: "Шиси"
+ ASARI_SHIP_Naslike: "Наслике"
+ ASARI_SHIP_Cethyse: "Цетис"
+ ASARI_SHIP_Seunshi: "Сынши"
+ ASARI_SHIP_Kilitea: "Килитея"
+ ASARI_SHIP_Ahlatania: "Ахлатания"
+ ASARI_SHIP_Kydri: "Кидри"
+ ASARI_SHIP_Lysixux: "Лизиксукс"
+ ASARI_SHIP_Calira: "Калира"
+ ASARI_SHIP_Iallilas: "Яллилас"
+ ASARI_SHIP_Myrarix: "мирарикс"
+ ASARI_SHIP_Sashdazea: "Сашдазея"
+ ASARI_SHIP_Rililsha: "Рилилша"
+ ASARI_SHIP_Numyrse: "Нумырсе"
+ ASARI_SHIP_Sarekane: "Сарекане"
+ ASARI_SHIP_Keliylea: "Келийлеа"
+ ASARI_SHIP_Selixha: "Селикса"
+ ASARI_SHIP_Shieseus: "Шизеус"
+ ASARI_SHIP_Ishtharae: "Иштхары"
+ ASARI_SHIP_Eshlita: "Эшлита"
+ ASARI_SHIP_Benezia: "Бенезия"
+ ASARI_SHIP_Maeolpan_TElechi: "Маэолпан Телечи"
+ ASARI_SHIP_Dlipaeli: "Длипаэли"
+ ASARI_SHIP_Tassaranka: "Тассаранка"
+ ASARI_SHIP_Deliclarme: "Деликварм"
+ ASARI_SHIP_Daeglarimman_Tsu: "Дэгларимман Цу"
+ ASARI_SHIP_Borosmora_T'Echeti: "Боросмора Т'Эчети"
+ ASARI_SHIP_Clormoro: "Клорморо"
+ ASARI_SHIP_Milla_TAsana: "Милла Т'Асана"
+ ASARI_SHIP_Ardat_Yakshis_Kiss: "Ардат Якшис Поцелуй"
+ ASARI_SHIP_Sovereigns_Warning: "Предупреждение Суверена"
+ ASARI_SHIP_Harbingers_Wrath: "Гнев Предвестника"
+ ASARI_SHIP_Matriarchs_Sacrifice: "Жертвоприношение матриархов"
+ ASARI_SHIP_Matriarchs_Wish: "желание матриархов"
+ ASARI_SHIP_Goddess_Flail: "Богиня Цеп"
+ ASARI_SHIP_Keeki_TBetai: "Keeki T'Betai"
+ ASARI_SHIP_Perfection_Dominant: "Совершенство Доминант"
+ ASARI_SHIP_Miracle_Infinity: "Чудо Бесконечности"
+ ASARI_SHIP_Eternity_Immaculate: "Вечность Непорочная"
+ ASARI_SHIP_Future_Transcendent: "Будущее Трансцендентное"
+ ASARI_SHIP_Majesty_Sublime: "Величество Возвышенное"
+ ASARI_SHIP_Destiny_Ascension: "Судьба Вознесения"
+ ASARI_SHIP_Awakening_Symphony: "Пробуждение Симфония"
+ ASARI_SHIP_Omniscient_Infinite: "Всеведущий Бесконечный"
+ ASARI_SHIP_Millennium_Dawn: "Рассвет тысячелетия"
+ ASARI_SHIP_Eternity_Vigilance: "Вечная бдительность"
+ ASARI_SHIP_Halcyon_Promise: "Безмятежное обещание"
+ ASARI_SHIP_Sallizea: "Саллизеа"
+ ASARI_SHIP_Seis: "Сейс"
+ ASARI_SHIP_Nyelsthea: "Нильстея"
+ ASARI_SHIP_Melyt: "Мелит"
+ ASARI_SHIP_Chaoraley: "Чаоралей"
+ ASARI_SHIP_Drisir: "Дрисир"
+ ASARI_SHIP_Emetu: "Эмету"
+ ASARI_SHIP_Rava: "Рава"
+ ASARI_SHIP_Lysithus: "Лизиф"
+ ASARI_SHIP_Callamaen: "Калламаен"
+ ASARI_SHIP_Laevamimu: "Лаевамиму"
+ ASARI_SHIP_Illapan: "Иллапан"
+ ASARI_SHIP_Elicara_Mululina: "Эликара Мулулина"
+ ASARI_SHIP_Cerulean_Star: "Лазурная звезда"
+ ASARI_SHIP_Isasa: "Исаса"
+ ASARI_SHIP_Lysollta: "Лизолта"
+ ASARI_SHIP_Dantivo: "Дантиво"
+ ASARI_SHIP_Isli: "Исли"
+ ASARI_SHIP_Talorata: "Талората"
+ ASARI_SHIP_Athame: "Атам"
+ ASARI_SHIP_Illiumithea: "Иллиумитея"
+ ASARI_SHIP_Distant_Hope: "Далекая надежда"
+ ASARI_SHIP_Lil_Sister: "маленькая сестра"
+ ASARI_SHIP_Fhealcantae: "Фхилканте"
+ ASARI_SHIP_Ula_Snakla: "Ула Снакла"
+ ASARI_SHIP_Elinominol: "Элиноминол"
+ ASARI_SHIP_Matrons_Chance: "Шанс Матроны"
+ ASARI_SHIP_Zamallaet: "Замаллает"
+ ASARI_SHIP_Murali: "Мурали"
+ ASARI_SHIP_Siyxe: "Сийкс"
+ ASARI_SHIP_Tesina: "Тесина"
+ ASARI_SHIP_MTaeri: "МТаэри"
+ ASARI_SHIP_Shiife: "Шифе"
+ ASARI_SHIP_Rilesee: "Рилези"
+ ASARI_SHIP_VCrilis: "ВКрилис"
+ ASARI_SHIP_Falyxethea: "Фаликсетея"
+ ASARI_SHIP_Diburo: "Дибуро"
+ ASARI_SHIP_Kiises: "Кийсес"
+ ASARI_SHIP_Arterev: "Артерев"
+ ASARI_SHIP_Myirania: "Myirania"
+ ASARI_SHIP_Niryrus: "Нирирус"
+ ASARI_SHIP_Myvo: "Мыво"
+ ASARI_SHIP_Xaesux: "Ксесукс"
+ ASARI_SHIP_Zeeezthia: "Зизтия"
+ ASARI_SHIP_Ceees: "Сеис"
+ ASARI_SHIP_Lisissmia: "Лиссемия"
+ ASARI_SHIP_Kilikmey: "Киликмей"
+ ASARI_SHIP_IshYaa: "ИшЯа"
+ ASARI_SHIP_Kesthyze: "Кестиз"
+ ASARI_SHIP_LinLinia: "LinLinia"
+ ASARI_SHIP_Gaqua: "Гакуа"
+ ASARI_SHIP_Nyira: "Ниира"
+ ASARI_SHIP_Pralyt: "Пралит"
+ ASARI_SHIP_Iroraux: "Ироро"
+ ASARI_SHIP_Seyma: "Сейма"
+ ASARI_SHIP_Revinatea: "Ревинатея"
+ ASARI_SHIP_KinSha: "КинШа"
+ ASARI_SHIP_Raci: "Раси"
+ ASARI_SHIP_Unayly: "Унайлы"
+ ASARI_SHIP_Sanariir: "Санариир"
+ ASARI_SHIP_Priiaga: "Прияга"
+ ASARI_SHIP_Ateava: "Атеава"
+ ASARI_SHIP_Dayrtia: "Дайртия"
+ ASARI_SHIP_Nisenth: "Низент"
+ ASARI_SHIP_Norrinia: "Норриния"
+ ASARI_SHIP_Atenus: "Атенус"
+ ASARI_SHIP_Unraux: "Унро"
+ ASARI_SHIP_Irlik: "Ирлик"
+ ASARI_SHIP_Atezea: "Атезия"
+ ASARI_SHIP_Asey: "Асей"
+ ASARI_SHIP_Estharae: "Эстары"
+ ASARI_SHIP_Janniran: "Джанниран"
+ ASARI_SHIP_Lucedrasha: "Лучедраша"
+ ASARI_SHIP_Surime: "Surime"
+ ASARI_SHIP_Letilse: "Летилсе"
+ ASARI_SHIP_Nulekaha: "Нулекаха"
+ ASARI_SHIP_Iessaze: "Иессазе"
+ ASARI_SHIP_Daliala: "Далиала"
+ ASARI_SHIP_Arshase: "Аршас"
+ ASARI_SHIP_Salmo: "Салмо"
+ ASARI_SHIP_Seyellshi: "Сейеллши"
+ ASARI_SHIP_Gaor: "Гаор"
+ ASARI_SHIP_Aniyux: "Aniyux"
+ ASARI_SHIP_Tevorly: "Теворлы"
+ ASARI_SHIP_Iessaor: "Иессаор"
+ ASARI_SHIP_Diessse: "Диссе"
+ ASARI_SHIP_Sedeeri: "Седери"
+ ASARI_SHIP_Geninphia: "Генинфия"
+ ASARI_SHIP_Liseesrae: "Liseesrae"
+ ASARI_SHIP_Helili: "Хелили"
+ ASARI_SHIP_Salyxaa: "Саликсаа"
+ ASARI_SHIP_Eminaya: "Эминая"
+ ASARI_SHIP_Atruve: "Атруве"
+ ASARI_SHIP_Salitho: "Салито"
+ ASARI_SHIP_Elezme: "Элезме"
+ ASARI_SHIP_Tevmetia: "Тевметия"
+ ASARI_SHIP_Chaumhin: "Чаумхин"
+ ASARI_SHIP_Kysi: "Кыси"
+ ASARI_SHIP_Telithmia: "Телитмия"
+ ASARI_SHIP_Lenoramey: "Ленорами"
+ ASARI_SHIP_Ionessa: "Ионесса"
+ ASARI_FLEET_Shimmering: "Мерцающий"
+ ASARI_FLEET_Pleechian_Fleet: "Плечианский флот"
+ ASARI_FLEET_Gladampal_Fleet: "Гладампальский флот"
+ ASARI_FLEET_Ypmadanr_Fleet: "Ипмаданский флот"
+ ASARI_FLEET_Altlantar_Fleet: "Альтлантарский флот"
+ ASARI_FLEET_Dark_Zapphire_Fleet: "Темный заапфировый флот"
+ ASARI_FLEET_Eaucphia_Fleet: "Эвкфийский флот"
+ ASARI_FLEET_Ceithmey_Fleet: "Кейтми Флот"
+ ASARI_FLEET_Dantinis_Fleet: "Флот Дантиниса"
+ ASARI_FLEET_Lueynea_Fleet: "Луейнский флот"
+ ASARI_FLEET_Letuntia_Fleet: "Флот Летунции"
+ ASARI_FLEET_Varren_Fleet: "Варрен Флит"
+ ASARI_FLEET_Banshee_Fleet: "Банши флот"
+ ASARI_FLEET_Tariraka_Fleet: "Флот Тарирака"
+ ASARI_FLEET_Esesttea_Fleet: "Эсесттеа Флот"
+ ASARI_FLEET_Shiell_Fleet: "Шил Флит"
+ ASARI_FLEET_Eshfines_Fleet: "Эшфинский флот"
+ ASARI_FLEET_Siorne_Fleet: "Сиорн Флит"
+ ASARI_FLEET_Shiiao_Fleet: "Флот Шияо"
+ ASARI_FLEET_Ceriphia_Fleet: "Церифийский флот"
+ ASARI_xxFLEET_ORD: "$O$ Fleet_ORD"
+ ASARI_xxHuntress_Garrison_ORD: "$O$ Охотница_Гарнизон_ORD"
+ ASARI_xxCommando_Squad_ORD: "$O$ Commando_Squad_ORD"
+ ASARI_xxIndentured_Vanguard_ORD: "$O$ Indentured_Vanguard_ORD"
+ ASARI_xxThorian_Synthesis_ORD: "$O$ Ториан_Синтез_ORD"
+ ASARI_xxVI_Assault_Mechs_ORD: "$O$ VI_Assault_Mechs_ORD"
+ ASARI_xxVI_Security_Mechs_ORD: "$O$ VI_Security_Mechs_ORD"
+ ASARI_xxAscendants_ORD: "$O$ Восходящие_ORD"
+ ASARI_xxBanshee_Project_ORD: "$O$ Банши_Проект_ORD"
+ ASARI_xxBlack_Widows_ORD: "$O$ Black_Widows_ORD"
+ ASARI_CHR_Tela: "Тела"
+ ASARI_CHR_Liara: "Лиара"
+ ASARI_CHR_Nassana: "Нассана"
+ ASARI_CHR_Lymea: "Лаймея"
+ ASARI_CHR_Kesithta: "Кеситта"
+ ASARI_CHR_Chailha: "Чайла"
+ ASARI_CHR_Pheiyus: "Фейюс"
+ ASARI_CHR_Moenia: "Моения"
+ ASARI_CHR_Veyraze: "Вейразе"
+ ASARI_CHR_Noneme: "Нонеме"
+ ASARI_CHR_Maarika: "Маарика"
+ ASARI_CHR_Moyna: "Мойна"
+ ASARI_CHR_Lidanya: "Лиданья"
+ ASARI_CHR_Benezia: "Бенезия"
+ ASARI_CHR_Ellia: "Эллия"
+ ASARI_CHR_Aria: "Ария"
+ ASARI_CHR_Beessa: "Бесса"
+ ASARI_CHR_Morinth: "Моринт"
+ ASARI_CHR_Shaira: "Шайра"
+ ASARI_CHR_Suesa: "Суэза"
+ ASARI_CHR_Horite: "Хорит"
+ ASARI_CHR_Lidakinia: "Лидакиния"
+ ASARI_CHR_Gelanytea: "Геланитея"
+ ASARI_CHR_Beunia: "Беуния"
+ ASARI_CHR_Arizka: "Аризона"
+ ASARI_CHR_Liezi: "Liezi"
+ ASARI_CHR_Teunny: "Тонни"
+ ASARI_CHR_Elyaphea: "Элиафея"
+ ASARI_CHR_Rilyshi: "Рилыши"
+ ASARI_CHR_Riulla: "Рилыши"
+ ASARI_CHR_Falyna: "Фалина"
+ ASARI_CHR_Liria: "Лирия"
+ ASARI_CHR_Elana: "Элана"
+ ASARI_CHR_Alria: "Альрия"
+ ASARI_CHR_Raria: "Рария"
+ ASARI_CHR_Raana: "Раана"
+ ASARI_CHR_Irvos: "Ирвос"
+ ASARI_CHR_Ishta: "Ишта"
+ ASARI_CHR_Irlia: "Ирлия"
+ ASARI_CHR_Eldata: "Эльдата"
+ ASARI_CHR_Lymucily: "лимуцилы"
+ ASARI_CHR_Teilvi: "Тейлви"
+ ASARI_CHR_Kelorair: "Келорайр"
+ ASARI_CHR_Lidiramey: "Лидирамей"
+ ASARI_CHR_Aethyta: "Этита"
+ ASARI_CHR_Samara: "Самара"
+ ASARI_CHR_Ceyxe: "Сейкс"
+ ASARI_CHR_Falere: "Фалере"
+ ASARI_CHR_Arana: "Арана"
+ ASARI_CHR_Elria: "Элрия"
+ ASARI_CHR_Arlis: "Арлис"
+ ASARI_CHR_Favos: "Избранное"
+ ASARI_CHR_Faria: "Фариа"
+ ASARI_CHR_Daana: "Даана"
+ ASARI_CHR_Alenia: "Аления"
+ ASARI_CHR_Daria: "Дарья"
+ ASARI_CHR_Rylyna: "Рылина"
+ ASARI_CHR_Liessa: "Лиесса"
+ ASARI_CHR_Bezia: "Безия"
+ ASARI_CHR_Belyna: "Белина"
+ ASARI_CHR_Alvos: "Альвос"
+ ASARI_CHR_Nilyna: "Нилина"
+ ASARI_CHR_Irlyna: "Ирлина"
+ ASARI_CHR_Dayna: "Дайна"
+ ASARI_CHR_Raava: "Раава"
+ ASARI_CHR_Saphyria: "Раава"
+ ASARI_CHR_Moria: "Мория"
+ ASARI_CHR_Ralia: "Ралия"
+ ASARI_CHR_Raessa: "Раесса"
+ ASARI_CHR_Ella: "Элла"
+ ASARI_CHR_Dalia: "Далия"
+ ASARI_CHR_Liyna: "Лийна"
+ ASARI_CHR_Alla: "Алла"
+ ASARI_CHR_Ryzia: "Рызия"
+ ASARI_CHR_Allia: "Аллия"
+ ASARI_CHR_Irenia: "Irenia"
+ ASARI_CHR_Beria: "Берия"
+ ASARI_CHR_Faana: "Фаана"
+ ASARI_CHR_Ryvos: "Ривос"
+ ASARI_CHR_Allyna: "Аллина"
+ ASARI_CHR_Glari: "Глари"
+ ASARI_CHR_Careena: "Карина"
+ ASARI_CHR_Letiratia: "Летиратия"
+ ASARI_CHR_Cheinaphia: "Чинафия"
+ ASARI_CHR_Mielsnea: "Мильснеа"
+ ASARI_CHR_Aian: "Аян"
+ ASARI_CHR_Rield: "Риелд"
+ ASARI_CHR_Vonedrane: "Вонедран"
+ ASARI_CHR_Asellis: "Аселлис"
+ ASARI_CHR_Anerae: "Anerae"
+ ASARI_CHR_Valixra: "Валиксра"
+ ASARI_CHR_Seleseta: "Селесета"
+ ASARI_CHR_Nuleldsy: "Нулелдсы"
+ ASARI_CHR_Kashthate: "Каштхатэ"
+ ASARI_CHR_Moisha: "Мойша"
+ ASARI_CHR_Noreezis: "Норизис"
+ ASARI_CHR_Nyxthao: "Никтао"
+ ASARI_CHR_Siollhin: "Сиоллхин"
+ ASARI_CHR_Maymo: "Мэймо"
+ ASARI_CHR_Arrany: "Аррани"
+ ASARI_CHR_Valorah: "Валора"
+ ASARI_CHR_Mirass: "Мирасс"
+ ASARI_CHR_Diovamia: "Диовамия"
+ ASARI_CHR_Beollphia: "Беллфия"
+ ASARI_CHR_Janithma: "Джанитма"
+ ASARI_CHR_Xanonea: "Ксанонея"
+ ASARI_CHR_Gieezna: "Гиезна"
+ ASARI_CHR_Eriznea: "Эризнеа"
+ ASARI_CHR_Zeezh: "Зиз"
+ ASARI_CHR_Halesephea: "Халесефея"
+ ASARI_CHR_Helell: "Хелелл"
+ ASARI_CHR_Holisska: "Голисска"
+ ASARI_CHR_Benixte: "Беникст"
+ ASARI_CHR_Umulmia: "Умульмия"
+ ASARI_CHR_Aierma: "Aierma"
+ ASARI_CHR_Diollya: "Диолля"
+ ASARI_CHR_Revelme: "Ревельме"
+ ASARI_CHR_Seintea: "Сейнтеа"
+ ASARI_CHR_Numerma: "Нумерма"
+ ASARI_CHR_Sashyrny: "Саширный"
+ ASARI_CHR_Laariux: "Лариукс"
+ ASARI_CHR_Ushrashi: "Ушраши"
+ ASARI_CHR_Kashissu: "Kashissu"
+ ASARI_CHR_Veyneme: "Вейнеме"
+ ASARI_CHR_Dayxeis: "Дайксейс"
+ ASARI_CHR_Giarmia: "Джармиа"
+ ASARI_CHR_Laiania: "Лайания"
+ ASARI_CHR_Denania: "Денания"
+ ASARI_CHR_Silikme: "Силикме"
+ ASARI_CHR_Jalritea: "Джалритея"
+ ASARI_CHR_Seyarly: "Сейарли"
+ ASARI_CHR_Varatia: "Варатья"
+ ASARI_CHR_Nosthyh: "Ностых"
+ ASARI_CHR_Ranlita: "Ранлита"
+ ASARI_CHR_Gelorao: "Gelorao"
+ ASARI_CHR_Hekoa: "Хекоа"
+ ASARI_CHR_Chaeldthia: "Халдтия"
+ ASARI_CHR_Geeka: "Гика"
+ ASARI_CHR_Seyucny: "Сеючный"
+ ASARI_CHR_Kaliss: "Калисс"
+ ASARI_CHR_Keslithia: "Кеслития"
+ ASARI_CHR_Raari: "Раари"
+ ASARI_CHR_Ushakina: "Ушакина"
+ ASARI_CHR_Zeestse: "Зеестсе"
+ ASARI_CHR_Lysakida: "Лисакида"
+ ASARI_CHR_Helies: "Он лжет"
+ ASARI_CHR_Nasyr: "Насыр"
+ ASARI_CHR_Eaansha: "Эаанша"
+ ASARI_CHR_Selollphia: "Селолфия"
+ ASARI_CHR_Shiunta: "Shiunta"
+ ASARI_CHR_Pelessaria: "Пелессария"
+ ASARI_CHR_Nasraphea: "Насрафея"
+ ASARI_CHR_Immeux: "Иммё"
+ ASARI_CHR_Lerilia: "Лерилия"
+ ASARI_CHR_Sheass: "Шиас"
+ ASARI_CHR_Leirmia: "Лейрмия"
+ ASARI_CHR_Lidkothea: "Лидкотея"
+ ASARI_CHR_Lysayvi: "Лысайви"
+ ASARI_CHR_Sasharie: "Сашари"
+ ASARI_CHR_Glaanyga: "Гланыга"
+ ASARI_CHR_Eriany: "Эриани"
+ ASARI_CHR_Luucize: "Люцизе"
+ ASARI_CHR_Hiucihin: "Хиучихин"
+ ASARI_CHR_Keellka: "Келлка"
+ ASARI_CHR_Nyiss: "Нисс"
+ ASARI_CHR_Liifea: "Лифея"
+ ASARI_CHR_Tarith: "Тарит"
+ ASARI_CHR_Lidey: "Лидей"
+ ASARI_CHR_Zelestta: "Зелеста"
+ ASARI_CHR_Nyxifsy: "Никифси"
+ ASARI_CHR_Phayxena: "Файксена"
+ ASARI_CHR_Ishyxe: "Ишикс"
+ ASARI_CHR_Cheinais: "Шене"
+ ASARI_CHR_Testhyya: "Тестхия"
+ ASARI_CHR_Linarne: "Линарне"
+ ASARI_CHR_Nirestthia: "Нирестия"
+ ASARI_CHR_Salezisa: "Салезиса"
+ ASARI_CHR_Ishinathea: "Ишинатея"
+ ASARI_CHR_Sueziux: "Суэзю"
+ ASARI_CHR_Kinana: "Кинана"
+ ASARI_CHR_Aarya: "Арья"
+ ASARI_CHR_Aiucithia: "Аюкифия"
+ ASARI_CHR_Nisfinzea: "Нисфинзея"
+ ASARI_CHR_Numarvsha: "Нумарвша"
+ ASARI_CHR_Alissha: "Alissha"
+ ASARI_CHR_Lisliphea: "Лислифея"
+ ASARI_CHR_Elucthea: "Элуктея"
+ ASARI_CHR_Nietsa: "Ница"
+ ASARI_CHR_Ashenth: "Эшент"
+ ASARI_CHR_Ashrizea: "Ашризея"
+ ASARI_CHR_Aalya: "Алия"
+ ASARI_CHR_Lisme: "Лисме"
+ ASARI_CHR_Seylertia: "Сейлертия"
+ ASARI_CHR_Falirya: "Фалирия"
+ ASARI_CHR_Lucyxthia: "Люцикстия"
+ ASARI_CHR_Sarra: "Сарра"
+ ASARI_CHR_Lymithda: "Лимитда"
+ ASARI_CHR_Shalira: "Шалира"
+ ASARI_CHR_Visenthlea: "Визентлея"
+ ASARI_CHR_Esheesmia: "Эшисмия"
+ ASARI_CHR_Teisse: "Тейсс"
+ ASARI_CHR_Voneesthea: "Вонеестея"
+ ASARI_CHR_Saliysha: "Салийша"
+ ASARI_CHR_Viartea: "Виартеа"
+ ASARI_CHR_Eshilphea: "Эшилфея"
+ ASARI_CHR_Chaintia: "Чайнтия"
+ ASARI_CHR_Enine: "Энине"
+ ASARI_CHR_Kaelya: "Каэля"
+ ASARI_CHR_Lyiss: "Лисс"
+ ASARI_CHR_Erlyse: "Эрлиз"
+ ASARI_CHR_Limryis: "Лимрис"
+ ASARI_CHR_Pheeymea: "Фимеа"
+ ASARI_CHR_Lynormea: "Линормея"
+ ASARI_CHR_Nyedralea: "Ньедралеа"
+ ASARI_CHR_Nisiysha: "Нисийша"
+ ASARI_CHR_Faliyha: "Фалия"
+ ASARI_CHR_Esifee: "Эсифи"
+ ASARI_CHR_Umi: "Уми"
+ ASARI_CHR_Liselle: "Лизель"
+ ASARI_CHR_Rana: "Рана"
+ ASARI_CHR_Irissa: "Ирисса"
+ ASARI_CHR_Shiala: "Шиала"
+ ASARI_CHR_Dahlia: "георгин"
+ ASARI_CHR_Aleena: "Алена"
+ ASARI_CHR_Nyrih: "Нырих"
+ ASARI_CHR_Nyara: "Ньяра"
+ ASARI_CHR_Karya: "Карья"
+ ASARI_CHR_Sameyna: "Самейна"
+ ASARI_CHR_Ceellya: "Целлия"
+ ASARI_CHR_Lininya: "Лининья"
+ ASARI_CHR_Sheakizia: "Шеакизия"
+ ASARI_CHR_Moriyshi: "Moriyshi"
+ ASARI_CHR_Ceanylia: "Сеанилия"
+ ASARI_CHR_Tethys: "Тетис"
+ ASARI_CHR_Ishara: "Ишара"
+ ASARI_CHR_Vederia: "Ведерия"
+ ASARI_CHR_Sarissa: "Сарисса"
+ ASARI_CHR_Wasea: "Васеа"
+ ASARI_CHR_Enyala: "Эньяла"
+ ASARI_CHR_Nyxeris: "Никсерис"
+ ASARI_CHR_Dilinaga: "Дилинага"
+ ASARI_CHR_Batha: "Бата"
+ ASARI_CHR_Mallene: "Маллен"
+ ASARI_CHR_Aeian: "Эиан"
+ ASARI_CHR_Treeya: "Трия"
+ ASARI_CHR_Rila: "Рила"
+ ASARI_CHR_Alestia: "Алестия"
+ ASARI_CHR_Tristana: "Тристана"
+ ASARI_CHR_Jona: "Йона"
+ ASARI_CHR_Leynomi: "Лейноми"
+ ASARI_CHR_Lexi: "Лекси"
+ ASARI_CHR_Anaya: "Анайя"
+ ASARI_CHR_Deleia: "Делея"
+ ASARI_CHR_Nelyna: "Нелина"
+ ASARI_CHR_Kalinda: "Калинда"
+ ASARI_CHR_Hermia: "Гермия"
+ ASARI_CHR_Elnora: "Эльнора"
+ ASARI_CHR_Ereba: "Эреба"
+ ASARI_CHR_Erinya: "Эринья"
+ ASARI_CHR_Kurin: "Курин"
+ ASARI_CHR_Kian: "Киан"
+ ASARI_CHR_Rialla: "Риалла"
+ ASARI_CHR_Valenza: "Валенца"
+ ASARI_CHR_Kalia: "Калия"
+ ASARI_CHR_Janae: "Джанаэ"
+ ASARI_CHR_Nisira: "Нисира"
+ ASARI_CHR_Phora: "Фора"
+ ASARI_CHR_Corlisi: "Corlisi"
+ ASARI_CHR_Dantius: "Дантиус"
+ ASARI_CHR_Regos: "Регос"
+ ASARI_CHR_Nyxasia: "Никсасия"
+ ASARI_CHR_Selura: "Селура"
+ ASARI_CHR_Axura: "Аксура"
+ ASARI_CHR_Veya: "Вейя"
+ ASARI_CHR_TLyria: "TLyria"
+ ASARI_CHR_Sheya: "Шейя"
+ ASARI_CHR_Axyria: "Аксирия"
+ ASARI_CHR_Iremi: "Иреми"
+ ASARI_CHR_Sheuss: "Шейсс"
+ ASARI_CHR_Stoni: "Стони"
+ ASARI_CHR_TLura: "TLura"
+ ASARI_CHR_Vasir: "Васир"
+ ASARI_CHR_TSoni: "Цони"
+ ASARI_CHR_TLoak: "TLoak"
+ ASARI_CHR_Ralas: "Ралас"
+ ASARI_CHR_BSayle: "BSayle"
+ ASARI_CHR_Stani: "Стани"
+ ASARI_CHR_Veuss: "Веус"
+ ASARI_CHR_Teya: "Тея"
+ ASARI_CHR_Banni: "Банни"
+ ASARI_CHR_Ressi: "Ресси"
+ ASARI_CHR_TSani: "Цани"
+ ASARI_CHR_Thessi: "Тесси"
+ ASARI_CHR_Shessi: "Шесси"
+ ASARI_CHR_TSelvos: "Целвос"
+ ASARI_CHR_Nyxessi: "Никсесси"
+ ASARI_CHR_Axasia: "Аксасия"
+ ASARI_CHR_Selemi: "Селеми"
+ ASARI_CHR_Thori: "Тори"
+ ASARI_CHR_Jannutora: "Jannutora"
+ ASARI_CHR_Daliqua: "Даликва"
+ ASARI_CHR_Linnadhiel: "Линнадиэль"
+ ASARI_CHR_Shiana: "Шиана"
+ ASARI_CHR_DYsera: "ДЮсера"
+ ASARI_CHR_DLinaala: "DLинаала"
+ ASARI_CHR_Ieora: "Иеора"
+ ASARI_CHR_Heis: "Он"
+ ASARI_CHR_Jannishi: "Jannishi"
+ ASARI_CHR_TDaria: "ТДарья"
+ ASARI_CHR_DLinari: "DЛинари"
+ ASARI_CHR_Artelis: "Артелис"
+ ASARI_CHR_TErsan: "Терсан"
+ ASARI_CHR_Velvos: "Вельвос"
+ ASARI_CHR_Iallirus: "Яллирус"
+ ASARI_CHR_DVeios: "DVeios"
+ ASARI_CHR_DNanis: "ДНанис"
+ ASARI_CHR_Aveos: "Авео"
+ ASARI_CHR_Calese: "Калезе"
+ ASARI_CHR_TKevus: "ТКевус"
+ ASARI_CHR_Thanorix: "Танорикс"
+ ASARI_CHR_Mozea: "Мозея"
+ ASARI_CHR_Calido: "Калидо"
+ ASARI_CHR_Lijin: "Lijin"
+ ASARI_CHR_VMoava: "ВМоава"
+ ASARI_CHR_DVeeri: "ДВери"
+ ASARI_CHR_MCrylis: "Макрилис"
+ ASARI_CHR_TErra: "Терра"
+ ASARI_CHR_VMoari: "ВМоари"
+ ASARI_CHR_Kysava: "Кисава"
+ ASARI_CHR_Sesi: "Сеси"
+ ASARI_CHR_Pesalis: "Песалис"
+ ASARI_CHR_Beyma: "Бейма"
+ ASARI_CHR_Ievo: "Иево"
+ ASARI_CHR_Leius: "Лейус"
+ ASARI_CHR_DKyve: "ДКиве"
+ ASARI_CHR_TDalis: "Тдалис"
+ ASARI_CHR_TKefi: "ТКефи"
+ ASARI_CHR_Edaburo: "Edaburo"
+ ASARI_CHR_TVeius: "ТВейус"
+ ASARI_CHR_Januci: "Джануци"
+ ASARI_CHR_Murala: "Мурала"
+ ASARI_CHR_Maifi: "Майфи"
+ ASARI_CHR_Thanoni: "Танони"
+ ASARI_CHR_Leyne: "Лейн"
+ ASARI_CHR_Skaro: "Скаро"
+ ASARI_CHR_Corliara: "Корлиара"
+ ASARI_CHR_MJadri: "МДжадри"
+ ASARI_CHR_Atelas: "Ателас"
+ ASARI_CHR_Jannici: "Янничи"
+ ASARI_CHR_Nosava: "Носава"
+ ASARI_CHR_Shiora: "Shiora"
+ ASARI_CHR_VNaari: "ВНаари"
+ ASARI_CHR_MTaus: "МТаус"
+ ASARI_CHR_TDoburo: "TDoburo"
+ ASARI_CHR_TZejin: "ТЗеджин"
+ ASARI_CHR_TSaqua: "ТСакуа"
+ ASARI_CHR_TZeala: "TZeala"
+ ASARI_CHR_Hetis: "Хетис"
+ ASARI_CHR_Conijin: "Кониджин"
+ ASARI_CHR_Sederos: "Седерос"
+ ASARI_CHR_Conius: "Кониус"
+ ASARI_CHR_MJaala: "Мьяала"
+ ASARI_CHR_DLanus: "ДЛанус"
+ ASARI_CHR_Murix: "Мурикс"
+ ASARI_CHR_Thaius: "Тайус"
+ ASARI_CHR_Sarev: "Сарев"
+ ASARI_CHR_MTato: "Мтато"
+ ASARI_CHR_Besir: "Бесир"
+ ASARI_CHR_Vaana: "Ваана"
+ ASARI_CHR_Mereva: "Мерева"
+ ASARI_CHR_MLoyma: "МЛойма"
+ ASARI_CHR_Minus: "Минус"
+ ASARI_CHR_MJarev: "МЯрев"
+ ASARI_CHR_Corlisus: "Корлис"
+ ASARI_CHR_Pesaeri: "Пезаэри"
+ ASARI_CHR_Caliara: "Калиара"
+ ASARI_CHR_Heliis: "Хелиис"
+ ASARI_CHR_DCorina: "Корина"
+ ASARI_CHR_Corlisir: "Корлисир"
+ ASARI_CHR_DKyala: "ДКьяла"
+ ASARI_CHR_TLorus: "ТЛорус"
+ ASARI_CHR_TScafi: "TScafi"
+ ASARI_CHR_MKyarus: "МКярус"
+ ASARI_CHR_Mainus: "Майнус"
+ ASARI_CHR_DAala: "ДАала"
+ ASARI_CHR_Caliala: "Калиала"
+ ASARI_CHR_Myrazea: "Миразия"
+ ASARI_CHR_Caleci: "Калечи"
+ ASARI_CHR_Ateava: "Атеава"
+ ASARI_CHR_Lius: "Люс"
+ ASARI_CHR_DLinaros: "Линарос"
+ ASARI_CHR_TVeza: "ТВеза"
+ ASARI_CHR_TSari: "Цари"
+ ASARI_CHR_TDoza: "ТДоза"
+ ASARI_CHR_TSose: "TSose"
+ ASARI_CHR_MDotis: "МДотис"
+ ASARI_CHR_TRaozea: "ТРаозея"
+ ASARI_CHR_TKeli: "ТКели"
+ ASARI_CHR_Arteli: "Артели"
+ ASARI_CHR_Vate: "Вейт"
+ ASARI_CHR_Iessaus: "Исаус"
+ ASARI_CHR_DVedo: "ДВедо"
+ ASARI_CHR_DLaeri: "ДЛаери"
+ ASARI_CHR_TScasan: "ТСкасан"
+ ASARI_CHR_DLinaqua: "DLinaqua"
+ ASARI_CHR_TNaora: "ТНаора"
+ ASARI_CHR_TEssan: "Тэссан"
+ ASARI_CHR_Vanis: "Ванис"
+ ASARI_CHR_DAsi: "ДАси"
+ ASARI_CHR_Liro: "Лиро"
+ ASARI_CHR_Tloci: "Тлочи"
+ ASARI_CHR_DAlas: "Далас"
+ ASARI_CHR_TDove: "TDove"
+ ASARI_CHR_TDosava: "ТДосава"
+ ASARI_CHR_Artesir: "Артезир"
+ ASARI_CHR_TNeli: "Т.Нели"
+ ASARI_CHR_MLodri: "МЛодри"
+ ASARI_CHR_Losir: "Лосир"
+ ASARI_CHR_Sesava: "Сесава"
+ ASARI_CHR_Sara: "Сара"
+ ASARI_CHR_Difi: "Дифи"
+ ASARI_CHR_TSova: "Цова"
+ ASARI_CHR_TReve: "ТРив"
+ ASARI_CHR_Louros: "Лурос"
+ ASARI_CHR_Damali: "Дамали"
+ ASARI_CHR_Theris: "Терис"
+ ASARI_CHR_Calis: "Калис"
+ ASARI_CHR_Thanoptis: "Таноптис"
+ ASARI_CHR_TGoni: "ТГони"
+ ASARI_CHR_Nuwani: "Нувани"
+ ASARI_CHR_Sederis: "Седерис"
+ ASARI_CHR_Iallis: "Яллис"
+ ASARI_CHR_VCriria: "VCriria"
+ ASARI_CHR_TErtis: "Тертис"
+ ASARI_CHR_TRasi: "ТРАси"
+ ASARI_CHR_DBieara: "ДБиара"
+ ASARI_CHR_Shila: "Шила"
+ ASARI_CHR_Henon: "Энон"
+ ASARI_CHR_Aridana: "Aridana"
+ ASARI_CHR_TPerro: "ТПерро"
+ ASARI_CHR_Sanassi: "Санасси"
